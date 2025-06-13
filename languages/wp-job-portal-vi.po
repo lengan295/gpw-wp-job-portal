@@ -1,578 +1,578 @@
 msgid "Delete"
-msgstr ""
+msgstr "Xóa"
 
 msgid "dashboard"
-msgstr ""
+msgstr "bảng điều khiển"
 
 msgid "Dashboard"
-msgstr ""
+msgstr "Bảng Điều Khiển"
 
 msgid "Load Address Data"
-msgstr ""
+msgstr "Tải Dữ Liệu Địa Chỉ"
 
 msgid "configuration"
-msgstr ""
+msgstr "cấu hình"
 
 msgid "Version"
-msgstr ""
+msgstr "Phiên bản"
 
 msgid "Download"
-msgstr ""
+msgstr "Tải xuống"
 
 msgid "Action"
-msgstr ""
+msgstr "Hành động"
 
 msgid "States"
-msgstr ""
+msgstr "Bang"
 
 msgid "Cities"
-msgstr ""
+msgstr "Thành phố"
 
 msgid "Latitude"
-msgstr ""
+msgstr "Vĩ độ"
 
 msgid "Longitude"
-msgstr ""
+msgstr "Kinh độ"
 
 msgid "Map"
-msgstr ""
+msgstr "Bản đồ"
 
 msgid "Select One"
-msgstr ""
+msgstr "Chọn một"
 
 msgid "Meters"
-msgstr ""
+msgstr "Mét"
 
 msgid "Kilometers"
-msgstr ""
+msgstr "Kilomet"
 
 msgid "Miles"
-msgstr ""
+msgstr "Dặm"
 
 msgid "Nautical Miles"
-msgstr ""
+msgstr "Hải lý"
 
 msgid "Select"
-msgstr ""
+msgstr "Chọn"
 
 msgid "Address"
-msgstr ""
+msgstr "Địa chỉ"
 
 msgid "Add New"
-msgstr ""
+msgstr "Thêm mới"
 
 msgid "Employer"
-msgstr ""
+msgstr "Nhà tuyển dụng"
 
 msgid "Languages"
-msgstr ""
+msgstr "Ngôn ngữ"
 
 msgid "Language"
-msgstr ""
+msgstr "Ngôn ngữ"
 
 msgid "Institute"
-msgstr ""
+msgstr "Tổ chức"
 
 msgid "Copy"
-msgstr ""
+msgstr "Sao chép"
 
 msgid "Select Package"
-msgstr ""
+msgstr "Chọn gói"
 
 msgid "Please select a package first"
-msgstr ""
+msgstr "Vui lòng chọn một gói trước"
 
 msgid "Job"
-msgstr ""
+msgstr "Công việc"
 
 msgid "Unlimited"
-msgstr ""
+msgstr "Không giới hạn"
 
 msgid "Remaining"
-msgstr ""
+msgstr "Còn lại"
 
 msgid "copy job"
-msgstr ""
+msgstr "sao chép công việc"
 
 msgid "Copy Job"
-msgstr ""
+msgstr "Sao Chép Công Việc"
 
 msgid "User"
-msgstr ""
+msgstr "Người dùng"
 
 msgid "Description"
-msgstr ""
+msgstr "Mô tả"
 
 msgid "Payment Method"
-msgstr ""
+msgstr "Phương thức thanh toán"
 
 msgid "Very Poor"
-msgstr ""
+msgstr "Rất kém"
 
 msgid "Poor"
-msgstr ""
+msgstr "Kém"
 
 msgid "Regular"
-msgstr ""
+msgstr "Bình thường"
 
 msgid "Good"
-msgstr ""
+msgstr "Tốt"
 
 msgid "Very Good"
-msgstr ""
+msgstr "Rất tốt"
 
 msgid "Pending"
-msgstr ""
+msgstr "Đang chờ xử lý"
 
 msgid "Approved"
-msgstr ""
+msgstr "Đã phê duyệt"
 
 msgid "Rejected"
-msgstr ""
+msgstr "Bị từ chối"
 
 msgid "Posted"
-msgstr ""
+msgstr "Đã đăng"
 
 msgid "Yes"
-msgstr ""
+msgstr "Có"
 
 msgid "No"
-msgstr ""
+msgstr "Không"
 
 msgid "Created"
-msgstr ""
+msgstr "Đã tạo"
 
 msgid "Free"
-msgstr ""
+msgstr "Miễn phí"
 
 msgid "Package"
-msgstr ""
+msgstr "Gói"
 
 msgid "Invoices"
-msgstr ""
+msgstr "Hóa đơn"
 
 msgid "Are you sure to delete"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn xóa không"
 
 msgid "User Name"
-msgstr ""
+msgstr "Tên người dùng"
 
 msgid "Select Status"
-msgstr ""
+msgstr "Chọn trạng thái"
 
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 msgid "Reset"
-msgstr ""
+msgstr "Đặt lại"
 
 msgid "Published"
-msgstr ""
+msgstr "Đã xuất bản"
 
 msgid "No record found"
-msgstr ""
+msgstr "Không tìm thấy bản ghi nào"
 
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgid "My Invoices"
-msgstr ""
+msgstr "Hóa đơn của tôi"
 
 msgid "View All"
-msgstr ""
+msgstr "Xem tất cả"
 
 msgid "Featured"
-msgstr ""
+msgstr "Nổi bật"
 
 msgid "Credits"
-msgstr ""
+msgstr "Tín dụng"
 
 msgid "Title"
-msgstr ""
+msgstr "Tiêu đề"
 
 msgid "Status"
-msgstr ""
+msgstr "Trạng thái"
 
 msgid "Company"
-msgstr ""
+msgstr "Công ty"
 
 msgid "Job seeker"
-msgstr ""
+msgstr "Người tìm việc"
 
 msgid "Edit"
-msgstr ""
+msgstr "Chỉnh sửa"
 
 msgid "Resume"
-msgstr ""
+msgstr "Hồ sơ"
 
 msgid "Job Seeker"
-msgstr ""
+msgstr "Người tìm việc"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 msgid "Save"
-msgstr ""
+msgstr "Lưu"
 
 msgid "Day"
-msgstr ""
+msgstr "Ngày"
 
 msgid "Days"
-msgstr ""
+msgstr "Ngày"
 
 msgid "Approve"
-msgstr ""
+msgstr "Phê duyệt"
 
 msgid "Reject"
-msgstr ""
+msgstr "Từ chối"
 
 msgid "Message"
-msgstr ""
+msgstr "Tin nhắn"
 
 msgid "Subject"
-msgstr ""
+msgstr "Chủ đề"
 
 msgid "message"
-msgstr ""
+msgstr "tin nhắn"
 
 msgid "Send Message"
-msgstr ""
+msgstr "Gửi tin nhắn"
 
 msgid "Expire in"
-msgstr ""
+msgstr "Hết hạn sau"
 
 msgid "Job Messages"
-msgstr ""
+msgstr "Tin nhắn công việc"
 
 msgid "Messages"
-msgstr ""
+msgstr "Tin nhắn"
 
 msgid "Job Title"
-msgstr ""
+msgstr "Tiêu đề công việc"
 
 msgid "Resume Title"
-msgstr ""
+msgstr "Tiêu đề hồ sơ"
 
 msgid "Employer Name"
-msgstr ""
+msgstr "Tên nhà tuyển dụng"
 
 msgid "This will delete every thing about this record"
-msgstr ""
+msgstr "Điều này sẽ xóa mọi thông tin về bản ghi này"
 
 msgid "Force Delete"
-msgstr ""
+msgstr "Xóa bắt buộc"
 
 msgid "Company Name"
-msgstr ""
+msgstr "Tên công ty"
 
 msgid "Select All"
-msgstr ""
+msgstr "Chọn tất cả"
 
 msgid "Purchase Package"
-msgstr ""
+msgstr "Mua gói"
 
 msgid "Years"
-msgstr ""
+msgstr "Năm"
 
 msgid "Currency"
-msgstr ""
+msgstr "Tiền tệ"
 
 msgid "Job Expiry"
-msgstr ""
+msgstr "Hạn công việc"
 
 msgid "Resume Section"
-msgstr ""
+msgstr "Phần hồ sơ"
 
 msgid "cancel"
-msgstr ""
+msgstr "hủy bỏ"
 
 msgid "Package Detail"
-msgstr ""
+msgstr "Chi tiết gói"
 
 msgid "Departments"
-msgstr ""
+msgstr "Phòng ban"
 
 msgid "Resume Search"
-msgstr ""
+msgstr "Tìm kiếm hồ sơ"
 
 msgid "Job Alert"
-msgstr ""
+msgstr "Cảnh báo công việc"
 
 msgid "Job Apply"
-msgstr ""
+msgstr "Ứng tuyển công việc"
 
 msgid "User name"
-msgstr ""
+msgstr "Tên người dùng"
 
 msgid "Password"
-msgstr ""
+msgstr "Mật khẩu"
 
 msgid "Subscription"
-msgstr ""
+msgstr "Đăng ký"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Đã bật"
 
 msgid "Configuration"
-msgstr ""
+msgstr "Cấu hình"
 
 msgid "You can view Resume Contact Detail Now"
-msgstr ""
+msgstr "Bạn có thể xem chi tiết liên hệ hồ sơ ngay bây giờ"
 
 msgid "Login"
-msgstr ""
+msgstr "Đăng nhập"
 
 msgid "Username"
-msgstr ""
+msgstr "Tên đăng nhập"
 
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 msgid "Email Address"
-msgstr ""
+msgstr "Địa chỉ email"
 
 msgid "Select User"
-msgstr ""
+msgstr "Chọn người dùng"
 
 msgid "Default"
-msgstr ""
+msgstr "Mặc định"
 
 msgid "add"
-msgstr ""
+msgstr "thêm"
 
 msgid "delete"
-msgstr ""
+msgstr "xóa"
 
 msgid "Date"
-msgstr ""
+msgstr "Ngày"
 
 msgid "published"
-msgstr ""
+msgstr "đã xuất bản"
 
 msgid "not published"
-msgstr ""
+msgstr "chưa xuất bản"
 
 msgid "Type"
-msgstr ""
+msgstr "Loại"
 
 msgid "Department"
-msgstr ""
+msgstr "Phòng ban"
 
 msgid "Proceed To Payment"
-msgstr ""
+msgstr "Tiếp tục thanh toán"
 
 msgid "Remaining Resume"
-msgstr ""
+msgstr "Hồ sơ còn lại"
 
 msgid "Ends On"
-msgstr ""
+msgstr "Kết thúc vào"
 
 msgid "Packages"
-msgstr ""
+msgstr "Các gói"
 
 msgid "packages"
-msgstr ""
+msgstr "các gói"
 
 msgid "My Packages"
-msgstr ""
+msgstr "Gói của tôi"
 
 msgid "My Subscriptions"
-msgstr ""
+msgstr "Đăng ký của tôi"
 
 msgid "Cancel Payment"
-msgstr ""
+msgstr "Hủy thanh toán"
 
 msgid "Show Company Contact"
-msgstr ""
+msgstr "Hiển thị liên hệ công ty"
 
 msgid "add new package"
-msgstr ""
+msgstr "thêm gói mới"
 
 msgid "Add New Package"
-msgstr ""
+msgstr "Thêm Gói Mới"
 
 msgid "make payment"
-msgstr ""
+msgstr "thanh toán"
 
 msgid "You have Already Applied"
-msgstr ""
+msgstr "Bạn đã nộp đơn ứng tuyển"
 
 msgid "Make Payment To Apply"
-msgstr ""
+msgstr "Thanh toán để ứng tuyển"
 
 msgid "Apply On This Job"
-msgstr ""
+msgstr "Ứng tuyển vào công việc này"
 
 msgid "Proceed With Paying"
-msgstr ""
+msgstr "Tiếp tục thanh toán"
 
 msgid "Apply Now"
-msgstr ""
+msgstr "Ứng tuyển ngay"
 
 msgid "Cron Job"
-msgstr ""
+msgstr "Tác vụ định kỳ"
 
 msgid "Website"
-msgstr ""
+msgstr "Trang web"
 
 msgid "cron job"
-msgstr ""
+msgstr "tác vụ định kỳ"
 
 msgid "Select role"
-msgstr ""
+msgstr "Chọn vai trò"
 
 msgid "Buy Package"
-msgstr ""
+msgstr "Mua gói"
 
 msgid "Buy credits"
-msgstr ""
+msgstr "Mua tín dụng"
 
 msgid "Departments Approval Queue"
-msgstr ""
+msgstr "Hàng chờ phê duyệt phòng ban"
 
 msgid "Pending Payment"
-msgstr ""
+msgstr "Chờ thanh toán"
 
 msgid "Add New Department"
-msgstr ""
+msgstr "Thêm phòng ban mới"
 
 msgid "Ago"
-msgstr ""
+msgstr "Trước"
 
 msgid "edit"
-msgstr ""
+msgstr "chỉnh sửa"
 
 msgid "approve"
-msgstr ""
+msgstr "phê duyệt"
 
 msgid "reject"
-msgstr ""
+msgstr "từ chối"
 
 msgid "View Department"
-msgstr ""
+msgstr "Xem phòng ban"
 
 msgid "Pending Due To Payment"
-msgstr ""
+msgstr "Chờ xử lý do thanh toán"
 
 msgid "Change package"
-msgstr ""
+msgstr "Thay đổi gói"
 
 msgid "Change Package"
-msgstr ""
+msgstr "Thay đổi gói"
 
 msgid "My departments"
-msgstr ""
+msgstr "Phòng ban của tôi"
 
 msgid "My Departments"
-msgstr ""
+msgstr "Phòng ban của tôi"
 
 msgid "Add Department"
-msgstr ""
+msgstr "Thêm phòng ban"
 
 msgid "Male"
-msgstr ""
+msgstr "Nam"
 
 msgid "Female"
-msgstr ""
+msgstr "Nữ"
 
 msgid "Does not matter"
-msgstr ""
+msgstr "Không quan trọng"
 
 msgid "City"
-msgstr ""
+msgstr "Thành phố"
 
 msgid "export"
-msgstr ""
+msgstr "xuất"
 
 msgid "Export"
-msgstr ""
+msgstr "Xuất"
 
 msgid "Waiting for approval"
-msgstr ""
+msgstr "Chờ phê duyệt"
 
 msgid "Expiry Date"
-msgstr ""
+msgstr "Ngày hết hạn"
 
 msgid "remove featured"
-msgstr ""
+msgstr "bỏ nổi bật"
 
 msgid "Remove Featured"
-msgstr ""
+msgstr "Bỏ nổi bật"
 
 msgid "Failed while performing this action"
-msgstr ""
+msgstr "Thao tác thất bại"
 
 msgid "Search All"
-msgstr ""
+msgstr "Tìm kiếm tất cả"
 
 msgid "Applied resume"
-msgstr ""
+msgstr "Hồ sơ đã ứng tuyển"
 
 msgid "Category"
-msgstr ""
+msgstr "Danh mục"
 
 msgid "Job Type"
-msgstr ""
+msgstr "Loại công việc"
 
 msgid "Location"
-msgstr ""
+msgstr "Địa điểm"
 
 msgid "View Resume"
-msgstr ""
+msgstr "Xem hồ sơ"
 
 msgid "Folder"
-msgstr ""
+msgstr "Thư mục"
 
 msgid "Add"
-msgstr ""
+msgstr "Thêm"
 
 msgid "Folders"
-msgstr ""
+msgstr "Các thư mục"
 
 msgid "Folder Resume"
-msgstr ""
+msgstr "Hồ sơ trong thư mục"
 
 msgid "Applied Resume"
-msgstr ""
+msgstr "Hồ sơ đã ứng tuyển"
 
 msgid "view"
-msgstr ""
+msgstr "xem"
 
 msgid "logo"
-msgstr ""
+msgstr "logo"
 
 msgid "Salary Range"
-msgstr ""
+msgstr "Khoảng lương"
 
 msgid "Folders Queue"
-msgstr ""
+msgstr "Hàng chờ thư mục"
 
 msgid "Add New Folder"
-msgstr ""
+msgstr "Thêm thư mục mới"
 
 msgid "The page you are looking for no longer exists"
-msgstr ""
+msgstr "Trang bạn tìm kiếm không còn tồn tại"
 
 msgid "publish"
-msgstr ""
+msgstr "xuất bản"
 
 msgid "unpublish"
-msgstr ""
+msgstr "hủy xuất bản"
 
 msgid "View"
-msgstr ""
+msgstr "Xem"
 
 msgid "add new folder"
-msgstr ""
+msgstr "thêm thư mục mới"
 
 msgid "approval queue"
-msgstr ""
+msgstr "hàng chờ phê duyệt"
 
 msgid "Approval Queue"
-msgstr ""
+msgstr "Hàng chờ phê duyệt"
 
 msgid "My Folders"
-msgstr ""
+msgstr "Thư mục của tôi"
 
 msgid "Invalid captcha"
 msgstr ""
