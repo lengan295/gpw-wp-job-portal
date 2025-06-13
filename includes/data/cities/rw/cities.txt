@@ -1,0 +1,12 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Kimihurura", "Kimihurura", "Kimihurura", NULL, 180, 0, 1, NULL, "-1.95716445", "30.091887539094"),
+("Rusizi", "Rusizi", "Rusizi", NULL, 180, 0, 1, NULL, "-2.4887775", "28.8958127"),
+("Rubavu", "Rubavu", "Rubavu", NULL, 180, 0, 1, NULL, "-1.693545", "29.259855"),
+("Huye", "Huye", "Huye", NULL, 180, 0, 1, NULL, "-2.6053426", "29.7401547"),
+("Nyanza", "Nyanza", "Nyanza", NULL, 180, 0, 1, NULL, "-2.3524553", "29.7504906"),
+("Muhanga", "Muhanga", "Muhanga", NULL, 180, 0, 1, NULL, "-2.0845197", "29.7526948"),
+("Kigali", "Kigali", "Kigali", NULL, 180, 0, 1, NULL, "-1.950851", "30.061507"),
+("Musanze", "Musanze", "Musanze", NULL, 180, 0, 1, NULL, "-1.50405", "29.63631"),
+("Rwamagana", "Rwamagana", "Rwamagana", NULL, 180, 0, 1, NULL, "-1.951239", "30.434885"),
+("Gicumbi", "Gicumbi", "Gicumbi", NULL, 180, 0, 1, NULL, "-1.5762042", "30.0690008");

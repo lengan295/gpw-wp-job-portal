@@ -1,0 +1,4 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("སྤ་རོ", "སྤ་རོ", "Paro", NULL, 100, 0, 1, NULL, "27.4307674", "89.412987"),
+("ཐིམ་ཕུ", "ཐིམ་ཕུ", "Thimphu", NULL, 100, 0, 1, NULL, "27.4713546", "89.6336729");

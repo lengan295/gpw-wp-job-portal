@@ -1,0 +1,17 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Nicoya", "Nicoya", "Nicoya", NULL, 9, 0, 1, NULL, "10.1488271", "-85.4532657"),
+("Puntarenas", "Puntarenas", "Puntarenas", NULL, 9, 0, 1, NULL, "9.9773343", "-84.8346402"),
+("San Ramón", "San Ramón", "San Ramón", NULL, 9, 0, 1, NULL, "10.0884731", "-84.4708726"),
+("Quesada", "Quesada", "Quesada", NULL, 9, 0, 1, NULL, "10.3267699", "-84.4310645"),
+("Liberia", "Liberia", "Liberia", NULL, 9, 0, 1, NULL, "10.6333401", "-85.4362722"),
+("San Isidro de El General", "San Isidro de El General", "San Isidro de El General", NULL, 9, 0, 1, NULL, "9.3706169", "-83.7046444"),
+("Neily", "Neily", "Neily", NULL, 9, 0, 1, NULL, "8.6490338", "-82.9438969"),
+("Alajuela", "Alajuela", "Alajuela", NULL, 9, 0, 1, NULL, "10.0165183", "-84.2138789"),
+("Heredia", "Heredia", "Heredia", NULL, 9, 0, 1, NULL, "9.9983493", "-84.1167945"),
+("San José", "San José", "San José", NULL, 9, 0, 1, NULL, "9.9325427", "-84.0795782"),
+("Guadalupe", "Guadalupe", "Guadalupe", NULL, 9, 0, 1, NULL, "9.9465312", "-84.0535081"),
+("Cartago", "Cartago", "Cartago", NULL, 9, 0, 1, NULL, "9.8642435", "-83.9204377"),
+("Turrialba", "Turrialba", "Turrialba", NULL, 9, 0, 1, NULL, "9.9068828", "-83.6820361"),
+("Guápiles", "Guápiles", "Guápiles", NULL, 9, 0, 1, NULL, "10.2154361", "-83.7913634"),
+("Limón", "Limón", "Limón", NULL, 9, 0, 1, NULL, "9.9935604", "-83.0303139");

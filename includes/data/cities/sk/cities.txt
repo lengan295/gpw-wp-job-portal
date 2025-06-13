@@ -1,0 +1,10 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Bratislava", "Bratislava", "Bratislava", NULL, 88, 0, 1, NULL, "48.15926025", "17.139658691422"),
+("Trnava", "Trnava", "Trnava", NULL, 88, 0, 1, NULL, "48.37421795", "17.580927795549"),
+("Nitra", "Nitra", "Nitra", NULL, 88, 0, 1, NULL, "48.31295", "18.0894593"),
+("Trenčín", "Trenčín", "Trenčín", NULL, 88, 0, 1, NULL, "48.8922719", "18.0387465"),
+("Banská Bystrica", "Banská Bystrica", "Banská Bystrica", NULL, 88, 0, 1, NULL, "48.7383895", "19.1585805"),
+("Žilina", "Žilina", "Žilina", NULL, 88, 0, 1, NULL, "49.2234674", "18.7393139"),
+("Košice", "Košice", "Košice", NULL, 88, 0, 1, NULL, "48.7172272", "21.2496774"),
+("Prešov", "Prešov", "Prešov", NULL, 88, 0, 1, NULL, "49.0000074", "21.2392122");

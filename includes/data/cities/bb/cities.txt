@@ -1,0 +1,3 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Bridgetown", "Bridgetown", "Bridgetown", NULL, 4, 0, 1, NULL, "13.0927581", "-59.610867172214");

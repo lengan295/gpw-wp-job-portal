@@ -1,0 +1,4 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Jurong East", "Jurong East", "Jurong East", NULL, 130, 0, 1, NULL, "1.32427375", "103.73704951375"),
+("Singapore", "Singapore", "Singapore", NULL, 130, 0, 1, NULL, "1.2899175", "103.8519072");

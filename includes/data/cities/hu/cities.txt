@@ -1,0 +1,21 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Budapest", "Budapest", "Budapest", NULL, 64, 0, 1, NULL, "47.48138955", "19.146094126912"),
+("Zalaegerszeg", "Zalaegerszeg", "Zalaegerszeg", NULL, 64, 0, 1, NULL, "46.8415803", "16.8456316"),
+("Szombathely", "Szombathely", "Szombathely", NULL, 64, 0, 1, NULL, "47.2291184", "16.6187625"),
+("Kaposvár", "Kaposvár", "Kaposvár", NULL, 64, 0, 1, NULL, "46.3564692", "17.7886886"),
+("Pécs", "Pécs", "Pécs", NULL, 64, 0, 1, NULL, "46.0765092", "18.2280317"),
+("Szekszárd", "Szekszárd", "Szekszárd", NULL, 64, 0, 1, NULL, "46.3484884", "18.701663"),
+("Veszprém", "Veszprém", "Veszprém", NULL, 64, 0, 1, NULL, "47.0933824", "17.9080406"),
+("Győr", "Győr", "Gyor", NULL, 64, 0, 1, NULL, "47.687609", "17.6346815"),
+("Székesfehérvár", "Székesfehérvár", "Székesfehérvár", NULL, 64, 0, 1, NULL, "47.1910169", "18.410811"),
+("Tatabánya", "Tatabánya", "Tatabánya", NULL, 64, 0, 1, NULL, "47.5837788", "18.3980308"),
+("Szeged", "Szeged", "Szeged", NULL, 64, 0, 1, NULL, "46.2546312", "20.1486016"),
+("Kecskemét", "Kecskemét", "Kecskemét", NULL, 64, 0, 1, NULL, "46.9080791", "19.6928069"),
+("Szolnok", "Szolnok", "Szolnok", NULL, 64, 0, 1, NULL, "47.1753833", "20.1946279"),
+("Békéscsaba", "Békéscsaba", "Békéscsaba", NULL, 64, 0, 1, NULL, "46.6798003", "21.0985425"),
+("Debrecen", "Debrecen", "Debrecen", NULL, 64, 0, 1, NULL, "47.531399", "21.6259782"),
+("Salgótarján", "Salgótarján", "Salgótarján", NULL, 64, 0, 1, NULL, "48.0960676", "19.8005642"),
+("Eger", "Eger", "Eger", NULL, 64, 0, 1, NULL, "47.8989887", "20.3743665"),
+("Miskolc", "Miskolc", "Miskolc", NULL, 64, 0, 1, NULL, "48.1030643", "20.7900429"),
+("Nyíregyháza", "Nyíregyháza", "Nyíregyháza", NULL, 64, 0, 1, NULL, "47.9557802", "21.7167982");

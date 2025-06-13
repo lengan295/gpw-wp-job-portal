@@ -1,0 +1,5 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Moroni موروني", "Moroni موروني", "Moroni", NULL, 213, 0, 1, NULL, "-11.6931255", "43.2543044"),
+("فومبوني Fomboni", "فومبوني Fomboni", "Fomboni", NULL, 213, 0, 1, NULL, "-12.284054", "43.742727"),
+("Mutsamudu موتسامودو", "Mutsamudu موتسامودو", "Mutsamudu", NULL, 213, 0, 1, NULL, "-12.168846", "44.3942831");

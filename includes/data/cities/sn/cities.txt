@@ -1,0 +1,19 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Dakar", "Dakar", "Dakar", NULL, 182, 0, 1, NULL, "14.693425", "-17.447938"),
+("Diourbel", "Diourbel", "Diourbel", NULL, 182, 0, 1, NULL, "14.654562", "-16.227822"),
+("Touba", "Touba", "Touba", NULL, 182, 0, 1, NULL, "14.864559", "-15.876047"),
+("M'bour", "M'bour", "M'bour", NULL, 182, 0, 1, NULL, "14.411794", "-16.9657124"),
+("Pikine", "Pikine", "Pikine", NULL, 182, 0, 1, NULL, "14.751544", "-17.396413"),
+("Rufisque", "Rufisque", "Rufisque", NULL, 182, 0, 1, NULL, "14.716417", "-17.273844"),
+("Guédiawaye", "Guédiawaye", "Guédiawaye", NULL, 182, 0, 1, NULL, "14.7771207", "-17.390071"),
+("Thiès", "Thiès", "Thiès", NULL, 182, 0, 1, NULL, "14.791461", "-16.925605"),
+("Ziguinchor", "Ziguinchor", "Ziguinchor", NULL, 182, 0, 1, NULL, "12.5634929", "-16.2724609"),
+("Kolda", "Kolda", "Kolda", NULL, 182, 0, 1, NULL, "12.8921154", "-14.9400971"),
+("Médina Gounass", "Médina Gounass", "Médina Gounass", NULL, 182, 0, 1, NULL, "13.1388856", "-13.7601374"),
+("Tambacounda", "Tambacounda", "Tambacounda", NULL, 182, 0, 1, NULL, "13.7692585", "-13.6682901"),
+("Fatick", "Fatick", "Fatick", NULL, 182, 0, 1, NULL, "14.333965", "-16.404219"),
+("Kaolack", "Kaolack", "Kaolack", NULL, 182, 0, 1, NULL, "14.138815", "-16.076391"),
+("Kaffrine", "Kaffrine", "Kaffrine", NULL, 182, 0, 1, NULL, "14.10197", "-15.548433"),
+("Louga", "Louga", "Louga", NULL, 182, 0, 1, NULL, "15.6118551", "-16.2233275"),
+("Saint-Louis", "Saint-Louis", "Saint-Louis", NULL, 182, 0, 1, NULL, "16.0280445", "-16.5048686");

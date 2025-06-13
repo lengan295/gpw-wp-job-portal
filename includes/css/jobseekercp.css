@@ -1,0 +1,43 @@
+/******************************
+	WP Job Portal JobSeeker CSS
+*******************************/
+div#wjportal-job-cp-wrp {float: left;width: 100%;margin: 0 0 40px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-sec-title {font-size: 18px;padding: 20px;font-weight: bold;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left {float: left;width: 30%;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-user {padding: 30px 20px;text-align: center;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-user div.wjportal-user-logo {height: 170px;width: 170px;margin: 0 auto 20px;position: relative;overflow: hidden;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-user div.wjportal-user-logo img.wjportal-user-logo-image {position: absolute;top: 0;left: 0;right: 0;bottom: 0;z-index: 0;max-width: 100%;max-height: 100%;margin: auto;display: inline-block;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-user div.wjportal-user-name {font-size: 18px;font-weight: bold;padding-bottom: 5px;text-transform: capitalize;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-user div.wjportal-user-tagline {display: inline-block;font-size: 14px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-user div.wjportal-cp-user-action {margin-top: 20px;padding-top: 15px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-user div.wjportal-cp-user-action a.wjportal-cp-user-act-btn {padding: 10px 15px;display: block;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-user div.wjportal-cp-user-action span.wjportal-cp-user-act-btn {font-size: 15px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-short-links-wrp {float: left;width: 100%;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-short-links-wrp div.wjportal-cp-short-links-list {float: left;width: 100%;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-short-links-wrp div.wjportal-cp-short-links-list div.wjportal-cp-list {font-size: 14px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-short-links-wrp div.wjportal-cp-short-links-list div.wjportal-cp-list a.wjportal-list-anchor {display: block;padding: 20px;text-decoration: none;}
+div#wjportal-job-cp-wrp div.wjportal-cp-left div.wjportal-cp-short-links-wrp div.wjportal-cp-short-links-list div.wjportal-cp-list span.wjportal-cp-link-text {margin-left: 10px;display: inline-block;vertical-align: middle;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right {float: left;width: 70%;padding-left: 20px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes {float: left;width: 100%;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes div.wjportal-cp-box {float: left;width: calc(100% / 3 - 10px);margin: 0 10px 25px 0;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes div.wjportal-cp-box div.wjportal-cp-box-top {padding: 10px 15px;position: relative;text-align: right;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes div.wjportal-cp-box div.wjportal-cp-box-top i {float: left;margin-top: 5px;font-size: 40px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes div.wjportal-cp-box div.wjportal-cp-box-top img {float: left;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes div.wjportal-cp-box div.wjportal-cp-box-top div.wjportal-cp-box-num {padding-left: 55px;font-weight: bold;font-size: 26px;line-height: initial;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes div.wjportal-cp-box div.wjportal-cp-box-top div.wjportal-cp-box-tit {padding-left: 55px;font-size: 14px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes div.wjportal-cp-box div.wjportal-cp-box-btm {padding: 10px 15px 7px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes div.wjportal-cp-box div.wjportal-cp-box-btm a {float: left;width: 100%;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes div.wjportal-cp-box div.wjportal-cp-box-btm span.wjportal-cp-box-text {float: left;font-size: 14px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes div.wjportal-cp-box div.wjportal-cp-box-btm i {float: right;line-height: inherit;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-sect-wrp {float: left;width: 100%;margin-bottom: 30px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-sect-wrp:last-child {margin-bottom: 0px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-sect-wrp div.wjportal-cp-cnt {float: left;width: 100%;overflow-y: scroll;max-height: 550px;padding: 15px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-view-btn-wrp {float: left;width: 100%;padding: 15px 20px;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-view-btn-wrp a.wjportal-cp-view-btn {display: inline-block;padding: 9px 18px;font-size: 14px;}
+
+
+
+
+
+
+

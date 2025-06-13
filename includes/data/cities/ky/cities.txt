@@ -1,0 +1,4 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Propose Queens Jubilee City Limit (Study Area)", "Propose Queens Jubilee City Limit (Study Area)", "Propose Queens Jubilee City Limit (Study Area)", NULL, 8, 0, 1, NULL, "19.29730085", "-81.377360126007"),
+("George Town", "George Town", "George Town", NULL, 8, 0, 1, NULL, "19.2953549", "-81.3807776");

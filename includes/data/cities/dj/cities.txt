@@ -1,0 +1,3 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Djibouti جيبوتي", "Djibouti جيبوتي", "Djibouti", NULL, 154, 0, 1, NULL, "11.5936903", "43.1472724");

@@ -1,0 +1,5 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("الريان", "الريان", "Al Rayyan", NULL, 128, 0, 1, NULL, "25.296619", "51.434626"),
+("الدوحة", "الدوحة", "Doha", NULL, 128, 0, 1, NULL, "25.2856329", "51.5264162"),
+("لوسيل", "لوسيل", "Lusail", NULL, 128, 0, 1, NULL, "25.4228888", "51.5197163");

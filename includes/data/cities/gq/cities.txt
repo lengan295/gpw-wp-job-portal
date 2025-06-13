@@ -1,0 +1,11 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("San Antonio de Palé", "San Antonio de Palé", "San Antonio de Palé", NULL, 156, 0, 1, NULL, "-1.4046406", "5.63255"),
+("Mbini", "Mbini", "Mbini", NULL, 156, 0, 1, NULL, "1.58369", "9.616028"),
+("Bata", "Bata", "Bata", NULL, 156, 0, 1, NULL, "1.8650897", "9.768665"),
+("Evinayong", "Evinayong", "Evinayong", NULL, 156, 0, 1, NULL, "1.4388356", "10.5516564"),
+("Ciudad de la Paz", "Ciudad de la Paz", "Ciudad de la Paz", NULL, 156, 0, 1, NULL, "1.5994535", "10.8268276"),
+("Luba", "Luba", "Luba", NULL, 156, 0, 1, NULL, "3.459841", "8.5544476"),
+("Malabo", "Malabo", "Malabo", NULL, 156, 0, 1, NULL, "3.752831", "8.7800693"),
+("Mongomo", "Mongomo", "Mongomo", NULL, 156, 0, 1, NULL, "1.6280086", "11.3119321"),
+("Ebebiyín", "Ebebiyín", "Ebebiyín", NULL, 156, 0, 1, NULL, "2.1537363", "11.3370815");

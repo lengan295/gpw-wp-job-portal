@@ -1,0 +1,4 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Ir-Rabat", "Ir-Rabat", "Victoria", NULL, 76, 0, 1, NULL, "36.0428907", "14.2398479"),
+("Valletta", "Valletta", "Valletta", NULL, 76, 0, 1, NULL, "35.8989818", "14.5136759");

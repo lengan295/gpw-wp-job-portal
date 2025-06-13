@@ -1,0 +1,10 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Tolagnaro", "Tolagnaro", "Tolanaro", NULL, 169, 0, 1, NULL, "-25.0290132", "46.9966565"),
+("Toliara", "Toliara", "Toliara", NULL, 169, 0, 1, NULL, "-23.354173", "43.66966"),
+("Fianarantsoa", "Fianarantsoa", "Fianarantsoa", NULL, 169, 0, 1, NULL, "-21.456444", "47.085149"),
+("Antsirabe", "Antsirabe", "Antsirabe", NULL, 169, 0, 1, NULL, "-19.871403", "47.034667"),
+("Antananarivo", "Antananarivo", "Antananarivo", NULL, 169, 0, 1, NULL, "-18.9100122", "47.5255809"),
+("Toamasina", "Toamasina", "Toamasina", NULL, 169, 0, 1, NULL, "-18.1553985", "49.4098352"),
+("Mahajanga", "Mahajanga", "Mahajanga", NULL, 169, 0, 1, NULL, "-15.7181492", "46.3172577"),
+("Antsiranana", "Antsiranana", "Antsiranana", NULL, 169, 0, 1, NULL, "-12.2779134", "49.2913394");

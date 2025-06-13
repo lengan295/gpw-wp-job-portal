@@ -1,0 +1,5 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("ኣስመራ Asmara أسمرة", "ኣስመራ Asmara أسمرة", "Asmara", NULL, 157, 0, 1, NULL, "15.3389667", "38.9326763"),
+("ከረን Keren كرن", "ከረን Keren كرن", "Keren", NULL, 157, 0, 1, NULL, "15.780477", "38.453606"),
+("ዓሰብ Assab عصب", "ዓሰብ Assab عصب", "Assab", NULL, 157, 0, 1, NULL, "13.0091289", "42.7444596");

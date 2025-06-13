@@ -1,0 +1,12 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("臺南市", "臺南市", "Tainan", NULL, 134, 0, 1, NULL, "22.9912348", "120.184982"),
+("高雄市", "高雄市", "Kaohsiung", NULL, 134, 0, 1, NULL, "22.6203348", "120.3120375"),
+("嘉義市", "嘉義市", "Chiayi", NULL, 134, 0, 1, NULL, "23.4811089", "120.4535412"),
+("臺中市", "臺中市", "Taichung", NULL, 134, 0, 1, NULL, "24.163162", "120.6478282"),
+("新竹市", "新竹市", "Hsinchu", NULL, 134, 0, 1, NULL, "24.8066333", "120.9686833"),
+("桃園市", "桃園市", "Taoyuan", NULL, 134, 0, 1, NULL, "24.9929995", "121.3010003"),
+("新北市", "新北市", "New Taipei", NULL, 134, 0, 1, NULL, "25.011997", "121.4656619"),
+("臺北市", "臺北市", "Taipei", NULL, 134, 0, 1, NULL, "25.0375198", "121.5636796"),
+("下罟子", "下罟子", "Xiaguzi", NULL, 134, 0, 1, NULL, "25.140635", "121.387465"),
+("基隆市", "基隆市", "Keelung", NULL, 134, 0, 1, NULL, "25.1317232", "121.744652");

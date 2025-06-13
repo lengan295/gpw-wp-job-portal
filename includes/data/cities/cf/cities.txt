@@ -1,0 +1,23 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Carnot", "Carnot", "Carnot", NULL, 150, 0, 1, NULL, "4.9421173", "15.8690967"),
+("Nola", "Nola", "Nola", NULL, 150, 0, 1, NULL, "3.5224201", "16.0535833"),
+("Berbérati", "Berbérati", "Berbérati", NULL, 150, 0, 1, NULL, "4.2593379", "15.7877826"),
+("Mbaïki", "Mbaïki", "Mbaïki", NULL, 150, 0, 1, NULL, "3.8728278", "17.9860847"),
+("Bimbo", "Bimbo", "Bimbo", NULL, 150, 0, 1, NULL, "4.3325548", "18.5250512"),
+("Bangî - Bangui", "Bangî - Bangui", "Bangui", NULL, 150, 0, 1, NULL, "4.3907153", "18.5509126"),
+("Mobaye", "Mobaye", "Mobaye", NULL, 150, 0, 1, NULL, "4.3254367", "21.1778122"),
+("Dimbi", "Dimbi", "Dimbi", NULL, 150, 0, 1, NULL, "4.6227084", "21.7267984"),
+("Bouar", "Bouar", "Bouar", NULL, 150, 0, 1, NULL, "5.9354018", "15.5921894"),
+("Bozoum", "Bozoum", "Bozoum", NULL, 150, 0, 1, NULL, "6.3147379", "16.3806392"),
+("Bocaranga", "Bocaranga", "Bocaranga", NULL, 150, 0, 1, NULL, "6.995897", "15.638835"),
+("Paoua", "Paoua", "Paoua", NULL, 150, 0, 1, NULL, "7.2407", "16.432496"),
+("Bossangoa", "Bossangoa", "Bossangoa", NULL, 150, 0, 1, NULL, "6.4924441", "17.4463162"),
+("Sibut", "Sibut", "Sibut", NULL, 150, 0, 1, NULL, "5.7350828", "19.0850538"),
+("Kaga-Bandoro", "Kaga-Bandoro", "Kaga-Bandoro", NULL, 150, 0, 1, NULL, "6.9993145", "19.182305"),
+("Bambari", "Bambari", "Bambari", NULL, 150, 0, 1, NULL, "5.7680014", "20.6755705"),
+("Bria", "Bria", "Bria", NULL, 150, 0, 1, NULL, "6.5333319", "21.9903299"),
+("N'Délé", "N'Délé", "N'Délé", NULL, 150, 0, 1, NULL, "8.4111477", "20.648473"),
+("Bangassou", "Bangassou", "Bangassou", NULL, 150, 0, 1, NULL, "4.743526", "22.8232963"),
+("Obo", "Obo", "Obo", NULL, 150, 0, 1, NULL, "5.3940869", "26.4927242"),
+("Birao", "Birao", "Birao", NULL, 150, 0, 1, NULL, "10.2961965", "22.7809907");

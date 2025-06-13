@@ -1,0 +1,20 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Villa Nueva", "Villa Nueva", "Villa Nueva City", NULL, 17, 0, 1, NULL, "14.5308826", "-90.5963325"),
+("Ciudad de Guatemala", "Ciudad de Guatemala", "Guatemala City", NULL, 17, 0, 1, NULL, "14.6222328", "-90.5185188"),
+("Coatepeque", "Coatepeque", "Coatepeque", NULL, 17, 0, 1, NULL, "14.7026327", "-91.8656361"),
+("Retalhuleu", "Retalhuleu", "Retalhuleu", NULL, 17, 0, 1, NULL, "14.5359621", "-91.6780651"),
+("Mazatenango", "Mazatenango", "Mazatenango", NULL, 17, 0, 1, NULL, "14.533149", "-91.5060031"),
+("Quetzaltenango", "Quetzaltenango", "Quetzaltenango", NULL, 17, 0, 1, NULL, "14.8464612", "-91.5194208"),
+("Huehuetenango", "Huehuetenango", "Huehuetenango", NULL, 17, 0, 1, NULL, "15.3184301", "-91.4723295"),
+("Escuintla", "Escuintla", "Escuintla", NULL, 17, 0, 1, NULL, "14.3022857", "-90.7866243"),
+("Chimaltenango", "Chimaltenango", "Chimaltenango", NULL, 17, 0, 1, NULL, "14.6613043", "-90.8193493"),
+("San José Pinula", "San José Pinula", "San José Pinula", NULL, 17, 0, 1, NULL, "14.5458081", "-90.4142844"),
+("Mixco", "Mixco", "Mixco", NULL, 17, 0, 1, NULL, "14.6307175", "-90.6061595"),
+("Santa Cruz del Quiché", "Santa Cruz del Quiché", "Santa Cruz del Quiché", NULL, 17, 0, 1, NULL, "15.0295098", "-91.1496179"),
+("Cobán", "Cobán", "Cobán", NULL, 17, 0, 1, NULL, "15.4702001", "-90.3735065"),
+("Jalapa", "Jalapa", "Jalapa", NULL, 17, 0, 1, NULL, "14.6344164", "-89.9897996"),
+("Chiquimula", "Chiquimula", "Chiquimula", NULL, 17, 0, 1, NULL, "14.8005709", "-89.5459173"),
+("Zacapa", "Zacapa", "Zacapa", NULL, 17, 0, 1, NULL, "14.9707219", "-89.5297411"),
+("Puerto Barrios", "Puerto Barrios", "Puerto Barrios", NULL, 17, 0, 1, NULL, "15.7275154", "-88.5952506"),
+("Flores", "Flores", "Flores", NULL, 17, 0, 1, NULL, "16.9298524", "-89.8914817");

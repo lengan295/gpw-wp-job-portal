@@ -1,0 +1,4 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Praia", "Praia", "Praia", NULL, 149, 0, 1, NULL, "14.9162811", "-23.5095095"),
+("Mindelo", "Mindelo", "Mindelo", NULL, 149, 0, 1, NULL, "16.8874145", "-24.9863842");

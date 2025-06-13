@@ -1,0 +1,12 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Esbjerg", "Esbjerg", "Esbjerg", NULL, 55, 0, 1, NULL, "55.4664892", "8.4520751"),
+("Kolding", "Kolding", "Kolding", NULL, 55, 0, 1, NULL, "55.4894999", "9.47905"),
+("Vejle", "Vejle", "Vejle", NULL, 55, 0, 1, NULL, "55.7000057", "9.5333238"),
+("Odense", "Odense", "Odense", NULL, 55, 0, 1, NULL, "55.3997225", "10.3852104"),
+("Horsens", "Horsens", "Horsens", NULL, 55, 0, 1, NULL, "55.8611696", "9.8444774"),
+("Aarhus", "Aarhus", "Aarhus", NULL, 55, 0, 1, NULL, "56.1496278", "10.2134046"),
+("Roskilde", "Roskilde", "Roskilde", NULL, 55, 0, 1, NULL, "55.6433478", "12.0819247"),
+("København", "København", "Copenhagen", NULL, 55, 0, 1, NULL, "55.6867243", "12.5700724"),
+("Randers", "Randers", "Randers", NULL, 55, 0, 1, NULL, "56.4617545", "10.0371476"),
+("Aalborg", "Aalborg", "Aalborg", NULL, 55, 0, 1, NULL, "57.0462626", "9.9215263");

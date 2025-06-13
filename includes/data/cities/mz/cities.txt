@@ -1,0 +1,23 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Matola", "Matola", "Matola", NULL, 175, 0, 1, NULL, "-25.966917", "32.466956"),
+("Cidade de Maputo", "Cidade de Maputo", "Maputo", NULL, 175, 0, 1, NULL, "-25.966213", "32.56745"),
+("Cidade de Inhambane", "Cidade de Inhambane", "Inhambane", NULL, 175, 0, 1, NULL, "-23.865961", "35.384363"),
+("Xai-Xai", "Xai-Xai", "Xai-Xai", NULL, 175, 0, 1, NULL, "-25.044479", "33.64073"),
+("Praia de Bilene", "Praia de Bilene", "Praia de Bilene", NULL, 175, 0, 1, NULL, "-25.2795872", "33.2458467"),
+("Jangamo", "Jangamo", "Jangamo", NULL, 175, 0, 1, NULL, "-24.1142195", "35.3158414"),
+("Maxixe", "Maxixe", "Maxixe", NULL, 175, 0, 1, NULL, "-23.861561", "35.348934"),
+("Chimoio", "Chimoio", "Chimoio", NULL, 175, 0, 1, NULL, "-19.1437458", "33.4780059"),
+("Manica", "Manica", "Manica", NULL, 175, 0, 1, NULL, "-18.936733", "32.875955"),
+("Tete", "Tete", "Tete", NULL, 175, 0, 1, NULL, "-16.1603989", "33.5871474"),
+("Beira", "Beira", "Beira", NULL, 175, 0, 1, NULL, "-19.828707", "34.841782"),
+("Inchope", "Inchope", "Inchope", NULL, 175, 0, 1, NULL, "-19.2073338", "33.9329339"),
+("Quelimane", "Quelimane", "Quelimane", NULL, 175, 0, 1, NULL, "-17.87751", "36.890216"),
+("Nampula", "Nampula", "Nampula", NULL, 175, 0, 1, NULL, "-15.1194063", "39.2615886"),
+("Lichinga", "Lichinga", "Lichinga", NULL, 175, 0, 1, NULL, "-13.2999118", "35.2458642"),
+("Montepuez", "Montepuez", "Montepuez", NULL, 175, 0, 1, NULL, "-13.1253048", "39.0016963"),
+("Nacala", "Nacala", "Nacala", NULL, 175, 0, 1, NULL, "-14.5583059", "40.6863816"),
+("Chiure-Sede", "Chiure-Sede", "Chiure-Sede", NULL, 175, 0, 1, NULL, "-13.3826809", "39.7884693"),
+("Pemba", "Pemba", "Pemba", NULL, 175, 0, 1, NULL, "-12.9735551", "40.5215098"),
+("Mocímboa da Praia", "Mocímboa da Praia", "Mocímboa da Praia", NULL, 175, 0, 1, NULL, "-11.3438956", "40.3576715"),
+("Palma", "Palma", "Palma", NULL, 175, 0, 1, NULL, "-10.7758093", "40.4673261");

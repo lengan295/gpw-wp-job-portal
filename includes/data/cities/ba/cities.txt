@@ -1,0 +1,13 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Bihać", "Bihać", "Bihać", NULL, 50, 0, 1, NULL, "44.8146563", "15.86896"),
+("Prijedor", "Prijedor", "Prijedor", NULL, 50, 0, 1, NULL, "44.9805039", "16.7131197"),
+("Mostar", "Mostar", "Mostar", NULL, 50, 0, 1, NULL, "43.3435855", "17.8076584"),
+("Trebinje", "Trebinje", "Trebinje", NULL, 50, 0, 1, NULL, "42.7098295", "18.3457261"),
+("Doboj", "Doboj", "Doboj", NULL, 50, 0, 1, NULL, "44.7313612", "18.0847183"),
+("Banja Luka", "Banja Luka", "Banja Luka", NULL, 50, 0, 1, NULL, "44.7720845", "17.1917651"),
+("Sarajevo", "Sarajevo", "Sarajevo", NULL, 50, 0, 1, NULL, "43.8519774", "18.3866868"),
+("Brčko", "Brčko", "Brčko", NULL, 50, 0, 1, NULL, "44.8771222", "18.8095022"),
+("Bijeljina", "Bijeljina", "Bijeljina", NULL, 50, 0, 1, NULL, "44.7568464", "19.2156628"),
+("Zenica", "Zenica", "Zenica", NULL, 50, 0, 1, NULL, "44.199828", "17.9093012"),
+("Tuzla", "Tuzla", "Tuzla", NULL, 50, 0, 1, NULL, "44.5391105", "18.675193");

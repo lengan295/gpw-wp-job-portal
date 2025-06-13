@@ -1,0 +1,20 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Capiatá", "Capiatá", "Capiatá", NULL, 38, 0, 1, NULL, "-25.3548171", "-57.4427315"),
+("Piribebuy", "Piribebuy", "Piribebuy", NULL, 38, 0, 1, NULL, "-25.4644144", "-57.0422264"),
+("Villarrica", "Villarrica", "Villarrica", NULL, 38, 0, 1, NULL, "-25.7809839", "-56.4478765"),
+("Caaguazú", "Caaguazú", "Caaguazú", NULL, 38, 0, 1, NULL, "-25.4661756", "-56.0181685"),
+("Salto del Guaira", "Salto del Guaira", "Salto del Guaira", NULL, 38, 0, 1, NULL, "-24.056639", "-54.334206661035"),
+("Villa Elisa", "Villa Elisa", "Villa Elisa", NULL, 38, 0, 1, NULL, "-25.3715212", "-57.5898279"),
+("Lambaré", "Lambaré", "Lambaré", NULL, 38, 0, 1, NULL, "-25.3455354", "-57.6261456"),
+("Ñemby", "Ñemby", "Ñemby", NULL, 38, 0, 1, NULL, "-25.3924542", "-57.5471112"),
+("Fernando de la Mora", "Fernando de la Mora", "Fernando de la Mora", NULL, 38, 0, 1, NULL, "-25.3281673", "-57.5521492"),
+("San Lorenzo", "San Lorenzo", "San Lorenzo", NULL, 38, 0, 1, NULL, "-25.3425224", "-57.509397"),
+("Coronel Oviedo", "Coronel Oviedo", "Coronel Oviedo", NULL, 38, 0, 1, NULL, "-25.450055", "-56.4406994"),
+("Asunción", "Asunción", "Asuncion", NULL, 38, 0, 1, NULL, "-25.2800459", "-57.6343814"),
+("Luque", "Luque", "Luque", NULL, 38, 0, 1, NULL, "-25.2665417", "-57.4926928"),
+("Mariano Roque Alonso", "Mariano Roque Alonso", "Mariano Roque Alonso", NULL, 38, 0, 1, NULL, "-25.2118123", "-57.5346458"),
+("Limpio", "Limpio", "Limpio", NULL, 38, 0, 1, NULL, "-25.1728768", "-57.4778284"),
+("Encarnación", "Encarnación", "Encarnacion", NULL, 38, 0, 1, NULL, "-27.3376114", "-55.8669492"),
+("Ciudad del Este", "Ciudad del Este", "Ciudad del Este", NULL, 38, 0, 1, NULL, "-25.5169015", "-54.6168645"),
+("Pedro Juan Caballero", "Pedro Juan Caballero", "Pedro Juan Caballero", NULL, 38, 0, 1, NULL, "-22.5497781", "-55.7384312");

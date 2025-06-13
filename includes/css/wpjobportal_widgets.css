@@ -1,0 +1,6 @@
+label.wpjobportalwidefat{display: block;}
+p.wpjobportal-wid-selecttype{background: #E7f5fa;padding: 15px;border-bottom: 2px solid #00a0d2;}
+p.wpjobportal-wid-selecttype label.wpjobportal-label{color: #444444;}
+/*mce css*/
+.mce-window.mce-container.mce-wpjobportaljobseditorclass .mce-container-body.mce-abs-layout { overflow: hidden;}
+i.wpjobportal-ouricon-img{background-image: url('../images/admin_wpjobportal1.png');}

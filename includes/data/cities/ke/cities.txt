@@ -1,0 +1,18 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Kisii", "Kisii", "Kisii", NULL, 165, 0, 1, NULL, "-0.6694119", "34.7677944"),
+("Kisumu", "Kisumu", "Kisumu", NULL, 165, 0, 1, NULL, "-0.1029109", "34.7541761"),
+("Kericho", "Kericho", "Kericho", NULL, 165, 0, 1, NULL, "-0.3666", "35.2833"),
+("Nakuru", "Nakuru", "Nakuru", NULL, 165, 0, 1, NULL, "-0.2802724", "36.0712048"),
+("Machakos", "Machakos", "Machakos", NULL, 165, 0, 1, NULL, "-1.5212477", "37.2660878"),
+("Nairobi", "Nairobi", "Nairobi", NULL, 165, 0, 1, NULL, "-1.2832533", "36.8172449"),
+("Embu", "Embu", "Embu", NULL, 165, 0, 1, NULL, "-0.5376699", "37.4583949"),
+("Malindi", "Malindi", "Malindi", NULL, 165, 0, 1, NULL, "-3.2165987", "40.1165933"),
+("Kabarnet", "Kabarnet", "Kabarnet", NULL, 165, 0, 1, NULL, "0.496524", "35.743139"),
+("Meru", "Meru", "Meru", NULL, 165, 0, 1, NULL, "0.0499786", "37.6500063"),
+("Thika", "Thika", "Thika", NULL, 165, 0, 1, NULL, "-1.036648", "37.077523"),
+("Kitui", "Kitui", "Kitui", NULL, 165, 0, 1, NULL, "-1.3666", "38.0166"),
+("Mombasa", "Mombasa", "Mombasa", NULL, 165, 0, 1, NULL, "-4.05052", "39.667169"),
+("Garissa", "Garissa", "Garissa", NULL, 165, 0, 1, NULL, "-0.4567099", "39.6404713"),
+("Kakamega", "Kakamega", "Kakamega", NULL, 165, 0, 1, NULL, "0.2833", "34.75"),
+("Eldoret", "Eldoret", "Eldoret", NULL, 165, 0, 1, NULL, "0.5198329", "35.2715481");

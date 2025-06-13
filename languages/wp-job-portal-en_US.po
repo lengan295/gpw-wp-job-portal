@@ -1,0 +1,10412 @@
+msgid "Delete"
+msgstr ""
+
+msgid "dashboard"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Load Address Data"
+msgstr ""
+
+msgid "configuration"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "States"
+msgstr ""
+
+msgid "Cities"
+msgstr ""
+
+msgid "Latitude"
+msgstr ""
+
+msgid "Longitude"
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+msgid "Select One"
+msgstr ""
+
+msgid "Meters"
+msgstr ""
+
+msgid "Kilometers"
+msgstr ""
+
+msgid "Miles"
+msgstr ""
+
+msgid "Nautical Miles"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Employer"
+msgstr ""
+
+msgid "Languages"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Institute"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Select Package"
+msgstr ""
+
+msgid "Please select a package first"
+msgstr ""
+
+msgid "Job"
+msgstr ""
+
+msgid "Unlimited"
+msgstr ""
+
+msgid "Remaining"
+msgstr ""
+
+msgid "copy job"
+msgstr ""
+
+msgid "Copy Job"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Payment Method"
+msgstr ""
+
+msgid "Very Poor"
+msgstr ""
+
+msgid "Poor"
+msgstr ""
+
+msgid "Regular"
+msgstr ""
+
+msgid "Good"
+msgstr ""
+
+msgid "Very Good"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Rejected"
+msgstr ""
+
+msgid "Posted"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "Package"
+msgstr ""
+
+msgid "Invoices"
+msgstr ""
+
+msgid "Are you sure to delete"
+msgstr ""
+
+msgid "User Name"
+msgstr ""
+
+msgid "Select Status"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "No record found"
+msgstr ""
+
+msgid "%s"
+msgstr ""
+
+msgid "My Invoices"
+msgstr ""
+
+msgid "View All"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Job seeker"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Resume"
+msgstr ""
+
+msgid "Job Seeker"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Approve"
+msgstr ""
+
+msgid "Reject"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "message"
+msgstr ""
+
+msgid "Send Message"
+msgstr ""
+
+msgid "Expire in"
+msgstr ""
+
+msgid "Job Messages"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Job Title"
+msgstr ""
+
+msgid "Resume Title"
+msgstr ""
+
+msgid "Employer Name"
+msgstr ""
+
+msgid "This will delete every thing about this record"
+msgstr ""
+
+msgid "Force Delete"
+msgstr ""
+
+msgid "Company Name"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Purchase Package"
+msgstr ""
+
+msgid "Years"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Job Expiry"
+msgstr ""
+
+msgid "Resume Section"
+msgstr ""
+
+msgid "cancel"
+msgstr ""
+
+msgid "Package Detail"
+msgstr ""
+
+msgid "Departments"
+msgstr ""
+
+msgid "Resume Search"
+msgstr ""
+
+msgid "Job Alert"
+msgstr ""
+
+msgid "Job Apply"
+msgstr ""
+
+msgid "User name"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Subscription"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "You can view Resume Contact Detail Now"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Select User"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "add"
+msgstr ""
+
+msgid "delete"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "published"
+msgstr ""
+
+msgid "not published"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Department"
+msgstr ""
+
+msgid "Proceed To Payment"
+msgstr ""
+
+msgid "Remaining Resume"
+msgstr ""
+
+msgid "Ends On"
+msgstr ""
+
+msgid "Packages"
+msgstr ""
+
+msgid "packages"
+msgstr ""
+
+msgid "My Packages"
+msgstr ""
+
+msgid "My Subscriptions"
+msgstr ""
+
+msgid "Cancel Payment"
+msgstr ""
+
+msgid "Show Company Contact"
+msgstr ""
+
+msgid "add new package"
+msgstr ""
+
+msgid "Add New Package"
+msgstr ""
+
+msgid "make payment"
+msgstr ""
+
+msgid "You have Already Applied"
+msgstr ""
+
+msgid "Make Payment To Apply"
+msgstr ""
+
+msgid "Apply On This Job"
+msgstr ""
+
+msgid "Proceed With Paying"
+msgstr ""
+
+msgid "Apply Now"
+msgstr ""
+
+msgid "Cron Job"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "cron job"
+msgstr ""
+
+msgid "Select role"
+msgstr ""
+
+msgid "Buy Package"
+msgstr ""
+
+msgid "Buy credits"
+msgstr ""
+
+msgid "Departments Approval Queue"
+msgstr ""
+
+msgid "Pending Payment"
+msgstr ""
+
+msgid "Add New Department"
+msgstr ""
+
+msgid "Ago"
+msgstr ""
+
+msgid "edit"
+msgstr ""
+
+msgid "approve"
+msgstr ""
+
+msgid "reject"
+msgstr ""
+
+msgid "View Department"
+msgstr ""
+
+msgid "Pending Due To Payment"
+msgstr ""
+
+msgid "Change package"
+msgstr ""
+
+msgid "Change Package"
+msgstr ""
+
+msgid "My departments"
+msgstr ""
+
+msgid "My Departments"
+msgstr ""
+
+msgid "Add Department"
+msgstr ""
+
+msgid "Male"
+msgstr ""
+
+msgid "Female"
+msgstr ""
+
+msgid "Does not matter"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "export"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Waiting for approval"
+msgstr ""
+
+msgid "Expiry Date"
+msgstr ""
+
+msgid "remove featured"
+msgstr ""
+
+msgid "Remove Featured"
+msgstr ""
+
+msgid "Failed while performing this action"
+msgstr ""
+
+msgid "Search All"
+msgstr ""
+
+msgid "Applied resume"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Job Type"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "View Resume"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Folders"
+msgstr ""
+
+msgid "Folder Resume"
+msgstr ""
+
+msgid "Applied Resume"
+msgstr ""
+
+msgid "view"
+msgstr ""
+
+msgid "logo"
+msgstr ""
+
+msgid "Salary Range"
+msgstr ""
+
+msgid "Folders Queue"
+msgstr ""
+
+msgid "Add New Folder"
+msgstr ""
+
+msgid "The page you are looking for no longer exists"
+msgstr ""
+
+msgid "publish"
+msgstr ""
+
+msgid "unpublish"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "add new folder"
+msgstr ""
+
+msgid "approval queue"
+msgstr ""
+
+msgid "Approval Queue"
+msgstr ""
+
+msgid "My Folders"
+msgstr ""
+
+msgid "Invalid captcha"
+msgstr ""
+
+msgid "Incorrect Captcha code"
+msgstr ""
+
+msgid "Type In A Search Term"
+msgstr ""
+
+msgid "No Results"
+msgstr ""
+
+msgid "Searching"
+msgstr ""
+
+msgid "Add New Job Alert"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "job alert"
+msgstr ""
+
+msgid "add new job alert"
+msgstr ""
+
+msgid "Please fill the message"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Messages Approval Queue"
+msgstr ""
+
+msgid "force delete"
+msgstr ""
+
+msgid "Error Deleting Logo"
+msgstr ""
+
+msgid "Enter Correct Company Site"
+msgstr ""
+
+msgid "File size is greater then allowed file size"
+msgstr ""
+
+msgid "File ext. is mismatched"
+msgstr ""
+
+msgid "Something got wrong"
+msgstr ""
+
+msgid "Terms and Conditions"
+msgstr ""
+
+msgid "Company Has Been Feature SuccesFully"
+msgstr ""
+
+msgid "Error While Adding Feature job"
+msgstr ""
+
+msgid "Total Company"
+msgstr ""
+
+msgid "Remaining Company"
+msgstr ""
+
+msgid "change package"
+msgstr ""
+
+msgid "Add Company"
+msgstr ""
+
+msgid "My companies"
+msgstr ""
+
+msgid "My Companies"
+msgstr ""
+
+msgid "Are you sure to cancel job apply"
+msgstr ""
+
+msgid "Please first save the resume then apply"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "File extension mismatch"
+msgstr ""
+
+msgid "File size exceeds limit"
+msgstr ""
+
+msgid "Maximum files selected"
+msgstr ""
+
+msgid "Confirm to delete resume file"
+msgstr ""
+
+msgid "Please first save resume personal section then add any other section"
+msgstr ""
+
+msgid "Geocode was not successful for the following reason"
+msgstr ""
+
+msgid "Resume Files"
+msgstr ""
+
+msgid "Select files"
+msgstr ""
+
+msgid "Selected files"
+msgstr ""
+
+msgid "No file selected"
+msgstr ""
+
+msgid "Files allowed"
+msgstr ""
+
+msgid "Maximum file size"
+msgstr ""
+
+msgid "Edit Resume"
+msgstr ""
+
+msgid "Add New Resume"
+msgstr ""
+
+msgid "Resume Has Been Feature SuccessFully"
+msgstr ""
+
+msgid "Application title"
+msgstr ""
+
+msgid "First name"
+msgstr ""
+
+msgid "Job type"
+msgstr ""
+
+msgid "Total Resume"
+msgstr ""
+
+msgid "Add Resume"
+msgstr ""
+
+msgid "My Resumes"
+msgstr ""
+
+msgid "Personal Information"
+msgstr ""
+
+msgid "Institutes"
+msgstr ""
+
+msgid "Employers"
+msgstr ""
+
+msgid "Skills"
+msgstr ""
+
+msgid "pdf"
+msgstr ""
+
+msgid "PDF"
+msgstr ""
+
+msgid "print"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Jobs"
+msgstr ""
+
+msgid "Active Jobs"
+msgstr ""
+
+msgid "Applied Jobs"
+msgstr ""
+
+msgid "Featured Jobs"
+msgstr ""
+
+msgid "Overall Statistics"
+msgstr ""
+
+msgid "Jobs By Categories"
+msgstr ""
+
+msgid "Jobs By Types"
+msgstr ""
+
+msgid "Dates"
+msgstr ""
+
+msgid "Featured Resume"
+msgstr ""
+
+msgid "Resume By Categories"
+msgstr ""
+
+msgid "Applied jobs"
+msgstr ""
+
+msgid "Featured resume"
+msgstr ""
+
+msgid "Stats"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Companies"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Type here"
+msgstr ""
+
+msgid "Inbox"
+msgstr ""
+
+msgid "Spam"
+msgstr ""
+
+msgid "Hired"
+msgstr ""
+
+msgid "Short listed"
+msgstr ""
+
+msgid "Advance Search"
+msgstr ""
+
+msgid "Nationality"
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "Application Title"
+msgstr ""
+
+msgid "Highest Education"
+msgstr ""
+
+msgid "Resumes By Tag"
+msgstr ""
+
+msgid "Resumes"
+msgstr ""
+
+msgid "save searches"
+msgstr ""
+
+msgid "Saved Searches"
+msgstr ""
+
+msgid "Resume RSS"
+msgstr ""
+
+msgid "Short List Job"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "shortlisted jobs"
+msgstr ""
+
+msgid "Shotlisted Jobs"
+msgstr ""
+
+msgid "Short Listed Jobs"
+msgstr ""
+
+msgid "Last name"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Personal information"
+msgstr ""
+
+msgid "Education"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Addresses"
+msgstr ""
+
+msgid "Job has been applied"
+msgstr ""
+
+msgid "Login with facebook"
+msgstr ""
+
+msgid "Login with linkedin"
+msgstr ""
+
+msgid "Login with xing"
+msgstr ""
+
+msgid "Error in saving records please try again"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Add New Tag"
+msgstr ""
+
+msgid "Unpublish"
+msgstr ""
+
+msgid "tags"
+msgstr ""
+
+msgid "add new tag"
+msgstr ""
+
+msgid "Tell a friend"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid "Minimum"
+msgstr ""
+
+msgid "Maximum"
+msgstr ""
+
+msgid "Specify range"
+msgstr ""
+
+msgid "Cancel range"
+msgstr ""
+
+msgid "Experience"
+msgstr ""
+
+msgid "Total Experience"
+msgstr ""
+
+msgid "Job Status"
+msgstr ""
+
+msgid "Shift"
+msgstr ""
+
+msgid "Please enter the coordinate radius"
+msgstr ""
+
+msgid "Company Info"
+msgstr ""
+
+msgid "Job Info"
+msgstr ""
+
+msgid "Select widget"
+msgstr ""
+
+msgid "Show Title"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Company logo"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "2"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "4"
+msgstr ""
+
+msgid "5"
+msgstr ""
+
+msgid "Type of jobs"
+msgstr ""
+
+msgid "Newest jobs"
+msgstr ""
+
+msgid "Hot jobs"
+msgstr ""
+
+msgid "Column per row"
+msgstr ""
+
+msgid "Jobs by cities"
+msgstr ""
+
+msgid "Jobs by countries"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Photo"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Search Resume"
+msgstr ""
+
+msgid "Highest education"
+msgstr ""
+
+msgid "Transaction Key"
+msgstr ""
+
+msgid "Please select "
+msgstr ""
+
+msgid "Hide notice"
+msgstr ""
+
+msgid "Something went wrong"
+msgstr ""
+
+msgid "Control Panel"
+msgstr ""
+
+msgid "Company Information"
+msgstr ""
+
+msgid "My Jobs"
+msgstr ""
+
+msgid "View Job"
+msgstr ""
+
+msgid "Newest Jobs"
+msgstr ""
+
+msgid "Job Seeker Messages"
+msgstr ""
+
+msgid "Resume List"
+msgstr ""
+
+msgid "Purchase History"
+msgstr ""
+
+msgid "My Subscription"
+msgstr ""
+
+msgid "My  Packages"
+msgstr ""
+
+msgid "View Folder"
+msgstr ""
+
+msgid "Folder Resumes"
+msgstr ""
+
+msgid "My Resume"
+msgstr ""
+
+msgid "My Applied Jobs"
+msgstr ""
+
+msgid "Job Applied Resume"
+msgstr ""
+
+msgid "Job Search"
+msgstr ""
+
+msgid "Log In"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Edit Profile"
+msgstr ""
+
+msgid "Plus"
+msgstr ""
+
+msgid "Equals"
+msgstr ""
+
+msgid "Minus"
+msgstr ""
+
+msgid "Proceed Without Paying"
+msgstr ""
+
+msgid "Proceed"
+msgstr ""
+
+msgid "Total Credits"
+msgstr ""
+
+msgid "Credit for action"
+msgstr ""
+
+msgid "Life time alerts"
+msgstr ""
+
+msgid "Credits remaining after proceed"
+msgstr ""
+
+msgid "Insufficient Credits"
+msgstr ""
+
+msgid "Can Not Proceed"
+msgstr ""
+
+msgid "Add to"
+msgstr ""
+
+msgid "featured"
+msgstr ""
+
+msgid "company"
+msgstr ""
+
+msgid "Company name"
+msgstr ""
+
+msgid "job"
+msgstr ""
+
+msgid "Job title"
+msgstr ""
+
+msgid "resume"
+msgstr ""
+
+msgid "Resume title"
+msgstr ""
+
+msgid "Alert"
+msgstr ""
+
+msgid "View company contact detail"
+msgstr ""
+
+msgid "View resume contact detail"
+msgstr ""
+
+msgid "search"
+msgstr ""
+
+msgid "Apply On Job"
+msgstr ""
+
+msgid "language"
+msgstr ""
+
+msgid "Upload Image"
+msgstr ""
+
+msgid "Resume image"
+msgstr ""
+
+msgid "Max logo size allowed"
+msgstr ""
+
+msgid "Select Multiple Files"
+msgstr ""
+
+msgid "Save Resume"
+msgstr ""
+
+msgid "Cancel Resume"
+msgstr ""
+
+msgid "Attachment"
+msgstr ""
+
+msgid "email"
+msgstr ""
+
+msgid "salary"
+msgstr ""
+
+msgid "number"
+msgstr ""
+
+msgid "location"
+msgstr ""
+
+msgid "activity log"
+msgstr ""
+
+msgid "Activity Log"
+msgstr ""
+
+msgid "stats"
+msgstr ""
+
+msgid "translations"
+msgstr ""
+
+msgid "Translations"
+msgstr ""
+
+msgid "system errors"
+msgstr ""
+
+msgid "System Errors"
+msgstr ""
+
+msgid "slug"
+msgstr ""
+
+msgid "Slug"
+msgstr ""
+
+msgid "ad ons"
+msgstr ""
+
+msgid "Install Addons"
+msgstr ""
+
+msgid "install addons"
+msgstr ""
+
+msgid "addons list"
+msgstr ""
+
+msgid "Addons List"
+msgstr ""
+
+msgid "companies"
+msgstr ""
+
+msgid "add new company"
+msgstr ""
+
+msgid "Add New Company"
+msgstr ""
+
+msgid "fields"
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
+msgid "departments"
+msgstr ""
+
+msgid "add new department"
+msgstr ""
+
+msgid "jobs"
+msgstr ""
+
+msgid "add new job"
+msgstr ""
+
+msgid "Add New Job"
+msgstr ""
+
+msgid "search fields"
+msgstr ""
+
+msgid "Search Fields"
+msgstr ""
+
+msgid "credits"
+msgstr ""
+
+msgid "folder"
+msgstr ""
+
+msgid "job types"
+msgstr ""
+
+msgid "Job Types"
+msgstr ""
+
+msgid "add new job type"
+msgstr ""
+
+msgid "Add New Job Type"
+msgstr ""
+
+msgid "job status"
+msgstr ""
+
+msgid "add new job status"
+msgstr ""
+
+msgid "Add New Job Status"
+msgstr ""
+
+msgid "highest educations"
+msgstr ""
+
+msgid "Highest Educations"
+msgstr ""
+
+msgid "add new highest education"
+msgstr ""
+
+msgid "Add New Highest Education"
+msgstr ""
+
+msgid "career levels"
+msgstr ""
+
+msgid "Career Levels"
+msgstr ""
+
+msgid "add new career level"
+msgstr ""
+
+msgid "Add New Career Level"
+msgstr ""
+
+msgid "currency"
+msgstr ""
+
+msgid "add new currency"
+msgstr ""
+
+msgid "Add New Currency"
+msgstr ""
+
+msgid "categories"
+msgstr ""
+
+msgid "add new category"
+msgstr ""
+
+msgid "Add New Category"
+msgstr ""
+
+msgid "salary range"
+msgstr ""
+
+msgid "salary range type"
+msgstr ""
+
+msgid "Salary Range Type"
+msgstr ""
+
+msgid "add new salary range type"
+msgstr ""
+
+msgid "Add New Salary Range Type"
+msgstr ""
+
+msgid "users"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "assign role"
+msgstr ""
+
+msgid "Assign Role"
+msgstr ""
+
+msgid "short codes"
+msgstr ""
+
+msgid "Short Codes"
+msgstr ""
+
+msgid "reports"
+msgstr ""
+
+msgid "Reports"
+msgstr ""
+
+msgid "overall reports"
+msgstr ""
+
+msgid "Overall Reports"
+msgstr ""
+
+msgid "Employer / Job Seeker Report"
+msgstr ""
+
+msgid "email templates"
+msgstr ""
+
+msgid "Email Templates"
+msgstr ""
+
+msgid "options"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "new company"
+msgstr ""
+
+msgid "New Company"
+msgstr ""
+
+msgid "delete company"
+msgstr ""
+
+msgid "Delete Company"
+msgstr ""
+
+msgid "company status"
+msgstr ""
+
+msgid "Company Status"
+msgstr ""
+
+msgid "new job"
+msgstr ""
+
+msgid "New Job"
+msgstr ""
+
+msgid "new visitor job"
+msgstr ""
+
+msgid "New Visitor Job"
+msgstr ""
+
+msgid "job delete"
+msgstr ""
+
+msgid "Job Delete"
+msgstr ""
+
+msgid "new resume"
+msgstr ""
+
+msgid "New Resume"
+msgstr ""
+
+msgid "new visitor resume"
+msgstr ""
+
+msgid "New Visitor Resume"
+msgstr ""
+
+msgid "resume status"
+msgstr ""
+
+msgid "Resume Status"
+msgstr ""
+
+msgid "delete resume"
+msgstr ""
+
+msgid "Delete Resume"
+msgstr ""
+
+msgid "new employer"
+msgstr ""
+
+msgid "New Employer"
+msgstr ""
+
+msgid "new job seeker"
+msgstr ""
+
+msgid "New Job Seeker"
+msgstr ""
+
+msgid "job apply admin"
+msgstr ""
+
+msgid "Job Apply Admin"
+msgstr ""
+
+msgid "job apply employer"
+msgstr ""
+
+msgid "Job Apply Employer"
+msgstr ""
+
+msgid "job apply job seeker"
+msgstr ""
+
+msgid "Job Apply Job Seeker"
+msgstr ""
+
+msgid "applied resume status change"
+msgstr ""
+
+msgid "Applied Resume Status Change"
+msgstr ""
+
+msgid "tell to friend"
+msgstr ""
+
+msgid "Tell To Friend"
+msgstr ""
+
+msgid "Purchase Package Admin"
+msgstr ""
+
+msgid "Purchase Status"
+msgstr ""
+
+msgid "countries"
+msgstr ""
+
+msgid "Countries"
+msgstr ""
+
+msgid "add new country"
+msgstr ""
+
+msgid "Add New Country"
+msgstr ""
+
+msgid "Total Stats"
+msgstr ""
+
+msgid "Company Type"
+msgstr ""
+
+msgid "Featured Companies"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "No. of Companies"
+msgstr ""
+
+msgid "Top Jobs"
+msgstr ""
+
+msgid "Hot Jobs"
+msgstr ""
+
+msgid "No. of jobs"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Start Publishing"
+msgstr ""
+
+msgid "Stop Publishing"
+msgstr ""
+
+msgid "Column rer row"
+msgstr ""
+
+msgid "Resume Type"
+msgstr ""
+
+msgid "Newest Resumes"
+msgstr ""
+
+msgid "Top Resumes"
+msgstr ""
+
+msgid "Featured Resumes"
+msgstr ""
+
+msgid "No. of Resumes"
+msgstr ""
+
+msgid "Could not find any matching results"
+msgstr ""
+
+msgid "no record"
+msgstr ""
+
+msgid "No record found !..."
+msgstr ""
+
+msgid "system offline"
+msgstr ""
+
+msgid "user ban"
+msgstr ""
+
+msgid "Your account is disabled, please contact system administrator !..."
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "To Access This Page Please Login !..."
+msgstr ""
+
+msgid "Back to control panel"
+msgstr ""
+
+msgid "register banned"
+msgstr ""
+
+msgid "You are not logged in"
+msgstr ""
+
+msgid "Job seeker not allowed to perform this action"
+msgstr ""
+
+msgid "Employer not allowed to perform this action"
+msgstr ""
+
+msgid "You do not have enough credits"
+msgstr ""
+
+msgid "Employer Is Disabled By Admin"
+msgstr ""
+
+msgid "Employer not allowed in job seeker area"
+msgstr ""
+
+msgid "You are already logged in"
+msgstr ""
+
+msgid "Please select your role"
+msgstr ""
+
+msgid "You are not allowed"
+msgstr ""
+
+msgid "Buy New Package"
+msgstr ""
+
+msgid "You are Not Allowed To add More than One "
+msgstr ""
+
+msgid "Payment is Not Made Against This Job  Contact Adminstrator"
+msgstr ""
+
+msgid "not allowed"
+msgstr ""
+
+msgid "You are already logged in !..."
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Please first make a selection from the list"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Invalid request"
+msgstr ""
+
+msgid "has been successfully saved"
+msgstr ""
+
+msgid "has not been saved"
+msgstr ""
+
+msgid "has been successfully deleted"
+msgstr ""
+
+msgid "Record not exist"
+msgstr ""
+
+msgid "has not been deleted"
+msgstr ""
+
+msgid "has been successfully published"
+msgstr ""
+
+msgid "transaction has been successfully verified"
+msgstr ""
+
+msgid "transaction has been successfully un-verified"
+msgstr ""
+
+msgid "transaction has not been successfully verified"
+msgstr ""
+
+msgid "transaction has not been successfully un-verified"
+msgstr ""
+
+msgid "has not been published"
+msgstr ""
+
+msgid "has been successfully unpublished"
+msgstr ""
+
+msgid "has not been unpublished"
+msgstr ""
+
+msgid "Fields has been successfully required"
+msgstr ""
+
+msgid "Field has not been required"
+msgstr ""
+
+msgid "Fields has not been required"
+msgstr ""
+
+msgid "Fields has been successfully not required"
+msgstr ""
+
+msgid "Field has not been not required"
+msgstr ""
+
+msgid "Fields has not been not required"
+msgstr ""
+
+msgid "Field order up successfully"
+msgstr ""
+
+msgid "Field order up error"
+msgstr ""
+
+msgid "Field order down successfully"
+msgstr ""
+
+msgid "has been rejected"
+msgstr ""
+
+msgid "Job applied successfully"
+msgstr ""
+
+msgid "Error in applying job"
+msgstr ""
+
+msgid "has not been rejected"
+msgstr ""
+
+msgid "has been approved"
+msgstr ""
+
+msgid "has not been approved"
+msgstr ""
+
+msgid "has been set as default"
+msgstr ""
+
+msgid "Unpublished field cannot set default"
+msgstr ""
+
+msgid "has not been set as default"
+msgstr ""
+
+msgid "status has been updated"
+msgstr ""
+
+msgid "has not been updated"
+msgstr ""
+
+msgid "in use cannot deleted"
+msgstr ""
+
+msgid "already exist"
+msgstr ""
+
+msgid "File type error"
+msgstr ""
+
+msgid "File size error"
+msgstr ""
+
+msgid "has been enabled"
+msgstr ""
+
+msgid "Can not buy free package more than once"
+msgstr ""
+
+msgid "has been disabled"
+msgstr ""
+
+msgid "no active package"
+msgstr ""
+
+msgid "You don't have enough credits"
+msgstr ""
+
+msgid "buy packages"
+msgstr ""
+
+msgid "Address Data"
+msgstr ""
+
+msgid "Featured company"
+msgstr ""
+
+msgid "Field"
+msgstr ""
+
+msgid "Employer package"
+msgstr ""
+
+msgid "Featured job"
+msgstr ""
+
+msgid "Job alert"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "User role"
+msgstr ""
+
+msgid "Email Template"
+msgstr ""
+
+msgid "record"
+msgstr ""
+
+msgid "s"
+msgstr ""
+
+msgid "Prefix"
+msgstr ""
+
+msgid "Career Level"
+msgstr ""
+
+msgid "Jobseeker"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Search job"
+msgstr ""
+
+msgid "Jobs by state"
+msgstr ""
+
+msgid "Latest Resumes"
+msgstr ""
+
+msgid "Search jobs form WP Job Portal database"
+msgstr ""
+
+msgid "Search Job"
+msgstr ""
+
+msgid "Username / password is incorrect"
+msgstr ""
+
+msgid "Jobs role"
+msgstr ""
+
+msgid "Select job role"
+msgstr ""
+
+msgid "You must set jobs user role"
+msgstr ""
+
+msgid "Username already taken"
+msgstr ""
+
+msgid "Invalid username"
+msgstr ""
+
+msgid "Please enter a username"
+msgstr ""
+
+msgid "Invalid email"
+msgstr ""
+
+msgid "Email already registered"
+msgstr ""
+
+msgid "Please enter a password"
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr ""
+
+msgid "Error Updating User"
+msgstr ""
+
+msgid "User Added Successfully"
+msgstr ""
+
+msgid "Employer Control Panel"
+msgstr ""
+
+msgid "WP JOB PORTAL Pages"
+msgstr ""
+
+msgid "Jobseeker Control Panel"
+msgstr ""
+
+msgid "Job Listing"
+msgstr ""
+
+msgid "Jobs By Catergories"
+msgstr ""
+
+msgid "Add Job"
+msgstr ""
+
+msgid "Employer Registration"
+msgstr ""
+
+msgid "Jobseeker Registration"
+msgstr ""
+
+msgid "All Companies"
+msgstr ""
+
+msgid "My Cover Letters"
+msgstr ""
+
+msgid "Add Cover Letter"
+msgstr ""
+
+msgid "Employer My Stats"
+msgstr ""
+
+msgid "Jobseeker My Stats"
+msgstr ""
+
+msgid "WP JOB PORTAL Package"
+msgstr ""
+
+msgid "WP JOB PORTAL Perlisting"
+msgstr ""
+
+msgid "Package combo"
+msgstr ""
+
+msgid "Select packages pack so that user can purchase them."
+msgstr ""
+
+msgid "Feature Company"
+msgstr ""
+
+msgid "Featuer Job"
+msgstr ""
+
+msgid "Feature Resume"
+msgstr ""
+
+msgid "Add  Department"
+msgstr ""
+
+msgid "Resume Save Search"
+msgstr ""
+
+msgid "Job Alert Time "
+msgstr ""
+
+msgid "View Company Contact Detail "
+msgstr ""
+
+msgid "View Resume Contact Detail"
+msgstr ""
+
+msgid "WP Job Portal"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Configurations"
+msgstr ""
+
+msgid "Jobseeker/Employer Reports"
+msgstr ""
+
+msgid "Pro Installer"
+msgstr ""
+
+msgid "Email Templates Options"
+msgstr ""
+
+msgid "Custom Fields"
+msgstr ""
+
+msgid "Employer Packages"
+msgstr ""
+
+msgid "Field Ordering"
+msgstr ""
+
+msgid "Job Seeker Packages"
+msgstr ""
+
+msgid "WP Job Alert"
+msgstr ""
+
+msgid "Payment History"
+msgstr ""
+
+msgid "Payment Method Configuration"
+msgstr ""
+
+msgid "Salary Range Types"
+msgstr ""
+
+msgid "Cover letter"
+msgstr ""
+
+msgid "Shortcodes"
+msgstr ""
+
+msgid "WP Job Portal Settings"
+msgstr ""
+
+msgid "WP Job Portal Slug"
+msgstr ""
+
+msgid "Premium Plugin"
+msgstr ""
+
+msgid "Premium Addon"
+msgstr ""
+
+msgid "Cover Letter"
+msgstr ""
+
+msgid "Applied for job"
+msgstr ""
+
+msgid "With Resume"
+msgstr ""
+
+msgid "Administrator"
+msgstr ""
+
+msgid "added a new"
+msgstr ""
+
+msgid "Edited a existing"
+msgstr ""
+
+msgid "Deleted a"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "Reference For"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Ages"
+msgstr ""
+
+msgid "Custom Field"
+msgstr ""
+
+msgid "submit"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Ordering updated"
+msgstr ""
+
+msgid "Ordering"
+msgstr ""
+
+msgid "Save Ordering"
+msgstr ""
+
+msgid "Add New Career Levels"
+msgstr ""
+
+msgid "grab"
+msgstr ""
+
+msgid "title"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "not default"
+msgstr ""
+
+msgid "Records per page"
+msgstr ""
+
+msgid "Show More"
+msgstr ""
+
+msgid "Category Title"
+msgstr ""
+
+msgid "category name"
+msgstr ""
+
+msgid "Error while saving new state"
+msgstr ""
+
+msgid "Country not found"
+msgstr ""
+
+msgid "Add New City"
+msgstr ""
+
+msgid "Not Required"
+msgstr ""
+
+msgid "25 Per"
+msgstr ""
+
+msgid "50 Per"
+msgstr ""
+
+msgid "75 Per"
+msgstr ""
+
+msgid "100 Per"
+msgstr ""
+
+msgid "New company"
+msgstr ""
+
+msgid "New department"
+msgstr ""
+
+msgid "New job"
+msgstr ""
+
+msgid "Searched and saved resume"
+msgstr ""
+
+msgid "Viewed resume contact details"
+msgstr ""
+
+msgid "Featured company for time period"
+msgstr ""
+
+msgid "New resume"
+msgstr ""
+
+msgid "New cover letter"
+msgstr ""
+
+msgid "Life time job alert"
+msgstr ""
+
+msgid "Job alert for time"
+msgstr ""
+
+msgid "Saved a job search"
+msgstr ""
+
+msgid "Job short listed"
+msgstr ""
+
+msgid "Viewed job status"
+msgstr ""
+
+msgid "Viewed company contact detail"
+msgstr ""
+
+msgid "Told a friend"
+msgstr ""
+
+msgid "Saved a job filter"
+msgstr ""
+
+msgid "Shared on social media"
+msgstr ""
+
+msgid "Unpublished"
+msgstr ""
+
+msgid "Subscribed"
+msgstr ""
+
+msgid "Unsubscribed"
+msgstr ""
+
+msgid "Text Field"
+msgstr ""
+
+msgid "Text Area"
+msgstr ""
+
+msgid "Check Box"
+msgstr ""
+
+msgid "Drop Down"
+msgstr ""
+
+msgid "Negotiable"
+msgstr ""
+
+msgid "You are Not Allowed To Add More than One "
+msgstr ""
+
+msgid "Are you new in"
+msgstr ""
+
+msgid "Select Role"
+msgstr ""
+
+msgid "Companies Approval Queue"
+msgstr ""
+
+msgid "cross"
+msgstr ""
+
+msgid "enforce delete"
+msgstr ""
+
+msgid "Enforce Delete"
+msgstr ""
+
+msgid "Company Approve"
+msgstr ""
+
+msgid "Company Reject"
+msgstr ""
+
+msgid "sort"
+msgstr ""
+
+msgid "Date Start"
+msgstr ""
+
+msgid "Date End"
+msgstr ""
+
+msgid "View all jobs"
+msgstr ""
+
+msgid "View All Jobs"
+msgstr ""
+
+msgid "Edit company"
+msgstr ""
+
+msgid "Edit Company"
+msgstr ""
+
+msgid "Delete company"
+msgstr ""
+
+msgid "Waiting For Approval"
+msgstr ""
+
+msgid "Pending For Approval of Payment"
+msgstr ""
+
+msgid "View company"
+msgstr ""
+
+msgid "View Company"
+msgstr ""
+
+msgid "website"
+msgstr ""
+
+msgid "Data directory can not empty."
+msgstr ""
+
+msgid "Data directory is not proper."
+msgstr ""
+
+msgid "Data directory is not writable."
+msgstr ""
+
+msgid "General Settings"
+msgstr ""
+
+msgid "Site Settings"
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "Term And Conditions"
+msgstr ""
+
+msgid "employer"
+msgstr ""
+
+msgid "Members Links"
+msgstr ""
+
+msgid "job seeker"
+msgstr ""
+
+msgid "Resume Settings"
+msgstr ""
+
+msgid "Employer Settings"
+msgstr ""
+
+msgid "Jobseeker Settings"
+msgstr ""
+
+msgid "Package Settings"
+msgstr ""
+
+msgid "Social Links"
+msgstr ""
+
+msgid "Social Share"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Linkedin"
+msgstr ""
+
+msgid "Xing"
+msgstr ""
+
+msgid "Social Login"
+msgstr ""
+
+msgid "dd-mm-yyyy"
+msgstr ""
+
+msgid "mm/dd/yyyy"
+msgstr ""
+
+msgid "yyyy-mm-dd"
+msgstr ""
+
+msgid "Top left"
+msgstr ""
+
+msgid "Top right"
+msgstr ""
+
+msgid "Middle left"
+msgstr ""
+
+msgid "Middle right"
+msgstr ""
+
+msgid "Bottom left"
+msgstr ""
+
+msgid "Bottom right"
+msgstr ""
+
+msgid "Google Captcha"
+msgstr ""
+
+msgid "WP JOB PORTAL Captcha"
+msgstr ""
+
+msgid "Any"
+msgstr ""
+
+msgid "Addition"
+msgstr ""
+
+msgid "Subtraction"
+msgstr ""
+
+msgid "Left align"
+msgstr ""
+
+msgid "Right align"
+msgstr ""
+
+msgid "Per Listing"
+msgstr ""
+
+msgid "Membership"
+msgstr ""
+
+msgid "Google Map"
+msgstr ""
+
+msgid "Open Street Map"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Data directory"
+msgstr ""
+
+msgid "System will upload all user files in this folder"
+msgstr ""
+
+msgid "Show breadcrumbs"
+msgstr ""
+
+msgid "Show navigation in breadcrumbs"
+msgstr ""
+
+msgid "Date format"
+msgstr ""
+
+msgid "Date format for plugin"
+msgstr ""
+
+msgid "Mark Job New"
+msgstr ""
+
+msgid "How many days system show New tag"
+msgstr ""
+
+msgid "Image file extensions"
+msgstr ""
+
+msgid "Add image allowed extensions"
+msgstr ""
+
+msgid "Must be comma separated"
+msgstr ""
+
+msgid "User can add city in database"
+msgstr ""
+
+msgid "User can add new city in the system"
+msgstr ""
+
+msgid "Maximum record for city field"
+msgstr ""
+
+msgid "Set number of cities to show in result of the location input box"
+msgstr ""
+
+msgid "User can add tag in database"
+msgstr ""
+
+msgid "User can add new tags in the system"
+msgstr ""
+
+msgid "Maximum record for tag field"
+msgstr ""
+
+msgid "Set number of tags to show in result of the tag input box"
+msgstr ""
+
+msgid "Currency symbol position"
+msgstr ""
+
+msgid "Show currency symbol left or right to the amount"
+msgstr ""
+
+msgid "Job types per row"
+msgstr ""
+
+msgid "Show number of job types per row on 'job by type' page"
+msgstr ""
+
+msgid "Message auto approve"
+msgstr ""
+
+msgid "Auto approve messages for job seeker and employer"
+msgstr ""
+
+msgid "Conflict message auto approve"
+msgstr ""
+
+msgid "Auto approve conflicted messages for job seeker and employer"
+msgstr ""
+
+msgid "Default page"
+msgstr ""
+
+msgid "Default address display style"
+msgstr ""
+
+msgid "Employer default role"
+msgstr ""
+
+msgid "This role will auto assign to new employer"
+msgstr ""
+
+msgid "Job Seeker default role"
+msgstr ""
+
+msgid "This role will auto assign to new job seeker"
+msgstr ""
+
+msgid "Default Pagination size"
+msgstr ""
+
+msgid "Maximum number of records per page"
+msgstr ""
+
+msgid "Show All Categories"
+msgstr ""
+
+msgid "Categories per row"
+msgstr ""
+
+msgid "Sub-categories limit"
+msgstr ""
+
+msgid "Sender email address"
+msgstr ""
+
+msgid "Email address that will be used to send emails"
+msgstr ""
+
+msgid "Sender name"
+msgstr ""
+
+msgid "Sender name that will be used in emails"
+msgstr ""
+
+msgid "Admin email address"
+msgstr ""
+
+msgid "Admin will receive email notifications on this address"
+msgstr ""
+
+msgid "Map height"
+msgstr ""
+
+msgid "Set map height for plugin"
+msgstr ""
+
+msgid "Show Map"
+msgstr ""
+
+msgid "Google Map API key"
+msgstr ""
+
+msgid "Get API key from"
+msgstr ""
+
+msgid "here"
+msgstr ""
+
+msgid "Mapping Service"
+msgstr ""
+
+msgid "Default longitude"
+msgstr ""
+
+msgid "Default latitude"
+msgstr ""
+
+msgid "Default map radius type"
+msgstr ""
+
+msgid "Company terms and conditions page"
+msgstr ""
+
+msgid "Select terms and conditions page for company"
+msgstr ""
+
+msgid "Job terms and conditions page"
+msgstr ""
+
+msgid "Select terms and conditions page for job"
+msgstr ""
+
+msgid "Resume terms and conditions page"
+msgstr ""
+
+msgid "Select terms and conditions page for Resume"
+msgstr ""
+
+msgid "Show captcha on registration form"
+msgstr ""
+
+msgid "Show captcha on WP JOB PORTAL registration form"
+msgstr ""
+
+msgid "default captcha"
+msgstr ""
+
+msgid "Select captcha for plugin"
+msgstr ""
+
+msgid "WP JOB PORTAL captcha calculation type"
+msgstr ""
+
+msgid "Select calculation type (addition, subtraction)"
+msgstr ""
+
+msgid "WP JOB PORTAL captcha answer always positive"
+msgstr ""
+
+msgid "Subtraction answer should be positive"
+msgstr ""
+
+msgid "Number of operands for WP JOB PORTAL captcha"
+msgstr ""
+
+msgid "Number of operands for captcha"
+msgstr ""
+
+msgid "Job Posting Options"
+msgstr ""
+
+msgid "Visitor can post job"
+msgstr ""
+
+msgid "Visitor can post a job"
+msgstr ""
+
+msgid "Allow edit job"
+msgstr ""
+
+msgid "Visitor can edit his posted job"
+msgstr ""
+
+msgid "Show captcha"
+msgstr ""
+
+msgid "Show captcha on visitor form job"
+msgstr ""
+
+msgid "Visitor post job redirect page "
+msgstr ""
+
+msgid "whenever any visitor posts a job, he will be redirected to this page"
+msgstr ""
+
+msgid "Visitors Can View Employer"
+msgstr ""
+
+msgid "Resume Categories"
+msgstr ""
+
+msgid "Visitor can apply to job"
+msgstr ""
+
+msgid "Visitor can add resume"
+msgstr ""
+
+msgid "Show login message to visitor"
+msgstr ""
+
+msgid "Show login option to visitor on job apply"
+msgstr ""
+
+msgid "Visitor post resume redirect page "
+msgstr ""
+
+msgid "whenever any visitor posts a resume, he will be redirected to this page"
+msgstr ""
+
+msgid "Show captcha on resume form"
+msgstr ""
+
+msgid "Show captcha on visitor form resume"
+msgstr ""
+
+msgid "Show captcha on Job alert form"
+msgstr ""
+
+msgid "Show captcha visitor job alert form"
+msgstr ""
+
+msgid "Show captcha on tell a friend popup"
+msgstr ""
+
+msgid "Show captcha on visitor tell a friend popup"
+msgstr ""
+
+msgid "Visitors Can View Job seeker"
+msgstr ""
+
+msgid "Job search result"
+msgstr ""
+
+msgid "Enable disable control panel for visitor"
+msgstr ""
+
+msgid "Employer Dashboard"
+msgstr ""
+
+msgid "Stats Graph"
+msgstr ""
+
+msgid "Useful Links"
+msgstr ""
+
+msgid "Saved Search"
+msgstr ""
+
+msgid "Invoice"
+msgstr ""
+
+msgid "Newest Resume"
+msgstr ""
+
+msgid "Employer Control Panel Links"
+msgstr ""
+
+msgid "Jobs Graph"
+msgstr ""
+
+msgid "Job Seeker Dashboard"
+msgstr ""
+
+msgid "Shortlisted Jobs"
+msgstr ""
+
+msgid "Job Seeker Control Panel Links"
+msgstr ""
+
+msgid "Jobs RSS"
+msgstr ""
+
+msgid "Applied Resume Alert"
+msgstr ""
+
+msgid "Applied resume notification"
+msgstr ""
+
+msgid "Applied resume status change mail to jobseeker"
+msgstr ""
+
+msgid "Paid Submission"
+msgstr ""
+
+msgid "Auto Assign Free package to new user"
+msgstr ""
+
+msgid "free package purchase"
+msgstr ""
+
+msgid "Free Package purchase auto approve"
+msgstr ""
+
+msgid "Submission Type"
+msgstr ""
+
+msgid "No of Days untill Job expire (per-listing)"
+msgstr ""
+
+msgid "Job Expiry Days (per-listing)"
+msgstr ""
+
+msgid "No of Days untill Feature Company expire (per-listing)"
+msgstr ""
+
+msgid "Company Expiry Days (per-listing)"
+msgstr ""
+
+msgid "No of Days untill Feature Company expire (Free)"
+msgstr ""
+
+msgid "Company Expiry Days (Free)"
+msgstr ""
+
+msgid "No of Days untill Featured Job expire (per-listing)"
+msgstr ""
+
+msgid "No Of Days until Featured Job  Expire (Free)"
+msgstr ""
+
+msgid "Featured Job Expiry Days (Free)"
+msgstr ""
+
+msgid "No Of Days until Featured Resume  Expire (Free)"
+msgstr ""
+
+msgid "Featured Resume Expiry Days (Free)"
+msgstr ""
+
+msgid "No Of Days until Featured Resume  Expire (per-listing)"
+msgstr ""
+
+msgid "Featured Resume Expiry Days (per-listing)"
+msgstr ""
+
+msgid "No Of Days until Job  Expire (Free)"
+msgstr ""
+
+msgid "Job Expiry Days (Free)"
+msgstr ""
+
+msgid "Facebook likes"
+msgstr ""
+
+msgid "Facebook share"
+msgstr ""
+
+msgid "Facebook comments"
+msgstr ""
+
+msgid "Google likes"
+msgstr ""
+
+msgid "Google share"
+msgstr ""
+
+msgid "Blogger"
+msgstr ""
+
+msgid "Digg"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Myspace"
+msgstr ""
+
+msgid "Yahoo"
+msgstr ""
+
+msgid "Facebook user can login in WP JOB PORTAL"
+msgstr ""
+
+msgid "Job apply with facebook"
+msgstr ""
+
+msgid "Facebook user can apply to jobs"
+msgstr ""
+
+msgid "API key"
+msgstr ""
+
+msgid "API key is required for facebook app"
+msgstr ""
+
+msgid "Secret"
+msgstr ""
+
+msgid "Linkedin user can login in WP JOB PORTAL"
+msgstr ""
+
+msgid "Job apply with linkedin"
+msgstr ""
+
+msgid "Linkedin user can apply to jobs"
+msgstr ""
+
+msgid "API key is required for linkedin app"
+msgstr ""
+
+msgid "Xing user can login in WP JOB PORTAL"
+msgstr ""
+
+msgid "Job apply with xing"
+msgstr ""
+
+msgid "Xing user can apply to jobs"
+msgstr ""
+
+msgid "API key is required for xing app"
+msgstr ""
+
+msgid "Must provide title for job feed"
+msgstr ""
+
+msgid "Must provide description for job feed"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "Leave blank to hide"
+msgstr ""
+
+msgid "Editor"
+msgstr ""
+
+msgid "Leave blank to hide editor used for feed content issue"
+msgstr ""
+
+msgid "Time to live"
+msgstr ""
+
+msgid "Time to live for job feed"
+msgstr ""
+
+msgid "Webmaster"
+msgstr ""
+
+msgid "Leave blank to hide webmaster used for technical issue"
+msgstr ""
+
+msgid "Job block"
+msgstr ""
+
+msgid "Show with categories"
+msgstr ""
+
+msgid "Use rss categories with our job categories"
+msgstr ""
+
+msgid "Company image"
+msgstr ""
+
+msgid "Show company logo with job feeds"
+msgstr ""
+
+msgid "Must provide title for resume feed"
+msgstr ""
+
+msgid "Must provide description for resume feed"
+msgstr ""
+
+msgid "Time to live for resume feed"
+msgstr ""
+
+msgid "Resume block"
+msgstr ""
+
+msgid "Use rss categories with our resume categories"
+msgstr ""
+
+msgid "Show resume file"
+msgstr ""
+
+msgid "Show resume files to downloadable from feed"
+msgstr ""
+
+msgid "Show login/logout button on employer control panel"
+msgstr ""
+
+msgid "Show login logout button in job seeker control panel"
+msgstr ""
+
+msgid "Only section that have value"
+msgstr ""
+
+msgid "All sections"
+msgstr ""
+
+msgid "Select Option"
+msgstr ""
+
+msgid "All Fields"
+msgstr ""
+
+msgid "Only filled fields"
+msgstr ""
+
+msgid "Employer Configurations"
+msgstr ""
+
+msgid "Enable Employer Area"
+msgstr ""
+
+msgid "If no then front end employer area is not accessable"
+msgstr ""
+
+msgid "Allow user to register as employer"
+msgstr ""
+
+msgid "effects on user registration"
+msgstr ""
+
+msgid "Employer can view job seeker area"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Featured companies are allowed in plugin"
+msgstr ""
+
+msgid "Featured jobs are allowed in plugin"
+msgstr ""
+
+msgid "Company logo maximum size"
+msgstr ""
+
+msgid "Show resume contact detail"
+msgstr ""
+
+msgid "effect on credits system"
+msgstr ""
+
+msgid "If no then credits will be taken to view contact detail"
+msgstr ""
+
+msgid "Show count in resume categories"
+msgstr ""
+
+msgid "Allow save search"
+msgstr ""
+
+msgid "User can save search criteria"
+msgstr ""
+
+msgid "Email Alert To Employer On Resume Apply"
+msgstr ""
+
+msgid "What to include in email"
+msgstr ""
+
+msgid "All fields are included in employer email content or only filled fields"
+msgstr ""
+
+msgid "auto approve"
+msgstr ""
+
+msgid "Company Settings"
+msgstr ""
+
+msgid "Effects on jobs listing and view company page"
+msgstr ""
+
+msgid "Effects on view company page"
+msgstr ""
+
+msgid "Effects on company listing and view company page"
+msgstr ""
+
+msgid "View Company Jobs"
+msgstr ""
+
+msgid "Company URL"
+msgstr ""
+
+msgid "User Messages"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Jobseeker Configurations"
+msgstr ""
+
+msgid "Email Alert"
+msgstr ""
+
+msgid "Enable featured resume"
+msgstr ""
+
+msgid "Featured resume are allowed in plugin"
+msgstr ""
+
+msgid "Show company contact detail"
+msgstr ""
+
+msgid "Show apply button"
+msgstr ""
+
+msgid "Controls the visibility of apply now button in plugin"
+msgstr ""
+
+msgid "Show applied resume status"
+msgstr ""
+
+msgid "Show count in jobs by categories page"
+msgstr ""
+
+msgid "Show count in jobs by types page"
+msgstr ""
+
+msgid "Job alert for visitor"
+msgstr ""
+
+msgid "Job short list"
+msgstr ""
+
+msgid "Job short list setting effects on jobs listing page"
+msgstr ""
+
+msgid "Tell a friend setting effects on jobs listing page"
+msgstr ""
+
+msgid "Document file extensions"
+msgstr ""
+
+msgid "Document file extensions allowed"
+msgstr ""
+
+msgid "Resume file maximum size"
+msgstr ""
+
+msgid "System will not upload if resume file size exceeds than given size"
+msgstr ""
+
+msgid "Number of files for resume"
+msgstr ""
+
+msgid "Maximum number of files that job seeker can upload in resume"
+msgstr ""
+
+msgid "Resume photo maximum size "
+msgstr ""
+
+msgid "Number of employers allowed"
+msgstr ""
+
+msgid "Maximum number of employers allowed in resume"
+msgstr ""
+
+msgid "Number of institutes allowed"
+msgstr ""
+
+msgid "Maximum number of institutes allowed in resume"
+msgstr ""
+
+msgid "Number of languages allowed"
+msgstr ""
+
+msgid "Maximum number of languages allowed in resume"
+msgstr ""
+
+msgid "Number of addresses allowed"
+msgstr ""
+
+msgid "Maximum number of addresses allowed in resume"
+msgstr ""
+
+msgid "Credits Log"
+msgstr ""
+
+msgid "Listing Style"
+msgstr ""
+
+msgid "Search icon position"
+msgstr ""
+
+msgid "Postion for search icon on jobs listing page."
+msgstr ""
+
+msgid "Show featured jobs"
+msgstr ""
+
+msgid "Show featured jobs in jobs lising page"
+msgstr ""
+
+msgid "Show Total Number Of jobs"
+msgstr ""
+
+msgid "Show total number of jobs in jobs lising page"
+msgstr ""
+
+msgid "Number of featured jobs"
+msgstr ""
+
+msgid "Number of featured job show per scroll"
+msgstr ""
+
+msgid "Show labels in jobs listing"
+msgstr ""
+
+msgid "Show labels in jobs listings, my jobs etc"
+msgstr ""
+
+msgid "Indeed Jobs"
+msgstr ""
+
+msgid "Show Indeed jobs on jobs listings"
+msgstr ""
+
+msgid "Number of jobs before showing indeed jobs"
+msgstr ""
+
+msgid "How many plugin jobs show before indeed jobs"
+msgstr ""
+
+msgid "Number of Indeed jobs per page"
+msgstr ""
+
+msgid "Number of Indeed Jobs per scroll"
+msgstr ""
+
+msgid "Comma separated list of categories i.e Accounting, Management etc"
+msgstr ""
+
+msgid "Location format must be country, state, city"
+msgstr ""
+
+msgid "Job types"
+msgstr ""
+
+msgid "Comma separated list of job types i.e full time, part time etc"
+msgstr ""
+
+msgid "Career Builder"
+msgstr ""
+
+msgid "Show Career Builder jobs in job listings"
+msgstr ""
+
+msgid "Number of jobs before showing Career Builder jobs"
+msgstr ""
+
+msgid "How many plugin jobs show before career builder jobs"
+msgstr ""
+
+msgid "Number of Career Builder jobs per page"
+msgstr ""
+
+msgid "Number of Career Builder jobs per scroll"
+msgstr ""
+
+msgid "Country Code"
+msgstr ""
+
+msgid "Comma separated list of country codes"
+msgstr ""
+
+msgid "Comma separated list of job types i.e JTFT, JTPT, JTFP, JTCT, JTIN "
+msgstr ""
+
+msgid "Full-time"
+msgstr ""
+
+msgid "Part-time"
+msgstr ""
+
+msgid "Full-time/part-time"
+msgstr ""
+
+msgid "Contractant"
+msgstr ""
+
+msgid "Stagiair"
+msgstr ""
+
+msgid "states"
+msgstr ""
+
+msgid "cities"
+msgstr ""
+
+msgid "Has states"
+msgstr ""
+
+msgid "Has cities"
+msgstr ""
+
+msgid "Currency Code"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Currency Symbol"
+msgstr ""
+
+msgid "Parent Field"
+msgstr ""
+
+msgid "Add User Field"
+msgstr ""
+
+msgid "Radio Button"
+msgstr ""
+
+msgid "Field Type"
+msgstr ""
+
+msgid "Field Title"
+msgstr ""
+
+msgid "Show on listing"
+msgstr ""
+
+msgid "Section cannot be changeable in edit case"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Place Holder"
+msgstr ""
+
+msgid "Use enter key to separate options"
+msgstr ""
+
+msgid "User Field"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "User Search"
+msgstr ""
+
+msgid "Visitor Search"
+msgstr ""
+
+msgid "Go"
+msgstr ""
+
+msgid "unpublished"
+msgstr ""
+
+msgid "User Fields"
+msgstr ""
+
+msgid "Field Name"
+msgstr ""
+
+msgid "Read Only"
+msgstr ""
+
+msgid "Pending Due to Payment"
+msgstr ""
+
+msgid "Company Detail"
+msgstr ""
+
+msgid "rejected for featured"
+msgstr ""
+
+msgid "approved for featured"
+msgstr ""
+
+msgid "removed for featured"
+msgstr ""
+
+msgid "pending for featured"
+msgstr ""
+
+msgid "Removed"
+msgstr ""
+
+msgid "Due to rejection of job you do not have permission to see job detail"
+msgstr ""
+
+msgid "click here to edit job"
+msgstr ""
+
+msgid " Admin"
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Parameters"
+msgstr ""
+
+msgid "Employer name"
+msgstr ""
+
+msgid "Company status for approve,reject,pending"
+msgstr ""
+
+msgid "Company approve or reject"
+msgstr ""
+
+msgid "Gold"
+msgstr ""
+
+msgid "Company Owner Name"
+msgstr ""
+
+msgid "Job seeker name"
+msgstr ""
+
+msgid "Job link"
+msgstr ""
+
+msgid "Job  approve or reject"
+msgstr ""
+
+msgid "Role for employer"
+msgstr ""
+
+msgid "Employer control panel link"
+msgstr ""
+
+msgid "Role for job seeker"
+msgstr ""
+
+msgid "Job seeker control panel link"
+msgstr ""
+
+msgid "Resume data"
+msgstr ""
+
+msgid "Resume curent status"
+msgstr ""
+
+msgid "Cover letter title"
+msgstr ""
+
+msgid "Cover letter description"
+msgstr ""
+
+msgid "Resume link"
+msgstr ""
+
+msgid "Resume  approve or reject"
+msgstr ""
+
+msgid "Applied resume status"
+msgstr ""
+
+msgid "Agency name"
+msgstr ""
+
+msgid "Package title"
+msgstr ""
+
+msgid "Package price"
+msgstr ""
+
+msgid "View package"
+msgstr ""
+
+msgid "Publish status"
+msgstr ""
+
+msgid "new"
+msgstr ""
+
+msgid "status"
+msgstr ""
+
+msgid "buy credits pack"
+msgstr ""
+
+msgid "expire package"
+msgstr ""
+
+msgid "job apply"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "resume "
+msgstr ""
+
+msgid "by visitor"
+msgstr ""
+
+msgid "Applied resume status change"
+msgstr ""
+
+msgid "Package Purchase Admin"
+msgstr ""
+
+msgid "Package Status"
+msgstr ""
+
+msgid "Package Purchase"
+msgstr ""
+
+msgid "Job Seeker Visitor"
+msgstr ""
+
+msgid "Employer Visitor"
+msgstr ""
+
+msgid "send email"
+msgstr ""
+
+msgid "dont send email"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid "Send email"
+msgstr ""
+
+msgid "Dont send email"
+msgstr ""
+
+msgid "Go Back To Home"
+msgstr ""
+
+msgid "Edit profile"
+msgstr ""
+
+msgid "Short Links"
+msgstr ""
+
+msgid "posted jobs"
+msgstr ""
+
+msgid "Posted Jobs"
+msgstr ""
+
+msgid "View Detail"
+msgstr ""
+
+msgid "applied resume"
+msgstr ""
+
+msgid "my company"
+msgstr ""
+
+msgid "My Company"
+msgstr ""
+
+msgid "Recent Application's"
+msgstr ""
+
+msgid "User image"
+msgstr ""
+
+msgid "My jobs"
+msgstr ""
+
+msgid "Add job"
+msgstr ""
+
+msgid "Resume by categories"
+msgstr ""
+
+msgid "Resumes by categories"
+msgstr ""
+
+msgid "Resumes By Categories"
+msgstr ""
+
+msgid "add user fields"
+msgstr ""
+
+msgid "required"
+msgstr ""
+
+msgid "not required"
+msgstr ""
+
+msgid "Select status"
+msgstr ""
+
+msgid "References"
+msgstr ""
+
+msgid "Add New Education"
+msgstr ""
+
+msgid "Educations"
+msgstr ""
+
+msgid "JS multi city"
+msgstr ""
+
+msgid "JS search all"
+msgstr ""
+
+msgid "JS_SEARCH_ALL"
+msgstr ""
+
+msgid "JS From"
+msgstr ""
+
+msgid "JS To"
+msgstr ""
+
+msgid "You do not have any Job Apply remaining"
+msgstr ""
+
+msgid "Job Information"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Full Detail"
+msgstr ""
+
+msgid "Something got wrong 1"
+msgstr ""
+
+msgid "Job Approval Queue"
+msgstr ""
+
+msgid "Job Copied Successfully"
+msgstr ""
+
+msgid "If Any Other Experience"
+msgstr ""
+
+msgid "Select some options"
+msgstr ""
+
+msgid "Type in city name"
+msgstr ""
+
+msgid "Job Has Been Feature SuccessFully"
+msgstr ""
+
+msgid "Salary"
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Salary Type"
+msgstr ""
+
+msgid "Not publish"
+msgstr ""
+
+msgid "Edit Job"
+msgstr ""
+
+msgid "Delete Job"
+msgstr ""
+
+msgid "wjportal-filter-search-input-field"
+msgstr ""
+
+msgid "ago"
+msgstr ""
+
+msgid "Degree Title"
+msgstr ""
+
+msgid "Apply Before"
+msgstr ""
+
+msgid "category"
+msgstr ""
+
+msgid "created"
+msgstr ""
+
+msgid "end date"
+msgstr ""
+
+msgid "Closes"
+msgstr ""
+
+msgid "You Already Applied to this job "
+msgstr ""
+
+msgid "Total Jobs"
+msgstr ""
+
+msgid "Remaining Job"
+msgstr ""
+
+msgid "Current Salary"
+msgstr ""
+
+msgid "Applied Info"
+msgstr ""
+
+msgid "No Record Found"
+msgstr ""
+
+msgid "Something wrong pleas try later"
+msgstr ""
+
+msgid "Apply With Resume"
+msgstr ""
+
+msgid "You do not have any resume!"
+msgstr ""
+
+msgid "You are employer, you can not apply to job"
+msgstr ""
+
+msgid "You do not have any role"
+msgstr ""
+
+msgid "Apply as visitor"
+msgstr ""
+
+msgid "please select a resume first"
+msgstr ""
+
+msgid "You have already applied this job"
+msgstr ""
+
+msgid "Job has been Pending Due to Payment"
+msgstr ""
+
+msgid "Sender Email"
+msgstr ""
+
+msgid "Cell"
+msgstr ""
+
+msgid "Work preference"
+msgstr ""
+
+msgid "Institution Name"
+msgstr ""
+
+msgid "Cert/deg/oth"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "From Date"
+msgstr ""
+
+msgid "To Date"
+msgstr ""
+
+msgid "Language Name"
+msgstr ""
+
+msgid "Email has been send"
+msgstr ""
+
+msgid "Email has not been send"
+msgstr ""
+
+msgid "Please fill the subject"
+msgstr ""
+
+msgid "Message sent"
+msgstr ""
+
+msgid "Message not sent"
+msgstr ""
+
+msgid "JS invalid email"
+msgstr ""
+
+msgid "JS your email is required"
+msgstr ""
+
+msgid "Note have been saved successfully"
+msgstr ""
+
+msgid "Failed while performing action"
+msgstr ""
+
+msgid "Error sending email"
+msgstr ""
+
+msgid "Failed While Performing Action"
+msgstr ""
+
+msgid "Resume Applied On Job"
+msgstr ""
+
+msgid "view profile"
+msgstr ""
+
+msgid "View Profile"
+msgstr ""
+
+msgid "Desired Salary"
+msgstr ""
+
+msgid "Job View"
+msgstr ""
+
+msgid "Applied"
+msgstr ""
+
+msgid "Number of jobs in last six months"
+msgstr ""
+
+msgid "my resume"
+msgstr ""
+
+msgid "applied job"
+msgstr ""
+
+msgid "newest jobs"
+msgstr ""
+
+msgid "Newest Job"
+msgstr ""
+
+msgid "view detail"
+msgstr ""
+
+msgid "Jobs Applied Recently"
+msgstr ""
+
+msgid "view all"
+msgstr ""
+
+msgid "Total resume"
+msgstr ""
+
+msgid "register"
+msgstr ""
+
+msgid "my applied jobs"
+msgstr ""
+
+msgid "search job"
+msgstr ""
+
+msgid "jobs by categories"
+msgstr ""
+
+msgid "jobs by types"
+msgstr ""
+
+msgid "edit resume"
+msgstr ""
+
+msgid "add resume"
+msgstr ""
+
+msgid "logout"
+msgstr ""
+
+msgid "Profile image"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "no default"
+msgstr ""
+
+msgid "Jobs data has been successfully imported"
+msgstr ""
+
+msgid "Select the demo data to import"
+msgstr ""
+
+msgid "Select demo"
+msgstr ""
+
+msgid "What to do with previous demo data"
+msgstr ""
+
+msgid "All the content of previus demo data will be deleted."
+msgstr ""
+
+msgid "Import Sample Data"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Sample Data"
+msgstr ""
+
+msgid "Insert Sample Data"
+msgstr ""
+
+msgid "jobseeker"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Job Seeker Menu"
+msgstr ""
+
+msgid "Employer Menu"
+msgstr ""
+
+msgid "Job Hub Sample Data"
+msgstr ""
+
+msgid "back"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "finish"
+msgstr ""
+
+msgid "Finish"
+msgstr ""
+
+msgid "DD MM YYYY"
+msgstr ""
+
+msgid "MM DD YYYY"
+msgstr ""
+
+msgid "YYYY MM DD"
+msgstr ""
+
+msgid "General Configurations"
+msgstr ""
+
+msgid "System email address"
+msgstr ""
+
+msgid "Email from name"
+msgstr ""
+
+msgid "Default date format"
+msgstr ""
+
+msgid "next"
+msgstr ""
+
+msgid "Position for search icon on jobs listing page"
+msgstr ""
+
+msgid "Resume auto approve"
+msgstr ""
+
+msgid "Allow user register as employer"
+msgstr ""
+
+msgid "Effects on user registration"
+msgstr ""
+
+msgid "Company auto approve"
+msgstr ""
+
+msgid "Job auto approve"
+msgstr ""
+
+msgid "Demo data has been successfully imported"
+msgstr ""
+
+msgid "Please select the right demo data to import"
+msgstr ""
+
+msgid "Free Version"
+msgstr ""
+
+msgid "Import Data"
+msgstr ""
+
+msgid "Pro Version"
+msgstr ""
+
+msgid "Free To Pro Updated"
+msgstr ""
+
+msgid "Click Here To Go Control Panel"
+msgstr ""
+
+msgid "Click Here To Go Template Options"
+msgstr ""
+
+msgid "Please insert activation key to proceed"
+msgstr ""
+
+msgid "Addon Installation Failed"
+msgstr ""
+
+msgid "Addon installation failed, Directory permission error"
+msgstr ""
+
+msgid "Addon Installation Failed, File download error"
+msgstr ""
+
+msgid "Addon's List and Features"
+msgstr ""
+
+msgid "Add-On’s For Job Portal"
+msgstr ""
+
+msgid "buy now"
+msgstr ""
+
+msgid "Advance Resume Builder"
+msgstr ""
+
+msgid "Featured Company"
+msgstr ""
+
+msgid "Featured Job"
+msgstr ""
+
+msgid "Resume Action"
+msgstr ""
+
+msgid "Multi Company"
+msgstr ""
+
+msgid "Front-end Widgets"
+msgstr ""
+
+msgid "Multi Resume"
+msgstr ""
+
+msgid "Report's"
+msgstr ""
+
+msgid "Rss Feed"
+msgstr ""
+
+msgid "Shortlist"
+msgstr ""
+
+msgid "Tell Friend"
+msgstr ""
+
+msgid "Themes"
+msgstr ""
+
+msgid "Visitor Apply Job"
+msgstr ""
+
+msgid "Visitor Add Job"
+msgstr ""
+
+msgid "Plugin Color"
+msgstr ""
+
+msgid "Premium Addons"
+msgstr ""
+
+msgid "addon in no longer active"
+msgstr ""
+
+msgid "WP Job Portal Addon Installer"
+msgstr ""
+
+msgid "Wordpress Plugin"
+msgstr ""
+
+msgid "Add on list"
+msgstr ""
+
+msgid "Please Insert Your Activation key"
+msgstr ""
+
+msgid "Activation key"
+msgstr ""
+
+msgid "Select Addons for download"
+msgstr ""
+
+msgid "All allowed add-ons are already installed"
+msgstr ""
+
+msgid "You are not allowed to install any add on"
+msgstr ""
+
+msgid "Select All Addons"
+msgstr ""
+
+msgid "Add ons installed and activated successfully"
+msgstr ""
+
+msgid "Total Companies"
+msgstr ""
+
+msgid "Report By Job Categories"
+msgstr ""
+
+msgid "Report By Resume Categories"
+msgstr ""
+
+msgid "Report By Job Cities"
+msgstr ""
+
+msgid "Report By Company Cities"
+msgstr ""
+
+msgid "Report By Resume Cities"
+msgstr ""
+
+msgid "Report By Job Types"
+msgstr ""
+
+msgid "Report By Resume Types"
+msgstr ""
+
+msgid "Over All"
+msgstr ""
+
+msgid "select.genericList"
+msgstr ""
+
+msgid "Section has been deleted"
+msgstr ""
+
+msgid "Error deleting section"
+msgstr ""
+
+msgid "You do not have any View Resume Contact remaining"
+msgstr ""
+
+msgid "View Contact Resume"
+msgstr ""
+
+msgid "Resume Queue"
+msgstr ""
+
+msgid "Are you sure to force delete"
+msgstr ""
+
+msgid "Resume Approve"
+msgstr ""
+
+msgid "All Approve"
+msgstr ""
+
+msgid "Resume Reject"
+msgstr ""
+
+msgid "All Reject"
+msgstr ""
+
+msgid "Modified Date"
+msgstr ""
+
+msgid "Your Profile Status"
+msgstr ""
+
+msgid " Profile Status"
+msgstr ""
+
+msgid "Home Slug"
+msgstr ""
+
+msgid "This prefix will be added to slug incase of homepage links"
+msgstr ""
+
+msgid "This prefix will be added to slug incase of conflict"
+msgstr ""
+
+msgid "Search By Slug"
+msgstr ""
+
+msgid "Slug List"
+msgstr ""
+
+msgid "This button will only save slugs on current page"
+msgstr ""
+
+msgid "Add New State"
+msgstr ""
+
+msgid "Error Log"
+msgstr ""
+
+msgid "add job"
+msgstr ""
+
+msgid "popup cross"
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+msgid "Assign role"
+msgstr ""
+
+msgid "Change Role"
+msgstr ""
+
+msgid "User Details"
+msgstr ""
+
+msgid "User Stats Companies"
+msgstr ""
+
+msgid "Job Approved"
+msgstr ""
+
+msgid "Job Rejected"
+msgstr ""
+
+msgid "User Stats Jobs"
+msgstr ""
+
+msgid "User Stats Resume"
+msgstr ""
+
+msgid "User Stats"
+msgstr ""
+
+msgid "Word Press user login"
+msgstr ""
+
+msgid "Start publishing"
+msgstr ""
+
+msgid "Stop publishing"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "change role"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Job Applies"
+msgstr ""
+
+msgid "user name"
+msgstr ""
+
+msgid "Password Again"
+msgstr ""
+
+msgid "Password again"
+msgstr ""
+
+msgid "Register New Account"
+msgstr ""
+
+msgid "Today Jobs"
+msgstr ""
+
+msgid "Newest Companies"
+msgstr ""
+
+msgid "Newest Applied Jobs"
+msgstr ""
+
+msgid "Oops..."
+msgstr ""
+
+msgid "Record Not Found"
+msgstr ""
+
+msgid "Applicant"
+msgstr ""
+
+msgid "Applied Date"
+msgstr ""
+
+msgid "Dir is not writable"
+msgstr ""
+
+msgid "Unable to connect to server"
+msgstr ""
+
+msgid "Language is not installed"
+msgstr ""
+
+msgid "Language directory is not writeable"
+msgstr ""
+
+msgid "Required language is not installed but similar language[s] like"
+msgstr ""
+
+msgid "is found in your system"
+msgstr ""
+
+msgid "Language code"
+msgstr ""
+
+msgid "Empty values"
+msgstr ""
+
+msgid "Language directory is not writable"
+msgstr ""
+
+msgid "File is not writable"
+msgstr ""
+
+msgid "File Downloaded Successfully"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "configuartion"
+msgstr ""
+
+msgid "Configuartion"
+msgstr ""
+
+msgid "arrow"
+msgstr ""
+
+msgid "trannslations"
+msgstr ""
+
+msgid "Trannslations"
+msgstr ""
+
+msgid "premium add ons"
+msgstr ""
+
+msgid "Premium Add Ons"
+msgstr ""
+
+msgid "Install Now"
+msgstr ""
+
+msgid "Premium Addons List & Features"
+msgstr ""
+
+msgid "The best support system plugin for WordPress has everything you need."
+msgstr ""
+
+msgid "Add-Ons List"
+msgstr ""
+
+msgid "Add New Addons"
+msgstr ""
+
+msgid "addon"
+msgstr ""
+
+msgid "Latest Jobs"
+msgstr ""
+
+msgid "view all jobs"
+msgstr ""
+
+msgid "Latest Resume"
+msgstr ""
+
+msgid "Addons"
+msgstr ""
+
+msgid "address data"
+msgstr ""
+
+msgid "social login"
+msgstr ""
+
+msgid "visitor apply job"
+msgstr ""
+
+msgid "featured company"
+msgstr ""
+
+msgid "department"
+msgstr ""
+
+msgid "feature resume"
+msgstr ""
+
+msgid "featured job"
+msgstr ""
+
+msgid "rss feed"
+msgstr ""
+
+msgid "Message System"
+msgstr ""
+
+msgid "resume action"
+msgstr ""
+
+msgid "multi resume"
+msgstr ""
+
+msgid "resume search"
+msgstr ""
+
+msgid "shortlist"
+msgstr ""
+
+msgid "social share"
+msgstr ""
+
+msgid "tell friend"
+msgstr ""
+
+msgid "advance resume builder"
+msgstr ""
+
+msgid "visitor add job"
+msgstr ""
+
+msgid "Front-End Widgets"
+msgstr ""
+
+msgid "We'd love to hear from You."
+msgstr ""
+
+msgid "Please write appreciated review at"
+msgstr ""
+
+msgid "WP Extension Directory"
+msgstr ""
+
+msgid "Spread the word : "
+msgstr ""
+
+msgid "Social Apps"
+msgstr ""
+
+msgid "Pro Features"
+msgstr ""
+
+msgid "WP JOB PORTAL PRO FEATURES"
+msgstr ""
+
+msgid "BUY NOW"
+msgstr ""
+
+msgid "Job seeker control panel"
+msgstr ""
+
+msgid "job seeker control panel"
+msgstr ""
+
+msgid "Employer control panel"
+msgstr ""
+
+msgid "employer control panel"
+msgstr ""
+
+msgid "form"
+msgstr ""
+
+msgid "Job categories"
+msgstr ""
+
+msgid "job categories"
+msgstr ""
+
+msgid "My applied jobs"
+msgstr ""
+
+msgid "Show employer"
+msgstr ""
+
+msgid "My resume"
+msgstr ""
+
+msgid "My resumes"
+msgstr ""
+
+msgid "Employer registration"
+msgstr ""
+
+msgid "registration form"
+msgstr ""
+
+msgid "Job seeker registration"
+msgstr ""
+
+msgid "Login page"
+msgstr ""
+
+msgid "Show login page"
+msgstr ""
+
+msgid "widget"
+msgstr ""
+
+msgid "in widget style"
+msgstr ""
+
+msgid "My"
+msgstr ""
+
+msgid "All Packages"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Get WP Job Portal Translations"
+msgstr ""
+
+msgid "Get Translations"
+msgstr ""
+
+msgid "Select Translation"
+msgstr ""
+
+msgid "Contribute In Translation"
+msgstr ""
+
+msgid "Manual Download"
+msgstr ""
+
+msgid "Login into your account"
+msgstr ""
+
+msgid "keep me login"
+msgstr ""
+
+msgid "0 $"
+msgstr ""
+
+msgid " / Per Month"
+msgstr ""
+
+msgid "plus icon"
+msgstr ""
+
+msgid "all jobs"
+msgstr ""
+
+msgid "All Jobs"
+msgstr ""
+
+msgid "reset all"
+msgstr ""
+
+msgid "Reset All"
+msgstr ""
+
+msgid "Shifts"
+msgstr ""
+
+msgid "add new shift"
+msgstr ""
+
+msgid "Add New Shift"
+msgstr ""
+
+msgid "add new age"
+msgstr ""
+
+msgid "Add New Age"
+msgstr ""
+
+msgid "Experiences"
+msgstr ""
+
+msgid "add new experience"
+msgstr ""
+
+msgid "Add New Experience"
+msgstr ""
+
+msgid "Resume Approval Queue"
+msgstr ""
+
+msgid "Jobs Approval Queue"
+msgstr ""
+
+msgid "add new city"
+msgstr ""
+
+msgid "add new education"
+msgstr ""
+
+msgid "add new state"
+msgstr ""
+
+msgid "Edit Package"
+msgstr ""
+
+msgid "Post a Job"
+msgstr ""
+
+msgid "Login "
+msgstr ""
+
+msgid "Department Detail"
+msgstr ""
+
+msgid "Jobs By Catagories"
+msgstr ""
+
+msgid "Register Your Account"
+msgstr ""
+
+msgid "Resume By Category"
+msgstr ""
+
+msgid "Pay per listing price to publish your "
+msgstr ""
+
+msgid "Job Alert Info"
+msgstr ""
+
+msgid "Resume Saved Searches"
+msgstr ""
+
+msgid " Packages"
+msgstr ""
+
+msgid "Job By Types"
+msgstr ""
+
+msgid "You have insufficient credits, you can not perform this action"
+msgstr ""
+
+msgid "Please Accept Terms And Conditions So You Can Proceed"
+msgstr ""
+
+msgid "Lost your password"
+msgstr ""
+
+msgid "Activated"
+msgstr ""
+
+msgid "Active Now"
+msgstr ""
+
+msgid "Location Format Is Not Correct Please Enter City In This Format City Name Country Name Or City Name State Name Country Name"
+msgstr ""
+
+msgid "Credits will only be deducted if you select a resume and click Apply Now on next popup."
+msgstr ""
+
+msgid "Unfortunately sytem is offline for a bit of maintenance right now. But soon we will be up."
+msgstr ""
+
+msgid "Registration is disabled by admin, please contact to system administrator !..."
+msgstr ""
+
+msgid "Location format is not correct please enter city in this format city name, country name"
+msgstr ""
+
+msgid "Select WP JOB PORTAL default page, on action system will redirect on selected page. If not select default page, email links and support icon might not work."
+msgstr ""
+
+msgid "If no is selected then only categories that have jobs or resumes will be shown on jobs,resumes by categories layout"
+msgstr ""
+
+msgid "This configuration controls whethre new user will get free package (if free package exsist in the system)"
+msgstr ""
+
+msgid "This configuration controls whether user can be free package more than once"
+msgstr ""
+
+msgid "This configuration controls whether free package will be auto approve or not"
+msgstr ""
+
+msgid "whenever anyone registers as employer he will be redirected to this page"
+msgstr ""
+
+msgid "whenever anyone registers as job seeker, he will be redirected to this page"
+msgstr ""
+
+msgid "All sections are included in employer email content or only sections that have value"
+msgstr ""
+
+msgid "This option is only valid if employer selected send resume data in email settings while posting job"
+msgstr ""
+
+msgid "Due to pending status of job you do not have permission to see job detail"
+msgstr ""
+
+msgid "Due to rejection of resume you do not have permission to see resume detail"
+msgstr ""
+
+msgid "Due to pending status of resume you do not have permission to see resume detail"
+msgstr ""
+
+msgid "if yes is selected then pages and menus of job manager template will be cretaed and published."
+msgstr ""
+
+msgid "Select WP Job Portal default page, on action system will redirect on selected page."
+msgstr ""
+
+msgid "If not select default page, email links and support icon might not work."
+msgstr ""
+
+msgid "This add-on offers to job seekers create a resume with multiple options like multiple addresses, institutions, employers, references and skills."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for an employer to copy their jobs. Employers can copy their jobs easily."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for admin to add multiple credit system against particular actions. Admin can add multiple packages against particular actions."
+msgstr ""
+
+msgid "Advance custom fields add-on offers to admin add new custom fields like combo, checkbox, radio button, email and dependent fields."
+msgstr ""
+
+msgid "WP Job Manager offers a feature for Employer and Job Seeker in which they can export Resume information in the form of an excel file easily."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for making the jobs as Featured Job. This will help to make it easier for jobseekers to find jobs."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for employers to make folders. Employers can make a folder and copy their resumes into the folders."
+msgstr ""
+
+msgid "WP Job Portal allows registered users to save their job searches and create alerts that send new jobs via email daily, weekly or fortnightly."
+msgstr ""
+
+msgid "WP Job Portal offer a feature for Employer and Job Seekers , which allows them to take PDF of Resume and can save it."
+msgstr ""
+
+msgid "WP Job Portal offers a Resume and print feature. Employer and Job Seeker can view the Resume page or take a print of the Resume."
+msgstr ""
+
+msgid "WP Job Portal offers multiple reports by jobs, by companies and by resume. Admin can see overall reports of Employer and Job Seeker."
+msgstr ""
+
+msgid "WP Job Portal offers a jobs share feature on various social media sites for Employers and Job Seekers."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for searching the jobs by tags. Employers will add some tags related to jobs search."
+msgstr ""
+
+msgid "WP Job Portal offers a feature in which Employer and Job Seekers can share and tell their friends about Jobs by sending them an email."
+msgstr ""
+
+msgid "Visitor add job add-on offers guests can add job in the system without logged in the system."
+msgstr ""
+
+msgid "WP Job Portal is a trusted open source ticket system. WP Job Portal is a simple, easy to use, web-based customer support system. Users can create a ticket from the front-end. WP Job Portal comes packed with lot features than most of the expensive(and complex) support ticket system on the market. The best part is, It completely free."
+msgstr ""
+
+msgid "Add ons for WP Job Portal have been installed and activated successfully."
+msgstr ""
+
+msgid "WP Job Portal offers 75,000+ world cities database. Employers and job seekers can easily type and select cities."
+msgstr ""
+
+msgid "WP Job Portal allows logins from social media. Employer and Job Seekers login into WP Jobs Portal by using their social media Logins."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for visitors. No need to create a account, job seeker apply to any available job as a visitor."
+msgstr ""
+
+msgid "WP Job Portal offers a useful feature for employers to control all his companies in a single account."
+msgstr ""
+
+msgid "WP Job Portal offers an outstanding feature for employers to mark their company as featured. Featured companies shows top of companies list."
+msgstr ""
+
+msgid "WP Job Portal offers this feature to Employes to add multiple departments to better manage his jobs. Job seeker apply to the desired department jobs."
+msgstr ""
+
+msgid "WP Job Portal helps job seekers to make any of his resume as Featured Resume."
+msgstr ""
+
+msgid "WP Job Portal offers Real Simple Syndication (RSS) to set feeds for the jobs. Everyone can get jobs RSS just by clicking on icon."
+msgstr ""
+
+msgid "WP Job Portal offers a message system for Employers and Job Seekers. Employers initiate messages on any applied resume."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for employers to perform some actions on resumes. Employer mark shortlisted, hired, spam, add a note on the applied resume."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for the job seeker to add multiple resumes. Job seeker have a choice on which job which resume to apply."
+msgstr ""
+
+msgid "This add-on offers to the employer to search the resume in the system with multiple criteria."
+msgstr ""
+
+msgid "WP Job Portal will help job seekers to shortlist their desired jobs. All shortlisted jobs are available in job seeker dashboard."
+msgstr ""
+
+msgid "Cron job adon offers to reduce dependencies on WordPress cron job and support Hosting Panel cron job for WP Job Portal tasks."
+msgstr ""
+
+msgid "Widgets in WordPress allow you to add content and features in the widgetized areas of your theme."
+msgstr ""
+
+msgid "When WordPress language change to ro, WP Job Portal language will auto change to ro"
+msgstr ""
+
+msgid "Data has been uploaded successfully"
+msgstr ""
+
+msgid "Data has not been uploaded"
+msgstr ""
+
+msgid "Click here to continue"
+msgstr ""
+
+msgid "Address Data Update"
+msgstr ""
+
+msgid "LOADING"
+msgstr ""
+
+msgid "Backup"
+msgstr ""
+
+msgid "Importing New Data"
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "Download From Joomsky website"
+msgstr ""
+
+msgid "download"
+msgstr ""
+
+msgid "Kept Data"
+msgstr ""
+
+msgid "Discard Old Data"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "My File"
+msgstr ""
+
+msgid "Joomsky File"
+msgstr ""
+
+msgid "Data Contain"
+msgstr ""
+
+msgid "States and cities"
+msgstr ""
+
+msgid "Make sure you did not changed country id or state id in database"
+msgstr ""
+
+msgid "Choose File"
+msgstr ""
+
+msgid "State id greater country id is your responsibility"
+msgstr ""
+
+msgid "Cities have no ids also state id and country id is your responsibility"
+msgstr ""
+
+msgid "Consider old countries were not edit otherwise problem may occur"
+msgstr ""
+
+msgid "load address data"
+msgstr ""
+
+msgid "Map Detail"
+msgstr ""
+
+msgid "Radius"
+msgstr ""
+
+msgid "Radius Length Type"
+msgstr ""
+
+msgid "Add Skills"
+msgstr ""
+
+msgid "There was some problem performing action"
+msgstr ""
+
+msgid "Job has been copied successfully"
+msgstr ""
+
+msgid "popup close"
+msgstr ""
+
+msgid "You do not have any job remaining"
+msgstr ""
+
+msgid "Expiry"
+msgstr ""
+
+msgid "Add To Job"
+msgstr ""
+
+msgid "Copy job"
+msgstr ""
+
+msgid "PayPal payment agreement"
+msgstr ""
+
+msgid "User cancelled subscription"
+msgstr ""
+
+msgid "package on"
+msgstr ""
+
+msgid "Invoice Details"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Property Details"
+msgstr ""
+
+msgid "Call for price"
+msgstr ""
+
+msgid "Garage Size"
+msgstr ""
+
+msgid "by"
+msgstr ""
+
+msgid "Package Details"
+msgstr ""
+
+msgid "Package Expiry"
+msgstr ""
+
+msgid "No of Agents"
+msgstr ""
+
+msgid "No of Properties"
+msgstr ""
+
+msgid "Property Expiry"
+msgstr ""
+
+msgid "Property Images"
+msgstr ""
+
+msgid "No of Featured"
+msgstr ""
+
+msgid "Featured Expiry"
+msgstr ""
+
+msgid "Renewal Discount"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Virtual Tour"
+msgstr ""
+
+msgid "Subunits"
+msgstr ""
+
+msgid "Floor Plans"
+msgstr ""
+
+msgid "Property"
+msgstr ""
+
+msgid "Select Currency"
+msgstr ""
+
+msgid "Select Type"
+msgstr ""
+
+msgid "user"
+msgstr ""
+
+msgid "Not published"
+msgstr ""
+
+msgid "You do not have any Department remaining"
+msgstr ""
+
+msgid "Add To Featured Company"
+msgstr ""
+
+msgid "Action For"
+msgstr ""
+
+msgid "Cost"
+msgstr ""
+
+msgid "both"
+msgstr ""
+
+msgid "employer MISC."
+msgstr ""
+
+msgid "Misc."
+msgstr ""
+
+msgid "Not Published"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "You can define expiry date of action. i.e"
+msgstr ""
+
+msgid "Job will be expire in 30 days"
+msgstr ""
+
+msgid "Gold job will be expire in 30 days"
+msgstr ""
+
+msgid "Expire in Days"
+msgstr ""
+
+msgid "will be expire"
+msgstr ""
+
+msgid "How much credits required for"
+msgstr ""
+
+msgid "Invalid Entry"
+msgstr ""
+
+msgid "Message History"
+msgstr ""
+
+msgid "Administrator sent"
+msgstr ""
+
+msgid "Job seeker sent"
+msgstr ""
+
+msgid "Employer sent"
+msgstr ""
+
+msgid "You sent"
+msgstr ""
+
+msgid "read"
+msgstr ""
+
+msgid "Unread"
+msgstr ""
+
+msgid "Credits Pack"
+msgstr ""
+
+msgid "off"
+msgstr ""
+
+msgid "Buy with"
+msgstr ""
+
+msgid "Buy now"
+msgstr ""
+
+msgid "Rate List"
+msgstr ""
+
+msgid "Admin sent"
+msgstr ""
+
+msgid "Job Seeker Name"
+msgstr ""
+
+msgid "Is Conflicted"
+msgstr ""
+
+msgid "Message Status"
+msgstr ""
+
+msgid "Message Subject"
+msgstr ""
+
+msgid "Select Plan"
+msgstr ""
+
+msgid "Please select payment method"
+msgstr ""
+
+msgid "paypal"
+msgstr ""
+
+msgid "woocommerce"
+msgstr ""
+
+msgid "stripe"
+msgstr ""
+
+msgid "Make payment recurring"
+msgstr ""
+
+msgid "Buy Now"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "Months"
+msgstr ""
+
+msgid "Package For"
+msgstr ""
+
+msgid "Is Free"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Company Section"
+msgstr ""
+
+msgid "No of Companies"
+msgstr ""
+
+msgid "No of Featured Company"
+msgstr ""
+
+msgid "Feature Company Expiry"
+msgstr ""
+
+msgid "No of View Company Contact Detail"
+msgstr ""
+
+msgid "Job Section"
+msgstr ""
+
+msgid "No of jobs"
+msgstr ""
+
+msgid "No of Feauted Jobs"
+msgstr ""
+
+msgid "Feature Job Expiry"
+msgstr ""
+
+msgid "No of Job Search"
+msgstr ""
+
+msgid "No of Job Alert"
+msgstr ""
+
+msgid "No of Job Apply"
+msgstr ""
+
+msgid "No of Resumes"
+msgstr ""
+
+msgid "No of Featured Resume"
+msgstr ""
+
+msgid "Feature Resume Expiry"
+msgstr ""
+
+msgid "No of Resume Search"
+msgstr ""
+
+msgid "No of Resume Save Search"
+msgstr ""
+
+msgid "No of View Resume Contact Detail"
+msgstr ""
+
+msgid "Departments Section"
+msgstr ""
+
+msgid "No of Departments"
+msgstr ""
+
+msgid "Payment Methods Section"
+msgstr ""
+
+msgid "Paypal Subscription"
+msgstr ""
+
+msgid "Stripe Subscription"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Loading stripe plans"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Amount Off"
+msgstr ""
+
+msgid "No of Jobs"
+msgstr ""
+
+msgid "No of Featured Jobs"
+msgstr ""
+
+msgid "No Job Alert"
+msgstr ""
+
+msgid " No of companies"
+msgstr ""
+
+msgid " No of Featured company"
+msgstr ""
+
+msgid " "
+msgstr ""
+
+msgid "No of View Company Contact"
+msgstr ""
+
+msgid "No of Resume"
+msgstr ""
+
+msgid "No of Featured Job"
+msgstr ""
+
+msgid "Featured Job Expiry"
+msgstr ""
+
+msgid "Featured Company Expiry"
+msgstr ""
+
+msgid "Purchased"
+msgstr ""
+
+msgid "close"
+msgstr ""
+
+msgid "Package Buy With"
+msgstr ""
+
+msgid "Please select the payment method"
+msgstr ""
+
+msgid "Property Listing"
+msgstr ""
+
+msgid "Stripe"
+msgstr ""
+
+msgid "job Expiry"
+msgstr ""
+
+msgid "Reusume"
+msgstr ""
+
+msgid "Featued Resume"
+msgstr ""
+
+msgid "Show No of Resume Contact"
+msgstr ""
+
+msgid "Show No of Company Contact"
+msgstr ""
+
+msgid "Please Select Package First"
+msgstr ""
+
+msgid "Total "
+msgstr ""
+
+msgid "Remaining "
+msgstr ""
+
+msgid "select"
+msgstr ""
+
+msgid "coin icon"
+msgstr ""
+
+msgid "No JOb Alert"
+msgstr ""
+
+msgid "Payment Method Configurations"
+msgstr ""
+
+msgid "menu"
+msgstr ""
+
+msgid "Select Configuration"
+msgstr ""
+
+msgid "PayPal"
+msgstr ""
+
+msgid "Woocommerce"
+msgstr ""
+
+msgid "PayPal Enabled"
+msgstr ""
+
+msgid "Signature"
+msgstr ""
+
+msgid "Logo URL"
+msgstr ""
+
+msgid "Cancel Url"
+msgstr ""
+
+msgid "Notify Url"
+msgstr ""
+
+msgid "Test Mode"
+msgstr ""
+
+msgid "Please enter language code ie: EN"
+msgstr ""
+
+msgid "You must add following url to"
+msgstr ""
+
+msgid "paypal IPN"
+msgstr ""
+
+msgid "in order to work with subscriptions"
+msgstr ""
+
+msgid "Stripe Enabled"
+msgstr ""
+
+msgid "Publishable key"
+msgstr ""
+
+msgid "Secret key"
+msgstr ""
+
+msgid "stripe webhook endpoint"
+msgstr ""
+
+msgid "Property has been successfully featured"
+msgstr ""
+
+msgid "Company has been successfully published"
+msgstr ""
+
+msgid "View Resume Contact Successfully"
+msgstr ""
+
+msgid "Featured Company has been successfully published"
+msgstr ""
+
+msgid "Featured Resume has been successfully published"
+msgstr ""
+
+msgid "Featured Job has been successfully published"
+msgstr ""
+
+msgid "Resume has been successfully published"
+msgstr ""
+
+msgid "You can view Company Contact Detail Now"
+msgstr ""
+
+msgid "Job Alert Added Successfully"
+msgstr ""
+
+msgid "Requested page is not available contact system Administrator"
+msgstr ""
+
+msgid "Company has been successfully featured"
+msgstr ""
+
+msgid "Payment has not been verified"
+msgstr ""
+
+msgid "Feature Job has been successfully featured"
+msgstr ""
+
+msgid "Feature Resume has been successfully featured"
+msgstr ""
+
+msgid "Department has been successfully published"
+msgstr ""
+
+msgid "job has been successfully Applied"
+msgstr ""
+
+msgid "Job Alert has been successfully published"
+msgstr ""
+
+msgid "Job has been successfully published"
+msgstr ""
+
+msgid "Woocommerce product not found, please contact to system Administrator"
+msgstr ""
+
+msgid "Subscription has been cancelled"
+msgstr ""
+
+msgid "Add New User Package"
+msgstr ""
+
+msgid "Select users"
+msgstr ""
+
+msgid "User Packages"
+msgstr ""
+
+msgid "User Package"
+msgstr ""
+
+msgid "add new user package"
+msgstr ""
+
+msgid "View Purchase History"
+msgstr ""
+
+msgid "Purchase History Details"
+msgstr ""
+
+msgid "Payer name"
+msgstr ""
+
+msgid "Payer email address"
+msgstr ""
+
+msgid "Payer address"
+msgstr ""
+
+msgid "Payer contact number"
+msgstr ""
+
+msgid "Amount paid"
+msgstr ""
+
+msgid "Transaction number"
+msgstr ""
+
+msgid "Payment gateway"
+msgstr ""
+
+msgid "Transaction Status"
+msgstr ""
+
+msgid "Purchase date"
+msgstr ""
+
+msgid "Package expiry"
+msgstr ""
+
+msgid "Billing Cycle"
+msgstr ""
+
+msgid "Next Billing Date"
+msgstr ""
+
+msgid "Are you sure to cancel subscription"
+msgstr ""
+
+msgid "Feature Job"
+msgstr ""
+
+msgid "Candel Payment"
+msgstr ""
+
+msgid "Remaining Jobs"
+msgstr ""
+
+msgid "Remaining Featured Job"
+msgstr ""
+
+msgid "No of  Companies"
+msgstr ""
+
+msgid "Remaining Companies"
+msgstr ""
+
+msgid "Remaining Featured Company"
+msgstr ""
+
+msgid "No Of Resume"
+msgstr ""
+
+msgid "No Of Feature Resume"
+msgstr ""
+
+msgid "Remaining Featured Resume"
+msgstr ""
+
+msgid "No Of Resume Contact View"
+msgstr ""
+
+msgid "Remaining Resume Contact View"
+msgstr ""
+
+msgid "No Of Job Apply"
+msgstr ""
+
+msgid "Remaining Job Apply"
+msgstr ""
+
+msgid "No Of Job Alert"
+msgstr ""
+
+msgid "Remaining Job Alert"
+msgstr ""
+
+msgid "No Of Department"
+msgstr ""
+
+msgid "Remaining Department"
+msgstr ""
+
+msgid "renew this package"
+msgstr ""
+
+msgid "Renew This Package"
+msgstr ""
+
+msgid "and get discount"
+msgstr ""
+
+msgid "payment methods"
+msgstr ""
+
+msgid "Payment Methods"
+msgstr ""
+
+msgid "my packages"
+msgstr ""
+
+msgid "my subscriptions"
+msgstr ""
+
+msgid "invoices"
+msgstr ""
+
+msgid "Login to view contact detail"
+msgstr ""
+
+msgid "Show Resume Contact"
+msgstr ""
+
+msgid "Show resume contact"
+msgstr ""
+
+msgid "Cancel payment"
+msgstr ""
+
+msgid "Show company contact"
+msgstr ""
+
+msgid "user packages"
+msgstr ""
+
+msgid "add new user packages"
+msgstr ""
+
+msgid "Make Payment"
+msgstr ""
+
+msgid "You have already applied"
+msgstr ""
+
+msgid "Apply on this job"
+msgstr ""
+
+msgid "Apply this job"
+msgstr ""
+
+msgid "Apply This Job"
+msgstr ""
+
+msgid "apply on this job"
+msgstr ""
+
+msgid "You do not have any "
+msgstr ""
+
+msgid "Proceed Without Package"
+msgstr ""
+
+msgid "Proceed With Package"
+msgstr ""
+
+msgid "proceed without paying"
+msgstr ""
+
+msgid "proceed with paying"
+msgstr ""
+
+msgid "Webcrown.org"
+msgstr ""
+
+msgid "Wget"
+msgstr ""
+
+msgid "Curl"
+msgstr ""
+
+msgid "Php Script"
+msgstr ""
+
+msgid "Recommended run script once a day"
+msgstr ""
+
+msgid "Configuration Of A Backup Job With"
+msgstr ""
+
+msgid "Name Of Cronjob"
+msgstr ""
+
+msgid "Log In To"
+msgstr ""
+
+msgid "In The Cron Area"
+msgstr ""
+
+msgid "Click On The New Cron Button"
+msgstr ""
+
+msgid "Below You will Find What You Have To Enter At"
+msgstr ""
+
+msgid "Interface"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+msgid "180 sec If The Backup Does Not Complete"
+msgstr ""
+
+msgid "Increase It"
+msgstr ""
+
+msgid "Most Sites Will Work With A Setting Of 180 Or 600 Here"
+msgstr ""
+
+msgid "As Its Much More Cost-effective."
+msgstr ""
+
+msgid "Url You Want To Execute"
+msgstr ""
+
+msgid "Leave This Blank"
+msgstr ""
+
+msgid "Execution Time"
+msgstr ""
+
+msgid "Thats The Grid Below The Other Options"
+msgstr ""
+
+msgid "Select When And How Often You Want Your Cron Job To Run."
+msgstr ""
+
+msgid "Alerts"
+msgstr ""
+
+msgid "If You Have Already Set Up Alert Methods In"
+msgstr ""
+
+msgid "Finally Click On The Submit Button To Finish Setting Up Your Cron Job."
+msgstr ""
+
+msgid "Cron Scheduling Using Wget most Hosts"
+msgstr ""
+
+msgid "Cron Scheduling Using Curl siteground And A Few Other Hosts"
+msgstr ""
+
+msgid "Or"
+msgstr ""
+
+msgid "Custom Php Script To Run"
+msgstr ""
+
+msgid "Sorry"
+msgstr ""
+
+msgid "    The Backup Did Not Work."
+msgstr ""
+
+msgid "Url For Use With Your Own Scripts And Third Party Services"
+msgstr ""
+
+msgid "pending payment"
+msgstr ""
+
+msgid "department name"
+msgstr ""
+
+msgid "Department Name"
+msgstr ""
+
+msgid "Edit department"
+msgstr ""
+
+msgid "Edit Department"
+msgstr ""
+
+msgid "Delete department"
+msgstr ""
+
+msgid "Delete Department"
+msgstr ""
+
+msgid "Total Department"
+msgstr ""
+
+msgid "Add department"
+msgstr ""
+
+msgid "Add departments"
+msgstr ""
+
+msgid "WP JOB PORTAL resume export"
+msgstr ""
+
+msgid "export all"
+msgstr ""
+
+msgid "Export All"
+msgstr ""
+
+msgid "Company added to featured"
+msgstr ""
+
+msgid "Waiting"
+msgstr ""
+
+msgid "You do not have any featured remaining"
+msgstr ""
+
+msgid "Select package"
+msgstr ""
+
+msgid "Add To Featured"
+msgstr ""
+
+msgid "Buy Packages"
+msgstr ""
+
+msgid "Featured companies"
+msgstr ""
+
+msgid "featured approval waiting"
+msgstr ""
+
+msgid "Featured Approval Waiting"
+msgstr ""
+
+msgid "add to featured"
+msgstr ""
+
+msgid "add featured"
+msgstr ""
+
+msgid "Add Featured"
+msgstr ""
+
+msgid "downhover part"
+msgstr ""
+
+msgid "Job added to featured"
+msgstr ""
+
+msgid "You do not have any featured Job remaining"
+msgstr ""
+
+msgid "Add To Featured Job"
+msgstr ""
+
+msgid "Featured jobs"
+msgstr ""
+
+msgid "Add featured"
+msgstr ""
+
+msgid "Resume added to featured"
+msgstr ""
+
+msgid "Please Select A Package First"
+msgstr ""
+
+msgid "Add to featured"
+msgstr ""
+
+msgid "add to Featured"
+msgstr ""
+
+msgid "Saved to Folder Successfully"
+msgstr ""
+
+msgid "Resume already in folder"
+msgstr ""
+
+msgid "Salary "
+msgstr ""
+
+msgid "Contact Email"
+msgstr ""
+
+msgid "Select one"
+msgstr ""
+
+msgid "No folder found"
+msgstr ""
+
+msgid "add folder"
+msgstr ""
+
+msgid "Add Folder"
+msgstr ""
+
+msgid "remove resume from folder"
+msgstr ""
+
+msgid "Remove Resume From Folder"
+msgstr ""
+
+msgid "view resume"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "Folder Name"
+msgstr ""
+
+msgid "folders"
+msgstr ""
+
+msgid "Remove resume from folder"
+msgstr ""
+
+msgid "copy to folder"
+msgstr ""
+
+msgid "Copy To Folder"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+msgid "Job Category"
+msgstr ""
+
+msgid "Job Location"
+msgstr ""
+
+msgid "Job Alert Subscribed Succefully"
+msgstr ""
+
+msgid "Provided Email Already Registered For Job Alert"
+msgstr ""
+
+msgid "Error While Subscribing Job Alert"
+msgstr ""
+
+msgid "Zip Code"
+msgstr ""
+
+msgid "Keywords"
+msgstr ""
+
+msgid "Alert Type"
+msgstr ""
+
+msgid "Unsubscribe"
+msgstr ""
+
+msgid "Unsubscribe job alert"
+msgstr ""
+
+msgid "Are you sure to Unsubscribe job alert"
+msgstr ""
+
+msgid "Captcha"
+msgstr ""
+
+msgid "Save Job Alert"
+msgstr ""
+
+msgid "Total Job Alert"
+msgstr ""
+
+msgid "Do not email me"
+msgstr ""
+
+msgid "No job applied notification will be emailed to you"
+msgstr ""
+
+msgid "you can only check your workspace for new applicants"
+msgstr ""
+
+msgid "Email me resume of new applicant"
+msgstr ""
+
+msgid "you can also check your workspace"
+msgstr ""
+
+msgid "Email me resume and resume attachments of new applicant"
+msgstr ""
+
+msgid "Edit Message"
+msgstr ""
+
+msgid "Reply Message"
+msgstr ""
+
+msgid "message subject"
+msgstr ""
+
+msgid "send message"
+msgstr ""
+
+msgid "messages"
+msgstr ""
+
+msgid "You do not have any View Company Contact remaining"
+msgstr ""
+
+msgid "View Company Contact"
+msgstr ""
+
+msgid "Remaining View Company Contact"
+msgstr ""
+
+msgid "Add company"
+msgstr ""
+
+msgid "You Are Applying On This Job"
+msgstr ""
+
+msgid "N/A"
+msgstr ""
+
+msgid "Skill"
+msgstr ""
+
+msgid "Employer Reports"
+msgstr ""
+
+msgid "Jobs By Cities"
+msgstr ""
+
+msgid "Jobs By Companies"
+msgstr ""
+
+msgid "Job by city"
+msgstr ""
+
+msgid "Jobs by company"
+msgstr ""
+
+msgid "Job by type"
+msgstr ""
+
+msgid "Jobseeker Reports"
+msgstr ""
+
+msgid "Active Resume"
+msgstr ""
+
+msgid "Resume By Job Types"
+msgstr ""
+
+msgid "Resume By Cities"
+msgstr ""
+
+msgid "Resume By Job Salaries"
+msgstr ""
+
+msgid "Active resume"
+msgstr ""
+
+msgid "Gold resume"
+msgstr ""
+
+msgid "Job by salary"
+msgstr ""
+
+msgid "employer reports"
+msgstr ""
+
+msgid "job seeker reports"
+msgstr ""
+
+msgid "Job Seeker Reports"
+msgstr ""
+
+msgid "My Stats"
+msgstr ""
+
+msgid "Job copy successfully"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Resume has been marked as spam"
+msgstr ""
+
+msgid "Job seeker has been hired"
+msgstr ""
+
+msgid "Resume moved to the inbox"
+msgstr ""
+
+msgid "Resume rejected"
+msgstr ""
+
+msgid "Candidate short listed"
+msgstr ""
+
+msgid "mark spam"
+msgstr ""
+
+msgid "Mark Spam"
+msgstr ""
+
+msgid "not spam"
+msgstr ""
+
+msgid "Not Spam"
+msgstr ""
+
+msgid "hired"
+msgstr ""
+
+msgid "rejected"
+msgstr ""
+
+msgid "add note"
+msgstr ""
+
+msgid "Add Note"
+msgstr ""
+
+msgid "details"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "email candidate"
+msgstr ""
+
+msgid "Email Candidate"
+msgstr ""
+
+msgid "short list"
+msgstr ""
+
+msgid "Short List"
+msgstr ""
+
+msgid "inbox"
+msgstr ""
+
+msgid "advance search"
+msgstr ""
+
+msgid "short listed"
+msgstr ""
+
+msgid "Short Listed"
+msgstr ""
+
+msgid "spam"
+msgstr ""
+
+msgid "Resume Files Download"
+msgstr ""
+
+msgid "Select job type"
+msgstr ""
+
+msgid "No Resume found"
+msgstr ""
+
+msgid "Go Back To"
+msgstr ""
+
+msgid "Total Resume Save Search"
+msgstr ""
+
+msgid "Remaining Resume Save Search"
+msgstr ""
+
+msgid "You don't have any save serch remaining "
+msgstr ""
+
+msgid "Search name"
+msgstr ""
+
+msgid "Job RSS"
+msgstr ""
+
+msgid "Job has been Shortlisted"
+msgstr ""
+
+msgid "Birthday"
+msgstr ""
+
+msgid "Apply as facebook"
+msgstr ""
+
+msgid "View facebook profile"
+msgstr ""
+
+msgid "Show contact details"
+msgstr ""
+
+msgid "Something wrong, contact to system administrator"
+msgstr ""
+
+msgid "Profile link"
+msgstr ""
+
+msgid "School"
+msgstr ""
+
+msgid "Headline"
+msgstr ""
+
+msgid "Apply with linkedin"
+msgstr ""
+
+msgid "View linkedin profile"
+msgstr ""
+
+msgid "Academic title"
+msgstr ""
+
+msgid "Apply with xing"
+msgstr ""
+
+msgid "View xing profile"
+msgstr ""
+
+msgid "Wants"
+msgstr ""
+
+msgid "Haves"
+msgstr ""
+
+msgid "Interests"
+msgstr ""
+
+msgid "Organization"
+msgstr ""
+
+msgid "Time zone"
+msgstr ""
+
+msgid "Employment status"
+msgstr ""
+
+msgid "Degree"
+msgstr ""
+
+msgid "Begin date"
+msgstr ""
+
+msgid "End date"
+msgstr ""
+
+msgid "Qualifications"
+msgstr ""
+
+msgid "Professional experience"
+msgstr ""
+
+msgid "Primary company"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Still working"
+msgstr ""
+
+msgid "Discipline"
+msgstr ""
+
+msgid "Industry"
+msgstr ""
+
+msgid "Company size"
+msgstr ""
+
+msgid "Career level"
+msgstr ""
+
+msgid "Form of employment"
+msgstr ""
+
+msgid "Awards"
+msgstr ""
+
+msgid "Date awarded"
+msgstr ""
+
+msgid "Private address"
+msgstr ""
+
+msgid "Street"
+msgstr ""
+
+msgid "Zip code"
+msgstr ""
+
+msgid "Province"
+msgstr ""
+
+msgid "Fax"
+msgstr ""
+
+msgid "Mobile phone"
+msgstr ""
+
+msgid "Business address"
+msgstr ""
+
+msgid "Until now"
+msgstr ""
+
+msgid "Facebook user"
+msgstr ""
+
+msgid "Linkedin user"
+msgstr ""
+
+msgid "Xing user"
+msgstr ""
+
+msgid "You are logged in as "
+msgstr ""
+
+msgid "Please select your role to continue"
+msgstr ""
+
+msgid "You are logged out"
+msgstr ""
+
+msgid "Error applying on job"
+msgstr ""
+
+msgid "Facebook Comments"
+msgstr ""
+
+msgid "Share This Job"
+msgstr ""
+
+msgid "Apply With Social"
+msgstr ""
+
+msgid "Login with social media"
+msgstr ""
+
+msgid "Tag Name"
+msgstr ""
+
+msgid "Tag For"
+msgstr ""
+
+msgid "tag name"
+msgstr ""
+
+msgid "Job Tags"
+msgstr ""
+
+msgid "Email has been send to friend[s]"
+msgstr ""
+
+msgid "Incorrect Captcha"
+msgstr ""
+
+msgid "Click Here To View Job"
+msgstr ""
+
+msgid "Your Name"
+msgstr ""
+
+msgid "Your Email"
+msgstr ""
+
+msgid "Friend Email"
+msgstr ""
+
+msgid "Send to friends"
+msgstr ""
+
+msgid "Job Id not provided "
+msgstr ""
+
+msgid "Receiver email not provided"
+msgstr ""
+
+msgid "Email sent successfully to friend[s]"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Work Permit"
+msgstr ""
+
+msgid "Required Travel"
+msgstr ""
+
+msgid "Set Job Apply Redirect Link"
+msgstr ""
+
+msgid "Job Apply Alert E-mail Setting"
+msgstr ""
+
+msgid "Email me the daily count of new applicants"
+msgstr ""
+
+msgid "These Filters Are Applied On Applied Resume"
+msgstr ""
+
+msgid "WPJOBPORTAL Companies"
+msgstr ""
+
+msgid "Show Companies"
+msgstr ""
+
+msgid "Type of companies"
+msgstr ""
+
+msgid "Gold companies"
+msgstr ""
+
+msgid "Hide all"
+msgstr ""
+
+msgid "Show all"
+msgstr ""
+
+msgid "Show desktop and tablet"
+msgstr ""
+
+msgid "Show desktop and mobile"
+msgstr ""
+
+msgid "Show tablet and mobile"
+msgstr ""
+
+msgid "Show desktop"
+msgstr ""
+
+msgid "Show tablet"
+msgstr ""
+
+msgid "Show mobile"
+msgstr ""
+
+msgid "Number of companies"
+msgstr ""
+
+msgid "Listing style"
+msgstr ""
+
+msgid "List style"
+msgstr ""
+
+msgid "Box style"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Field column"
+msgstr ""
+
+msgid "Module height"
+msgstr ""
+
+msgid "Company height"
+msgstr ""
+
+msgid "Company logo width"
+msgstr ""
+
+msgid "Company logo height"
+msgstr ""
+
+msgid "Number of companies per row"
+msgstr ""
+
+msgid "desktop"
+msgstr ""
+
+msgid "tablet"
+msgstr ""
+
+msgid "Top margin"
+msgstr ""
+
+msgid "Left margin"
+msgstr ""
+
+msgid "Title color"
+msgstr ""
+
+msgid "Title border bottom"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Data label color"
+msgstr ""
+
+msgid "Data value color"
+msgstr ""
+
+msgid "Jobs Widget"
+msgstr ""
+
+msgid "Show jobs"
+msgstr ""
+
+msgid "Top jobs"
+msgstr ""
+
+msgid "Gold jobs"
+msgstr ""
+
+msgid "Number of jobs"
+msgstr ""
+
+msgid "Job height"
+msgstr ""
+
+msgid "Number of jobs per row"
+msgstr ""
+
+msgid "Jobs By Categories Widget"
+msgstr ""
+
+msgid "Show jobs by categories form jobs database"
+msgstr ""
+
+msgid "Show Maximum records"
+msgstr ""
+
+msgid "Show all categories"
+msgstr ""
+
+msgid "Show only record that have jobs"
+msgstr ""
+
+msgid "Show jobs by Types form jobs database"
+msgstr ""
+
+msgid "Show all types"
+msgstr ""
+
+msgid "Jobs By Location Widget"
+msgstr ""
+
+msgid "Job By Location"
+msgstr ""
+
+msgid "Show jobs by"
+msgstr ""
+
+msgid "Jobs by states"
+msgstr ""
+
+msgid "Jobs On Map Widget"
+msgstr ""
+
+msgid "Show jobs by location on google map"
+msgstr ""
+
+msgid "Show no of jobs"
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid "Jobs stats"
+msgstr ""
+
+msgid "Jobs stats from WP Job Portal database"
+msgstr ""
+
+msgid "Resume Widget"
+msgstr ""
+
+msgid "Show resumes"
+msgstr ""
+
+msgid "Type of resume"
+msgstr ""
+
+msgid "Newest resume"
+msgstr ""
+
+msgid "Top resume"
+msgstr ""
+
+msgid "Number of resumes"
+msgstr ""
+
+msgid "Resume height"
+msgstr ""
+
+msgid "Resume logo width"
+msgstr ""
+
+msgid "Resume logo height"
+msgstr ""
+
+msgid "Number of resume per row"
+msgstr ""
+
+msgid "Search resume form wpjobportal database"
+msgstr ""
+
+msgid "I am available"
+msgstr ""
+
+msgid "Salary range"
+msgstr ""
+
+msgid "colors"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Feature Approve"
+msgstr ""
+
+msgid "Feature Reject"
+msgstr ""
+
+msgid "general setting"
+msgstr ""
+
+msgid "Default Settings"
+msgstr ""
+
+msgid "Auto Approve"
+msgstr ""
+
+msgid "visitor setting"
+msgstr ""
+
+msgid "Visitor Settings"
+msgstr ""
+
+msgid "Captcha Settings"
+msgstr ""
+
+msgid "Employer Links"
+msgstr ""
+
+msgid "Jobseeker Links"
+msgstr ""
+
+msgid "package setting"
+msgstr ""
+
+msgid "Free Packages"
+msgstr ""
+
+msgid "Paid Submissions"
+msgstr ""
+
+msgid "social apps"
+msgstr ""
+
+msgid " Social Apps"
+msgstr ""
+
+msgid "rss"
+msgstr ""
+
+msgid "RSS"
+msgstr ""
+
+msgid "Job Settings"
+msgstr ""
+
+msgid "login/register"
+msgstr ""
+
+msgid " Login/Register"
+msgstr ""
+
+msgid "payment method"
+msgstr ""
+
+msgid "WP Job Portal Register Page"
+msgstr ""
+
+msgid "WordPress Default Register Page"
+msgstr ""
+
+msgid "WP Job Portal Login Page"
+msgstr ""
+
+msgid "WordPress Default Login Page"
+msgstr ""
+
+msgid "Offline Message"
+msgstr ""
+
+msgid "Captcha Setting"
+msgstr ""
+
+msgid "Default Captcha"
+msgstr ""
+
+msgid "Google reCaptcha"
+msgstr ""
+
+msgid "Google reCaptcha Private Key"
+msgstr ""
+
+msgid "Enter the Google reCaptcha private key from"
+msgstr ""
+
+msgid "Google reCaptcha Public Key"
+msgstr ""
+
+msgid "Enter the Google reCaptcha public key from"
+msgstr ""
+
+msgid "Active Jobs Graph"
+msgstr ""
+
+msgid "Client secret here"
+msgstr ""
+
+msgid "Valid OAuth redirect URI for social login"
+msgstr ""
+
+msgid "Valid OAuth redirect URI for social apply"
+msgstr ""
+
+msgid "App secret here"
+msgstr ""
+
+msgid "Set Login Link"
+msgstr ""
+
+msgid "Set login redirect Link Default or Custom"
+msgstr ""
+
+msgid "Show Log In/Out Button For Employer"
+msgstr ""
+
+msgid "Show Log In/Out Button For Jobseeker"
+msgstr ""
+
+msgid "Set register Link"
+msgstr ""
+
+msgid "Set register redirect Link Default or Custom"
+msgstr ""
+
+msgid "Set Employer After Register link"
+msgstr ""
+
+msgid "New Employer Set After Register link redirect page"
+msgstr ""
+
+msgid "Employer After Registration Redirect Page "
+msgstr ""
+
+msgid "Employer After Registration Redirect Link"
+msgstr ""
+
+msgid "Custome Empolyer After Regitser Link"
+msgstr ""
+
+msgid "Set Job seeker After Register link"
+msgstr ""
+
+msgid "New Job seeker Set After Register link redirect page"
+msgstr ""
+
+msgid "Job seeker After Registration redirect page "
+msgstr ""
+
+msgid "Job Seeker After Registration Redirect Link"
+msgstr ""
+
+msgid "Custome Job seeker After Regitser Link"
+msgstr ""
+
+msgid "mneu"
+msgstr ""
+
+msgid "Job Approve"
+msgstr ""
+
+msgid "Job Reject"
+msgstr ""
+
+msgid "Login to Apply On This Job"
+msgstr ""
+
+msgid "sender email is not of correct formate"
+msgstr ""
+
+msgid "Select Jobseeker"
+msgstr ""
+
+msgid "refresh"
+msgstr ""
+
+msgid "Refresh"
+msgstr ""
+
+msgid "create user"
+msgstr ""
+
+msgid "Create user"
+msgstr ""
+
+msgid "Select Employer"
+msgstr ""
+
+msgid "Save big with an exclusive membership plan today!"
+msgstr ""
+
+msgid "show bundle pack"
+msgstr ""
+
+msgid "Advance Custom Fields"
+msgstr ""
+
+msgid "Front-end Widget"
+msgstr ""
+
+msgid "Tell A Friend"
+msgstr ""
+
+msgid "WP Job Portal Add-Ons Bundle Pack"
+msgstr ""
+
+msgid "Basic"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+msgid "Multi Departments"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Tell a Friend"
+msgstr ""
+
+msgid "Professional"
+msgstr ""
+
+msgid "Visitor Can Apply Job"
+msgstr ""
+
+msgid "Credits System"
+msgstr ""
+
+msgid "Save Colors"
+msgstr ""
+
+msgid "preset"
+msgstr ""
+
+msgid "Preset"
+msgstr ""
+
+msgid "Primary Color"
+msgstr ""
+
+msgid "Secondary Color"
+msgstr ""
+
+msgid "Content Color"
+msgstr ""
+
+msgid "Buruj Solution"
+msgstr ""
+
+msgid "PHP Developer"
+msgstr ""
+
+msgid "Computer/IT"
+msgstr ""
+
+msgid "Karachi, Pakistan"
+msgstr ""
+
+msgid "Full-Time"
+msgstr ""
+
+msgid "Per Month"
+msgstr ""
+
+msgid "Per Year"
+msgstr ""
+
+msgid "Per Day"
+msgstr ""
+
+msgid "Per Week"
+msgstr ""
+
+msgid "hours Ago"
+msgstr ""
+
+msgid "Resume (1)"
+msgstr ""
+
+msgid "Android Developer"
+msgstr ""
+
+msgid "Gujranwala, Pakistan"
+msgstr ""
+
+msgid "Add Featured "
+msgstr ""
+
+msgid "Resume (0)"
+msgstr ""
+
+msgid "Accountant"
+msgstr ""
+
+msgid "Lahore, Pakistan"
+msgstr ""
+
+msgid "Resume (10)"
+msgstr ""
+
+msgid "Database Administrator"
+msgstr ""
+
+msgid "Islamabad, Pakistan"
+msgstr ""
+
+msgid "Preset Theme"
+msgstr ""
+
+msgid "Mint"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Aqua"
+msgstr ""
+
+msgid "Blue Jeans"
+msgstr ""
+
+msgid "Grass"
+msgstr ""
+
+msgid "Grape fruit"
+msgstr ""
+
+msgid "Lavender"
+msgstr ""
+
+msgid "Black"
+msgstr ""
+
+msgid "Help icon"
+msgstr ""
+
+msgid "We Are Here to Help You"
+msgstr ""
+
+msgid "View all videos"
+msgstr ""
+
+msgid "Video icon"
+msgstr ""
+
+msgid "View All Videos"
+msgstr ""
+
+msgid "WP JOB PORTAL icon"
+msgstr ""
+
+msgid "WP Job Portal Support"
+msgstr ""
+
+msgid "Submit ticket"
+msgstr ""
+
+msgid "Submit Ticket"
+msgstr ""
+
+msgid "Job Portal"
+msgstr ""
+
+msgid "Shortlist Jobs"
+msgstr ""
+
+msgid "Visitor Create a Job"
+msgstr ""
+
+msgid "Apply as a Visitor"
+msgstr ""
+
+msgid "Advance Resume"
+msgstr ""
+
+msgid "Resume Actions"
+msgstr ""
+
+msgid "Create Company"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Widget Settings"
+msgstr ""
+
+msgid "Credit Pack"
+msgstr ""
+
+msgid "Color Manager"
+msgstr ""
+
+msgid "State id greater and cities have no ids also state id and country id is your responsibility"
+msgstr ""
+
+msgid "Consider old countries and states were not edit otherwise problem may occur"
+msgstr ""
+
+msgid "Configure your credit system. How much credits required for action. if you don't enter any credit. it will be free"
+msgstr ""
+
+msgid "By agreeing to recurring payment you will be charged with package price at the end of billing cycle and package will be renewed"
+msgstr ""
+
+msgid "Contact administrator to delete agreement from his paypal account. Your agreement id is"
+msgstr ""
+
+msgid "You must cancel agreement from your paypal account. Your agreement id is"
+msgstr ""
+
+msgid "If You Have A Very Big Site Which Takes More Than 5 Minutes To Back Itself Up"
+msgstr ""
+
+msgid "You Might Consider Using Akeeba Backup Professional And The Native Cli Cron Job Instead"
+msgstr ""
+
+msgid "We Recommend Choosing An Alert Method Here And Not Checking The only On Error So That You Always Get A Notification When The Backup Cron Job Runs"
+msgstr ""
+
+msgid "Job applied notification will be emailed to you with resume of the applicant"
+msgstr ""
+
+msgid "Job applied notification will be emailed to you with resume and attachments of the applicant"
+msgstr ""
+
+msgid "No notification will be emailed to you regarding job applications you can also check your workspace for new applicant"
+msgstr ""
+
+msgid "The Total number of applicants for each day will be e-mailed to you on a daily basis.you can also check your workspace for new applicant."
+msgstr ""
+
+msgid "Each applicants cv will be emailed directily to you as they apply.you can also check your workspace for new applicant"
+msgstr ""
+
+msgid "Get trusted WordPress add on’s. Guaranteed to work fast, safe to use, beautifully coded, packed with features and easy to use."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for users to see address data for states, cities or both. Admin will upload that file."
+msgstr ""
+
+msgid "WP Job Portal offers an outstanding feature for employers to featured their companies. Employers will be able to featured their desired companies."
+msgstr ""
+
+msgid "WP Job Portal helps employers to make the resume as Featured Resume. Employers can featured their desired resume from the resume list."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for employers to perform some actions on resumes. Employes have some rights to reject or accept the jobseeker resume."
+msgstr ""
+
+msgid "WP Job Portal offers a  message feature for Employers and Job Seekers. All the Employers and Job Seekers can message each other."
+msgstr ""
+
+msgid "WP job Portal offers a feature for employers to add multi companies. Employers will add their desired multi-companies."
+msgstr ""
+
+msgid "Widgets in WordPress allows you to add content and features in the widgetized areas of your theme which is mostly the sidebar."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for the jobseeker to add their multi-resume. Jobseeker will be able to create a multiple resume for applying any job."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for Employes to add multi-departments related to jobs. Jobseeker can apply to jobs related to the desired department."
+msgstr ""
+
+msgid "WP Job Portal offers Real Simple Syndication (RSS) to set feeds for the jobs. Admin manipulates RSS settings. Employers and Job Seekers can see the Jobs RSS."
+msgstr ""
+
+msgid "WP Job Portal will help employers and jobseekers to shortlist their desired jobs. They can see their shortlisted jobs on the list."
+msgstr ""
+
+msgid "WP Job Portal allows registration from social logins. Employer and Job Seekers can create a new account for login or they can use their social media Logins."
+msgstr ""
+
+msgid "Get multiple themes with beautiful color scheme to make your site more beautiful and eye-catchy by just one click."
+msgstr ""
+
+msgid "WP Job Portal offers a feature for visitors. A visitor can apply to any company posted jobs. The visitor will apply for the jobs by their resume."
+msgstr ""
+
+msgid "WP Job Portal is a simple yet powerful job board plugin with a step-by-step YouTube guide to ensure ease of use."
+msgstr ""
+
+msgid "WP Job Portal offers timely customer support. If you have any queries, we're here to help you every step of the way."
+msgstr ""
+
+msgid "Unable to open file!"
+msgstr ""
+
+msgid "Effect On Credits System"
+msgstr ""
+
+msgid "Are You Sure You Want To Feature this Company?"
+msgstr ""
+
+msgid "Meta Keywords"
+msgstr ""
+
+msgid "Enter Data"
+msgstr ""
+
+msgid "Email Setting"
+msgstr ""
+
+msgid "Meta Description"
+msgstr ""
+
+msgid "Are You Sure You Want To Feature this Job?"
+msgstr ""
+
+msgid "Are You Sure You Want To Feature this Resume?"
+msgstr ""
+
+msgid "Record per page"
+msgstr ""
+
+msgid "slug for new in wp job portal page"
+msgstr ""
+
+msgid "slug for jobseeker control panel"
+msgstr ""
+
+msgid "slug for employer control panel"
+msgstr ""
+
+msgid "slug for job seeker my stats page"
+msgstr ""
+
+msgid "slug for employer my stats page"
+msgstr ""
+
+msgid "slug for resume main listing page"
+msgstr ""
+
+msgid "slug for job main listing page"
+msgstr ""
+
+msgid "slug for my companies page"
+msgstr ""
+
+msgid "slug for add company page"
+msgstr ""
+
+msgid "slug for my jobs page"
+msgstr ""
+
+msgid "slug for add job page"
+msgstr ""
+
+msgid "slug for my departments page"
+msgstr ""
+
+msgid "slug for add department page"
+msgstr ""
+
+msgid "slug for view department page"
+msgstr ""
+
+msgid "slug for view company page"
+msgstr ""
+
+msgid "slug for view resume page"
+msgstr ""
+
+msgid "slug for view job page"
+msgstr ""
+
+msgid "slug for my folders page"
+msgstr ""
+
+msgid "slug for add folder page"
+msgstr ""
+
+msgid "slug for view folder page"
+msgstr ""
+
+msgid "slug for folder resume page"
+msgstr ""
+
+msgid "slug for job seeker messages page"
+msgstr ""
+
+msgid "slug for employer messages page"
+msgstr ""
+
+msgid "slug for send message page"
+msgstr ""
+
+msgid "slug for job messages page"
+msgstr ""
+
+msgid "slug for jobs by types page"
+msgstr ""
+
+msgid "slug for messages page"
+msgstr ""
+
+msgid "slug for resume search page"
+msgstr ""
+
+msgid "slug for resume save search page"
+msgstr ""
+
+msgid "slug for resume by category page"
+msgstr ""
+
+msgid "slug for resume rss page"
+msgstr ""
+
+msgid "slug for employer credits page"
+msgstr ""
+
+msgid "slug for job seeker credits page"
+msgstr ""
+
+msgid "slug for employer purchase history page"
+msgstr ""
+
+msgid "employer my stats page"
+msgstr ""
+
+msgid "slug for job seeker stats page"
+msgstr ""
+
+msgid "slug for register as employer page"
+msgstr ""
+
+msgid "reg job seeker page"
+msgstr ""
+
+msgid "slug for user register page"
+msgstr ""
+
+msgid "slug for add resume page"
+msgstr ""
+
+msgid "slug for my resumes page"
+msgstr ""
+
+msgid "slug for companies page"
+msgstr ""
+
+msgid "slug for my applied jobs page"
+msgstr ""
+
+msgid "slug for job applied resume page"
+msgstr ""
+
+msgid "slug for job search page"
+msgstr ""
+
+msgid "slug for job save search page"
+msgstr ""
+
+msgid "slug for job alert page"
+msgstr ""
+
+msgid "slug for job rss page"
+msgstr ""
+
+msgid "slug for shortlisted jobs page"
+msgstr ""
+
+msgid "slug for job seeker purchase history page"
+msgstr ""
+
+msgid "slug for rate list job seeker page"
+msgstr ""
+
+msgid "slug for rate list employer page"
+msgstr ""
+
+msgid "slug for job seeker credits log page"
+msgstr ""
+
+msgid "slug for employer credits log page"
+msgstr ""
+
+msgid "slug for jobs by categories page"
+msgstr ""
+
+msgid "slug for newest jobs page"
+msgstr ""
+
+msgid "slug for jobs by cities page"
+msgstr ""
+
+msgid "slug for employer resume pdf"
+msgstr ""
+
+msgid "Slug for edit Profile"
+msgstr ""
+
+msgid "Accounting/Finance"
+msgstr ""
+
+msgid "Administrative"
+msgstr ""
+
+msgid "Advertising"
+msgstr ""
+
+msgid "Airlines/Avionics/Aerospace"
+msgstr ""
+
+msgid "Architectural"
+msgstr ""
+
+msgid "Automotive"
+msgstr ""
+
+msgid "Banking/Finance"
+msgstr ""
+
+msgid "Biotechnology"
+msgstr ""
+
+msgid "Civil/Construction"
+msgstr ""
+
+msgid "Engineering"
+msgstr ""
+
+msgid "Cleared Jobs"
+msgstr ""
+
+msgid "Communications"
+msgstr ""
+
+msgid "Construction"
+msgstr ""
+
+msgid "Consultant/Contractual"
+msgstr ""
+
+msgid "Customer Service"
+msgstr ""
+
+msgid "Defense"
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Electrical Engineering"
+msgstr ""
+
+msgid "Electronics Engineering"
+msgstr ""
+
+msgid "Energy"
+msgstr ""
+
+msgid "Environmental/Safety"
+msgstr ""
+
+msgid "Fundraising"
+msgstr ""
+
+msgid "Health/Medicine"
+msgstr ""
+
+msgid "Homeland Security"
+msgstr ""
+
+msgid "Human Resources"
+msgstr ""
+
+msgid "Insurance"
+msgstr ""
+
+msgid "Intelligence Jobs"
+msgstr ""
+
+msgid "Internships/Trainees"
+msgstr ""
+
+msgid "Legal"
+msgstr ""
+
+msgid "Logistics/Transportation"
+msgstr ""
+
+msgid "Maintenance"
+msgstr ""
+
+msgid "Management"
+msgstr ""
+
+msgid "Manufacturing/Warehouse"
+msgstr ""
+
+msgid "Marketing"
+msgstr ""
+
+msgid "Materials Management"
+msgstr ""
+
+msgid "Mechanical Engineering"
+msgstr ""
+
+msgid "Mortgage/Real Estate"
+msgstr ""
+
+msgid "National Security"
+msgstr ""
+
+msgid "Part-time/Freelance"
+msgstr ""
+
+msgid "Printing"
+msgstr ""
+
+msgid "Product Design"
+msgstr ""
+
+msgid "Public Relations"
+msgstr ""
+
+msgid "Public Safety"
+msgstr ""
+
+msgid "Research"
+msgstr ""
+
+msgid "Retail"
+msgstr ""
+
+msgid "Sales"
+msgstr ""
+
+msgid "Scientific"
+msgstr ""
+
+msgid "Shipping/Distribution"
+msgstr ""
+
+msgid "Technicians"
+msgstr ""
+
+msgid "Trades"
+msgstr ""
+
+msgid "Transportation"
+msgstr ""
+
+msgid "Transportation Engineering"
+msgstr ""
+
+msgid "Web Site Development"
+msgstr ""
+
+msgid "Cast Accounting"
+msgstr ""
+
+msgid "Controllership & Accounting Managment"
+msgstr ""
+
+msgid "Payroll"
+msgstr ""
+
+msgid "Corporate Finance"
+msgstr ""
+
+msgid "Administrative Division"
+msgstr ""
+
+msgid "Autonomous Territories"
+msgstr ""
+
+msgid "Administrative County"
+msgstr ""
+
+msgid "Administrative Communes"
+msgstr ""
+
+msgid "Finance Advertising"
+msgstr ""
+
+msgid "Advertising-Tourism"
+msgstr ""
+
+msgid "Advertising Social Net"
+msgstr ""
+
+msgid "Distributor Marketing"
+msgstr ""
+
+msgid "Facebook Advertising"
+msgstr ""
+
+msgid "Quality Engineer"
+msgstr ""
+
+msgid "Office Assistant"
+msgstr ""
+
+msgid "Air Host/hostess"
+msgstr ""
+
+msgid "Ticketing/reservation"
+msgstr ""
+
+msgid "Architectural Drafting"
+msgstr ""
+
+msgid "Enterprize Architecture"
+msgstr ""
+
+msgid "Architecture Frameworks"
+msgstr ""
+
+msgid "Automotive Design"
+msgstr ""
+
+msgid "Autmotive Paints"
+msgstr ""
+
+msgid "Automotive Equipment/Parts"
+msgstr ""
+
+msgid "Automotive Search Engine"
+msgstr ""
+
+msgid "Private Banking"
+msgstr ""
+
+msgid "Stock Brocker"
+msgstr ""
+
+msgid "Fractional-reserve Banking"
+msgstr ""
+
+msgid "Mobile Banking"
+msgstr ""
+
+msgid "Plant Biotechnology"
+msgstr ""
+
+msgid "Animal Biotechnology"
+msgstr ""
+
+msgid "Biotechnology & Medicine"
+msgstr ""
+
+msgid "Biotechnology & Society"
+msgstr ""
+
+msgid "Industrail & Microbial Biotechnonogy"
+msgstr ""
+
+msgid "Construction (Design & Managment)"
+msgstr ""
+
+msgid "Construction Engineering"
+msgstr ""
+
+msgid "Composite Construction"
+msgstr ""
+
+msgid "Civil Engineering"
+msgstr ""
+
+msgid "Software Engineering"
+msgstr ""
+
+msgid "Nuclear Engineering"
+msgstr ""
+
+msgid "Ocean Engingeering"
+msgstr ""
+
+msgid "Transpotation Engineering"
+msgstr ""
+
+msgid "Security Cleared Jobs"
+msgstr ""
+
+msgid "Security Cleared IT Jobs"
+msgstr ""
+
+msgid "Confidential & Secret Security Clearance Job"
+msgstr ""
+
+msgid "Verbal"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Non-verbal"
+msgstr ""
+
+msgid "Computer Consulting Services"
+msgstr ""
+
+msgid "Computer Installations Services"
+msgstr ""
+
+msgid "Software Vendors"
+msgstr ""
+
+msgid "Renovaiton"
+msgstr ""
+
+msgid "New Construction"
+msgstr ""
+
+msgid "Organization Development"
+msgstr ""
+
+msgid "Construction Management"
+msgstr ""
+
+msgid "Managment Consulting"
+msgstr ""
+
+msgid "High Touch Customer Service"
+msgstr ""
+
+msgid "Low Touch Customer Service"
+msgstr ""
+
+msgid "Bad Touch Customer Service"
+msgstr ""
+
+msgid "By Using legal services for the poor"
+msgstr ""
+
+msgid "By Using Retained Counsel"
+msgstr ""
+
+msgid "By Self-representation"
+msgstr ""
+
+msgid "Project Subtype Design"
+msgstr ""
+
+msgid "Graphic Design"
+msgstr ""
+
+msgid "Interior Desing"
+msgstr ""
+
+msgid "IT or Engineering Education"
+msgstr ""
+
+msgid "Commerce & Managment"
+msgstr ""
+
+msgid "Medical Education"
+msgstr ""
+
+msgid "Power Engineering"
+msgstr ""
+
+msgid "Instrumentation"
+msgstr ""
+
+msgid "Telecommunication"
+msgstr ""
+
+msgid "Signal Processing"
+msgstr ""
+
+msgid "Electromagnetics"
+msgstr ""
+
+msgid "Network Analysis"
+msgstr ""
+
+msgid "Control Systems"
+msgstr ""
+
+msgid "Thermal Energy"
+msgstr ""
+
+msgid "Chemical Energy"
+msgstr ""
+
+msgid "Electrical Energy"
+msgstr ""
+
+msgid "Nuclear Energy"
+msgstr ""
+
+msgid "Nuclear Safety"
+msgstr ""
+
+msgid "Agriculture Safety"
+msgstr ""
+
+msgid "Occupational Health Safety"
+msgstr ""
+
+msgid "Unique Fundraisers"
+msgstr ""
+
+msgid "Sports Fundraiserse"
+msgstr ""
+
+msgid "Fundraisers"
+msgstr ""
+
+msgid "Staying Informed"
+msgstr ""
+
+msgid "Medical Edcuation"
+msgstr ""
+
+msgid "Managing a partucular disease"
+msgstr ""
+
+msgid "Customs & Border Protection"
+msgstr ""
+
+msgid "Federal Law & Enforcement"
+msgstr ""
+
+msgid "Nation Protection"
+msgstr ""
+
+msgid "Benefits Administrators"
+msgstr ""
+
+msgid "Executive Compensation Analysts"
+msgstr ""
+
+msgid "Managment Analysts"
+msgstr ""
+
+msgid "Health Insurance"
+msgstr ""
+
+msgid "Life Insurance"
+msgstr ""
+
+msgid "Vehicle Insurance"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Predictive Analytics"
+msgstr ""
+
+msgid "Science & Technology"
+msgstr ""
+
+msgid "Work Experience internship"
+msgstr ""
+
+msgid "Research internship"
+msgstr ""
+
+msgid "Sales & Marketing Intern"
+msgstr ""
+
+msgid "According To Law"
+msgstr ""
+
+msgid "Defined Rule"
+msgstr ""
+
+msgid "Shipping"
+msgstr ""
+
+msgid "Transpotation Managment"
+msgstr ""
+
+msgid "Third-party Logistics Provider"
+msgstr ""
+
+msgid "General Maintenance"
+msgstr ""
+
+msgid "Automobile Maintenance"
+msgstr ""
+
+msgid "Equipment Manitenance"
+msgstr ""
+
+msgid "Project Managment"
+msgstr ""
+
+msgid "Planning"
+msgstr ""
+
+msgid "Risk Managment"
+msgstr ""
+
+msgid "Quality Assurance"
+msgstr ""
+
+msgid "Product Manager"
+msgstr ""
+
+msgid "Planning Supervisor"
+msgstr ""
+
+msgid "Networking"
+msgstr ""
+
+msgid "Direct Mail Marketing"
+msgstr ""
+
+msgid "Media Advertising"
+msgstr ""
+
+msgid "Supply Chain"
+msgstr ""
+
+msgid "Hazardous Materials Management"
+msgstr ""
+
+msgid "Materials Inventory Managment"
+msgstr ""
+
+msgid "Aerospace"
+msgstr ""
+
+msgid "Biomedical"
+msgstr ""
+
+msgid "Mechanical"
+msgstr ""
+
+msgid "Naval"
+msgstr ""
+
+msgid "Conventional Mortgage"
+msgstr ""
+
+msgid "Adjustable Rate Mortgage"
+msgstr ""
+
+msgid "Commercial Mortgages"
+msgstr ""
+
+msgid "Economic Security"
+msgstr ""
+
+msgid "Environmental Security"
+msgstr ""
+
+msgid "Military Security"
+msgstr ""
+
+msgid "Freelance Portfolios"
+msgstr ""
+
+msgid "Freelance Freedom"
+msgstr ""
+
+msgid "Freelance Jobs"
+msgstr ""
+
+msgid "Offset Lithographp"
+msgstr ""
+
+msgid "Themography Raised Printing"
+msgstr ""
+
+msgid "Digital Printing"
+msgstr ""
+
+msgid "idea Generation"
+msgstr ""
+
+msgid "Need Based Generation"
+msgstr ""
+
+msgid "Design Solution"
+msgstr ""
+
+msgid "Media Relations"
+msgstr ""
+
+msgid "Media Tours"
+msgstr ""
+
+msgid "Newsletters"
+msgstr ""
+
+msgid "Automised Security"
+msgstr ""
+
+msgid "Environmental & Social Safety"
+msgstr ""
+
+msgid "Basic Research"
+msgstr ""
+
+msgid "Applied Research"
+msgstr ""
+
+msgid "Methods & Appraches"
+msgstr ""
+
+msgid "Department Stores"
+msgstr ""
+
+msgid "Discount Stores"
+msgstr ""
+
+msgid "Supermarkets"
+msgstr ""
+
+msgid "Sales Contracts"
+msgstr ""
+
+msgid "Sales Forecasts"
+msgstr ""
+
+msgid "Sales Managment"
+msgstr ""
+
+msgid "Scientific Managment"
+msgstr ""
+
+msgid "Scientific Research"
+msgstr ""
+
+msgid "Scientific invenctions"
+msgstr ""
+
+msgid "Shppping/Distrubution Companies"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Channels & Softwares"
+msgstr ""
+
+msgid "Medical Technicians"
+msgstr ""
+
+msgid "Electrical Technicians"
+msgstr ""
+
+msgid "Accounting Technicians"
+msgstr ""
+
+msgid "Construction Trade"
+msgstr ""
+
+msgid "Stock Trade"
+msgstr ""
+
+msgid "skilled Trade"
+msgstr ""
+
+msgid "Option Trade"
+msgstr ""
+
+msgid "Transpotation System"
+msgstr ""
+
+msgid "Human-Powered"
+msgstr ""
+
+msgid "Airline,Train,bus,car"
+msgstr ""
+
+msgid "Subway & Civil"
+msgstr ""
+
+msgid "Traffic Highway Transpotation"
+msgstr ""
+
+msgid "Small Business"
+msgstr ""
+
+msgid "E-Commerce Sites"
+msgstr ""
+
+msgid "Portals"
+msgstr ""
+
+msgid "Search Engines"
+msgstr ""
+
+msgid "Personal,Commercial,Govt"
+msgstr ""
+
+msgid "Student (Undergraduate)"
+msgstr ""
+
+msgid "Student (Graduate)"
+msgstr ""
+
+msgid "Entry Level"
+msgstr ""
+
+msgid "Experienced (Non-Manager)"
+msgstr ""
+
+msgid "Manager"
+msgstr ""
+
+msgid "Executive (Department Head, SVP, VP etc)"
+msgstr ""
+
+msgid "Senior Executive (President, CEO, etc)"
+msgstr ""
+
+msgid "uid"
+msgstr ""
+
+msgid "Logo"
+msgstr ""
+
+msgid "Address1"
+msgstr ""
+
+msgid "Address2"
+msgstr ""
+
+msgid "Terms And Conditions"
+msgstr ""
+
+msgid "Send Email"
+msgstr ""
+
+msgid "Send me Resume"
+msgstr ""
+
+msgid "Prefered Skills"
+msgstr ""
+
+msgid "Agreement"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Redirect on apply"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid "Add Address"
+msgstr ""
+
+msgid "Certificate Name"
+msgstr ""
+
+msgid "Study Area"
+msgstr ""
+
+msgid "Supervisor"
+msgstr ""
+
+msgid "Resume Editor"
+msgstr ""
+
+msgid "Add Language"
+msgstr ""
+
+msgid "Date From"
+msgstr ""
+
+msgid "Date to"
+msgstr ""
+
+msgid "Tag Line"
+msgstr ""
+
+msgid "Desired  Salary"
+msgstr ""
+
+msgid "I currently work there"
+msgstr ""
+
+msgid "University"
+msgstr ""
+
+msgid "College"
+msgstr ""
+
+msgid "High School"
+msgstr ""
+
+msgid "No School"
+msgstr ""
+
+msgid "Sourcing"
+msgstr ""
+
+msgid "Interviewing"
+msgstr ""
+
+msgid "Closed to New Applicants"
+msgstr ""
+
+msgid "Finalists Identified"
+msgstr ""
+
+msgid "Pending Approval"
+msgstr ""
+
+msgid "Hold"
+msgstr ""
+
+msgid "Part-Time"
+msgstr ""
+
+msgid "Internship"
+msgstr ""
+
+msgid "United States"
+msgstr ""
+
+msgid "Canada"
+msgstr ""
+
+msgid "Bahamas"
+msgstr ""
+
+msgid "Barbados"
+msgstr ""
+
+msgid "Belize"
+msgstr ""
+
+msgid "Bermuda"
+msgstr ""
+
+msgid "British Virgin Islands"
+msgstr ""
+
+msgid "Cayman Islands"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr ""
+
+msgid "Cuba"
+msgstr ""
+
+msgid "Dominica"
+msgstr ""
+
+msgid "Dominican Republic"
+msgstr ""
+
+msgid "El Salvador"
+msgstr ""
+
+msgid "Greenland"
+msgstr ""
+
+msgid "Grenada"
+msgstr ""
+
+msgid "Guadeloupe"
+msgstr ""
+
+msgid "Guatemala"
+msgstr ""
+
+msgid "Haiti"
+msgstr ""
+
+msgid "Honduras"
+msgstr ""
+
+msgid "Jamaica"
+msgstr ""
+
+msgid "Martinique"
+msgstr ""
+
+msgid "Mexico"
+msgstr ""
+
+msgid "Montserrat"
+msgstr ""
+
+msgid "Nicaragua"
+msgstr ""
+
+msgid "Panama"
+msgstr ""
+
+msgid "Puerto Rico"
+msgstr ""
+
+msgid "Trinidad and Tobago"
+msgstr ""
+
+msgid "United States Virgin Islands"
+msgstr ""
+
+msgid "Argentina"
+msgstr ""
+
+msgid "Bolivia"
+msgstr ""
+
+msgid "Brazil"
+msgstr ""
+
+msgid "Chile"
+msgstr ""
+
+msgid "Colombia"
+msgstr ""
+
+msgid "Ecuador"
+msgstr ""
+
+msgid "Falkland Islands"
+msgstr ""
+
+msgid "French Guiana"
+msgstr ""
+
+msgid "Guyana"
+msgstr ""
+
+msgid "Paraguay"
+msgstr ""
+
+msgid "Peru"
+msgstr ""
+
+msgid "Suriname"
+msgstr ""
+
+msgid "Uruguay"
+msgstr ""
+
+msgid "Venezuela"
+msgstr ""
+
+msgid "Albania"
+msgstr ""
+
+msgid "Andorra"
+msgstr ""
+
+msgid "Armenia"
+msgstr ""
+
+msgid "Austria"
+msgstr ""
+
+msgid "Azerbaijan"
+msgstr ""
+
+msgid "Belarus"
+msgstr ""
+
+msgid "Belgium"
+msgstr ""
+
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+msgid "Bulgaria"
+msgstr ""
+
+msgid "Croatia"
+msgstr ""
+
+msgid "Cyprus"
+msgstr ""
+
+msgid "Czech Republic"
+msgstr ""
+
+msgid "Denmark"
+msgstr ""
+
+msgid "Estonia"
+msgstr ""
+
+msgid "Finland"
+msgstr ""
+
+msgid "France"
+msgstr ""
+
+msgid "Georgia"
+msgstr ""
+
+msgid "Germany"
+msgstr ""
+
+msgid "Gibraltar"
+msgstr ""
+
+msgid "Greece"
+msgstr ""
+
+msgid "Guernsey"
+msgstr ""
+
+msgid "Hungary"
+msgstr ""
+
+msgid "Iceland"
+msgstr ""
+
+msgid "Ireland"
+msgstr ""
+
+msgid "Isle of Man"
+msgstr ""
+
+msgid "Italy"
+msgstr ""
+
+msgid "Jersey"
+msgstr ""
+
+msgid "Kosovo"
+msgstr ""
+
+msgid "Latvia"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr ""
+
+msgid "Lithuania"
+msgstr ""
+
+msgid "Luxembourg"
+msgstr ""
+
+msgid "Macedonia"
+msgstr ""
+
+msgid "Malta"
+msgstr ""
+
+msgid "Moldova"
+msgstr ""
+
+msgid "Monaco"
+msgstr ""
+
+msgid "Montenegro"
+msgstr ""
+
+msgid "Netherlands"
+msgstr ""
+
+msgid "Norway"
+msgstr ""
+
+msgid "Poland"
+msgstr ""
+
+msgid "Portugal"
+msgstr ""
+
+msgid "Romania"
+msgstr ""
+
+msgid "Russia"
+msgstr ""
+
+msgid "San Marino"
+msgstr ""
+
+msgid "Serbia"
+msgstr ""
+
+msgid "Slovakia"
+msgstr ""
+
+msgid "Slovenia"
+msgstr ""
+
+msgid "Spain"
+msgstr ""
+
+msgid "Sweden"
+msgstr ""
+
+msgid "Switzerland"
+msgstr ""
+
+msgid "Turkey"
+msgstr ""
+
+msgid "Ukraine"
+msgstr ""
+
+msgid "United Kingdom"
+msgstr ""
+
+msgid "Vatican City"
+msgstr ""
+
+msgid "Afghanistan"
+msgstr ""
+
+msgid "Bahrain"
+msgstr ""
+
+msgid "Bangladesh"
+msgstr ""
+
+msgid "Bhutan"
+msgstr ""
+
+msgid "Brunei"
+msgstr ""
+
+msgid "Cambodia"
+msgstr ""
+
+msgid "China"
+msgstr ""
+
+msgid "East Timor"
+msgstr ""
+
+msgid "Hong Kong"
+msgstr ""
+
+msgid "India"
+msgstr ""
+
+msgid "Indonesia"
+msgstr ""
+
+msgid "Iran"
+msgstr ""
+
+msgid "Iraq"
+msgstr ""
+
+msgid "Israel"
+msgstr ""
+
+msgid "Japan"
+msgstr ""
+
+msgid "Jordan"
+msgstr ""
+
+msgid "Kazakhstan"
+msgstr ""
+
+msgid "Kuwait"
+msgstr ""
+
+msgid "Kyrgyzstan"
+msgstr ""
+
+msgid "Laos"
+msgstr ""
+
+msgid "Lebanon"
+msgstr ""
+
+msgid "Macau"
+msgstr ""
+
+msgid "Malaysia"
+msgstr ""
+
+msgid "Maldives"
+msgstr ""
+
+msgid "Mongolia"
+msgstr ""
+
+msgid "Myanmar (Burma)"
+msgstr ""
+
+msgid "Nepal"
+msgstr ""
+
+msgid "North Korea"
+msgstr ""
+
+msgid "Oman"
+msgstr ""
+
+msgid "Pakistan"
+msgstr ""
+
+msgid "Philippines"
+msgstr ""
+
+msgid "Qatar"
+msgstr ""
+
+msgid "Saudi Arabia"
+msgstr ""
+
+msgid "Singapore"
+msgstr ""
+
+msgid "South Korea"
+msgstr ""
+
+msgid "Sri Lanka"
+msgstr ""
+
+msgid "Syria"
+msgstr ""
+
+msgid "Taiwan"
+msgstr ""
+
+msgid "Tajikistan"
+msgstr ""
+
+msgid "Thailand"
+msgstr ""
+
+msgid "Turkmenistan"
+msgstr ""
+
+msgid "United Arab Emirates"
+msgstr ""
+
+msgid "Uzbekistan"
+msgstr ""
+
+msgid "Vietnam"
+msgstr ""
+
+msgid "Yemen"
+msgstr ""
+
+msgid "Algeria"
+msgstr ""
+
+msgid "Angola"
+msgstr ""
+
+msgid "Benin"
+msgstr ""
+
+msgid "Botswana"
+msgstr ""
+
+msgid "Burkina Faso"
+msgstr ""
+
+msgid "Burundi"
+msgstr ""
+
+msgid "Cameroon"
+msgstr ""
+
+msgid "Cape Verde"
+msgstr ""
+
+msgid "Central African Republic"
+msgstr ""
+
+msgid "Chad"
+msgstr ""
+
+msgid "Congo"
+msgstr ""
+
+msgid "Democoratic Republic of Congo"
+msgstr ""
+
+msgid "Djibouti"
+msgstr ""
+
+msgid "Egypt"
+msgstr ""
+
+msgid "Equatorial Guinea"
+msgstr ""
+
+msgid "Eritrea"
+msgstr ""
+
+msgid "Ethiopia"
+msgstr ""
+
+msgid "Gabon"
+msgstr ""
+
+msgid "Gambia"
+msgstr ""
+
+msgid "Ghana"
+msgstr ""
+
+msgid "Guinea"
+msgstr ""
+
+msgid "Guinea-Bissau"
+msgstr ""
+
+msgid "Cote DIvory"
+msgstr ""
+
+msgid "Kenya"
+msgstr ""
+
+msgid "Lesotho"
+msgstr ""
+
+msgid "Liberia"
+msgstr ""
+
+msgid "Libya"
+msgstr ""
+
+msgid "Madagascar"
+msgstr ""
+
+msgid "Malawi"
+msgstr ""
+
+msgid "Mali"
+msgstr ""
+
+msgid "Mauritania"
+msgstr ""
+
+msgid "Mauritius"
+msgstr ""
+
+msgid "Morocco"
+msgstr ""
+
+msgid "Mozambique"
+msgstr ""
+
+msgid "Namibia"
+msgstr ""
+
+msgid "Niger"
+msgstr ""
+
+msgid "Nigeria"
+msgstr ""
+
+msgid "Reunion"
+msgstr ""
+
+msgid "Rwanda"
+msgstr ""
+
+msgid "Sao Tome and Principe"
+msgstr ""
+
+msgid "Senegal"
+msgstr ""
+
+msgid "Seychelles"
+msgstr ""
+
+msgid "Sierra Leone"
+msgstr ""
+
+msgid "Somalia"
+msgstr ""
+
+msgid "South Africa"
+msgstr ""
+
+msgid "Sudan"
+msgstr ""
+
+msgid "Swaziland"
+msgstr ""
+
+msgid "Tanzania"
+msgstr ""
+
+msgid "Togo"
+msgstr ""
+
+msgid "Tunisia"
+msgstr ""
+
+msgid "Uganda"
+msgstr ""
+
+msgid "Western Sahara"
+msgstr ""
+
+msgid "Zambia"
+msgstr ""
+
+msgid "Zimbabwe"
+msgstr ""
+
+msgid "Australia"
+msgstr ""
+
+msgid "New Zealand"
+msgstr ""
+
+msgid "Fiji"
+msgstr ""
+
+msgid "French Polynesia"
+msgstr ""
+
+msgid "Guam"
+msgstr ""
+
+msgid "Kiribati"
+msgstr ""
+
+msgid "Marshall Islands"
+msgstr ""
+
+msgid "Micronesia"
+msgstr ""
+
+msgid "Nauru"
+msgstr ""
+
+msgid "New Caledonia"
+msgstr ""
+
+msgid "Papua New Guinea"
+msgstr ""
+
+msgid "Samoa"
+msgstr ""
+
+msgid "Solomon Islands"
+msgstr ""
+
+msgid "Tonga"
+msgstr ""
+
+msgid "Tuvalu"
+msgstr ""
+
+msgid "Vanuatu"
+msgstr ""
+
+msgid "Wallis and Futuna"
+msgstr ""
+
+msgid "Comoros"
+msgstr ""
+
+msgid "Cote DIvorie"
+msgstr ""
+
+msgid "Type city:"
+msgstr ""
+
+msgid "Expiry In"
+msgstr ""
+
+msgid "Email is not of correct Format"
+msgstr ""
+
+msgid "Resumefiles"
+msgstr ""
+
+msgid "Show number of job types per row on"
+msgstr ""
+
+msgid "job by type"
+msgstr ""
+
+msgid "page"
+msgstr ""
+
+msgid "Show number of categories per row in"
+msgstr ""
+
+msgid "job/resume by category"
+msgstr ""
+
+msgid "How many sub categories show in popup on"
+msgstr ""
+
+msgid "Price per Company submission (only for"
+msgstr ""
+
+msgid "per listing"
+msgstr ""
+
+msgid "mode)"
+msgstr ""
+
+msgid "Price per Job Alert Submission (only for"
+msgstr ""
+
+msgid "Price per Job submission (only for"
+msgstr ""
+
+msgid "Price per Featured Job submission (only for"
+msgstr ""
+
+msgid "Resume submission (only for"
+msgstr ""
+
+msgid "Feature per Resume submission (only for"
+msgstr ""
+
+msgid "Feature per Company submission (only for"
+msgstr ""
+
+msgid "Resume Save Search  submission (only for"
+msgstr ""
+
+msgid "Job Apply  submission (only for"
+msgstr ""
+
+msgid "Resume View Contact Detail  submission (only for"
+msgstr ""
+
+msgid "Company View Contact Detail  submission (only for"
+msgstr ""
+
+msgid "Department  submission (only for"
+msgstr ""
+
+msgid "Currencies"
+msgstr ""
+
+msgid "Add Job Status"
+msgstr ""
+
+msgid "Add Shifts"
+msgstr ""
+
+msgid "Add Highest Education"
+msgstr ""
+
+msgid "Add Age"
+msgstr ""
+
+msgid "Add Career Level"
+msgstr ""
+
+msgid "Add Experience"
+msgstr ""
+
+msgid "Add Currency"
+msgstr ""
+
+msgid "Select Language"
+msgstr ""
+
+msgid "Show gold jobs in jobs listing page"
+msgstr ""
+
+msgid "Show featured jobs in jobs listing page"
+msgstr ""
+
+msgid "Job Seeker purchase package"
+msgstr ""
+
+msgid "Desire Salary"
+msgstr ""
+
+msgid "File Upload"
+msgstr ""
+
+msgid "Language Where Learned"
+msgstr ""
+
+msgid "Language Understanding"
+msgstr ""
+
+msgid "Language Writing"
+msgstr ""
+
+msgid "Language Reading"
+msgstr ""
+
+msgid "Reference Name"
+msgstr ""
+
+msgid "Reference City"
+msgstr ""
+
+msgid "Reference Zipcode"
+msgstr ""
+
+msgid "Reference Address"
+msgstr ""
+
+msgid "Reference Phone"
+msgstr ""
+
+msgid "Reference Relation"
+msgstr ""
+
+msgid "Reference Years"
+msgstr ""
+
+msgid "Leave Reason"
+msgstr ""
+
+msgid "Institute City"
+msgstr ""
+
+msgid "Driving License"
+msgstr ""
+
+msgid "License No."
+msgstr ""
+
+msgid "License Country"
+msgstr ""
+
+msgid "Searchable"
+msgstr ""
+
+msgid "Job Salary Range"
+msgstr ""
+
+msgid "No Of Jobs"
+msgstr ""
+
+msgid "Zipcode"
+msgstr ""
+
+msgid "Send Me Resume"
+msgstr ""
+
+msgid "Visitor Unpublish"
+msgstr ""
+
+msgid "Visitor Publish"
+msgstr ""
+
+msgid "Select Files"
+msgstr ""
+
+msgid "You Unsubscribe Job Alert"
+msgstr ""
+
+msgid "Add Employer Package"
+msgstr ""
+
+msgid "Free Package"
+msgstr ""
+
+msgid "Delete Cat And Sub-cat"
+msgstr ""
+
+msgid "Error in saving message"
+msgstr ""
+
+msgid "Can not get free package more then once"
+msgstr ""
+
+msgid "Incorrect Email Address"
+msgstr ""
+
+msgid "Employer Not Allowed"
+msgstr ""
+
+msgid "You are not allowed to unsubscribe from the job alert"
+msgstr ""
+
+msgid "Error while assigning package to user"
+msgstr ""
+
+msgid "Cannot assign free package more than once"
+msgstr ""
+
+msgid "JS Jobs for any business, industry body or staffing company wishing to establish a presence on the internet where job seekers can come to view the latest jobs and apply to them.JS Jobs allows you to run your own, unique jobs classifieds service where you or employer can advertise their jobs and jobseekers can upload their Resumes."
+msgstr ""
+
+msgid "Choose Version"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "JS Support Ticket is a trusted open source ticket system. JS Support Ticket is a simple, easy to use, web-based customer support system. User can create ticket from front-end. JS Support Ticket comes packed with lot features than most of the expensive"
+msgstr ""
+
+msgid "and complex"
+msgstr ""
+
+msgid "support ticket system on market."
+msgstr ""
+
+msgid "You Are Not Allowed"
+msgstr ""
+
+msgid "Edit Erase Data Request"
+msgstr ""
+
+msgid "Email template option for employer has been changed"
+msgstr ""
+
+msgid "Do you sure to submit the erase data request?"
+msgstr ""
+
+msgid "Delete Cat"
+msgstr ""
+
+msgid "Sub-Cat"
+msgstr ""
+
+msgid "Resume files"
+msgstr ""
+
+msgid "Enter Name Here"
+msgstr ""
+
+msgid "You do not have any companies remaining"
+msgstr ""
+
+msgid "You do not have any department remaining"
+msgstr ""
+
+msgid "Enter -1 for Unlimited"
+msgstr ""
+
+msgid "Less than 1 year"
+msgstr ""
+
+msgid "Fresh"
+msgstr ""
+
+msgid "Register an account"
+msgstr ""
+
+msgid "Miscellaneous Tutorials"
+msgstr ""
+
+msgid "Plugin Walkthrough"
+msgstr ""
+
+msgid "How to Set Up WP Job Portal"
+msgstr ""
+
+msgid "Find step-by-step setup instructions and access all tutorial videos to get started quickly."
+msgstr ""
+
+msgid "Explore all shortcodes and watch a video tutorial on how to create pages with them."
+msgstr ""
+
+msgid "Manage Addons"
+msgstr ""
+
+msgid "Check the status of your addons and easily install new ones to enhance functionality."
+msgstr ""
+
+msgid "How to Set Up"
+msgstr ""
+
+msgid "Visit Help Page"
+msgstr ""
+
+msgid "Check Status"
+msgstr ""
+
+msgid "Install Guide"
+msgstr ""
+
+
+msgid "Month"
+msgstr ""
+
+msgid "Deleting section will delete all its fields."
+msgstr ""
+
+msgid "more"
+msgstr ""
+
+msgid "link"
+msgstr ""
+
+msgid "Days+"
+msgstr ""
+
+msgid "Jobseeker not allowed to perform this action"
+msgstr ""
+
+msgid "No Of Job"
+msgstr ""
+
+msgid "No Of Feature"
+msgstr ""
+
+msgid "No Of Company Contact View"
+msgstr ""
+
+msgid "Remaining Company Contact View"
+msgstr ""
+
+msgid "Addons Status"
+msgstr ""
+
+msgid "Please enter a Photo"
+msgstr ""
+
+msgid "Please enter a Last Name"
+msgstr ""
+
+msgid "Please enter a First Name"
+msgstr ""
+
+msgid "Invalid User Name"
+msgstr ""
+
+msgid "Please enter a User Name"
+msgstr ""
+
+msgid "register an account"
+msgstr ""
+
+
+mmsgid "Full Time"
+msgstr ""
+
+msgid "Parent Category"
+msgstr ""
+
+
+msgid "Folders Approval Queue"
+msgstr ""
+msgid "Cover Letter Section"
+msgstr ""
+
+msgid "Visitor Published"
+msgstr ""
+
+msgid "User Published"
+msgstr ""
+
+
+msgid "Meta"
+msgstr ""
+
+msgid "Visitor Unpublished"
+msgstr ""
+
+msgid "user unpublish"
+msgstr ""
+msgid "User Publish"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+
+msgid "Savings"
+msgstr ""
+
+msgid "Credit System"
+msgstr ""
+
+msgid "on preser theme Aqua"
+msgstr ""
+
+msgid "Reference For column"
+msgstr ""
+
+msgid "User Id"
+msgstr ""
+
+msgid "slug for companies listing page"
+msgstr ""
+
+msgid "slug for my jobs by cities page"
+msgstr ""
+
+msgid "slug for view coverletter page"
+msgstr ""
+
+msgid "slug for add coverletter page"
+msgstr ""
+
+msgid "slug for my coverletters page"
+msgstr ""
+
+msgid "slug for login page"
+msgstr ""
+
+msgid "added a new Resume"
+msgstr ""
+
+msgid "added a new Job"
+msgstr ""
+msgid "Deleted a Job"
+msgstr ""
+
+msgid "Deleted a Company"
+msgstr ""
+
+msgid "added a new Company"
+msgstr ""
+
+msgid "added a new Resume Search"
+msgstr ""
+
+msgid "Resumesearches"
+msgstr ""
+
+msgid "slugs on multi places"
+msgstr ""
+
+msgid "Sample Page"
+msgstr ""
+
+msgid "subscriber"
+msgstr ""
+
+msgid "Employer Stat Boxes"
+msgstr ""
+
+msgid "Applied Jobs Box"
+msgstr ""
+
+msgid "Enter the Google reCaptcha site key from"
+msgstr ""
+
+msgid "Google reCaptcha Version"
+msgstr ""
+
+msgid "Google reCaptcha Site Key"
+msgstr ""
+
+msgid "Newsest Jobs Box"
+msgstr ""
+
+msgid "Price per"
+msgstr ""
+
+msgid "submission"
+msgstr ""
+
+msgid "only for"
+msgstr ""
+
+msgid "No of days untill"
+msgstr ""
+
+msgid "Expire"
+msgstr ""
+msgid "Price per Resume View Contact Detail (only for"
+msgstr ""
+
+msgid "this is some desc text for job rss"
+msgstr ""
+
+
+msgid "webmaster text"
+msgstr ""
+
+msgid "copy right text"
+msgstr ""
+
+msgid "Redirect Link For WP User after login"
+msgstr ""
+
+msgid "Link To Redirect WP user who does not have a role in WP Job Portal"
+msgstr ""
+
+msgid "WP Job Portal is an open-source job board plugin for WordPress that provides advanced features to help you create a successful job board. In addition, we offer trusted WP Job Portal add-ons that can further enhance your job board's functionality in a fast, safe, and easy manner. Our add-ons have been designed to integrate seamlessly with our job board plugin, ensuring you can expand your job board's capabilities without any complications. "
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "editor text"
+msgstr ""
+
+msgid "No of Cover Letters"
+msgstr ""
+
+msgid "You have not answered all required fields"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+
+msgid "April"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Auto approve cover letter for job seeker"
+msgstr ""
+
+msgid "Job Seeker Stat Boxes"
+msgstr ""
+
+msgid "Job short list setting effects on job detail page"
+msgstr ""
+
+msgid "Resume View Contact Detail"
+msgstr ""
+
+msgid "Company View Contact Detail"
+msgstr ""
+
+msgid "Cover Letters"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "View Cover Letter"
+msgstr ""
+
+msgid "No Cover Letter"
+msgstr ""
+
+msgid "searchable"
+msgstr ""
+
+msgid "Cover Letter Title"
+msgstr ""
+
+msgid "Cover Letter Approval Queue"
+msgstr ""
+
+msgid "Cover Letters Approval Queue"
+msgstr ""
+
+msgid "Already uploaded"
+msgstr ""
+
+msgid "How to Setup"
+msgstr ""
+
+msgid "How to setup WP Job Portal"
+msgstr ""
+
+msgid "Delete Cover Letter"
+msgstr ""
+
+msgid "Cover Letter Detail"
+msgstr ""
+
+msgid "Select Payment"
+msgstr ""
+
+msgid "My Department"
+msgstr ""
+
+msgid "Add To ShortList"
+msgstr ""
+
+msgid "Quick Start"
+msgstr ""
+
+msgid "Configure WP Job Portal As"
+msgstr ""
+
+msgid "Job Board"
+msgstr ""
+
+msgid "Admins manage companies, jobs, etc., from the back-end, and employers manage companies, jobs, etc., from the front-end. Job seekers apply for jobs from the front-end."
+msgstr ""
+
+msgid "Select Job Board"
+msgstr ""
+
+msgid "Single Company"
+msgstr ""
+
+msgid "Only administrators manage job postings, companies, etc., from the back-end, and job seekers apply for jobs from the front-end."
+msgstr ""
+
+msgid "Select Single Company"
+msgstr ""
+
+msgid "Requires WP Job Portal Multi Departments Addon"
+msgstr ""
+
+msgid "Requires WP Job Portal Resume Search Addon"
+msgstr ""
+
+msgid "Requires WP Job Portal Credits Addon"
+msgstr ""
+
+msgid "User been successfully created"
+msgstr ""
+
+# new strings 17-oct
+
+msgid "International Name"
+msgstr ""
+
+msgid "Native Name"
+msgstr ""
+
+msgid "Import Location Data"
+msgstr ""
+
+msgid "Location Name Settings"
+msgstr ""
+
+msgid "URL Settings"
+msgstr ""
+
+msgid "Job Detail URL"
+msgstr ""
+
+msgid "Company Detail URL"
+msgstr ""
+
+msgid "Resume Detail URL"
+msgstr ""
+
+msgid "Company detail document title"
+msgstr ""
+
+msgid "Company detail page document title options are Company Name and Company City . eg- [name] [location] [separator] [sitename]"
+msgstr ""
+
+msgid "Job detail document title"
+msgstr ""
+
+msgid "Job detail page document title options are Job Title, Company Name, Job Category, Job Type and Job Cities . eg- [title] [companyname] [jobcategory] [jobtype] [location] [separator] [sitename]"
+msgstr ""
+
+msgid "Resume detail document title"
+msgstr ""
+
+msgid "Resume detail document title options are Application Title, Job Category, Job Type and Resume Location. eg- [applicationtitle] [jobcategory] [jobtype] [location] [separator] [sitename]"
+msgstr ""
+
+msgid "Job detail URL options are title, company, category, location, jobtype. eg- [title] [company] [category] [jobtype] [location]"
+msgstr ""
+
+msgid "Company detail url options are name, category, location. eg- [name] [category] [location]"
+msgstr ""
+
+msgid "Resume detail URL options are title, category, location. eg- [title] [location]"
+msgstr ""
+
+msgid "Cities Data To Import"
+msgstr ""
+
+msgid "Free Data"
+msgstr ""
+
+msgid "Paid Data"
+msgstr ""
+
+msgid "City Name Preferences"
+msgstr ""
+
+msgid "To enhance the user experience, do you prefer displaying city names in English or in their native language."
+msgstr ""
+
+msgid "Existing Data"
+msgstr ""
+
+msgid "Keep Data"
+msgstr ""
+
+msgid "Erase Data"
+msgstr ""
+
+msgid "Selecting 'Erase Data' will remove all existing cities from your database. If you choose this option all city data will be permanently deleted."
+msgstr ""
+
+msgid "Address Data Addon To Get All The Cities And Towns"
+msgstr ""
+
+msgid "Records"
+msgstr ""
+
+msgid "Free Version Contains"
+msgstr ""
+
+msgid "No Records Found"
+msgstr ""
+
+msgid "No Records"
+msgstr ""
+
+msgid "Paid Version Contains"
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgid "Currently Set"
+msgstr ""
+
+msgid "Show WP Job Portal page title"
+msgstr ""
+
+msgid "Show page title above breadcrumbs"
+msgstr ""
+msgid "or"
+msgstr ""
+
+msgid "company logo"
+msgstr ""
+
+msgid "job title"
+msgstr ""
+
+msgid "company name"
+msgstr ""
+
+msgid "Resume Has Been Feature SuccesFully"
+msgstr ""
+
+msgid "My coverletter"
+msgstr ""
+
+msgid "Add coverletter"
+msgstr ""
+
+msgid "Total Cover Letter"
+msgstr ""
+
+msgid "Remaining Cover Letter"
+msgstr ""
+
+msgid "Open ChatGPT"
+msgstr ""
+
+msgid "How To Add Cover Letter With ChatGPT"
+msgstr ""
+
+msgid "Edit coverletter"
+msgstr ""
+
+msgid "Edit Cover Letter"
+msgstr ""
+
+msgid "Delete coverletter"
+msgstr ""
+
+msgid "coverletter title"
+msgstr ""
+
+msgid "Add New Cover Letter"
+msgstr ""
+
+msgid "Quote from Hello Dolly song, by Jerry Herman:"
+msgstr ""
+
+msgid "Select Parent"
+msgstr ""
+
+msgid "Edit Field"
+msgstr ""
+
+msgid "Visitor published"
+msgstr ""
+
+msgid "Show On Listing"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Equal"
+msgstr ""
+
+msgid "Not Equal"
+msgstr ""
+
+msgid "Multi Select"
+msgstr ""
+
+msgid "Visible"
+msgstr ""
+
+msgid "Select Child"
+msgstr ""
+
+msgid "Select Condition"
+msgstr ""
+
+msgid "To use this feature please fill the above three fields."
+msgstr ""
+
+msgid "No response found"
+msgstr ""
+
+msgid "Quick Apply"
+msgstr ""
+
+msgid "user publish"
+msgstr ""
+
+msgid "User Unpublished"
+msgstr ""
+
+msgid "visitor publish"
+msgstr ""
+
+msgid "visitor unpublish"
+msgstr ""
+
+msgid "Select user status"
+msgstr ""
+
+msgid "Un published"
+msgstr ""
+
+msgid "File upload fields and text editor fields cannot be made required."
+msgstr ""
+
+msgid "Dependent Field"
+msgstr ""
+
+msgid "Job Apply settings"
+msgstr ""
+
+msgid "Quick Apply settings"
+msgstr ""
+
+msgid "Show count in jobs by cities page"
+msgstr ""
+
+msgid "Show country in jobs by cities page"
+msgstr ""
+
+msgid "Profile Section"
+msgstr ""
+
+msgid "Recaptcha Version 2"
+msgstr ""
+
+msgid "Recaptcha Version 3"
+msgstr ""
+
+msgid "System slug"
+msgstr ""
+
+msgid "Image file size"
+msgstr ""
+
+msgid "System will not upload if image size is greater than the given size"
+msgstr ""
+
+msgid "Show page title above wpjobportal breadcrumbs"
+msgstr ""
+
+msgid "Default Image For WP Job Portal"
+msgstr ""
+
+msgid "This image will shown as default image for entities & users if no other image is provided."
+msgstr ""
+
+msgid "Default country"
+msgstr ""
+
+msgid "Select default country for user added cities"
+msgstr ""
+
+msgid "Job detail URL options are title, company, category, location, jobtype. eg- [title] [company]"
+msgstr ""
+
+msgid "Select the Google reCaptcha Version"
+msgstr ""
+
+msgid "Recent Resumes Box"
+msgstr ""
+
+msgid "mode"
+msgstr ""
+
+msgid "expire"
+msgstr ""
+
+msgid "Registration is disabled in WordPress settings, please enable to Membership: anyone can register."
+msgstr ""
+
+msgid "Quick Apply Now"
+msgstr ""
+
+msgid "Enable Quick Apply for user"
+msgstr ""
+
+msgid "Enable Quick Apply for visitor"
+msgstr ""
+
+msgid "Enable captcha for visitor Quick Apply"
+msgstr ""
+
+msgid "Show captcha to visitor on quick apply form."
+msgstr ""
+
+msgid "Add ons for WP Job Portal have been installed and activated successfully. "
+msgstr ""
+
+msgid "WP Job Portal is an open-source job board plugin for WordPress that provides advanced features to help you create a successful job board. In addition, we offer trusted WP Job Portal add-ons that can further enhance your job board's functionality in a fast, safe, and easy manner. Our add-ons have been designed to integrate seamlessly with our job board plugin, ensuring you can expand your job board's capabilities without any complications."
+msgstr ""
+
+msgid "Savings*"
+msgstr ""
+
+msgid "Best Deal"
+msgstr ""
+
+msgid "Shortlist Job"
+msgstr ""
+
+msgid "e.g 45000"
+msgstr ""
+
+msgid "e.g 3000"
+msgstr ""
+
+msgid "e.g 6000"
+msgstr ""
+
+msgid "Deactivated"
+msgstr ""
+
+msgid "Not Installed"
+msgstr ""
+
+msgid "Addon Installed Successfully"
+msgstr ""
+
+msgid "Addon installation failed"
+msgstr ""
+
+msgid "Resume Data Management"
+msgstr ""
+
+msgid "Export (csv)"
+msgstr ""
+
+msgid "Configuration Based Tutorials"
+msgstr ""
+
+msgid "Slugs"
+msgstr ""
+
+msgid "Theme Installation"
+msgstr ""
+
+msgid "WP Job Portal Theme  Installation"
+msgstr ""
+
+msgid "System Management"
+msgstr ""
+
+msgid "Activity Log and System Errors"
+msgstr ""
+
+msgid "Shortcode"
+msgstr ""
+
+msgid "Job Seeker Control Panel"
+msgstr ""
+
+msgid "A shortcode designed for jobseeker, providing an easy-to-use controlpanel to manage applications, resume, and preferences directly from their dashboard."
+msgstr ""
+
+msgid "Base Shortcode"
+msgstr ""
+
+msgid "Shortcode With All Options"
+msgstr ""
+
+msgid " The Employer Control Panel is a streamlined interface that allows employers to manage job postings, track applications, communicate with candidates, and analyze hiring metrics efficiently."
+msgstr ""
+
+msgid "The job search shortcode enables users to easily find job listings based on various criteria."
+msgstr ""
+
+msgid "The jobs shortcode is a feature that displays individual job listings on a website."
+msgstr ""
+
+msgid "The featured job shortcode highlights select job listings on a website, making them stand out to potential applicants."
+msgstr ""
+
+msgid "This Shortcode requires WP Job Portal Featured Jobs Addon"
+msgstr ""
+
+msgid "Get Addon"
+msgstr ""
+
+msgid "Job Categories"
+msgstr ""
+
+msgid "The job categories shortcode displays a dynamic list of available categories, enabling users to easily navigate and find relevant job listings."
+msgstr ""
+
+msgid "The job types shortcode presents a comprehensive list of available job types, allowing users to quickly explore and find suitable job opportunities."
+msgstr ""
+
+msgid "My applied jobs shortcode provides users with a personalized list of their job applications, allowing easy access to track application status and details."
+msgstr ""
+
+msgid "My companies shortcode displays a personalized list of companies users are associated with, facilitating easy access to company information and opportunities."
+msgstr ""
+
+msgid "All companies shortcode offers a curated directory of all companies, allowing users to easily browse and connect with potential employers."
+msgstr ""
+
+msgid "This Shortcode requires WP Job Portal All Companies Addon"
+msgstr ""
+
+msgid "The featured companies shortcode showcases prominent companies within the portal, allowing users to explore exciting job opportunities from industry leaders."
+msgstr ""
+
+msgid "This Shortcode requires WP Job Portal Featured Companies Addon"
+msgstr ""
+
+msgid "My jobs shortcode allows users to view and manage their saved job listings, making it easy to keep track of potential opportunities."
+msgstr ""
+
+msgid "My resume shortcode allows users to view and manage their uploaded resumes, providing a convenient way to keep their job application materials up to date."
+msgstr ""
+
+msgid "All Resumes"
+msgstr ""
+
+msgid "All resumes shortcode allows job seekers to view and manage their uploaded resumes, ensuring they have easy access to their application materials."
+msgstr ""
+
+msgid "This Shortcode requires WP Job Portal All Resumes Addon"
+msgstr ""
+
+msgid "The featured resumes shortcode showcases a selection of standout resumes, allowing job seekers to stand out to potential employers."
+msgstr ""
+
+msgid "This Shortcode requires WP Job Portal Featured Resumes Addon"
+msgstr ""
+
+msgid "Add company shortcode allows employers to effortlessly register their organization, providing essential details to attract talent and post job openings."
+msgstr ""
+
+msgid "Add department shortcode enables employers to easily create and manage specific departments within their organization, facilitating better job categorization and organization."
+msgstr ""
+
+msgid "This Shortcode requires WP Job Portal Multi Departments Addon"
+msgstr ""
+
+msgid "Add jobs enables organizations to effortlessly publish job postings, helping them connect with potential applicants and fill vacancies more effectively."
+msgstr ""
+
+msgid "Add resume shortcode simplifies the process for candidates to submit their resumes, helping them showcase their qualifications and experiences to potential employers."
+msgstr ""
+
+msgid "Resume search shortcode provides a powerful search tool for employers to explore candidate profiles, making it easier to connect with potential hires."
+msgstr ""
+
+msgid "This Shortcode requires WP Job Portal Resume Search Addon"
+msgstr ""
+
+msgid "Registration"
+msgstr ""
+
+msgid "Registration shortcode allows individuals to easily create accounts as their selected role"
+msgstr ""
+
+msgid "Employer registration shortcode streamlines the process for organizations to register, ensuring they can efficiently manage job postings and their company profiles."
+msgstr ""
+
+msgid "Job Seeker Registration"
+msgstr ""
+
+msgid "Job seeker registration shortcode allows individuals to easily create accounts, enabling them to apply for jobs and manage their resumes."
+msgstr ""
+
+msgid "Login Page"
+msgstr ""
+
+msgid "Login page shortcode offers a user-friendly interface for candidates and employers to securely log in and manage their profiles and postings."
+msgstr ""
+
+msgid "Widget"
+msgstr ""
+
+msgid "Search job widget provides an intuitive interface for candidates to filter and browse openings, connecting them with opportunities that align with their skills."
+msgstr ""
+
+msgid "This Shortcode requires WP Job Portal Front-end Widgets Addon"
+msgstr ""
+
+msgid "My packages offers a personalized dashboard for users to monitor their subscription details, helping them manage job postings and access features effectively."
+msgstr ""
+
+msgid "This Shortcode requires WP Job Portal Credits Addon"
+msgstr ""
+
+msgid "My subscription provides users with an overview of their active subscriptions, allowing easy management and tracking of their job posting plans.  "
+msgstr ""
+
+msgid "All packages showcases a comprehensive list of available subscription plans, allowing users to compare features and select the best options for their job posting needs."
+msgstr ""
+
+msgid "My invoices provides a convenient way for users to view and manage their invoices, helping them stay organized and up to date with their payments."
+msgstr ""
+
+msgid "SEO"
+msgstr ""
+
+msgid "Document Title Settings"
+msgstr ""
+
+msgid "Company detail url options are name, location. eg- [name] [location]"
+msgstr ""
+
+msgid "spinning wheel"
+msgstr ""
+
+msgid "New Update Version"
+msgstr ""
+
+msgid "is Available"
+msgstr ""
+
+msgid "Hey there! We have recently launched a fresh update for the add-ons. Don't forget to update the add-ons to enjoy the greatest features!"
+msgstr ""
+
+msgid "View Addone Status"
+msgstr ""
+
+msgid "Active Companies"
+msgstr ""
+
+msgid "Help Page"
+msgstr ""
+
+msgid "Watch Tutorial"
+msgstr ""
+
+msgid "video"
+msgstr ""
+
+msgid "Apply Now Failed"
+msgstr ""
+
+msgid "You do not have package required for job apply"
+msgstr ""
+
+msgid "You package has expired"
+msgstr ""
+
+msgid "You do not any more job apply available"
+msgstr ""
+
+msgid "Job Not Found"
+msgstr ""
+
+msgid "Job does not exist in the system"
+msgstr ""
+
+msgid "Make Payment To Complete The Job Apply"
+msgstr ""
+
+msgid "Successfully applied on job"
+msgstr ""
+
+msgid "view coverletter"
+msgstr ""
+
+msgid "Please Fill out fields"
+msgstr ""
+
+msgid "sender email is not of correct format"
+msgstr ""
+
+msgid "Erase Selected Country"
+msgstr ""
+
+msgid "Erase All Data"
+msgstr ""
+
+msgid "Click on package to select one"
+msgstr ""
+
+msgid "Apply to the Job"
+msgstr ""
+
+msgid "No Cover Letter!"
+msgstr ""
+
+msgid "Add Cover Lettter"
+msgstr ""
+
+msgid "You have already applied on this job."
+msgstr ""
+
+msgid "Unlimited job applies"
+msgstr ""
+
+msgid "Job applies remaining"
+msgstr ""
+
+msgid "Buy package to apply on job."
+msgstr ""
+
+msgid "Apply With Package"
+msgstr ""
+
+msgid "Payment of"
+msgstr ""
+
+msgid "is required to complete the job apply process"
+msgstr ""
+
+msgid "You are logged in as employer."
+msgstr ""
+
+msgid "You are not a logged in member."
+msgstr ""
+
+msgid "You do not have any role."
+msgstr ""
+
+msgid "Proceed to payment"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "Save As Draft"
+msgstr ""
+
+msgid "Job Has Been Feature SuccesFully"
+msgstr ""
+
+msgid "You are Not Allowed To Add More than One"
+msgstr ""
+
+msgid "Contact TO Adminstrator"
+msgstr ""
+
+msgid "This Is Meta Description"
+msgstr ""
+
+msgid "jobs by cities"
+msgstr ""
+
+msgid "Show Info"
+msgstr ""
+
+msgid "Changing a user's role will not remove its entites from the system !"
+msgstr ""
+
+msgid "company reject"
+msgstr ""
+
+msgid "all reject"
+msgstr ""
+
+msgid "Missing user(s) added successfully!"
+msgstr ""
+
+msgid "No missing user found!"
+msgstr ""
+
+msgid "Jobs Listing Menu"
+msgstr ""
+
+msgid "Visitor"
+msgstr ""
+
+msgid "new message alert"
+msgstr ""
+
+msgid "New Message Alert"
+msgstr ""
+
+msgid "Recipient Name"
+msgstr ""
+
+msgid "Sender Name"
+msgstr ""
+
+msgid "Sender Role"
+msgstr ""
+
+msgid "Message Text"
+msgstr ""
+
+msgid "Job/Resume Info"
+msgstr ""
+
+msgid "Upload Resume"
+msgstr ""
+
+msgid "Profile Status"
+msgstr ""
+
+msgid "Profile Completed"
+msgstr ""
+
+msgid "feature approve"
+msgstr ""
+
+msgid "feature reject"
+msgstr ""
+
+msgid "Type city"
+msgstr ""
+
+msgid "New Message"
+msgstr ""
+
+msgid "Employer is disabled by admin"
+msgstr ""
+
+msgid "You are not allowed to add more than one"
+msgstr ""
+
+msgid "contact adminstrator"
+msgstr ""
+
+msgid "Payment is not made against this job contact adminstrator"
+msgstr ""
+
+msgid "Addon Page Not Found"
+msgstr ""
+
+msgid "User Role"
+msgstr ""
+
+msgid "Jobs Role"
+msgstr ""
+
+msgid "User has been successfully created"
+msgstr ""
+
+msgid "Pay For Department"
+msgstr ""
+
+msgid "Pay For Job Apply"
+msgstr ""
+
+msgid "Pay For Company"
+msgstr ""
+
+msgid "Pay For Featured Company"
+msgstr ""
+
+msgid "Pay For Job"
+msgstr ""
+
+msgid "Pay For Featured Job"
+msgstr ""
+
+msgid "Pay For Resume Search"
+msgstr ""
+
+msgid "Pay For Resume "
+msgstr ""
+
+msgid "Pay For Featured Resume "
+msgstr ""
+
+msgid "Job Saved Searches"
+msgstr ""
+
+msgid "Job Apply Configurations"
+msgstr ""
+
+msgid "Quick Apply Fields"
+msgstr ""
+
+msgid "addons status"
+msgstr ""
+
+msgid "coverletters"
+msgstr ""
+
+msgid "coverletter"
+msgstr ""
+
+msgid "add new cover letter"
+msgstr ""
+
+msgid "Loaction Name settings"
+msgstr ""
+
+msgid "Loaction Name Settings"
+msgstr ""
+
+msgid "shifts"
+msgstr ""
+
+msgid "ages"
+msgstr ""
+
+msgid "Error file size too large"
+msgstr ""
+
+msgid "Maximum Size"
+msgstr ""
+
+msgid "is in use"
+msgstr ""
+
+msgid "can not deleted it"
+msgstr ""
+
+msgid "Address data"
+msgstr ""
+
+msgid "themes"
+msgstr ""
+
+msgid "Color Schemes"
+msgstr ""
+
+msgid "Color Chooser"
+msgstr ""
+
+msgid "Color 1"
+msgstr ""
+
+msgid "Color 2"
+msgstr ""
+
+msgid "Color 3"
+msgstr ""
+
+msgid "Add User Fields"
+msgstr ""
+
+msgid "cannot unpublished"
+msgstr ""
+
+msgid "Search Name"
+msgstr ""
+
+msgid "start"
+msgstr ""
+
+msgid "Total Resume Search"
+msgstr ""
+
+msgid "Remaining Resume Search"
+msgstr ""
+
+msgid "Reference"
+msgstr ""
+
+msgid "cancel payment"
+msgstr ""
+
+msgid "Apply now"
+msgstr ""
+
+msgid " Listing"
+msgstr ""
+
+msgid "Credits log"
+msgstr ""
+
+msgid "Rate list"
+msgstr ""
+
+msgid "Purchase history"
+msgstr ""
+
+msgid " remaining"
+msgstr ""
+
+msgid "Cover Letter has been successfully published"
+msgstr ""
+
+msgid "cover Letter has been successfully published"
+msgstr ""
+
+msgid "Resume files download"
+msgstr ""
+
+msgid "apply with facebook"
+msgstr ""
+
+msgid "apply with linkedin"
+msgstr ""
+
+msgid "apply with xing"
+msgstr ""
+
+msgid "Resume removed from featured"
+msgstr ""
+
+msgid "share blog"
+msgstr ""
+
+msgid "share digg"
+msgstr ""
+
+msgid "share fb"
+msgstr ""
+
+msgid "share ff"
+msgstr ""
+
+msgid "share google"
+msgstr ""
+
+msgid "share linkedin"
+msgstr ""
+
+msgid "share myspace"
+msgstr ""
+
+msgid "share twitter"
+msgstr ""
+
+msgid "share yahoo"
+msgstr ""
+
+msgid "Mark As Shortlist Job"
+msgstr ""
+
+msgid "Keep this job on your list! Mark it as shortlisted and find it easily whenever you need."
+msgstr ""
+
+msgid "Search job title, company name, keywords"
+msgstr ""
+
+msgid "Loction"
+msgstr ""
+
+msgid "Applied Resume Title"
+msgstr ""
+
+msgid "Arrow"
+msgstr ""
+
+msgid "Already Applied"
+msgstr ""
+
+msgid "Ready to take the next step? Simply fill out the form and submit your application. It only takes a few minutes!"
+msgstr ""
+
+msgid "Waiting for Payment"
+msgstr ""
+
+msgid "Salery"
+msgstr ""
+
+msgid "Buy"
+msgstr ""
+
+msgid "Employer can add companies and jobs while searching for potential candidate to hire"
+msgstr ""
+
+msgid "Selected"
+msgstr ""
+
+msgid "Jobseeker can add resume, cover letters, search jobs and apply to multiple jobs easily"
+msgstr ""
+
+msgid "Hello, again!..."
+msgstr ""
+
+msgid "View All Applied Jobs"
+msgstr ""
+
+msgid "View All Newest Jobs"
+msgstr ""
+
+msgid "Hello, again!…"
+msgstr ""
+
+msgid "Submit job"
+msgstr ""
+
+msgid "Submit Job"
+msgstr ""
+
+msgid "View detail"
+msgstr ""
+
+msgid "Recently Applied Resume"
+msgstr ""
+
+msgid "Messages By Resume"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "View jobs"
+msgstr ""
+
+msgid "Other Info"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Mail"
+msgstr ""
+
+msgid "Site"
+msgstr ""
+
+msgid "View Company Details"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Categoty"
+msgstr ""
+
+msgid "tell a friend"
+msgstr ""
+
+msgid "Tell friend"
+msgstr ""
+
+msgid "Know someone perfect for this job? Share it with them!"
+msgstr ""
+
+msgid "Your name"
+msgstr ""
+
+msgid "Your email"
+msgstr ""
+msgid "Show the"
+msgstr ""
+
+msgid "form to logged-in users on the job detail page. If this is on,"
+msgstr ""
+
+msgid "will be turned off."
+msgstr ""
+
+msgid "form to visitor on the job detail page. If this is on,"
+msgstr ""
+
+msgid "You do not have any save serch remaining"
+msgstr ""
+
+msgid "We would love to hear from You."
+msgstr ""

@@ -1,0 +1,11 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Swakopmund", "Swakopmund", "Swakopmund", NULL, 176, 0, 1, NULL, "-22.6767841", "14.5313988"),
+("Walvis Bay", "Walvis Bay", "Walvis Bay", NULL, 176, 0, 1, NULL, "-22.9557607", "14.5071125"),
+("Windhoek", "Windhoek", "Windhoek", NULL, 176, 0, 1, NULL, "-22.5776104", "17.0772739"),
+("Otjiwarongo", "Otjiwarongo", "Otjiwarongo", NULL, 176, 0, 1, NULL, "-20.4635829", "16.6490992"),
+("Oshakati", "Oshakati", "Oshakati", NULL, 176, 0, 1, NULL, "-17.7826518", "15.6986"),
+("Okahandja", "Okahandja", "Okahandja", NULL, 176, 0, 1, NULL, "-21.979231", "16.9128172"),
+("Gobabis", "Gobabis", "Gobabis", NULL, 176, 0, 1, NULL, "-22.4495283", "18.9724666"),
+("Rundu", "Rundu", "Rundu", NULL, 176, 0, 1, NULL, "-17.913716", "19.7672535"),
+("Katima Mulilo", "Katima Mulilo", "Katima Mulilo", NULL, 176, 0, 1, NULL, "-17.5073143", "24.2793522");

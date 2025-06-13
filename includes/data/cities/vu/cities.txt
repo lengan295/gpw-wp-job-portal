@@ -1,0 +1,5 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Port Vila", "Port Vila", "Port Vila", NULL, 211, 0, 1, NULL, "-17.7414972", "168.3150163"),
+("Luganville", "Luganville", "Luganville", NULL, 211, 0, 1, NULL, "-15.5121107", "167.1784414"),
+("Lénakel", "Lénakel", "Lénakel", NULL, 211, 0, 1, NULL, "-19.5315762", "169.2677639");

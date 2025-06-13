@@ -1,0 +1,6 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Ljubljana", "Ljubljana", "Ljubljana", NULL, 89, 0, 1, NULL, "46.0500268", "14.5069289"),
+("Kranj", "Kranj", "Kranj", NULL, 89, 0, 1, NULL, "46.2432635", "14.3549501"),
+("Celje", "Celje", "Celje", NULL, 89, 0, 1, NULL, "46.2293889", "15.2616828"),
+("Maribor", "Maribor", "Maribor", NULL, 89, 0, 1, NULL, "46.5576439", "15.6455854");

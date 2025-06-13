@@ -1,0 +1,17 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Kamsar", "Kamsar", "Kamsar", NULL, 162, 0, 1, NULL, "10.6639752", "-14.5852808"),
+("Boké", "Boké", "Boké", NULL, 162, 0, 1, NULL, "10.952242", "-14.2760635"),
+("Conakry", "Conakry", "Conakry", NULL, 162, 0, 1, NULL, "9.5170602", "-13.6998434"),
+("Fria", "Fria", "Fria", NULL, 162, 0, 1, NULL, "10.363036", "-13.581185"),
+("Kindia", "Kindia", "Kindia", NULL, 162, 0, 1, NULL, "10.0492476", "-12.8577997"),
+("Mamou", "Mamou", "Mamou", NULL, 162, 0, 1, NULL, "10.374074", "-12.08356"),
+("Pita", "Pita", "Pita", NULL, 162, 0, 1, NULL, "11.0564638", "-12.3950499"),
+("N'Zérékoré", "N'Zérékoré", "N'Zérékoré", NULL, 162, 0, 1, NULL, "7.7589949", "-8.8160001"),
+("Guéckédou", "Guéckédou", "Guéckédou", NULL, 162, 0, 1, NULL, "8.561649", "-10.132821"),
+("Kissidougou", "Kissidougou", "Kissidougou", NULL, 162, 0, 1, NULL, "9.192389", "-10.098269"),
+("Macenta", "Macenta", "Macenta", NULL, 162, 0, 1, NULL, "8.545846", "-9.46792"),
+("Faranah", "Faranah", "Faranah", NULL, 162, 0, 1, NULL, "10.042493", "-10.740824"),
+("Kankan", "Kankan", "Kankan", NULL, 162, 0, 1, NULL, "10.3835169", "-9.3069354"),
+("Labé", "Labé", "Labé", NULL, 162, 0, 1, NULL, "11.3230033", "-12.282253"),
+("Siguiri", "Siguiri", "Siguiri", NULL, 162, 0, 1, NULL, "11.4195265", "-9.1751513");

@@ -1,0 +1,5 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Nadi", "Nadi", "Nadi", NULL, 198, 0, 1, NULL, "-17.7992725", "177.4178549"),
+("Lautoka", "Lautoka", "Lautoka", NULL, 198, 0, 1, NULL, "-17.6043956", "177.4530138"),
+("Suva", "Suva", "Suva", NULL, 198, 0, 1, NULL, "-18.1415884", "178.4421662");

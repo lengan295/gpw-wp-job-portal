@@ -1,0 +1,13 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Lethem", "Lethem", "Lethem", NULL, 37, 0, 1, NULL, "3.3749987", "-59.7958674"),
+("Mahdia", "Mahdia", "Mahdia", NULL, 37, 0, 1, NULL, "5.2820588", "-59.1495337"),
+("Linden", "Linden", "Linden", NULL, 37, 0, 1, NULL, "6.0100019", "-58.312488"),
+("Bartica", "Bartica", "Bartica", NULL, 37, 0, 1, NULL, "6.4053312", "-58.6214256"),
+("Mabaruma", "Mabaruma", "Mabaruma", NULL, 37, 0, 1, NULL, "8.2037266", "-59.784924"),
+("Vreed-En-Hoop", "Vreed-En-Hoop", "Vreed-En-Hoop", NULL, 37, 0, 1, NULL, "6.8091616", "-58.1848349"),
+("Georgetown", "Georgetown", "Georgetown", NULL, 37, 0, 1, NULL, "6.8137426", "-58.1624465"),
+("Paradise", "Paradise", "Paradise", NULL, 37, 0, 1, NULL, "6.7715775", "-57.9982911"),
+("New Amsterdam", "New Amsterdam", "New Amsterdam", NULL, 37, 0, 1, NULL, "6.2426407", "-57.5168359"),
+("Fort Wellington", "Fort Wellington", "Fort Wellington", NULL, 37, 0, 1, NULL, "6.3921778", "-57.5957649"),
+("Anna Regina", "Anna Regina", "Anna Regina", NULL, 37, 0, 1, NULL, "7.2623434", "-58.4823019");

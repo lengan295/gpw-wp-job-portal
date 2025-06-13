@@ -1,0 +1,3 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Victoria", "Victoria", "Victoria", NULL, 183, 0, 1, NULL, "-4.6232085", "55.452359");

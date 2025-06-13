@@ -1,0 +1,19 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Ungheni", "Ungheni", "Ungheni", NULL, 77, 0, 1, NULL, "47.2059965", "27.798917"),
+("Edineț", "Edineț", "Edineț", NULL, 77, 0, 1, NULL, "48.1684275", "27.2984813"),
+("Ceadîr-Lunga", "Ceadîr-Lunga", "Ceadîr-Lunga", NULL, 77, 0, 1, NULL, "46.057226", "28.8249983"),
+("Comrat", "Comrat", "Comrat", NULL, 77, 0, 1, NULL, "46.301119", "28.6558805"),
+("Ialoveni", "Ialoveni", "Ialoveni", NULL, 77, 0, 1, NULL, "46.94814645", "28.779965137894"),
+("Durlești", "Durlești", "Durlești", NULL, 77, 0, 1, NULL, "47.02239515", "28.76805314591"),
+("Chișinău", "Chișinău", "Chișinau", NULL, 77, 0, 1, NULL, "47.0245117", "28.8322923"),
+("Бендеры", "Бендеры", "Bender", NULL, 77, 0, 1, NULL, "46.8199504", "29.471093155448"),
+("Strășeni", "Strășeni", "Strășeni", NULL, 77, 0, 1, NULL, "47.146331", "28.6148909"),
+("Orhei", "Orhei", "Orhei", NULL, 77, 0, 1, NULL, "47.3782288", "28.8246754"),
+("Рыбница", "Рыбница", "Rybnitsa", NULL, 77, 0, 1, NULL, "47.7661115", "29.0073366"),
+("Тирасполь", "Тирасполь", "Tiraspol", NULL, 77, 0, 1, NULL, "46.8566229", "29.605918132911"),
+("Soroca", "Soroca", "Soroca", NULL, 77, 0, 1, NULL, "48.1571286", "28.2996052"),
+("Bălți", "Bălți", "Bălți", NULL, 77, 0, 1, NULL, "47.7623599", "27.928665"),
+("Cahul", "Cahul", "Cahul", NULL, 77, 0, 1, NULL, "45.9044087", "28.1946583"),
+("Hîncești", "Hîncești", "Hîncești", NULL, 77, 0, 1, NULL, "46.8302002", "28.5871433"),
+("Chișinău", "Chișinău", "Chișinău", NULL, 77, 0, 1, NULL, "47.0245117", "28.8322923");

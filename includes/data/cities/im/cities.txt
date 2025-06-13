@@ -1,0 +1,3 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Douglas", "Douglas", "Douglas", NULL, 67, 0, 1, NULL, "54.149774", "-4.4779021");

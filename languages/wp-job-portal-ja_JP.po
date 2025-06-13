@@ -1,0 +1,10275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "dashboard"
+msgstr "ダッシュボード"
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+msgid "Load Address Data"
+msgstr "アドレスデータをロードする"
+
+msgid "configuration"
+msgstr "構成"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "Download"
+msgstr "ダウンロード"
+
+msgid "Action"
+msgstr "アクション"
+
+msgid "States"
+msgstr "州"
+
+msgid "Cities"
+msgstr "都市"
+
+msgid "Latitude"
+msgstr "緯度"
+
+msgid "Longitude"
+msgstr "経度"
+
+msgid "Map"
+msgstr "地図"
+
+msgid "Select One"
+msgstr "一つ選択してください"
+
+msgid "Meters"
+msgstr "メートル"
+
+msgid "Kilometers"
+msgstr "キロメートル"
+
+msgid "Miles"
+msgstr "マイル"
+
+msgid "Nautical Miles"
+msgstr "海里"
+
+msgid "Select"
+msgstr "選択する"
+
+msgid "Address"
+msgstr "住所"
+
+msgid "Add New"
+msgstr "新しく追加する"
+
+msgid "Employer"
+msgstr "雇用者"
+
+msgid "Languages"
+msgstr "言語"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Institute"
+msgstr "インスティテュート"
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "Select Package"
+msgstr "パッケージを選択"
+
+msgid "Please select a package first"
+msgstr "最初にパッケージを選択してください"
+
+msgid "Job"
+msgstr "ジョブ"
+
+msgid "Unlimited"
+msgstr "無制限"
+
+msgid "Remaining"
+msgstr "残り"
+
+msgid "copy job"
+msgstr "コピージョブ"
+
+msgid "Copy Job"
+msgstr "ジョブのコピー"
+
+msgid "User"
+msgstr "ユーザー"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Payment Method"
+msgstr "支払方法"
+
+msgid "Very Poor"
+msgstr "非常に貧しい"
+
+msgid "Poor"
+msgstr "貧しい"
+
+msgid "Regular"
+msgstr "レギュラー"
+
+msgid "Good"
+msgstr "良い"
+
+msgid "Very Good"
+msgstr "とても良い"
+
+msgid "Pending"
+msgstr "保留中"
+
+msgid "Approved"
+msgstr "承認済み"
+
+msgid "Rejected"
+msgstr "拒否されました"
+
+msgid "Posted"
+msgstr "投稿"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "番号"
+
+msgid "Created"
+msgstr "作成した"
+
+msgid "Free"
+msgstr "自由"
+
+msgid "Package"
+msgstr "パッケージ"
+
+msgid "Invoices"
+msgstr "請求書"
+
+msgid "Are you sure to delete"
+msgstr "削除してもよろしいですか"
+
+msgid "User Name"
+msgstr "ユーザー名"
+
+msgid "Select Status"
+msgstr "ステータスを選択"
+
+msgid "Search"
+msgstr "探す"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Published"
+msgstr "公開"
+
+msgid "No record found"
+msgstr "レコードが見つかりません"
+
+msgid "%s"
+msgstr "％s"
+
+msgid "My Invoices"
+msgstr "私の請求書"
+
+msgid "View All"
+msgstr "すべて表示"
+
+msgid "Featured"
+msgstr "特徴"
+
+msgid "Credits"
+msgstr "クレジット"
+
+msgid "Title"
+msgstr "題名"
+
+msgid "Status"
+msgstr "状態"
+
+msgid "Company"
+msgstr "会社"
+
+msgid "Job seeker"
+msgstr "求職者"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Resume"
+msgstr "履歴書"
+
+msgid "Job Seeker"
+msgstr "求職者"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Save"
+msgstr "セーブ"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Days"
+msgstr "日々"
+
+msgid "Approve"
+msgstr "承認する"
+
+msgid "Reject"
+msgstr "拒否する"
+
+msgid "Message"
+msgstr "メッセージ"
+
+msgid "Subject"
+msgstr "件名"
+
+msgid "message"
+msgstr "メッセージ"
+
+msgid "Send Message"
+msgstr "メッセージを送る"
+
+msgid "Expire in"
+msgstr "有効期限"
+
+msgid "Job Messages"
+msgstr "ジョブメッセージ"
+
+msgid "Messages"
+msgstr "メッセージ"
+
+msgid "Job Title"
+msgstr "職名"
+
+msgid "Resume Title"
+msgstr "タイトルの再開"
+
+msgid "Employer Name"
+msgstr "雇用者名"
+
+msgid "This will delete every thing about this record"
+msgstr "これにより、このレコードに関するすべてのものが削除されます"
+
+msgid "Force Delete"
+msgstr "強制削除"
+
+msgid "Company Name"
+msgstr "会社名"
+
+msgid "Select All"
+msgstr "すべて選択"
+
+msgid "Purchase Package"
+msgstr "購入パッケージ"
+
+msgid "Years"
+msgstr "年"
+
+msgid "Currency"
+msgstr "通貨"
+
+msgid "Job Expiry"
+msgstr "仕事の有効期限"
+
+msgid "Resume Section"
+msgstr "履歴書セクション"
+
+msgid "cancel"
+msgstr "キャンセル"
+
+msgid "Package Detail"
+msgstr "パッケージの詳細"
+
+msgid "Departments"
+msgstr "部門"
+
+msgid "Resume Search"
+msgstr "検索を再開する"
+
+msgid "Job Alert"
+msgstr "ジョブアラート"
+
+msgid "Job Apply"
+msgstr "求人応募"
+
+msgid "User name"
+msgstr "ユーザー名"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Subscription"
+msgstr "サブスクリプション"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "Configuration"
+msgstr "構成"
+
+msgid "You can view Resume Contact Detail Now"
+msgstr "今すぐ履歴書の連絡先の詳細を表示できます"
+
+msgid "Login"
+msgstr "ログインする"
+
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Email Address"
+msgstr "電子メールアドレス"
+
+msgid "Select User"
+msgstr "ユーザーを選択"
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "add"
+msgstr "追加"
+
+msgid "delete"
+msgstr "削除"
+
+msgid "Date"
+msgstr "日付"
+
+msgid "published"
+msgstr "公開"
+
+msgid "not published"
+msgstr "未公開"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Department"
+msgstr "部門"
+
+msgid "Proceed To Payment"
+msgstr "支払いに進む"
+
+msgid "Remaining Resume"
+msgstr "残りの履歴書"
+
+msgid "Ends On"
+msgstr "終了"
+
+msgid "Packages"
+msgstr "パッケージ"
+
+msgid "packages"
+msgstr "パッケージ"
+
+msgid "My Packages"
+msgstr "私のパッケージ"
+
+msgid "My Subscriptions"
+msgstr "私のサブスクリプション"
+
+msgid "Cancel Payment"
+msgstr "支払いをキャンセルする"
+
+msgid "Show Company Contact"
+msgstr "会社の連絡先を表示"
+
+msgid "add new package"
+msgstr "新しいパッケージを追加する"
+
+msgid "Add New Package"
+msgstr "新しいパッケージを追加"
+
+msgid "make payment"
+msgstr "支払う"
+
+msgid "You have Already Applied"
+msgstr "すでに適用されています"
+
+msgid "Make Payment To Apply"
+msgstr "適用するために支払いをする"
+
+msgid "Apply On This Job"
+msgstr "この仕事に応募する"
+
+msgid "Proceed With Paying"
+msgstr "支払いを続行します"
+
+msgid "Apply Now"
+msgstr "今すぐ申し込む"
+
+msgid "Cron Job"
+msgstr "cronジョブ"
+
+msgid "Website"
+msgstr "ウェブサイト"
+
+msgid "cron job"
+msgstr "cronジョブ"
+
+msgid "Select role"
+msgstr "役割を選択"
+
+msgid "Buy Package"
+msgstr "パッケージを購入する"
+
+msgid "Buy credits"
+msgstr "クレジットを購入する"
+
+msgid "Departments Approval Queue"
+msgstr "部門承認キュー"
+
+msgid "Pending Payment"
+msgstr "支払い待ち"
+
+msgid "Add New Department"
+msgstr "新しい部門を追加"
+
+msgid "Ago"
+msgstr "前"
+
+msgid "edit"
+msgstr "編集"
+
+msgid "approve"
+msgstr "承認する"
+
+msgid "reject"
+msgstr "拒否する"
+
+msgid "View Department"
+msgstr "部門を見る"
+
+msgid "Pending Due To Payment"
+msgstr "支払いのため保留中"
+
+msgid "Change package"
+msgstr "パッケージを変更する"
+
+msgid "Change Package"
+msgstr "パッケージの変更"
+
+msgid "My departments"
+msgstr "私の部門"
+
+msgid "My Departments"
+msgstr "私の部門"
+
+msgid "Add Department"
+msgstr "部門を追加"
+
+msgid "Male"
+msgstr "男性"
+
+msgid "Female"
+msgstr "女性"
+
+msgid "Does not matter"
+msgstr "関係ない"
+
+msgid "City"
+msgstr "市"
+
+msgid "export"
+msgstr "書き出す"
+
+msgid "Export"
+msgstr "書き出す"
+
+msgid "Waiting for approval"
+msgstr "承認待ち"
+
+msgid "Expiry Date"
+msgstr "有効期限"
+
+msgid "remove featured"
+msgstr "注目の削除"
+
+msgid "Remove Featured"
+msgstr "注目の削除"
+
+msgid "Failed while performing this action"
+msgstr "このアクションの実行中に失敗しました"
+
+msgid "Search All"
+msgstr "すべて検索"
+
+msgid "Applied resume"
+msgstr "履歴書を適用"
+
+msgid "Category"
+msgstr "カテゴリー"
+
+msgid "Job Type"
+msgstr "職種"
+
+msgid "Location"
+msgstr "ロケーション"
+
+msgid "View Resume"
+msgstr "履歴書を見る"
+
+msgid "Folder"
+msgstr "フォルダ"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Folders"
+msgstr "フォルダー"
+
+msgid "Folder Resume"
+msgstr "フォルダー再開"
+
+msgid "Applied Resume"
+msgstr "履歴書を適用"
+
+msgid "view"
+msgstr "見る"
+
+msgid "logo"
+msgstr "ロゴ"
+
+msgid "Salary Range"
+msgstr "給与範囲"
+
+msgid "Folders Queue"
+msgstr "フォルダキュー"
+
+msgid "Add New Folder"
+msgstr "新しいフォルダを追加"
+
+msgid "The page you are looking for no longer exists"
+msgstr "探しているページはもう存在しません"
+
+msgid "publish"
+msgstr "公開する"
+
+msgid "unpublish"
+msgstr "非公開"
+
+msgid "View"
+msgstr "見る"
+
+msgid "add new folder"
+msgstr "新しいフォルダを追加します"
+
+msgid "approval queue"
+msgstr "承認キュー"
+
+msgid "Approval Queue"
+msgstr "承認キュー"
+
+msgid "My Folders"
+msgstr "マイフォルダ"
+
+msgid "Invalid captcha"
+msgstr "無効なキャプチャ"
+
+msgid "Incorrect Captcha code"
+msgstr "不正なキャプチャコード"
+
+msgid "Type In A Search Term"
+msgstr "検索語を入力する"
+
+msgid "No Results"
+msgstr "結果がありません"
+
+msgid "Searching"
+msgstr "検索中"
+
+msgid "Add New Job Alert"
+msgstr "新しい求人アラートを追加"
+
+msgid "Categories"
+msgstr "カテゴリ"
+
+msgid "Email"
+msgstr "Eメール"
+
+msgid "name"
+msgstr "名前"
+
+msgid "job alert"
+msgstr "ジョブアラート"
+
+msgid "add new job alert"
+msgstr "新しい求人アラートを追加"
+
+msgid "Please fill the message"
+msgstr "メッセージを記入してください"
+
+msgid "Are you sure?"
+msgstr "本気ですか？"
+
+msgid "Messages Approval Queue"
+msgstr "メッセージ承認キュー"
+
+msgid "force delete"
+msgstr "強制削除"
+
+msgid "Error Deleting Logo"
+msgstr "ロゴの削除中にエラーが発生しました"
+
+msgid "Enter Correct Company Site"
+msgstr "正しい会社のサイトを入力してください"
+
+msgid "File size is greater then allowed file size"
+msgstr "ファイルサイズが許容ファイルサイズよりも大きい"
+
+msgid "File ext. is mismatched"
+msgstr "ファイル内線不一致です"
+
+msgid "Something got wrong"
+msgstr "何かがうまくいかなかった"
+
+msgid "Terms and Conditions"
+msgstr "規約と条件"
+
+msgid "Company Has Been Feature SuccesFully"
+msgstr "会社は成功を収めています"
+
+msgid "Error While Adding Feature job"
+msgstr "機能ジョブの追加中にエラーが発生しました"
+
+msgid "Total Company"
+msgstr "トタルカンパニー"
+
+msgid "Remaining Company"
+msgstr "残りの会社"
+
+msgid "change package"
+msgstr "パッケージを変更する"
+
+msgid "Add Company"
+msgstr "会社を追加"
+
+msgid "My companies"
+msgstr "私の会社"
+
+msgid "My Companies"
+msgstr "私の会社"
+
+msgid "Are you sure to cancel job apply"
+msgstr "応募をキャンセルしてもよろしいですか"
+
+msgid "Please first save the resume then apply"
+msgstr "まず履歴書を保存してからお申し込みください"
+
+msgid "Remove"
+msgstr "削除する"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "File extension mismatch"
+msgstr "ファイル拡張子の不一致"
+
+msgid "File size exceeds limit"
+msgstr "ファイルサイズが制限を超えています"
+
+msgid "Maximum files selected"
+msgstr "選択された最大ファイル"
+
+msgid "Confirm to delete resume file"
+msgstr "履歴書ファイルの削除を確認する"
+
+msgid "Please first save resume personal section then add any other section"
+msgstr "最初に履歴書の個人セクションを保存してから、他のセクションを追加してください"
+
+msgid "Geocode was not successful for the following reason"
+msgstr "次の理由でジオコードが成功しませんでした"
+
+msgid "Resume Files"
+msgstr "ファイルを再開する"
+
+msgid "Select files"
+msgstr "ファイルを選択"
+
+msgid "Selected files"
+msgstr "選択したファイル"
+
+msgid "No file selected"
+msgstr "ファイルが選択されていません"
+
+msgid "Files allowed"
+msgstr "許可されるファイル"
+
+msgid "Maximum file size"
+msgstr "最大ファイルサイズ"
+
+msgid "Edit Resume"
+msgstr "履歴書の編集"
+
+msgid "Add New Resume"
+msgstr "新しい履歴書を追加する"
+
+msgid "Resume Has Been Feature SuccessFully"
+msgstr "履歴書は完全に機能の成功を収めています"
+
+msgid "Application title"
+msgstr "アプリケーションタイトル"
+
+msgid "First name"
+msgstr "ファーストネーム"
+
+msgid "Job type"
+msgstr "職種"
+
+msgid "Total Resume"
+msgstr "履歴書合計"
+
+msgid "Add Resume"
+msgstr "履歴書を追加"
+
+msgid "My Resumes"
+msgstr "私の履歴書"
+
+msgid "Personal Information"
+msgstr "個人情報"
+
+msgid "Institutes"
+msgstr "研究所"
+
+msgid "Employers"
+msgstr "雇用主"
+
+msgid "Skills"
+msgstr "スキル"
+
+msgid "pdf"
+msgstr "pdf"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "print"
+msgstr "印刷"
+
+msgid "Print"
+msgstr "印刷"
+
+msgid "Jobs"
+msgstr "ジョブズ"
+
+msgid "Active Jobs"
+msgstr "アクティブな仕事"
+
+msgid "Applied Jobs"
+msgstr "応用求人"
+
+msgid "Featured Jobs"
+msgstr "注目の仕事"
+
+msgid "Overall Statistics"
+msgstr "全体的な統計"
+
+msgid "Jobs By Categories"
+msgstr "カテゴリ別の求人"
+
+msgid "Jobs By Types"
+msgstr "タイプ別の求人"
+
+msgid "Dates"
+msgstr "日付"
+
+msgid "Featured Resume"
+msgstr "注目の履歴書"
+
+msgid "Resume By Categories"
+msgstr "カテゴリ別の履歴書"
+
+msgid "Applied jobs"
+msgstr "応用求人"
+
+msgid "Featured resume"
+msgstr "注目の履歴書"
+
+msgid "Stats"
+msgstr "統計"
+
+msgid "Total"
+msgstr "合計"
+
+msgid "Companies"
+msgstr "企業"
+
+msgid "Active"
+msgstr "アクティブ"
+
+msgid "Publish"
+msgstr "公開する"
+
+msgid "Expired"
+msgstr "期限切れ"
+
+msgid "Type here"
+msgstr "ここに入力"
+
+msgid "Inbox"
+msgstr "受信トレイ"
+
+msgid "Spam"
+msgstr "スパム"
+
+msgid "Hired"
+msgstr "雇われた"
+
+msgid "Short listed"
+msgstr "ショートリスト"
+
+msgid "Advance Search"
+msgstr "高度な検索"
+
+msgid "Nationality"
+msgstr "国籍"
+
+msgid "Gender"
+msgstr "性別"
+
+msgid "Application Title"
+msgstr "アプリケーションタイトル"
+
+msgid "Highest Education"
+msgstr "最高の教育"
+
+msgid "Resumes By Tag"
+msgstr "タグで再開"
+
+msgid "Resumes"
+msgstr "履歴書"
+
+msgid "save searches"
+msgstr "検索を保存する"
+
+msgid "Saved Searches"
+msgstr "保存された検索"
+
+msgid "Resume RSS"
+msgstr "RSSを再開する"
+
+msgid "Short List Job"
+msgstr "ショートリストジョブ"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "Rate"
+msgstr "割合"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "shortlisted jobs"
+msgstr "最終選考に残った仕事"
+
+msgid "Shotlisted Jobs"
+msgstr "最終選考に残った仕事"
+
+msgid "Short Listed Jobs"
+msgstr "ショートリストの求人"
+
+msgid "Last name"
+msgstr "苗字"
+
+msgid "Notes"
+msgstr "ノート"
+
+msgid "Profile"
+msgstr "プロフィール"
+
+msgid "Personal information"
+msgstr "個人情報"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Email address"
+msgstr "電子メールアドレス"
+
+msgid "Tag"
+msgstr "鬼ごっこ"
+
+msgid "Country"
+msgstr "国"
+
+msgid "Phone"
+msgstr "電話"
+
+msgid "Addresses"
+msgstr "住所"
+
+msgid "Job has been applied"
+msgstr "求人が適用されました"
+
+msgid "Login with facebook"
+msgstr "Facebookでログイン"
+
+msgid "Login with linkedin"
+msgstr "LinkedInでログイン"
+
+msgid "Login with xing"
+msgstr "xingでログイン"
+
+msgid "Error in saving records please try again"
+msgstr "レコードの保存中にエラーが発生しました再試行してください"
+
+msgid "Tags"
+msgstr "タグ"
+
+msgid "Add New Tag"
+msgstr "新しいタグを追加する"
+
+msgid "Unpublish"
+msgstr "非公開"
+
+msgid "tags"
+msgstr "タグ"
+
+msgid "add new tag"
+msgstr "新しいタグを追加する"
+
+msgid "Tell a friend"
+msgstr "友達に言う"
+
+msgid "Send"
+msgstr "送信"
+
+msgid "Age"
+msgstr "年齢"
+
+msgid "Minimum"
+msgstr "最小"
+
+msgid "Maximum"
+msgstr "最大"
+
+msgid "Specify range"
+msgstr "範囲を指定する"
+
+msgid "Cancel range"
+msgstr "範囲をキャンセル"
+
+msgid "Experience"
+msgstr "経験"
+
+msgid "Total Experience"
+msgstr "トータルエクスペリエンス"
+
+msgid "Job Status"
+msgstr "仕事の状況"
+
+msgid "Shift"
+msgstr "シフト"
+
+msgid "Please enter the coordinate radius"
+msgstr "座標半径を入力してください"
+
+msgid "Company Info"
+msgstr "会社情報"
+
+msgid "Job Info"
+msgstr "求人情報"
+
+msgid "Select widget"
+msgstr "ウィジェットを選択"
+
+msgid "Show Title"
+msgstr "タイトルを表示"
+
+msgid "Hide"
+msgstr "隠す"
+
+msgid "Show"
+msgstr "公演"
+
+msgid "Company logo"
+msgstr "会社のロゴ"
+
+msgid "1"
+msgstr "1"
+
+msgid "2"
+msgstr "2"
+
+msgid "3"
+msgstr "3"
+
+msgid "4"
+msgstr "4"
+
+msgid "5"
+msgstr "5"
+
+msgid "Type of jobs"
+msgstr "仕事の種類"
+
+msgid "Newest jobs"
+msgstr "最新の仕事"
+
+msgid "Hot jobs"
+msgstr "熱い仕事"
+
+msgid "Column per row"
+msgstr "行ごとの列"
+
+msgid "Jobs by cities"
+msgstr "都市別の仕事"
+
+msgid "Jobs by countries"
+msgstr "国別の仕事"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "Photo"
+msgstr "写真"
+
+msgid "Available"
+msgstr "利用可能"
+
+msgid "Search Resume"
+msgstr "検索履歴書"
+
+msgid "Highest education"
+msgstr "最高の教育"
+
+msgid "Transaction Key"
+msgstr "トランザクションキー"
+
+msgid "Please select "
+msgstr "選んでください"
+
+msgid "Hide notice"
+msgstr "通知を非表示"
+
+msgid "Something went wrong"
+msgstr "何かがうまくいかなかった"
+
+msgid "Control Panel"
+msgstr "コントロールパネル"
+
+msgid "Company Information"
+msgstr "会社情報"
+
+msgid "My Jobs"
+msgstr "私の仕事"
+
+msgid "View Job"
+msgstr "仕事を見る"
+
+msgid "Newest Jobs"
+msgstr "最新の求人"
+
+msgid "Job Seeker Messages"
+msgstr "求職者のメッセージ"
+
+msgid "Resume List"
+msgstr "履歴書リスト"
+
+msgid "Purchase History"
+msgstr "購入履歴"
+
+msgid "My Subscription"
+msgstr "私のサブスクリプション"
+
+msgid "My  Packages"
+msgstr "私のパッケージ"
+
+msgid "View Folder"
+msgstr "フォルダを表示"
+
+msgid "Folder Resumes"
+msgstr "フォルダの履歴書"
+
+msgid "My Resume"
+msgstr "私の履歴書"
+
+msgid "My Applied Jobs"
+msgstr "私の応用仕事"
+
+msgid "Job Applied Resume"
+msgstr "求人履歴書"
+
+msgid "Job Search"
+msgstr "仕事探し"
+
+msgid "Log In"
+msgstr "ログインする"
+
+msgid "Register"
+msgstr "登録"
+
+msgid "Edit Profile"
+msgstr "プロファイル編集"
+
+msgid "Plus"
+msgstr "プラス"
+
+msgid "Equals"
+msgstr "等しい"
+
+msgid "Minus"
+msgstr "マイナス"
+
+msgid "Proceed Without Paying"
+msgstr "支払わずに続行します"
+
+msgid "Proceed"
+msgstr "続行します"
+
+msgid "Total Credits"
+msgstr "合計クレジット"
+
+msgid "Credit for action"
+msgstr "アクションのクレジット"
+
+msgid "Life time alerts"
+msgstr "ライフタイムアラート"
+
+msgid "Credits remaining after proceed"
+msgstr "続行後に残っているクレジット"
+
+msgid "Insufficient Credits"
+msgstr "不十分なクレジット"
+
+msgid "Can Not Proceed"
+msgstr "続行できません"
+
+msgid "Add to"
+msgstr "追加"
+
+msgid "featured"
+msgstr "特徴"
+
+msgid "company"
+msgstr "会社"
+
+msgid "Company name"
+msgstr "会社名"
+
+msgid "job"
+msgstr "ジョブ"
+
+msgid "Job title"
+msgstr "職名"
+
+msgid "resume"
+msgstr "履歴書"
+
+msgid "Resume title"
+msgstr "タイトルの再開"
+
+msgid "Alert"
+msgstr "アラート"
+
+msgid "View company contact detail"
+msgstr "会社の連絡先の詳細を表示する"
+
+msgid "View resume contact detail"
+msgstr "履歴書の連絡先の詳細を表示する"
+
+msgid "search"
+msgstr "探す"
+
+msgid "Apply On Job"
+msgstr "仕事に応募する"
+
+msgid "language"
+msgstr "言語"
+
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+msgid "Resume image"
+msgstr "画像を再開"
+
+msgid "Max logo size allowed"
+msgstr "許可される最大ロゴサイズ"
+
+msgid "Select Multiple Files"
+msgstr "複数のファイルを選択"
+
+msgid "Save Resume"
+msgstr "履歴書を保存"
+
+msgid "Cancel Resume"
+msgstr "再開をキャンセル"
+
+msgid "Attachment"
+msgstr "アタッチメント"
+
+msgid "email"
+msgstr "Eメール"
+
+msgid "salary"
+msgstr "給料"
+
+msgid "number"
+msgstr "数"
+
+msgid "location"
+msgstr "ロケーション"
+
+msgid "activity log"
+msgstr "活動記録"
+
+msgid "Activity Log"
+msgstr "活動記録"
+
+msgid "stats"
+msgstr "統計"
+
+msgid "translations"
+msgstr "翻訳"
+
+msgid "Translations"
+msgstr "翻訳"
+
+msgid "system errors"
+msgstr "システムエラー"
+
+msgid "System Errors"
+msgstr "システムエラー"
+
+msgid "slug"
+msgstr "ナメクジ"
+
+msgid "Slug"
+msgstr "ナメクジ"
+
+msgid "ad ons"
+msgstr "アドオン"
+
+msgid "Install Addons"
+msgstr "アドオンをインストールする"
+
+msgid "install addons"
+msgstr "アドオンをインストールする"
+
+msgid "addons list"
+msgstr "アドオンリスト"
+
+msgid "Addons List"
+msgstr "アドオンリスト"
+
+msgid "companies"
+msgstr "企業"
+
+msgid "add new company"
+msgstr "新しい会社を追加する"
+
+msgid "Add New Company"
+msgstr "新しい会社を追加する"
+
+msgid "fields"
+msgstr "田畑"
+
+msgid "Fields"
+msgstr "田畑"
+
+msgid "departments"
+msgstr "部門"
+
+msgid "add new department"
+msgstr "新しい部門を追加する"
+
+msgid "jobs"
+msgstr "仕事"
+
+msgid "add new job"
+msgstr "新しい仕事を追加する"
+
+msgid "Add New Job"
+msgstr "新しい仕事を追加する"
+
+msgid "search fields"
+msgstr "検索フィールド"
+
+msgid "Search Fields"
+msgstr "検索フィールド"
+
+msgid "credits"
+msgstr "クレジット"
+
+msgid "folder"
+msgstr "フォルダ"
+
+msgid "job types"
+msgstr "仕事の種類"
+
+msgid "Job Types"
+msgstr "職種"
+
+msgid "add new job type"
+msgstr "新しいジョブタイプを追加する"
+
+msgid "Add New Job Type"
+msgstr "新しいジョブタイプを追加"
+
+msgid "job status"
+msgstr "仕事の状況"
+
+msgid "add new job status"
+msgstr "新しいジョブステータスを追加する"
+
+msgid "Add New Job Status"
+msgstr "新しいジョブステータスを追加する"
+
+msgid "highest educations"
+msgstr "最高の教育"
+
+msgid "Highest Educations"
+msgstr "最高の教育"
+
+msgid "add new highest education"
+msgstr "新しい最高の教育を追加する"
+
+msgid "Add New Highest Education"
+msgstr "新しい最高の教育を追加する"
+
+msgid "career levels"
+msgstr "キャリアレベル"
+
+msgid "Career Levels"
+msgstr "キャリアレベル"
+
+msgid "add new career level"
+msgstr "新しいキャリアレベルを追加する"
+
+msgid "Add New Career Level"
+msgstr "新しいキャリアレベルを追加する"
+
+msgid "currency"
+msgstr "通貨"
+
+msgid "add new currency"
+msgstr "新しい通貨を追加する"
+
+msgid "Add New Currency"
+msgstr "新しい通貨を追加する"
+
+msgid "categories"
+msgstr "カテゴリ"
+
+msgid "add new category"
+msgstr "新しいカテゴリを追加"
+
+msgid "Add New Category"
+msgstr "新しいカテゴリを追加"
+
+msgid "salary range"
+msgstr "給与範囲"
+
+msgid "salary range type"
+msgstr "給与範囲タイプ"
+
+msgid "Salary Range Type"
+msgstr "給与範囲タイプ"
+
+msgid "add new salary range type"
+msgstr "新しい給与範囲タイプを追加します"
+
+msgid "Add New Salary Range Type"
+msgstr "新しい給与範囲タイプを追加"
+
+msgid "users"
+msgstr "ユーザー"
+
+msgid "Users"
+msgstr "ユーザー"
+
+msgid "assign role"
+msgstr "役割を割り当てる"
+
+msgid "Assign Role"
+msgstr "役割の割り当て"
+
+msgid "short codes"
+msgstr "ショートコード"
+
+msgid "Short Codes"
+msgstr "ショートコード"
+
+msgid "reports"
+msgstr "レポート"
+
+msgid "Reports"
+msgstr "レポート"
+
+msgid "overall reports"
+msgstr "全体的なレポート"
+
+msgid "Overall Reports"
+msgstr "全体的なレポート"
+
+msgid "Employer / Job Seeker Report"
+msgstr "雇用主/求職者レポート"
+
+msgid "email templates"
+msgstr "メールテンプレート"
+
+msgid "Email Templates"
+msgstr "メールテンプレート"
+
+msgid "options"
+msgstr "オプション"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "new company"
+msgstr "新会社"
+
+msgid "New Company"
+msgstr "新会社"
+
+msgid "delete company"
+msgstr "会社を削除する"
+
+msgid "Delete Company"
+msgstr "会社を削除する"
+
+msgid "company status"
+msgstr "会社のステータス"
+
+msgid "Company Status"
+msgstr "会社のステータス"
+
+msgid "new job"
+msgstr "新しい仕事"
+
+msgid "New Job"
+msgstr "新しい仕事"
+
+msgid "new visitor job"
+msgstr "新しい訪問者の仕事"
+
+msgid "New Visitor Job"
+msgstr "新規訪問者の仕事"
+
+msgid "job delete"
+msgstr "ジョブ削除"
+
+msgid "Job Delete"
+msgstr "ジョブの削除"
+
+msgid "new resume"
+msgstr "新しい履歴書"
+
+msgid "New Resume"
+msgstr "新しい履歴書"
+
+msgid "new visitor resume"
+msgstr "新規訪問者の履歴書"
+
+msgid "New Visitor Resume"
+msgstr "新規訪問者の履歴書"
+
+msgid "resume status"
+msgstr "ステータスを再開"
+
+msgid "Resume Status"
+msgstr "ステータスの再開"
+
+msgid "delete resume"
+msgstr "履歴書を削除する"
+
+msgid "Delete Resume"
+msgstr "履歴書を削除"
+
+msgid "new employer"
+msgstr "新しい雇用主"
+
+msgid "New Employer"
+msgstr "新しい雇用主"
+
+msgid "new job seeker"
+msgstr "新しい求職者"
+
+msgid "New Job Seeker"
+msgstr "新しい求職者"
+
+msgid "job apply admin"
+msgstr "求人管理者"
+
+msgid "Job Apply Admin"
+msgstr "求人管理者"
+
+msgid "job apply employer"
+msgstr "仕事は雇用主を適用します"
+
+msgid "Job Apply Employer"
+msgstr "求人応募雇用者"
+
+msgid "job apply job seeker"
+msgstr "求職者手当"
+
+msgid "Job Apply Job Seeker"
+msgstr "求人応募求職者"
+
+msgid "applied resume status change"
+msgstr "適用された履歴書ステータスの変更"
+
+msgid "Applied Resume Status Change"
+msgstr "適用された履歴書ステータスの変更"
+
+msgid "tell to friend"
+msgstr "友達に言う"
+
+msgid "Tell To Friend"
+msgstr "友達に教える"
+
+msgid "Purchase Package Admin"
+msgstr "パッケージ管理者の購入"
+
+msgid "Purchase Status"
+msgstr "購入状況"
+
+msgid "countries"
+msgstr "国"
+
+msgid "Countries"
+msgstr "国"
+
+msgid "add new country"
+msgstr "新しい国を追加する"
+
+msgid "Add New Country"
+msgstr "新しい国を追加"
+
+msgid "Total Stats"
+msgstr "合計統計"
+
+msgid "Company Type"
+msgstr "会社の種類"
+
+msgid "Featured Companies"
+msgstr "注目の企業"
+
+msgid "Columns"
+msgstr "列"
+
+msgid "No. of Companies"
+msgstr "会社数"
+
+msgid "Top Jobs"
+msgstr "トップジョブ"
+
+msgid "Hot Jobs"
+msgstr "ホットジョブ"
+
+msgid "No. of jobs"
+msgstr "仕事の数"
+
+msgid "Duration"
+msgstr "デュレーション"
+
+msgid "Start Publishing"
+msgstr "公開を開始"
+
+msgid "Stop Publishing"
+msgstr "公開を停止する"
+
+msgid "Column rer row"
+msgstr "列rerr行"
+
+msgid "Resume Type"
+msgstr "履歴書タイプ"
+
+msgid "Newest Resumes"
+msgstr "最新の履歴書"
+
+msgid "Top Resumes"
+msgstr "トップ履歴書"
+
+msgid "Featured Resumes"
+msgstr "注目の履歴書"
+
+msgid "No. of Resumes"
+msgstr "履歴書の数"
+
+msgid "Could not find any matching results"
+msgstr "一致する結果が見つかりませんでした"
+
+msgid "no record"
+msgstr "記録なし"
+
+msgid "No record found !..."
+msgstr "レコードが見つかりません！..。"
+
+msgid "system offline"
+msgstr "システムオフライン"
+
+msgid "user ban"
+msgstr "ユーザー禁止"
+
+msgid "Your account is disabled, please contact system administrator !..."
+msgstr "アカウントが無効になっています。システム管理者に連絡してください！..."
+
+msgid "login"
+msgstr "ログインする"
+
+msgid "To Access This Page Please Login !..."
+msgstr "このページにアクセスするにはログインしてください！..."
+
+msgid "Back to control panel"
+msgstr "コントロールパネルに戻る"
+
+msgid "register banned"
+msgstr "登録禁止"
+
+msgid "You are not logged in"
+msgstr "ログインしていません"
+
+msgid "Job seeker not allowed to perform this action"
+msgstr "求職者はこのアクションを実行できません"
+
+msgid "Employer not allowed to perform this action"
+msgstr "雇用主はこの行動を実行することを許可されていません"
+
+msgid "You do not have enough credits"
+msgstr "あなたは十分なクレジットを持っていません"
+
+msgid "Employer Is Disabled By Admin"
+msgstr "雇用主は管理者によって無効にされています"
+
+msgid "Employer not allowed in job seeker area"
+msgstr "求職者エリアへの雇用者の立ち入り禁止"
+
+msgid "You are already logged in"
+msgstr "あなたは既にログイン済みです"
+
+msgid "Please select your role"
+msgstr "役割を選択してください"
+
+msgid "You are not allowed"
+msgstr "あなたは許可されていません"
+
+msgid "Buy New Package"
+msgstr "新しいパッケージを購入する"
+
+msgid "You are Not Allowed To add More than One "
+msgstr "複数の追加は許可されていません"
+
+msgid "Payment is Not Made Against This Job  Contact Adminstrator"
+msgstr "この仕事に対して支払いは行われません連絡先管理者"
+
+msgid "not allowed"
+msgstr "禁止されている"
+
+msgid "You are already logged in !..."
+msgstr "あなたは既にログイン済みです ！..."
+
+msgid "Logout"
+msgstr "ログアウト"
+
+msgid "Please first make a selection from the list"
+msgstr "まずリストから選択してください"
+
+msgid "Unknown"
+msgstr "わからない"
+
+msgid "Invalid request"
+msgstr "無効なリクエスト"
+
+msgid "has been successfully saved"
+msgstr "正常に保存されました"
+
+msgid "has not been saved"
+msgstr "保存されていません"
+
+msgid "has been successfully deleted"
+msgstr "正常に削除されました"
+
+msgid "Record not exist"
+msgstr "レコードが存在しません"
+
+msgid "has not been deleted"
+msgstr "削除されていません"
+
+msgid "has been successfully published"
+msgstr "正常に公開されました"
+
+msgid "transaction has been successfully verified"
+msgstr "トランザクションは正常に検証されました"
+
+msgid "transaction has been successfully un-verified"
+msgstr "トランザクションは正常に検証されていません"
+
+msgid "transaction has not been successfully verified"
+msgstr "トランザクションが正常に検証されていません"
+
+msgid "transaction has not been successfully un-verified"
+msgstr "トランザクションは正常に検証されていません"
+
+msgid "has not been published"
+msgstr "公開されていません"
+
+msgid "has been successfully unpublished"
+msgstr "正常に非公開になりました"
+
+msgid "has not been unpublished"
+msgstr "未公開ではありません"
+
+msgid "Fields has been successfully required"
+msgstr "フィールドは正常に要求されました"
+
+msgid "Field has not been required"
+msgstr "フィールドは必要ありません"
+
+msgid "Fields has not been required"
+msgstr "フィールドは必要ありません"
+
+msgid "Fields has been successfully not required"
+msgstr "フィールドは正常に不要になりました"
+
+msgid "Field has not been not required"
+msgstr "フィールドは必要ありません"
+
+msgid "Fields has not been not required"
+msgstr "フィールドは必要ありません"
+
+msgid "Field order up successfully"
+msgstr "フィールドオーダーが正常にアップ"
+
+msgid "Field order up error"
+msgstr "フィールドオーダーアップエラー"
+
+msgid "Field order down successfully"
+msgstr "フィールドオーダーが正常にダウン"
+
+msgid "has been rejected"
+msgstr "拒否されました"
+
+msgid "Job applied successfully"
+msgstr "ジョブが正常に適用されました"
+
+msgid "Error in applying job"
+msgstr "ジョブの適用中にエラーが発生しました"
+
+msgid "has not been rejected"
+msgstr "拒否されていません"
+
+msgid "has been approved"
+msgstr "承認されました"
+
+msgid "has not been approved"
+msgstr "承認されていません"
+
+msgid "has been set as default"
+msgstr "デフォルトとして設定されています"
+
+msgid "Unpublished field cannot set default"
+msgstr "未公開フィールドはデフォルトを設定できません"
+
+msgid "has not been set as default"
+msgstr "デフォルトとして設定されていません"
+
+msgid "status has been updated"
+msgstr "ステータスが更新されました"
+
+msgid "has not been updated"
+msgstr "更新されていません"
+
+msgid "in use cannot deleted"
+msgstr "使用中は削除できません"
+
+msgid "already exist"
+msgstr "すでに存在しています"
+
+msgid "File type error"
+msgstr "ファイルタイプエラー"
+
+msgid "File size error"
+msgstr "ファイルサイズエラー"
+
+msgid "has been enabled"
+msgstr "有効になっています"
+
+msgid "Can not buy free package more than once"
+msgstr "無料パッケージを複数回購入することはできません"
+
+msgid "has been disabled"
+msgstr "無効にされました"
+
+msgid "no active package"
+msgstr "アクティブなパッケージがありません"
+
+msgid "You don't have enough credits"
+msgstr "あなたは十分なクレジットを持っていません"
+
+msgid "buy packages"
+msgstr "パッケージを購入する"
+
+msgid "Address Data"
+msgstr "住所データ"
+
+msgid "Featured company"
+msgstr "注目の会社"
+
+msgid "Field"
+msgstr "フィールド"
+
+msgid "Employer package"
+msgstr "雇用者パッケージ"
+
+msgid "Featured job"
+msgstr "注目の仕事"
+
+msgid "Job alert"
+msgstr "ジョブアラート"
+
+msgid "State"
+msgstr "状態"
+
+msgid "User role"
+msgstr "ユーザーの役割"
+
+msgid "Email Template"
+msgstr "メールテンプレート"
+
+msgid "record"
+msgstr "記録"
+
+msgid "s"
+msgstr "s"
+
+msgid "Prefix"
+msgstr "プレフィックス"
+
+msgid "Career Level"
+msgstr "キャリアレベル"
+
+msgid "Jobseeker"
+msgstr "求職者"
+
+msgid "Previous"
+msgstr "前"
+
+msgid "Next"
+msgstr "次"
+
+msgid "Search job"
+msgstr "検索ジョブ"
+
+msgid "Jobs by state"
+msgstr "州別の仕事"
+
+msgid "Latest Resumes"
+msgstr "最新の履歴書"
+
+msgid "Search jobs form WP Job Portal database"
+msgstr "WP求人ポータルデータベースから求人を検索"
+
+msgid "Search Job"
+msgstr "求人検索"
+
+msgid "Username / password is incorrect"
+msgstr "ユーザー名/パスワードが正しくありません"
+
+msgid "Jobs role"
+msgstr "仕事の役割"
+
+msgid "Select job role"
+msgstr "職務の選択"
+
+msgid "You must set jobs user role"
+msgstr "ジョブのユーザーロールを設定する必要があります"
+
+msgid "Username already taken"
+msgstr "ユーザー名はすでに使用されています"
+
+msgid "Invalid username"
+msgstr "無効なユーザー名"
+
+msgid "Please enter a username"
+msgstr "ユーザー名を入力してください"
+
+msgid "Invalid email"
+msgstr "無効なメール"
+
+msgid "Email already registered"
+msgstr "すでに登録されたメール"
+
+msgid "Please enter a password"
+msgstr "パスワードを入力してください"
+
+msgid "Passwords do not match"
+msgstr "パスワードが一致していません"
+
+msgid "Error Updating User"
+msgstr "ユーザーの更新中にエラーが発生しました"
+
+msgid "User Added Successfully"
+msgstr "ユーザーが正常に追加されました"
+
+msgid "Employer Control Panel"
+msgstr "雇用者コントロールパネル"
+
+msgid "WP JOB PORTAL Pages"
+msgstr "WP JOBPORTALページ"
+
+msgid "Jobseeker Control Panel"
+msgstr "求職者コントロールパネル"
+
+msgid "Job Listing"
+msgstr "求人情報"
+
+msgid "Jobs By Catergories"
+msgstr "カテゴリ別の求人"
+
+msgid "Add Job"
+msgstr "ジョブを追加"
+
+msgid "Employer Registration"
+msgstr "雇用者登録"
+
+msgid "Jobseeker Registration"
+msgstr "求職者登録"
+
+msgid "All Companies"
+msgstr "すべての会社"
+
+msgid "My Cover Letters"
+msgstr "私のカバーレター"
+
+msgid "Add Cover Letter"
+msgstr "カバーレターを追加"
+
+msgid "Employer My Stats"
+msgstr "雇用主の私の統計"
+
+msgid "Jobseeker My Stats"
+msgstr "求職者の私の統計"
+
+msgid "WP JOB PORTAL Package"
+msgstr "WP JOBPORTALパッケージ"
+
+msgid "WP JOB PORTAL Perlisting"
+msgstr "WP JOBPORTALパーリスト"
+
+msgid "Package combo"
+msgstr "パッケージコンボ"
+
+msgid "Select packages pack so that user can purchase them."
+msgstr "ユーザーが購入できるようにパッケージパックを選択します。"
+
+msgid "Feature Company"
+msgstr "フィーチャーカンパニー"
+
+msgid "Featuer Job"
+msgstr "フィーチャージョブ"
+
+msgid "Feature Resume"
+msgstr "機能の再開"
+
+msgid "Add  Department"
+msgstr "部門を追加"
+
+msgid "Resume Save Search"
+msgstr "検索の保存を再開します"
+
+msgid "Job Alert Time "
+msgstr "ジョブアラート時間"
+
+msgid "View Company Contact Detail "
+msgstr "会社の連絡先の詳細を表示"
+
+msgid "View Resume Contact Detail"
+msgstr "履歴書の連絡先の詳細を表示"
+
+msgid "WP Job Portal"
+msgstr "WP求人ポータル"
+
+msgid "Theme"
+msgstr "テーマ"
+
+msgid "Configurations"
+msgstr "構成"
+
+msgid "Jobseeker/Employer Reports"
+msgstr "求職者/雇用者レポート"
+
+msgid "Pro Installer"
+msgstr "プロインストーラー"
+
+msgid "Email Templates Options"
+msgstr "メールテンプレートオプション"
+
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+msgid "Employer Packages"
+msgstr "雇用者パッケージ"
+
+msgid "Field Ordering"
+msgstr "フィールドの順序付け"
+
+msgid "Job Seeker Packages"
+msgstr "求職者パッケージ"
+
+msgid "WP Job Alert"
+msgstr "WPジョブアラート"
+
+msgid "Payment History"
+msgstr "支払歴"
+
+msgid "Payment Method Configuration"
+msgstr "お支払い方法の設定"
+
+msgid "Salary Range Types"
+msgstr "給与範囲タイプ"
+
+msgid "Cover letter"
+msgstr "カバーレター"
+
+msgid "Shortcodes"
+msgstr "ショートコード"
+
+msgid "WP Job Portal Settings"
+msgstr "WP求人ポータルの設定"
+
+msgid "WP Job Portal Slug"
+msgstr "WP求人ポータルスラッグ"
+
+msgid "Premium Plugin"
+msgstr "プレミアムプラグイン"
+
+msgid "Premium Addon"
+msgstr "プレミアムアドオン"
+
+msgid "Cover Letter"
+msgstr "カバーレター"
+
+msgid "Applied for job"
+msgstr "仕事に応募"
+
+msgid "With Resume"
+msgstr "履歴書付き"
+
+msgid "Administrator"
+msgstr "管理者"
+
+msgid "added a new"
+msgstr "新しいを追加しました"
+
+msgid "Edited a existing"
+msgstr "既存のものを編集しました"
+
+msgid "Deleted a"
+msgstr "削除しました"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Reference For"
+msgstr "のリファレンス"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Ages"
+msgstr "年齢"
+
+msgid "Custom Field"
+msgstr "カスタムフィールド"
+
+msgid "submit"
+msgstr "参加する"
+
+msgid "Submit"
+msgstr "参加する"
+
+msgid "Sort by"
+msgstr "並び替え"
+
+msgid "Ordering updated"
+msgstr "注文が更新されました"
+
+msgid "Ordering"
+msgstr "注文"
+
+msgid "Save Ordering"
+msgstr "注文を保存"
+
+msgid "Add New Career Levels"
+msgstr "新しいキャリアレベルを追加する"
+
+msgid "grab"
+msgstr "つかむ"
+
+msgid "title"
+msgstr "題名"
+
+msgid "default"
+msgstr "デフォルト"
+
+msgid "not default"
+msgstr "デフォルトではない"
+
+msgid "Records per page"
+msgstr "1ページあたりのレコード"
+
+msgid "Show More"
+msgstr "もっと見せる"
+
+msgid "Category Title"
+msgstr "カテゴリタイトル"
+
+msgid "category name"
+msgstr "種別名"
+
+msgid "Error while saving new state"
+msgstr "新しい状態の保存中にエラーが発生しました"
+
+msgid "Country not found"
+msgstr "国が見つかりません"
+
+msgid "Add New City"
+msgstr "新しい都市を追加する"
+
+msgid "Not Required"
+msgstr "不要"
+
+msgid "25 Per"
+msgstr "25あたり"
+
+msgid "50 Per"
+msgstr "50あたり"
+
+msgid "75 Per"
+msgstr "75あたり"
+
+msgid "100 Per"
+msgstr "100あたり"
+
+msgid "New company"
+msgstr "新会社"
+
+msgid "New department"
+msgstr "新しい部門"
+
+msgid "New job"
+msgstr "新しい仕事"
+
+msgid "Searched and saved resume"
+msgstr "検索して保存した履歴書"
+
+msgid "Viewed resume contact details"
+msgstr "履歴書の連絡先の詳細を表示"
+
+msgid "Featured company for time period"
+msgstr "期間中の注目企業"
+
+msgid "New resume"
+msgstr "新しい履歴書"
+
+msgid "New cover letter"
+msgstr "新しいカバーレター"
+
+msgid "Life time job alert"
+msgstr "生涯の仕事の警告"
+
+msgid "Job alert for time"
+msgstr "時間の求人アラート"
+
+msgid "Saved a job search"
+msgstr "求人検索を保存しました"
+
+msgid "Job short listed"
+msgstr "求人情報が不足しています"
+
+msgid "Viewed job status"
+msgstr "表示されたジョブステータス"
+
+msgid "Viewed company contact detail"
+msgstr "会社の連絡先の詳細を表示"
+
+msgid "Told a friend"
+msgstr "友達に言った"
+
+msgid "Saved a job filter"
+msgstr "ジョブフィルターを保存しました"
+
+msgid "Shared on social media"
+msgstr "ソーシャルメディアで共有"
+
+msgid "Unpublished"
+msgstr "未発表"
+
+msgid "Subscribed"
+msgstr "購読済み"
+
+msgid "Unsubscribed"
+msgstr "未購読"
+
+msgid "Text Field"
+msgstr "テキストフィールド"
+
+msgid "Text Area"
+msgstr "テキストエリア"
+
+msgid "Check Box"
+msgstr "チェックボックス"
+
+msgid "Drop Down"
+msgstr "落ちる"
+
+msgid "Negotiable"
+msgstr "交渉可能"
+
+msgid "You are Not Allowed To Add More than One "
+msgstr "複数の追加は許可されていません"
+
+msgid "Are you new in"
+msgstr "あなたは新しいですか"
+
+msgid "Select Role"
+msgstr "役割を選択"
+
+msgid "Companies Approval Queue"
+msgstr "会社の承認キュー"
+
+msgid "cross"
+msgstr "クロス"
+
+msgid "enforce delete"
+msgstr "削除を強制する"
+
+msgid "Enforce Delete"
+msgstr "削除を強制する"
+
+msgid "Company Approve"
+msgstr "会社の承認"
+
+msgid "Company Reject"
+msgstr "会社の拒否"
+
+msgid "sort"
+msgstr "ソート"
+
+msgid "Date Start"
+msgstr "開始日"
+
+msgid "Date End"
+msgstr "終了日"
+
+msgid "View all jobs"
+msgstr "すべての求人を表示"
+
+msgid "View All Jobs"
+msgstr "すべての求人を表示"
+
+msgid "Edit company"
+msgstr "会社を編集する"
+
+msgid "Edit Company"
+msgstr "会社の編集"
+
+msgid "Delete company"
+msgstr "会社を削除する"
+
+msgid "Waiting For Approval"
+msgstr "承認待ち"
+
+msgid "Pending For Approval of Payment"
+msgstr "支払いの承認待ち"
+
+msgid "View company"
+msgstr "会社を見る"
+
+msgid "View Company"
+msgstr "会社を見る"
+
+msgid "website"
+msgstr "ウェブサイト"
+
+msgid "Data directory can not empty."
+msgstr "データディレクトリを空にすることはできません。"
+
+msgid "Data directory is not proper."
+msgstr "データディレクトリが適切ではありません。"
+
+msgid "Data directory is not writable."
+msgstr "データディレクトリは書き込み可能ではありません。"
+
+msgid "General Settings"
+msgstr "一般設定"
+
+msgid "Site Settings"
+msgstr "サイト設定"
+
+msgid "Offline"
+msgstr "オフライン"
+
+msgid "Term And Conditions"
+msgstr "利用規約"
+
+msgid "employer"
+msgstr "雇用者"
+
+msgid "Members Links"
+msgstr "メンバーリンク"
+
+msgid "job seeker"
+msgstr "求職者"
+
+msgid "Resume Settings"
+msgstr "設定を再開する"
+
+msgid "Employer Settings"
+msgstr "雇用主の設定"
+
+msgid "Jobseeker Settings"
+msgstr "求職者の設定"
+
+msgid "Package Settings"
+msgstr "パッケージ設定"
+
+msgid "Social Links"
+msgstr "ソーシャルリンク"
+
+msgid "Social Share"
+msgstr "ソーシャルシェア"
+
+msgid "Facebook"
+msgstr "フェイスブック"
+
+msgid "Linkedin"
+msgstr "Linkedin"
+
+msgid "Xing"
+msgstr "Xing"
+
+msgid "Social Login"
+msgstr "ソーシャルログイン"
+
+msgid "dd-mm-yyyy"
+msgstr "dd-mm-yyyy"
+
+msgid "mm/dd/yyyy"
+msgstr "mm / dd / yyyy"
+
+msgid "yyyy-mm-dd"
+msgstr "yyyy-mm-dd"
+
+msgid "Top left"
+msgstr "左上"
+
+msgid "Top right"
+msgstr "右上"
+
+msgid "Middle left"
+msgstr "左中"
+
+msgid "Middle right"
+msgstr "右中"
+
+msgid "Bottom left"
+msgstr "左下"
+
+msgid "Bottom right"
+msgstr "右下"
+
+msgid "Google Captcha"
+msgstr "Googleキャプチャ"
+
+msgid "WP JOB PORTAL Captcha"
+msgstr "WP JOB PORTAL Captcha"
+
+msgid "Any"
+msgstr "どれか"
+
+msgid "Addition"
+msgstr "添加"
+
+msgid "Subtraction"
+msgstr "減算"
+
+msgid "Left align"
+msgstr "左揃え"
+
+msgid "Right align"
+msgstr "右揃え"
+
+msgid "Per Listing"
+msgstr "リストごと"
+
+msgid "Membership"
+msgstr "メンバーシップ"
+
+msgid "Google Map"
+msgstr "グーグルマップ"
+
+msgid "Open Street Map"
+msgstr "オープンストリートマップ"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "Data directory"
+msgstr "データディレクトリ"
+
+msgid "System will upload all user files in this folder"
+msgstr "システムはこのフォルダ内のすべてのユーザーファイルをアップロードします"
+
+msgid "Show breadcrumbs"
+msgstr "パンくずリストを表示する"
+
+msgid "Show navigation in breadcrumbs"
+msgstr "ブレッドクラムでナビゲーションを表示する"
+
+msgid "Date format"
+msgstr "日付形式"
+
+msgid "Date format for plugin"
+msgstr "プラグインの日付形式"
+
+msgid "Mark Job New"
+msgstr "求人を新規マーク"
+
+msgid "How many days system show New tag"
+msgstr "システムが新しいタグを表示する日数"
+
+msgid "Image file extensions"
+msgstr "画像ファイル拡張子"
+
+msgid "Add image allowed extensions"
+msgstr "画像で許可されている拡張子を追加する"
+
+msgid "Must be comma separated"
+msgstr "カンマで区切る必要があります"
+
+msgid "User can add city in database"
+msgstr "ユーザーはデータベースに都市を追加できます"
+
+msgid "User can add new city in the system"
+msgstr "ユーザーはシステムに新しい都市を追加できます"
+
+msgid "Maximum record for city field"
+msgstr "シティフィールドの最大記録"
+
+msgid "Set number of cities to show in result of the location input box"
+msgstr "場所入力ボックスの結果に表示する都市の数を設定します"
+
+msgid "User can add tag in database"
+msgstr "ユーザーはデータベースにタグを追加できます"
+
+msgid "User can add new tags in the system"
+msgstr "ユーザーはシステムに新しいタグを追加できます"
+
+msgid "Maximum record for tag field"
+msgstr "タグフィールドの最大レコード"
+
+msgid "Set number of tags to show in result of the tag input box"
+msgstr "タグ入力ボックスの結果に表示するタグの数を設定します"
+
+msgid "Currency symbol position"
+msgstr "通貨記号の位置"
+
+msgid "Show currency symbol left or right to the amount"
+msgstr "金額に対して左または右に通貨記号を表示する"
+
+msgid "Job types per row"
+msgstr "行ごとのジョブタイプ"
+
+msgid "Show number of job types per row on 'job by type' page"
+msgstr "「タイプ別ジョブ」ページに行ごとのジョブタイプの数を表示する"
+
+msgid "Message auto approve"
+msgstr "メッセージの自動承認"
+
+msgid "Auto approve messages for job seeker and employer"
+msgstr "求職者と雇用者へのメッセージの自動承認"
+
+msgid "Conflict message auto approve"
+msgstr "競合メッセージの自動承認"
+
+msgid "Auto approve conflicted messages for job seeker and employer"
+msgstr "求職者と雇用主の競合するメッセージを自動承認する"
+
+msgid "Default page"
+msgstr "デフォルトページ"
+
+msgid "Default address display style"
+msgstr "デフォルトの住所表示スタイル"
+
+msgid "Employer default role"
+msgstr "雇用主のデフォルトの役割"
+
+msgid "This role will auto assign to new employer"
+msgstr "この役割は、新しい雇用主に自動的に割り当てられます"
+
+msgid "Job Seeker default role"
+msgstr "求職者のデフォルトの役割"
+
+msgid "This role will auto assign to new job seeker"
+msgstr "この役割は、新しい求職者に自動的に割り当てられます"
+
+msgid "Default Pagination size"
+msgstr "デフォルトのページネーションサイズ"
+
+msgid "Maximum number of records per page"
+msgstr "1ページあたりの最大レコード数"
+
+msgid "Show All Categories"
+msgstr "すべてのカテゴリを表示"
+
+msgid "Categories per row"
+msgstr "行ごとのカテゴリ"
+
+msgid "Sub-categories limit"
+msgstr "サブカテゴリの制限"
+
+msgid "Sender email address"
+msgstr "送信者のメールアドレス"
+
+msgid "Email address that will be used to send emails"
+msgstr "メールの送信に使用されるメールアドレス"
+
+msgid "Sender name"
+msgstr "送信者名"
+
+msgid "Sender name that will be used in emails"
+msgstr "メールで使用される送信者名"
+
+msgid "Admin email address"
+msgstr "管理者のメールアドレス"
+
+msgid "Admin will receive email notifications on this address"
+msgstr "管理者はこのアドレスでメール通知を受け取ります"
+
+msgid "Map height"
+msgstr "マップの高さ"
+
+msgid "Set map height for plugin"
+msgstr "プラグインのマップの高さを設定する"
+
+msgid "Show Map"
+msgstr "地図を表示"
+
+msgid "Google Map API key"
+msgstr "Google MapAPIキー"
+
+msgid "Get API key from"
+msgstr "からAPIキーを取得します"
+
+msgid "here"
+msgstr "ここに"
+
+msgid "Mapping Service"
+msgstr "マッピングサービス"
+
+msgid "Default longitude"
+msgstr "デフォルトの経度"
+
+msgid "Default latitude"
+msgstr "デフォルトの緯度"
+
+msgid "Default map radius type"
+msgstr "デフォルトのマップ半径タイプ"
+
+msgid "Company terms and conditions page"
+msgstr "会社の利用規約ページ"
+
+msgid "Select terms and conditions page for company"
+msgstr "会社の利用規約ページを選択"
+
+msgid "Job terms and conditions page"
+msgstr "求人情報ページ"
+
+msgid "Select terms and conditions page for job"
+msgstr "求人の利用規約ページを選択"
+
+msgid "Resume terms and conditions page"
+msgstr "利用規約のページを再開する"
+
+msgid "Select terms and conditions page for Resume"
+msgstr "履歴書の利用規約ページを選択"
+
+msgid "Show captcha on registration form"
+msgstr "登録フォームにキャプチャを表示する"
+
+msgid "Show captcha on WP JOB PORTAL registration form"
+msgstr "WP JOBPORTAL登録フォームにキャプチャを表示する"
+
+msgid "default captcha"
+msgstr "デフォルトのキャプチャ"
+
+msgid "Select captcha for plugin"
+msgstr "プラグインのキャプチャを選択します"
+
+msgid "WP JOB PORTAL captcha calculation type"
+msgstr "WP JOBPORTALキャプチャ計算タイプ"
+
+msgid "Select calculation type (addition, subtraction)"
+msgstr "計算タイプの選択（加算、減算）"
+
+msgid "WP JOB PORTAL captcha answer always positive"
+msgstr "WP JOBPORTALキャプチャの回答は常に肯定的"
+
+msgid "Subtraction answer should be positive"
+msgstr "引き算の答えは肯定的でなければなりません"
+
+msgid "Number of operands for WP JOB PORTAL captcha"
+msgstr "WP JOB PORTALcaptchaのオペランドの数"
+
+msgid "Number of operands for captcha"
+msgstr "キャプチャのオペランドの数"
+
+msgid "Job Posting Options"
+msgstr "求人情報のオプション"
+
+msgid "Visitor can post job"
+msgstr "訪問者は仕事を投稿できます"
+
+msgid "Visitor can post a job"
+msgstr "訪問者は仕事を投稿できます"
+
+msgid "Allow edit job"
+msgstr "編集ジョブを許可する"
+
+msgid "Visitor can edit his posted job"
+msgstr "訪問者は投稿した求人を編集できます"
+
+msgid "Show captcha"
+msgstr "キャプチャを表示"
+
+msgid "Show captcha on visitor form job"
+msgstr "訪問者フォームのジョブでキャプチャを表示する"
+
+msgid "Visitor post job redirect page "
+msgstr "訪問者の求人リダイレクトページ"
+
+msgid "whenever any visitor posts a job, he will be redirected to this page"
+msgstr "訪問者が求人を投稿するたびに、このページにリダイレクトされます"
+
+msgid "Visitors Can View Employer"
+msgstr "訪問者は雇用主を見ることができます"
+
+msgid "Resume Categories"
+msgstr "カテゴリを再開する"
+
+msgid "Visitor can apply to job"
+msgstr "訪問者は仕事に応募することができます"
+
+msgid "Visitor can add resume"
+msgstr "訪問者は履歴書を追加できます"
+
+msgid "Show login message to visitor"
+msgstr "訪問者にログインメッセージを表示する"
+
+msgid "Show login option to visitor on job apply"
+msgstr "求人応募時に訪問者にログインオプションを表示する"
+
+msgid "Visitor post resume redirect page "
+msgstr "訪問者の投稿履歴書リダイレクトページ"
+
+msgid "whenever any visitor posts a resume, he will be redirected to this page"
+msgstr "訪問者が履歴書を投稿するたびに、彼はこのページにリダイレクトされます"
+
+msgid "Show captcha on resume form"
+msgstr "履歴書フォームにキャプチャを表示する"
+
+msgid "Show captcha on visitor form resume"
+msgstr "訪問者フォームの履歴書にキャプチャを表示する"
+
+msgid "Show captcha on Job alert form"
+msgstr "ジョブアラートフォームにキャプチャを表示する"
+
+msgid "Show captcha visitor job alert form"
+msgstr "キャプチャビジターの求人アラートフォームを表示する"
+
+msgid "Show captcha on tell a friend popup"
+msgstr "友達に伝えるポップアップでキャプチャを表示する"
+
+msgid "Show captcha on visitor tell a friend popup"
+msgstr "訪問者にキャプチャを表示して友達にポップアップを伝える"
+
+msgid "Visitors Can View Job seeker"
+msgstr "訪問者は求職者を見ることができます"
+
+msgid "Job search result"
+msgstr "求人検索結果"
+
+msgid "Enable disable control panel for visitor"
+msgstr "訪問者のコントロールパネルを無効にするを有効にする"
+
+msgid "Employer Dashboard"
+msgstr "雇用者ダッシュボード"
+
+msgid "Stats Graph"
+msgstr "統計グラフ"
+
+msgid "Useful Links"
+msgstr "便利なリンク"
+
+msgid "Saved Search"
+msgstr "保存された検索"
+
+msgid "Invoice"
+msgstr "請求書"
+
+msgid "Newest Resume"
+msgstr "最新の履歴書"
+
+msgid "Employer Control Panel Links"
+msgstr "雇用主のコントロールパネルのリンク"
+
+msgid "Jobs Graph"
+msgstr "ジョブグラフ"
+
+msgid "Job Seeker Dashboard"
+msgstr "求職者ダッシュボード"
+
+msgid "Shortlisted Jobs"
+msgstr "最終選考に残った仕事"
+
+msgid "Job Seeker Control Panel Links"
+msgstr "求職者のコントロールパネルのリンク"
+
+msgid "Jobs RSS"
+msgstr "求人RSS"
+
+msgid "Applied Resume Alert"
+msgstr "適用された履歴書アラート"
+
+msgid "Applied resume notification"
+msgstr "適用された履歴書通知"
+
+msgid "Applied resume status change mail to jobseeker"
+msgstr "求職者に履歴書ステータス変更メールを適用しました"
+
+msgid "Paid Submission"
+msgstr "有料提出"
+
+msgid "Auto Assign Free package to new user"
+msgstr "新しいユーザーに無料パッケージを自動割り当て"
+
+msgid "free package purchase"
+msgstr "無料パッケージ購入"
+
+msgid "Free Package purchase auto approve"
+msgstr "無料パッケージ購入自動承認"
+
+msgid "Submission Type"
+msgstr "提出タイプ"
+
+msgid "No of Days untill Job expire (per-listing)"
+msgstr "求人の有効期限が切れるまでの日数（リストごと）"
+
+msgid "Job Expiry Days (per-listing)"
+msgstr "求人の有効期限（リストごと）"
+
+msgid "No of Days untill Feature Company expire (per-listing)"
+msgstr "機能会社の有効期限が切れるまでの日数（リストごと）"
+
+msgid "Company Expiry Days (per-listing)"
+msgstr "会社の有効期限（リストごと）"
+
+msgid "No of Days untill Feature Company expire (Free)"
+msgstr "Feature Companyの有効期限が切れるまでの日数（無料）"
+
+msgid "Company Expiry Days (Free)"
+msgstr "会社の有効期限（無料）"
+
+msgid "No of Days untill Featured Job expire (per-listing)"
+msgstr "注目の求人が期限切れになるまでの日数（リストごと）"
+
+msgid "No Of Days until Featured Job  Expire (Free)"
+msgstr "注目の仕事が期限切れになるまでの日数（無料）"
+
+msgid "Featured Job Expiry Days (Free)"
+msgstr "注目の求人日（無料）"
+
+msgid "No Of Days until Featured Resume  Expire (Free)"
+msgstr "注目の履歴書の有効期限が切れるまでの日数（無料）"
+
+msgid "Featured Resume Expiry Days (Free)"
+msgstr "注目の履歴書有効期限（無料）"
+
+msgid "No Of Days until Featured Resume  Expire (per-listing)"
+msgstr "注目の履歴書の有効期限が切れるまでの日数（リストごと）"
+
+msgid "Featured Resume Expiry Days (per-listing)"
+msgstr "注目の履歴書有効期限（リストごと）"
+
+msgid "No Of Days until Job  Expire (Free)"
+msgstr "仕事が切れるまでの日数（無料）"
+
+msgid "Job Expiry Days (Free)"
+msgstr "仕事の有効期限（無料）"
+
+msgid "Facebook likes"
+msgstr "Facebookが好き"
+
+msgid "Facebook share"
+msgstr "Facebookでシェア"
+
+msgid "Facebook comments"
+msgstr "Facebookのコメント"
+
+msgid "Google likes"
+msgstr "Googleが好き"
+
+msgid "Google share"
+msgstr "Googleシェア"
+
+msgid "Blogger"
+msgstr "ブロガー"
+
+msgid "Digg"
+msgstr "Digg"
+
+msgid "Twitter"
+msgstr "ツイッター"
+
+msgid "Myspace"
+msgstr "私のスペース"
+
+msgid "Yahoo"
+msgstr "Yahoo"
+
+msgid "Facebook user can login in WP JOB PORTAL"
+msgstr "FacebookユーザーはWPJOBPORTALにログインできます"
+
+msgid "Job apply with facebook"
+msgstr "仕事はFacebookで適用されます"
+
+msgid "Facebook user can apply to jobs"
+msgstr "Facebookユーザーは仕事に応募できます"
+
+msgid "API key"
+msgstr "APIキー"
+
+msgid "API key is required for facebook app"
+msgstr "FacebookアプリにはAPIキーが必要です"
+
+msgid "Secret"
+msgstr "秘密"
+
+msgid "Linkedin user can login in WP JOB PORTAL"
+msgstr "LinkedinユーザーはWPJOBPORTALにログインできます"
+
+msgid "Job apply with linkedin"
+msgstr "LinkedInで求人に応募"
+
+msgid "Linkedin user can apply to jobs"
+msgstr "Linkedinユーザーは求人に応募できます"
+
+msgid "API key is required for linkedin app"
+msgstr "LinkedInアプリにはAPIキーが必要です"
+
+msgid "Xing user can login in WP JOB PORTAL"
+msgstr "XingユーザーはWPJOBPORTALにログインできます"
+
+msgid "Job apply with xing"
+msgstr "仕事はxingで適用されます"
+
+msgid "Xing user can apply to jobs"
+msgstr "Xingユーザーは仕事に応募できます"
+
+msgid "API key is required for xing app"
+msgstr "xingアプリにはAPIキーが必要です"
+
+msgid "Must provide title for job feed"
+msgstr "ジョブフィードのタイトルを提供する必要があります"
+
+msgid "Must provide description for job feed"
+msgstr "ジョブフィードの説明を提供する必要があります"
+
+msgid "Copyright"
+msgstr "著作権"
+
+msgid "Leave blank to hide"
+msgstr "非表示にするには空白のままにします"
+
+msgid "Editor"
+msgstr "編集者"
+
+msgid "Leave blank to hide editor used for feed content issue"
+msgstr "フィードコンテンツの問題に使用されるエディターを非表示にするには、空白のままにします"
+
+msgid "Time to live"
+msgstr "有効期間"
+
+msgid "Time to live for job feed"
+msgstr "仕事のフィードのために生きる時間"
+
+msgid "Webmaster"
+msgstr "ウェブマスター"
+
+msgid "Leave blank to hide webmaster used for technical issue"
+msgstr "技術的な問題に使用されるウェブマスターを非表示にするには、空白のままにします"
+
+msgid "Job block"
+msgstr "ジョブブロック"
+
+msgid "Show with categories"
+msgstr "カテゴリで表示"
+
+msgid "Use rss categories with our job categories"
+msgstr "私たちの仕事のカテゴリでRSSカテゴリを使用する"
+
+msgid "Company image"
+msgstr "会社のイメージ"
+
+msgid "Show company logo with job feeds"
+msgstr "ジョブフィードで会社のロゴを表示する"
+
+msgid "Must provide title for resume feed"
+msgstr "履歴書フィードのタイトルを提供する必要があります"
+
+msgid "Must provide description for resume feed"
+msgstr "履歴書フィードの説明を提供する必要があります"
+
+msgid "Time to live for resume feed"
+msgstr "履歴書フィードのために生きる時間"
+
+msgid "Resume block"
+msgstr "ブロックを再開"
+
+msgid "Use rss categories with our resume categories"
+msgstr "履歴書カテゴリでRSSカテゴリを使用する"
+
+msgid "Show resume file"
+msgstr "履歴書ファイルを表示する"
+
+msgid "Show resume files to downloadable from feed"
+msgstr "フィードからダウンロード可能な履歴書ファイルを表示する"
+
+msgid "Show login/logout button on employer control panel"
+msgstr "雇用主のコントロールパネルにログイン/ログアウトボタンを表示する"
+
+msgid "Show login logout button in job seeker control panel"
+msgstr "求職者のコントロールパネルにログインログアウトボタンを表示する"
+
+msgid "Only section that have value"
+msgstr "価値のあるセクションのみ"
+
+msgid "All sections"
+msgstr "すべてのセクション"
+
+msgid "Select Option"
+msgstr "オプションを選択"
+
+msgid "All Fields"
+msgstr "すべてのフィールド"
+
+msgid "Only filled fields"
+msgstr "塗りつぶされたフィールドのみ"
+
+msgid "Employer Configurations"
+msgstr "雇用主の構成"
+
+msgid "Enable Employer Area"
+msgstr "雇用者エリアを有効にする"
+
+msgid "If no then front end employer area is not accessable"
+msgstr "いいえの場合、フロントエンドの雇用者エリアにアクセスできません"
+
+msgid "Allow user to register as employer"
+msgstr "ユーザーが雇用主として登録できるようにする"
+
+msgid "effects on user registration"
+msgstr "ユーザー登録への影響"
+
+msgid "Employer can view job seeker area"
+msgstr "雇用主は求職者エリアを見ることができます"
+
+msgid "Enable"
+msgstr "有効にする"
+
+msgid "Featured companies are allowed in plugin"
+msgstr "注目の企業はプラグインで許可されています"
+
+msgid "Featured jobs are allowed in plugin"
+msgstr "注目の仕事はプラグインで許可されています"
+
+msgid "Company logo maximum size"
+msgstr "会社のロゴの最大サイズ"
+
+msgid "Show resume contact detail"
+msgstr "履歴書の連絡先の詳細を表示する"
+
+msgid "effect on credits system"
+msgstr "クレジットシステムへの影響"
+
+msgid "If no then credits will be taken to view contact detail"
+msgstr "いいえの場合、連絡先の詳細を表示するためにクレジットが取得されます"
+
+msgid "Show count in resume categories"
+msgstr "履歴書のカテゴリにカウントを表示する"
+
+msgid "Allow save search"
+msgstr "保存検索を許可する"
+
+msgid "User can save search criteria"
+msgstr "ユーザーは検索条件を保存できます"
+
+msgid "Email Alert To Employer On Resume Apply"
+msgstr "履歴書申請時に雇用主にアラートを電子メールで送信"
+
+msgid "What to include in email"
+msgstr "メールに含めるもの"
+
+msgid "All fields are included in employer email content or only filled fields"
+msgstr "すべてのフィールドは雇用主の電子メールコンテンツに含まれるか、入力されたフィールドのみに含まれます"
+
+msgid "auto approve"
+msgstr "自動承認"
+
+msgid "Company Settings"
+msgstr "会社の設定"
+
+msgid "Effects on jobs listing and view company page"
+msgstr "求人情報への影響と会社ページの表示"
+
+msgid "Effects on view company page"
+msgstr "会社ページの表示への影響"
+
+msgid "Effects on company listing and view company page"
+msgstr "会社のリストへの影響と会社のページの表示"
+
+msgid "View Company Jobs"
+msgstr "会社の求人を見る"
+
+msgid "Company URL"
+msgstr "会社のURL"
+
+msgid "User Messages"
+msgstr "ユーザーメッセージ"
+
+msgid "Disable"
+msgstr "無効にする"
+
+msgid "Jobseeker Configurations"
+msgstr "求職者の構成"
+
+msgid "Email Alert"
+msgstr "メールアラート"
+
+msgid "Enable featured resume"
+msgstr "注目の履歴書を有効にする"
+
+msgid "Featured resume are allowed in plugin"
+msgstr "注目の履歴書はプラグインで許可されています"
+
+msgid "Show company contact detail"
+msgstr "会社の連絡先の詳細を表示する"
+
+msgid "Show apply button"
+msgstr "適用ボタンを表示"
+
+msgid "Controls the visibility of apply now button in plugin"
+msgstr "プラグインの[今すぐ適用]ボタンの表示を制御します"
+
+msgid "Show applied resume status"
+msgstr "適用された履歴書のステータスを表示する"
+
+msgid "Show count in jobs by categories page"
+msgstr "カテゴリ別の求人の数を表示ページ"
+
+msgid "Show count in jobs by types page"
+msgstr "タイプ別のジョブの数を表示ページ"
+
+msgid "Job alert for visitor"
+msgstr "訪問者への求人アラート"
+
+msgid "Job short list"
+msgstr "仕事のショートリスト"
+
+msgid "Job short list setting effects on jobs listing page"
+msgstr "求人リストページへの求人ショートリスト設定の影響"
+
+msgid "Tell a friend setting effects on jobs listing page"
+msgstr "友達に求人情報ページに効果を設定するように伝える"
+
+msgid "Document file extensions"
+msgstr "ドキュメントファイル拡張子"
+
+msgid "Document file extensions allowed"
+msgstr "許可されるドキュメントファイル拡張子"
+
+msgid "Resume file maximum size"
+msgstr "ファイルの最大サイズを再開します"
+
+msgid "System will not upload if resume file size exceeds than given size"
+msgstr "レジュームファイルのサイズが指定されたサイズを超えると、システムはアップロードされません"
+
+msgid "Number of files for resume"
+msgstr "履歴書のファイル数"
+
+msgid "Maximum number of files that job seeker can upload in resume"
+msgstr "求職者が履歴書にアップロードできるファイルの最大数"
+
+msgid "Resume photo maximum size "
+msgstr "写真の最大サイズを再開"
+
+msgid "Number of employers allowed"
+msgstr "許可された雇用者の数"
+
+msgid "Maximum number of employers allowed in resume"
+msgstr "履歴書で許可される雇用主の最大数"
+
+msgid "Number of institutes allowed"
+msgstr "許可されている機関の数"
+
+msgid "Maximum number of institutes allowed in resume"
+msgstr "履歴書で許可される機関の最大数"
+
+msgid "Number of languages allowed"
+msgstr "許可される言語の数"
+
+msgid "Maximum number of languages allowed in resume"
+msgstr "履歴書で許可される言語の最大数"
+
+msgid "Number of addresses allowed"
+msgstr "許可されるアドレスの数"
+
+msgid "Maximum number of addresses allowed in resume"
+msgstr "レジュームで許可されるアドレスの最大数"
+
+msgid "Credits Log"
+msgstr "クレジットログ"
+
+msgid "Listing Style"
+msgstr "リストスタイル"
+
+msgid "Search icon position"
+msgstr "検索アイコンの位置"
+
+msgid "Postion for search icon on jobs listing page."
+msgstr "求人情報ページの検索アイコンの位置。"
+
+msgid "Show featured jobs"
+msgstr "注目の求人を表示する"
+
+msgid "Show featured jobs in jobs lising page"
+msgstr "注目の求人を求人一覧ページに表示"
+
+msgid "Show Total Number Of jobs"
+msgstr "ジョブの総数を表示する"
+
+msgid "Show total number of jobs in jobs lising page"
+msgstr "求人一覧ページに求人の総数を表示する"
+
+msgid "Number of featured jobs"
+msgstr "注目の仕事の数"
+
+msgid "Number of featured job show per scroll"
+msgstr "スクロールごとの注目のジョブショーの数"
+
+msgid "Show labels in jobs listing"
+msgstr "求人情報にラベルを表示する"
+
+msgid "Show labels in jobs listings, my jobs etc"
+msgstr "求人情報、私の仕事などにラベルを表示する"
+
+msgid "Indeed Jobs"
+msgstr "確かにジョブズ"
+
+msgid "Show Indeed jobs on jobs listings"
+msgstr "求人情報にIndeedの求人を表示する"
+
+msgid "Number of jobs before showing indeed jobs"
+msgstr "実際に仕事を表示する前の仕事の数"
+
+msgid "How many plugin jobs show before indeed jobs"
+msgstr "実際のジョブの前に表示されるプラグインジョブの数"
+
+msgid "Number of Indeed jobs per page"
+msgstr "1ページあたりのIndeedジョブの数"
+
+msgid "Number of Indeed Jobs per scroll"
+msgstr "スクロールあたりのIndeedジョブの数"
+
+msgid "Comma separated list of categories i.e Accounting, Management etc"
+msgstr "カテゴリのコンマ区切りリスト、つまり会計、管理など"
+
+msgid "Location format must be country, state, city"
+msgstr "場所の形式は、国、州、都市である必要があります"
+
+msgid "Job types"
+msgstr "職種"
+
+msgid "Comma separated list of job types i.e full time, part time etc"
+msgstr "フルタイム、パートタイムなどのジョブタイプのコンマ区切りリスト"
+
+msgid "Career Builder"
+msgstr "キャリアビルダー"
+
+msgid "Show Career Builder jobs in job listings"
+msgstr "求人情報にキャリアビルダーの求人を表示する"
+
+msgid "Number of jobs before showing Career Builder jobs"
+msgstr "キャリアビルダーの求人を表示する前の求人の数"
+
+msgid "How many plugin jobs show before career builder jobs"
+msgstr "キャリアビルダージョブの前に表示されるプラグインジョブの数"
+
+msgid "Number of Career Builder jobs per page"
+msgstr "1ページあたりのキャリアビルダージョブの数"
+
+msgid "Number of Career Builder jobs per scroll"
+msgstr "スクロールあたりのキャリアビルダージョブの数"
+
+msgid "Country Code"
+msgstr "国コード"
+
+msgid "Comma separated list of country codes"
+msgstr "国コードのコンマ区切りリスト"
+
+msgid "Comma separated list of job types i.e JTFT, JTPT, JTFP, JTCT, JTIN "
+msgstr "ジョブタイプのコンマ区切りリスト（JTFT、JTPT、JTFP、JTCT、JTIN）"
+
+msgid "Full-time"
+msgstr "フルタイム"
+
+msgid "Part-time"
+msgstr "パートタイム"
+
+msgid "Full-time/part-time"
+msgstr "正規・非正規"
+
+msgid "Contractant"
+msgstr "請負業者"
+
+msgid "Stagiair"
+msgstr "Stagiair"
+
+msgid "states"
+msgstr "州"
+
+msgid "cities"
+msgstr "都市"
+
+msgid "Has states"
+msgstr "状態があります"
+
+msgid "Has cities"
+msgstr "都市があります"
+
+msgid "Currency Code"
+msgstr "通貨コード"
+
+msgid "Code"
+msgstr "コード"
+
+msgid "Currency Symbol"
+msgstr "通貨記号"
+
+msgid "Parent Field"
+msgstr "親フィールド"
+
+msgid "Add User Field"
+msgstr "ユーザーフィールドの追加"
+
+msgid "Radio Button"
+msgstr "ラジオボタン"
+
+msgid "Field Type"
+msgstr "フィールドタイプ"
+
+msgid "Field Title"
+msgstr "フィールドタイトル"
+
+msgid "Show on listing"
+msgstr "リストに表示"
+
+msgid "Section cannot be changeable in edit case"
+msgstr "編集の場合、セクションを変更することはできません"
+
+msgid "Required"
+msgstr "必須"
+
+msgid "Place Holder"
+msgstr "プレースホルダー"
+
+msgid "Use enter key to separate options"
+msgstr "エンターキーを使用してオプションを区切ります"
+
+msgid "User Field"
+msgstr "ユーザーフィールド"
+
+msgid "Disabled"
+msgstr "無効"
+
+msgid "User Search"
+msgstr "ユーザー検索"
+
+msgid "Visitor Search"
+msgstr "訪問者検索"
+
+msgid "Go"
+msgstr "行く"
+
+msgid "unpublished"
+msgstr "未発表"
+
+msgid "User Fields"
+msgstr "ユーザーフィールド"
+
+msgid "Field Name"
+msgstr "フィールド名"
+
+msgid "Read Only"
+msgstr "読み取り専用"
+
+msgid "Pending Due to Payment"
+msgstr "支払いのため保留中"
+
+msgid "Company Detail"
+msgstr "会社詳細"
+
+msgid "rejected for featured"
+msgstr "注目のために拒否されました"
+
+msgid "approved for featured"
+msgstr "注目の承認"
+
+msgid "removed for featured"
+msgstr "注目のために削除されました"
+
+msgid "pending for featured"
+msgstr "特集待ち"
+
+msgid "Removed"
+msgstr "削除されました"
+
+msgid "Due to rejection of job you do not have permission to see job detail"
+msgstr "仕事が拒否されたため、仕事の詳細を表示する権限がありません"
+
+msgid "click here to edit job"
+msgstr "ジョブを編集するには、ここをクリックしてください"
+
+msgid " Admin"
+msgstr "管理者"
+
+msgid "Admin"
+msgstr "管理者"
+
+msgid "Body"
+msgstr "体"
+
+msgid "Parameters"
+msgstr "パラメーター"
+
+msgid "Employer name"
+msgstr "雇用者名"
+
+msgid "Company status for approve,reject,pending"
+msgstr "承認、却下、保留中の会社のステータス"
+
+msgid "Company approve or reject"
+msgstr "会社は承認または拒否します"
+
+msgid "Gold"
+msgstr "ゴールド"
+
+msgid "Company Owner Name"
+msgstr "会社の所有者名"
+
+msgid "Job seeker name"
+msgstr "求職者名"
+
+msgid "Job link"
+msgstr "求人リンク"
+
+msgid "Job  approve or reject"
+msgstr "ジョブは承認または拒否します"
+
+msgid "Role for employer"
+msgstr "雇用主の役割"
+
+msgid "Employer control panel link"
+msgstr "雇用主のコントロールパネルのリンク"
+
+msgid "Role for job seeker"
+msgstr "求職者の役割"
+
+msgid "Job seeker control panel link"
+msgstr "求職者のコントロールパネルのリンク"
+
+msgid "Resume data"
+msgstr "データを再開する"
+
+msgid "Resume curent status"
+msgstr "現在のステータスを再開する"
+
+msgid "Cover letter title"
+msgstr "カバーレターのタイトル"
+
+msgid "Cover letter description"
+msgstr "カバーレターの説明"
+
+msgid "Resume link"
+msgstr "リンクを再開"
+
+msgid "Resume  approve or reject"
+msgstr "承認または拒否を再開します"
+
+msgid "Applied resume status"
+msgstr "適用された履歴書ステータス"
+
+msgid "Agency name"
+msgstr "代理店名"
+
+msgid "Package title"
+msgstr "パッケージタイトル"
+
+msgid "Package price"
+msgstr "パッケージ価格"
+
+msgid "View package"
+msgstr "パッケージを見る"
+
+msgid "Publish status"
+msgstr "公開ステータス"
+
+msgid "new"
+msgstr "新着"
+
+msgid "status"
+msgstr "状態"
+
+msgid "buy credits pack"
+msgstr "クレジットパックを購入する"
+
+msgid "expire package"
+msgstr "パッケージの有効期限が切れます"
+
+msgid "job apply"
+msgstr "仕事が適用されます"
+
+msgid "New"
+msgstr "新着"
+
+msgid "resume "
+msgstr "履歴書"
+
+msgid "by visitor"
+msgstr "訪問者による"
+
+msgid "Applied resume status change"
+msgstr "適用された履歴書ステータスの変更"
+
+msgid "Package Purchase Admin"
+msgstr "パッケージ購入管理者"
+
+msgid "Package Status"
+msgstr "パッケージステータス"
+
+msgid "Package Purchase"
+msgstr "パッケージ購入"
+
+msgid "Job Seeker Visitor"
+msgstr "求職者ビジター"
+
+msgid "Employer Visitor"
+msgstr "雇用主訪問者"
+
+msgid "send email"
+msgstr "メールを送る"
+
+msgid "dont send email"
+msgstr "メールを送信しないでください"
+
+msgid "Miscellaneous"
+msgstr "その他"
+
+msgid "Send email"
+msgstr "メールを送る"
+
+msgid "Dont send email"
+msgstr "メールを送信しないでください"
+
+msgid "Go Back To Home"
+msgstr "家に帰る"
+
+msgid "Edit profile"
+msgstr "プロファイル編集"
+
+msgid "Short Links"
+msgstr "短いリンク"
+
+msgid "posted jobs"
+msgstr "投稿された求人"
+
+msgid "Posted Jobs"
+msgstr "投稿された求人"
+
+msgid "View Detail"
+msgstr "詳細を表示"
+
+msgid "applied resume"
+msgstr "適用された履歴書"
+
+msgid "my company"
+msgstr "弊社"
+
+msgid "My Company"
+msgstr "弊社"
+
+msgid "Recent Application's"
+msgstr "最近のアプリケーション"
+
+msgid "User image"
+msgstr "ユーザー画像"
+
+msgid "My jobs"
+msgstr "私の仕事"
+
+msgid "Add job"
+msgstr "ジョブを追加"
+
+msgid "Resume by categories"
+msgstr "カテゴリ別に再開"
+
+msgid "Resumes by categories"
+msgstr "カテゴリ別の履歴書"
+
+msgid "Resumes By Categories"
+msgstr "カテゴリ別の履歴書"
+
+msgid "add user fields"
+msgstr "ユーザーフィールドを追加する"
+
+msgid "required"
+msgstr "必須"
+
+msgid "not required"
+msgstr "必要ありません"
+
+msgid "Select status"
+msgstr "ステータスを選択"
+
+msgid "References"
+msgstr "参考文献"
+
+msgid "Add New Education"
+msgstr "新しい教育を追加する"
+
+msgid "Educations"
+msgstr "教育"
+
+msgid "JS multi city"
+msgstr "JSマルチシティ"
+
+msgid "JS search all"
+msgstr "JS検索すべて"
+
+msgid "JS_SEARCH_ALL"
+msgstr "JS_SEARCH_ALL"
+
+msgid "JS From"
+msgstr "JS From"
+
+msgid "JS To"
+msgstr "JS To"
+
+msgid "You do not have any Job Apply remaining"
+msgstr "求人応募が残っていません"
+
+msgid "Job Information"
+msgstr "求人情報"
+
+msgid "Overview"
+msgstr "概要概要"
+
+msgid "Full Detail"
+msgstr "完全な詳細"
+
+msgid "Something got wrong 1"
+msgstr "何かがおかしい1"
+
+msgid "Job Approval Queue"
+msgstr "ジョブ承認キュー"
+
+msgid "Job Copied Successfully"
+msgstr "ジョブが正常にコピーされました"
+
+msgid "If Any Other Experience"
+msgstr "他の経験がある場合"
+
+msgid "Select some options"
+msgstr "いくつかのオプションを選択します"
+
+msgid "Type in city name"
+msgstr "都市名を入力します"
+
+msgid "Job Has Been Feature SuccessFully"
+msgstr "仕事は完全に機能成功しました"
+
+msgid "Salary"
+msgstr "給料"
+
+msgid "Fixed"
+msgstr "修繕"
+
+msgid "Range"
+msgstr "範囲"
+
+msgid "Salary Type"
+msgstr "給与タイプ"
+
+msgid "Not publish"
+msgstr "公開しない"
+
+msgid "Edit Job"
+msgstr "ジョブの編集"
+
+msgid "Delete Job"
+msgstr "ジョブを削除する"
+
+msgid "wjportal-filter-search-input-field"
+msgstr "wjportal-filter-search-input-field"
+
+msgid "ago"
+msgstr "前"
+
+msgid "Degree Title"
+msgstr "学位の称号"
+
+msgid "Apply Before"
+msgstr "前に適用"
+
+msgid "category"
+msgstr "カテゴリー"
+
+msgid "created"
+msgstr "作成した"
+
+msgid "end date"
+msgstr "終了日"
+
+msgid "Closes"
+msgstr "閉じます"
+
+msgid "You Already Applied to this job "
+msgstr "あなたはすでにこの仕事に応募しています"
+
+msgid "Total Jobs"
+msgstr "総仕事"
+
+msgid "Remaining Job"
+msgstr "残りの仕事"
+
+msgid "Current Salary"
+msgstr "現在の給与"
+
+msgid "Applied Info"
+msgstr "応用情報"
+
+msgid "No Record Found"
+msgstr "レコードが見つかりません"
+
+msgid "Something wrong pleas try later"
+msgstr "何か問題があります後で試してください"
+
+msgid "Apply With Resume"
+msgstr "履歴書で申し込む"
+
+msgid "You do not have any resume!"
+msgstr "履歴書はありません！"
+
+msgid "You are employer, you can not apply to job"
+msgstr "あなたは雇用主です、あなたは仕事に応募することはできません"
+
+msgid "You do not have any role"
+msgstr "あなたには何の役割もありません"
+
+msgid "Apply as visitor"
+msgstr "ビジターとして申し込む"
+
+msgid "please select a resume first"
+msgstr "最初に履歴書を選択してください"
+
+msgid "You have already applied this job"
+msgstr "あなたはすでにこの仕事を適用しています"
+
+msgid "Job has been Pending Due to Payment"
+msgstr "支払いのためにジョブが保留中です"
+
+msgid "Sender Email"
+msgstr "送信者の電子メール"
+
+msgid "Cell"
+msgstr "細胞"
+
+msgid "Work preference"
+msgstr "仕事の好み"
+
+msgid "Institution Name"
+msgstr "機関名"
+
+msgid "Cert/deg/oth"
+msgstr "証明書/度/その他"
+
+msgid "Position"
+msgstr "ポジション"
+
+msgid "From Date"
+msgstr "開始日"
+
+msgid "To Date"
+msgstr "現在まで"
+
+msgid "Language Name"
+msgstr "言語名"
+
+msgid "Email has been send"
+msgstr "メールが送信されました"
+
+msgid "Email has not been send"
+msgstr "メールが送信されていません"
+
+msgid "Please fill the subject"
+msgstr "件名を入力してください"
+
+msgid "Message sent"
+msgstr "送信されたメッセージ"
+
+msgid "Message not sent"
+msgstr "メッセージは送信されません"
+
+msgid "JS invalid email"
+msgstr "JS無効なメール"
+
+msgid "JS your email is required"
+msgstr "JSあなたのメールアドレスが必要です"
+
+msgid "Note have been saved successfully"
+msgstr "メモは正常に保存されました"
+
+msgid "Failed while performing action"
+msgstr "アクションの実行中に失敗しました"
+
+msgid "Error sending email"
+msgstr "メール送信エラー"
+
+msgid "Failed While Performing Action"
+msgstr "アクションの実行中に失敗しました"
+
+msgid "Resume Applied On Job"
+msgstr "仕事に適用された履歴書"
+
+msgid "view profile"
+msgstr "プロフィールを見る"
+
+msgid "View Profile"
+msgstr "プロフィールを見る"
+
+msgid "Desired Salary"
+msgstr "希望する給与"
+
+msgid "Job View"
+msgstr "ジョブビュー"
+
+msgid "Applied"
+msgstr "アプライド"
+
+msgid "Number of jobs in last six months"
+msgstr "過去6か月間の仕事の数"
+
+msgid "my resume"
+msgstr "私の履歴書"
+
+msgid "applied job"
+msgstr "応用仕事"
+
+msgid "newest jobs"
+msgstr "最新の仕事"
+
+msgid "Newest Job"
+msgstr "最新の仕事"
+
+msgid "view detail"
+msgstr "詳細を表示"
+
+msgid "Jobs Applied Recently"
+msgstr "最近応募された求人"
+
+msgid "view all"
+msgstr "すべて表示"
+
+msgid "Total resume"
+msgstr "履歴書合計"
+
+msgid "register"
+msgstr "登録"
+
+msgid "my applied jobs"
+msgstr "私の応用仕事"
+
+msgid "search job"
+msgstr "検索ジョブ"
+
+msgid "jobs by categories"
+msgstr "カテゴリ別の仕事"
+
+msgid "jobs by types"
+msgstr "タイプ別の仕事"
+
+msgid "edit resume"
+msgstr "履歴書の編集"
+
+msgid "add resume"
+msgstr "履歴書を追加"
+
+msgid "logout"
+msgstr "ログアウト"
+
+msgid "Profile image"
+msgstr "プロフィール画像"
+
+msgid "Color"
+msgstr "色"
+
+msgid "no default"
+msgstr "デフォルトなし"
+
+msgid "Jobs data has been successfully imported"
+msgstr "ジョブデータが正常にインポートされました"
+
+msgid "Select the demo data to import"
+msgstr "インポートするデモデータを選択します"
+
+msgid "Select demo"
+msgstr "デモを選択"
+
+msgid "What to do with previous demo data"
+msgstr "以前のデモデータをどうするか"
+
+msgid "All the content of previus demo data will be deleted."
+msgstr "以前のデモデータの内容はすべて削除されます。"
+
+msgid "Import Sample Data"
+msgstr "サンプルデータのインポート"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Sample Data"
+msgstr "サンプルデータ"
+
+msgid "Insert Sample Data"
+msgstr "サンプルデータを挿入"
+
+msgid "jobseeker"
+msgstr "求職者"
+
+msgid "Menu"
+msgstr "メニュー"
+
+msgid "Job Seeker Menu"
+msgstr "求職者メニュー"
+
+msgid "Employer Menu"
+msgstr "雇用主メニュー"
+
+msgid "Job Hub Sample Data"
+msgstr "JobHubのサンプルデータ"
+
+msgid "back"
+msgstr "バック"
+
+msgid "Back"
+msgstr "バック"
+
+msgid "finish"
+msgstr "仕上げ"
+
+msgid "Finish"
+msgstr "終了"
+
+msgid "DD MM YYYY"
+msgstr "DD MM YYYY"
+
+msgid "MM DD YYYY"
+msgstr "MM DD YYYY"
+
+msgid "YYYY MM DD"
+msgstr "YYYY MM DD"
+
+msgid "General Configurations"
+msgstr "一般的な構成"
+
+msgid "System email address"
+msgstr "システムのメールアドレス"
+
+msgid "Email from name"
+msgstr "名前からのメール"
+
+msgid "Default date format"
+msgstr "デフォルトの日付形式"
+
+msgid "next"
+msgstr "次"
+
+msgid "Position for search icon on jobs listing page"
+msgstr "求人情報ページの検索アイコンの位置"
+
+msgid "Resume auto approve"
+msgstr "自動承認を再開します"
+
+msgid "Allow user register as employer"
+msgstr "ユーザーが雇用主として登録できるようにする"
+
+msgid "Effects on user registration"
+msgstr "ユーザー登録への影響"
+
+msgid "Company auto approve"
+msgstr "会社の自動承認"
+
+msgid "Job auto approve"
+msgstr "ジョブの自動承認"
+
+msgid "Demo data has been successfully imported"
+msgstr "デモデータが正常にインポートされました"
+
+msgid "Please select the right demo data to import"
+msgstr "インポートする適切なデモデータを選択してください"
+
+msgid "Free Version"
+msgstr "無料版"
+
+msgid "Import Data"
+msgstr "データのインポート"
+
+msgid "Pro Version"
+msgstr "プロバージョン"
+
+msgid "Free To Pro Updated"
+msgstr "無料でプロに更新"
+
+msgid "Click Here To Go Control Panel"
+msgstr "コントロールパネルに移動するには、ここをクリックしてください"
+
+msgid "Click Here To Go Template Options"
+msgstr "テンプレートオプションに移動するには、ここをクリックしてください"
+
+msgid "Please insert activation key to proceed"
+msgstr "続行するにはアクティベーションキーを挿入してください"
+
+msgid "Addon Installation Failed"
+msgstr "アドオンのインストールに失敗しました"
+
+msgid "Addon installation failed, Directory permission error"
+msgstr "アドオンのインストールに失敗しました、ディレクトリ権限エラー"
+
+msgid "Addon Installation Failed, File download error"
+msgstr "アドオンのインストールに失敗しました、ファイルのダウンロードエラー"
+
+msgid "Addon's List and Features"
+msgstr "アドオンのリストと機能"
+
+msgid "Add-On’s For Job Portal"
+msgstr "求人ポータルのアドオン"
+
+msgid "buy now"
+msgstr "今買う"
+
+msgid "Advance Resume Builder"
+msgstr "Advance Resume Builder"
+
+msgid "Featured Company"
+msgstr "注目の会社"
+
+msgid "Featured Job"
+msgstr "注目の仕事"
+
+msgid "Resume Action"
+msgstr "アクションを再開する"
+
+msgid "Multi Company"
+msgstr "マルチカンパニー"
+
+msgid "Front-end Widgets"
+msgstr "フロントエンドウィジェット"
+
+msgid "Multi Resume"
+msgstr "マルチレジュメ"
+
+msgid "Report's"
+msgstr "レポートの"
+
+msgid "Rss Feed"
+msgstr "RSSフィード"
+
+msgid "Shortlist"
+msgstr "候補リスト"
+
+msgid "Tell Friend"
+msgstr "友達に教える"
+
+msgid "Themes"
+msgstr "テーマ"
+
+msgid "Visitor Apply Job"
+msgstr "ビジター応募求人"
+
+msgid "Visitor Add Job"
+msgstr "訪問者の求人を追加"
+
+msgid "Plugin Color"
+msgstr "プラグインの色"
+
+msgid "Premium Addons"
+msgstr "プレミアムアドオン"
+
+msgid "addon in no longer active"
+msgstr "アドオンはアクティブではなくなりました"
+
+msgid "WP Job Portal Addon Installer"
+msgstr "WP求人ポータルアドオンインストーラー"
+
+msgid "Wordpress Plugin"
+msgstr "Wordpressプラグイン"
+
+msgid "Add on list"
+msgstr "リストに追加"
+
+msgid "Please Insert Your Activation key"
+msgstr "アクティベーションキーを挿入してください"
+
+msgid "Activation key"
+msgstr "アクティベーションキー"
+
+msgid "Select Addons for download"
+msgstr "ダウンロードするアドオンを選択"
+
+msgid "All allowed add-ons are already installed"
+msgstr "許可されているすべてのアドオンはすでにインストールされています"
+
+msgid "You are not allowed to install any add on"
+msgstr "アドオンをインストールすることは許可されていません"
+
+msgid "Select All Addons"
+msgstr "すべてのアドオンを選択"
+
+msgid "Add ons installed and activated successfully"
+msgstr "インストールされ、正常にアクティブ化されたアドオン"
+
+msgid "Total Companies"
+msgstr "総企業数"
+
+msgid "Report By Job Categories"
+msgstr "職種別レポート"
+
+msgid "Report By Resume Categories"
+msgstr "履歴書カテゴリー別レポート"
+
+msgid "Report By Job Cities"
+msgstr "雇用都市別のレポート"
+
+msgid "Report By Company Cities"
+msgstr "会社の都市によるレポート"
+
+msgid "Report By Resume Cities"
+msgstr "再開都市による報告"
+
+msgid "Report By Job Types"
+msgstr "職種別レポート"
+
+msgid "Report By Resume Types"
+msgstr "履歴書タイプ別のレポート"
+
+msgid "Over All"
+msgstr "全体"
+
+msgid "select.genericList"
+msgstr "select.genericList"
+
+msgid "Section has been deleted"
+msgstr "セクションが削除されました"
+
+msgid "Error deleting section"
+msgstr "セクションの削除中にエラーが発生しました"
+
+msgid "You do not have any View Resume Contact remaining"
+msgstr "ビュー再開連絡先が残っていません"
+
+msgid "View Contact Resume"
+msgstr "連絡先の履歴書を表示"
+
+msgid "Resume Queue"
+msgstr "キューを再開"
+
+msgid "Are you sure to force delete"
+msgstr "強制削除してもよろしいですか"
+
+msgid "Resume Approve"
+msgstr "承認を再開"
+
+msgid "All Approve"
+msgstr "すべて承認"
+
+msgid "Resume Reject"
+msgstr "拒否を再開"
+
+msgid "All Reject"
+msgstr "すべて拒否"
+
+msgid "Modified Date"
+msgstr "変更日"
+
+msgid "Your Profile Status"
+msgstr "あなたのプロフィールステータス"
+
+msgid " Profile Status"
+msgstr "プロファイルステータス"
+
+msgid "Home Slug"
+msgstr "ホームスラッグ"
+
+msgid "This prefix will be added to slug incase of homepage links"
+msgstr "このプレフィックスは、ホームページリンクの場合にスラッグに追加されます"
+
+msgid "This prefix will be added to slug incase of conflict"
+msgstr "このプレフィックスは、競合が発生した場合にスラッグに追加されます"
+
+msgid "Search By Slug"
+msgstr "スラッグで検索"
+
+msgid "Slug List"
+msgstr "スラッグリスト"
+
+msgid "This button will only save slugs on current page"
+msgstr "このボタンは、現在のページにナメクジのみを保存します"
+
+msgid "Add New State"
+msgstr "新しい状態を追加"
+
+msgid "Error Log"
+msgstr "エラーログ"
+
+msgid "add job"
+msgstr "ジョブを追加"
+
+msgid "popup cross"
+msgstr "ポップアップクロス"
+
+msgid "Role"
+msgstr "役割"
+
+msgid "Assign role"
+msgstr "役割を割り当てる"
+
+msgid "Change Role"
+msgstr "役割の変更"
+
+msgid "User Details"
+msgstr "ユーザーの詳細"
+
+msgid "User Stats Companies"
+msgstr "ユーザー統計会社"
+
+msgid "Job Approved"
+msgstr "求人が承認されました"
+
+msgid "Job Rejected"
+msgstr "求人が拒否されました"
+
+msgid "User Stats Jobs"
+msgstr "ユーザー統計ジョブ"
+
+msgid "User Stats Resume"
+msgstr "ユーザー統計の再開"
+
+msgid "User Stats"
+msgstr "ユーザー統計"
+
+msgid "Word Press user login"
+msgstr "Wordpressユーザーログイン"
+
+msgid "Start publishing"
+msgstr "公開を開始"
+
+msgid "Stop publishing"
+msgstr "公開を停止する"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "change role"
+msgstr "役割を変更する"
+
+msgid "Group"
+msgstr "グループ"
+
+msgid "Job Applies"
+msgstr "仕事が適用されます"
+
+msgid "user name"
+msgstr "ユーザー名"
+
+msgid "Password Again"
+msgstr "もう一度パスワード"
+
+msgid "Password again"
+msgstr "再度パスワード"
+
+msgid "Register New Account"
+msgstr "新しいアカウントを登録する"
+
+msgid "Today Jobs"
+msgstr "今日の仕事"
+
+msgid "Newest Companies"
+msgstr "最新の企業"
+
+msgid "Newest Applied Jobs"
+msgstr "最新の応用求人"
+
+msgid "Oops..."
+msgstr "おっと..."
+
+msgid "Record Not Found"
+msgstr "記録が見当たりませんでした"
+
+msgid "Applicant"
+msgstr "申請者"
+
+msgid "Applied Date"
+msgstr "適用日"
+
+msgid "Dir is not writable"
+msgstr "Dirは書き込み可能ではありません"
+
+msgid "Unable to connect to server"
+msgstr "サーバーに接続できません"
+
+msgid "Language is not installed"
+msgstr "言語がインストールされていません"
+
+msgid "Language directory is not writeable"
+msgstr "言語ディレクトリは書き込み可能ではありません"
+
+msgid "Required language is not installed but similar language[s] like"
+msgstr "必要な言語がインストールされていませんが、同様の言語が"
+
+msgid "is found in your system"
+msgstr "システムにあります"
+
+msgid "Language code"
+msgstr "言語コード"
+
+msgid "Empty values"
+msgstr "空の値"
+
+msgid "Language directory is not writable"
+msgstr "言語ディレクトリは書き込み可能ではありません"
+
+msgid "File is not writable"
+msgstr "ファイルは書き込み可能ではありません"
+
+msgid "File Downloaded Successfully"
+msgstr "ファイルが正常にダウンロードされました"
+
+msgid "Statistics"
+msgstr "統計学"
+
+msgid "configuartion"
+msgstr "構成"
+
+msgid "Configuartion"
+msgstr "構成"
+
+msgid "arrow"
+msgstr "矢印"
+
+msgid "trannslations"
+msgstr "変換"
+
+msgid "Trannslations"
+msgstr "トランスレーション"
+
+msgid "premium add ons"
+msgstr "プレミアムアドオン"
+
+msgid "Premium Add Ons"
+msgstr "プレミアムアドオン"
+
+msgid "Install Now"
+msgstr "今すぐインストール"
+
+msgid "Premium Addons List & Features"
+msgstr "プレミアムアドオンリストと機能"
+
+msgid "The best support system plugin for WordPress has everything you need."
+msgstr "WordPressの最高のサポートシステムプラグインには、必要なものがすべて揃っています。"
+
+msgid "Add-Ons List"
+msgstr "アドオンリスト"
+
+msgid "Add New Addons"
+msgstr "新しいアドオンを追加する"
+
+msgid "addon"
+msgstr "拡張機能"
+
+msgid "Latest Jobs"
+msgstr "最新の仕事"
+
+msgid "view all jobs"
+msgstr "すべての求人を表示"
+
+msgid "Latest Resume"
+msgstr "最新の履歴書"
+
+msgid "Addons"
+msgstr "アドオン"
+
+msgid "address data"
+msgstr "住所データ"
+
+msgid "social login"
+msgstr "ソーシャルログイン"
+
+msgid "visitor apply job"
+msgstr "訪問者は仕事を適用します"
+
+msgid "featured company"
+msgstr "注目の会社"
+
+msgid "department"
+msgstr "部門"
+
+msgid "feature resume"
+msgstr "機能履歴書"
+
+msgid "featured job"
+msgstr "注目の仕事"
+
+msgid "rss feed"
+msgstr "RSSフィード"
+
+msgid "Message System"
+msgstr "メッセージシステム"
+
+msgid "resume action"
+msgstr "アクションを再開する"
+
+msgid "multi resume"
+msgstr "マルチ履歴書"
+
+msgid "resume search"
+msgstr "検索を再開する"
+
+msgid "shortlist"
+msgstr "候補リスト"
+
+msgid "social share"
+msgstr "ソーシャルシェア"
+
+msgid "tell friend"
+msgstr "友達に教える"
+
+msgid "advance resume builder"
+msgstr "事前履歴書ビルダー"
+
+msgid "visitor add job"
+msgstr "訪問者は仕事を追加します"
+
+msgid "Front-End Widgets"
+msgstr "フロントエンドウィジェット"
+
+msgid "We'd love to hear from You."
+msgstr "あなたからの御一報をお待ちしています。"
+
+msgid "Please write appreciated review at"
+msgstr "感謝のレビューを書いてください"
+
+msgid "WP Extension Directory"
+msgstr "WP拡張ディレクトリ"
+
+msgid "Spread the word : "
+msgstr "言葉を広める ："
+
+msgid "Social Apps"
+msgstr "ソーシャルアプリ"
+
+msgid "Pro Features"
+msgstr "プロの機能"
+
+msgid "WP JOB PORTAL PRO FEATURES"
+msgstr "WP JOB PORTALPROの機能"
+
+msgid "BUY NOW"
+msgstr "今買う"
+
+msgid "Job seeker control panel"
+msgstr "求職者コントロールパネル"
+
+msgid "job seeker control panel"
+msgstr "求職者コントロールパネル"
+
+msgid "Employer control panel"
+msgstr "雇用主のコントロールパネル"
+
+msgid "employer control panel"
+msgstr "雇用主のコントロールパネル"
+
+msgid "form"
+msgstr "形"
+
+msgid "Job categories"
+msgstr "職種"
+
+msgid "job categories"
+msgstr "職種"
+
+msgid "My applied jobs"
+msgstr "私の応用仕事"
+
+msgid "Show employer"
+msgstr "雇用主に表示"
+
+msgid "My resume"
+msgstr "私の履歴書"
+
+msgid "My resumes"
+msgstr "私の履歴書"
+
+msgid "Employer registration"
+msgstr "雇用者登録"
+
+msgid "registration form"
+msgstr "登録用紙"
+
+msgid "Job seeker registration"
+msgstr "求職者登録"
+
+msgid "Login page"
+msgstr "ログインページ"
+
+msgid "Show login page"
+msgstr "ログインページを表示"
+
+msgid "widget"
+msgstr "ウィジェット"
+
+msgid "in widget style"
+msgstr "ウィジェットスタイルで"
+
+msgid "My"
+msgstr "ぼくの"
+
+msgid "All Packages"
+msgstr "すべてのパッケージ"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "Get WP Job Portal Translations"
+msgstr "WP求人ポータルの翻訳を取得する"
+
+msgid "Get Translations"
+msgstr "翻訳を取得する"
+
+msgid "Select Translation"
+msgstr "翻訳を選択"
+
+msgid "Contribute In Translation"
+msgstr "翻訳に貢献する"
+
+msgid "Manual Download"
+msgstr "手動ダウンロード"
+
+msgid "Login into your account"
+msgstr "アカウントにログインします"
+
+msgid "keep me login"
+msgstr "ログインしてください"
+
+msgid "0 $"
+msgstr "0 $"
+
+msgid " / Per Month"
+msgstr "/月額"
+
+msgid "plus icon"
+msgstr "プラスアイコン"
+
+msgid "all jobs"
+msgstr "すべての仕事"
+
+msgid "All Jobs"
+msgstr "すべての仕事"
+
+msgid "reset all"
+msgstr "すべてリセット"
+
+msgid "Reset All"
+msgstr "すべてリセット"
+
+msgid "Shifts"
+msgstr "シフト"
+
+msgid "add new shift"
+msgstr "新しいシフトを追加"
+
+msgid "Add New Shift"
+msgstr "新しいシフトを追加"
+
+msgid "add new age"
+msgstr "新しい時代を追加する"
+
+msgid "Add New Age"
+msgstr "ニューエイジを追加"
+
+msgid "Experiences"
+msgstr "経験"
+
+msgid "add new experience"
+msgstr "新しい体験を追加する"
+
+msgid "Add New Experience"
+msgstr "新しい体験を追加する"
+
+msgid "Resume Approval Queue"
+msgstr "承認キューを再開します"
+
+msgid "Jobs Approval Queue"
+msgstr "ジョブ承認キュー"
+
+msgid "add new city"
+msgstr "新しい都市を追加する"
+
+msgid "add new education"
+msgstr "新しい教育を追加する"
+
+msgid "add new state"
+msgstr "新しい状態を追加する"
+
+msgid "Edit Package"
+msgstr "パッケージの編集"
+
+msgid "Post a Job"
+msgstr "求人を投稿する"
+
+msgid "Login "
+msgstr "ログインする"
+
+msgid "Department Detail"
+msgstr "部門の詳細"
+
+msgid "Jobs By Catagories"
+msgstr "カテゴリ別の求人"
+
+msgid "Register Your Account"
+msgstr "アカウントを登録する"
+
+msgid "Resume By Category"
+msgstr "カテゴリ別の履歴書"
+
+msgid "Pay per listing price to publish your "
+msgstr "あなたの公開するためにリスト価格ごとに支払う"
+
+msgid "Job Alert Info"
+msgstr "ジョブアラート情報"
+
+msgid "Resume Saved Searches"
+msgstr "保存した検索を再開する"
+
+msgid " Packages"
+msgstr "パッケージ"
+
+msgid "Job By Types"
+msgstr "タイプ別の仕事"
+
+msgid "You have insufficient credits, you can not perform this action"
+msgstr "クレジットが不足しているため、このアクションを実行できません"
+
+msgid "Please Accept Terms And Conditions So You Can Proceed"
+msgstr "続行できるように利用規約に同意してください"
+
+msgid "Lost your password"
+msgstr "パスワードを忘れましたか"
+
+msgid "Activated"
+msgstr "有効化"
+
+msgid "Active Now"
+msgstr "今すぐアクティブ"
+
+msgid "Location Format Is Not Correct Please Enter City In This Format City Name Country Name Or City Name State Name Country Name"
+msgstr "場所の形式が正しくありませんこの形式で都市を入力してください都市名国名または都市名州名国名"
+
+msgid "Credits will only be deducted if you select a resume and click Apply Now on next popup."
+msgstr "クレジットは、履歴書を選択し、次のポップアップで[今すぐ適用]をクリックした場合にのみ差し引かれます。"
+
+msgid "Unfortunately sytem is offline for a bit of maintenance right now. But soon we will be up."
+msgstr "残念ながら、現在、システムは少しのメンテナンスのためにオフラインになっています。しかし、すぐに私たちは立ち上がるでしょう。"
+
+msgid "Registration is disabled by admin, please contact to system administrator !..."
+msgstr "管理者によって登録が無効になっています。システム管理者に連絡してください！..."
+
+msgid "Location format is not correct please enter city in this format city name, country name"
+msgstr "場所の形式が正しくありませんこの形式で都市を入力してください都市名、国名"
+
+msgid "Select WP JOB PORTAL default page, on action system will redirect on selected page. If not select default page, email links and support icon might not work."
+msgstr "WP JOB PORTALのデフォルトページを選択します。アクションシステムでは、選択したページにリダイレクトされます。デフォルトのページを選択しないと、メールリンクとサポートアイコンが機能しない場合があります。"
+
+msgid "If no is selected then only categories that have jobs or resumes will be shown on jobs,resumes by categories layout"
+msgstr "noが選択されている場合、ジョブまたは履歴書があるカテゴリのみがジョブに表示され、カテゴリレイアウトごとに履歴書が表示されます"
+
+msgid "This configuration controls whethre new user will get free package (if free package exsist in the system)"
+msgstr "この構成は、新しいユーザーが無料パッケージを取得するかどうかを制御します（システムに無料パッケージが存在する場合）"
+
+msgid "This configuration controls whether user can be free package more than once"
+msgstr "この構成は、ユーザーが複数回無料パッケージを利用できるかどうかを制御します"
+
+msgid "This configuration controls whether free package will be auto approve or not"
+msgstr "この構成は、無料パッケージを自動承認するかどうかを制御します"
+
+msgid "whenever anyone registers as employer he will be redirected to this page"
+msgstr "誰かが雇用主として登録するときはいつでも、彼はこのページにリダイレクトされます"
+
+msgid "whenever anyone registers as job seeker, he will be redirected to this page"
+msgstr "誰かが求職者として登録するときはいつでも、彼はこのページにリダイレクトされます"
+
+msgid "All sections are included in employer email content or only sections that have value"
+msgstr "すべてのセクションは雇用主の電子メールコンテンツに含まれるか、価値のあるセクションのみに含まれます"
+
+msgid "This option is only valid if employer selected send resume data in email settings while posting job"
+msgstr "このオプションは、雇用主が求人の投稿中にメール設定で履歴書データを送信することを選択した場合にのみ有効です"
+
+msgid "Due to pending status of job you do not have permission to see job detail"
+msgstr "ジョブのステータスが保留中であるため、ジョブの詳細を表示する権限がありません"
+
+msgid "Due to rejection of resume you do not have permission to see resume detail"
+msgstr "履歴書が拒否されたため、履歴書の詳細を表示する権限がありません"
+
+msgid "Due to pending status of resume you do not have permission to see resume detail"
+msgstr "履歴書のステータスが保留中のため、履歴書の詳細を表示する権限がありません"
+
+msgid "if yes is selected then pages and menus of job manager template will be cretaed and published."
+msgstr "[はい]を選択すると、ジョブマネージャテンプレートのページとメニューが作成され、公開されます。"
+
+msgid "Select WP Job Portal default page, on action system will redirect on selected page."
+msgstr "WP Job Portalのデフォルトページを選択します。アクションシステムでは、選択したページにリダイレクトされます。"
+
+msgid "If not select default page, email links and support icon might not work."
+msgstr "デフォルトのページを選択しないと、メールリンクとサポートアイコンが機能しない場合があります。"
+
+msgid "This add-on offers to job seekers create a resume with multiple options like multiple addresses, institutions, employers, references and skills."
+msgstr "求職者へのこのアドオンオファーは、複数の住所、機関、雇用主、参照、スキルなどの複数のオプションを備えた履歴書を作成します。"
+
+msgid "WP Job Portal offers a feature for an employer to copy their jobs. Employers can copy their jobs easily."
+msgstr "WP Job Portalは、雇用主が自分の仕事をコピーするための機能を提供します。雇用主は自分の仕事を簡単にコピーできます。"
+
+msgid "WP Job Portal offers a feature for admin to add multiple credit system against particular actions. Admin can add multiple packages against particular actions."
+msgstr "WP Job Portalは、管理者が特定のアクションに対して複数のクレジットシステムを追加するための機能を提供します。管理者は、特定のアクションに対して複数のパッケージを追加できます。"
+
+msgid "Advance custom fields add-on offers to admin add new custom fields like combo, checkbox, radio button, email and dependent fields."
+msgstr "高度なカスタムフィールドアドオンは、コンボ、チェックボックス、ラジオボタン、電子メール、依存フィールドなどの新しいカスタムフィールドを管理者が追加できるようにします。"
+
+msgid "WP Job Manager offers a feature for Employer and Job Seeker in which they can export Resume information in the form of an excel file easily."
+msgstr "WP Job Managerは、雇用主と求職者に履歴書情報をExcelファイルの形式で簡単にエクスポートできる機能を提供します。"
+
+msgid "WP Job Portal offers a feature for making the jobs as Featured Job. This will help to make it easier for jobseekers to find jobs."
+msgstr "WP Job Portalは、求人を注目の求人として作成するための機能を提供します。これは、求職者が仕事を見つけやすくするのに役立ちます。"
+
+msgid "WP Job Portal offers a feature for employers to make folders. Employers can make a folder and copy their resumes into the folders."
+msgstr "WP Job Portalは、雇用主がフォルダを作成するための機能を提供します。雇用主はフォルダを作成し、履歴書をフォルダにコピーできます。"
+
+msgid "WP Job Portal allows registered users to save their job searches and create alerts that send new jobs via email daily, weekly or fortnightly."
+msgstr "WP Job Portalを使用すると、登録ユーザーは自分の求人検索を保存し、毎日、毎週、または隔週で新しい求人をメールで送信するアラートを作成できます。"
+
+msgid "WP Job Portal offer a feature for Employer and Job Seekers , which allows them to take PDF of Resume and can save it."
+msgstr "WP Job Portalは、雇用主と求職者に履歴書のPDFを取得して保存できる機能を提供します。"
+
+msgid "WP Job Portal offers a Resume and print feature. Employer and Job Seeker can view the Resume page or take a print of the Resume."
+msgstr "WP Job Portalは、履歴書と印刷機能を提供します。雇用主と求職者は、履歴書ページを表示したり、履歴書を印刷したりできます。"
+
+msgid "WP Job Portal offers multiple reports by jobs, by companies and by resume. Admin can see overall reports of Employer and Job Seeker."
+msgstr "WP Job Portalは、仕事別、企業別、履歴書別の複数のレポートを提供します。管理者は、雇用主と求職者の全体的なレポートを見ることができます。"
+
+msgid "WP Job Portal offers a jobs share feature on various social media sites for Employers and Job Seekers."
+msgstr "WP Job Portalは、雇用主と求職者向けにさまざまなソーシャルメディアサイトで求人共有機能を提供しています。"
+
+msgid "WP Job Portal offers a feature for searching the jobs by tags. Employers will add some tags related to jobs search."
+msgstr "WP Job Portalは、タグで求人を検索する機能を提供します。雇用主は、求人検索に関連するいくつかのタグを追加します。"
+
+msgid "WP Job Portal offers a feature in which Employer and Job Seekers can share and tell their friends about Jobs by sending them an email."
+msgstr "WP Job Portalは、雇用主と求職者がメールを送信することで、友達に求人について共有したり伝えたりできる機能を提供します。"
+
+msgid "Visitor add job add-on offers guests can add job in the system without logged in the system."
+msgstr "訪問者追加ジョブアドオンは、ゲストがシステムにログインしなくてもシステムにジョブを追加できるようにします。"
+
+msgid "WP Job Portal is a trusted open source ticket system. WP Job Portal is a simple, easy to use, web-based customer support system. Users can create a ticket from the front-end. WP Job Portal comes packed with lot features than most of the expensive(and complex) support ticket system on the market. The best part is, It completely free."
+msgstr "WP Job Portalは、信頼できるオープンソースのチケットシステムです。 WP Job Portalは、シンプルで使いやすいWebベースのカスタマーサポートシステムです。ユーザーはフロントエンドからチケットを作成できます。 WP Job Portalには、市場に出回っているほとんどの高価な（そして複雑な）サポートチケットシステムよりも多くの機能が満載されています。最良の部分は、それは完全に無料です。"
+
+msgid "Add ons for WP Job Portal have been installed and activated successfully."
+msgstr "WP Job Portalのアドオンがインストールされ、正常にアクティブ化されました。"
+
+msgid "WP Job Portal offers 75,000+ world cities database. Employers and job seekers can easily type and select cities."
+msgstr "WP Job Portalは、75,000以上の世界都市データベースを提供しています。雇用主と求職者は簡単に都市を入力して選択できます。"
+
+msgid "WP Job Portal allows logins from social media. Employer and Job Seekers login into WP Jobs Portal by using their social media Logins."
+msgstr "WP Job Portalは、ソーシャルメディアからのログインを許可します。雇用主と求職者は、ソーシャルメディアのログインを使用してWPジョブポータルにログインします。"
+
+msgid "WP Job Portal offers a feature for visitors. No need to create a account, job seeker apply to any available job as a visitor."
+msgstr "WP求人ポータルは訪問者に機能を提供します。アカウントを作成する必要はありません。求職者は、訪問者として利用可能なすべての仕事に応募します。"
+
+msgid "WP Job Portal offers a useful feature for employers to control all his companies in a single account."
+msgstr "WP Job Portalは、雇用主が1つのアカウントですべての会社を管理するための便利な機能を提供します。"
+
+msgid "WP Job Portal offers an outstanding feature for employers to mark their company as featured. Featured companies shows top of companies list."
+msgstr "WP Job Portalは、雇用主が自社を注目としてマークするための優れた機能を提供します。注目の企業は企業リストのトップを示しています。"
+
+msgid "WP Job Portal offers this feature to Employes to add multiple departments to better manage his jobs. Job seeker apply to the desired department jobs."
+msgstr "WP Job Portalは、この機能を従業員に提供して、複数の部門を追加し、仕事をより適切に管理します。求職者は、希望する部門の仕事に応募します。"
+
+msgid "WP Job Portal helps job seekers to make any of his resume as Featured Resume."
+msgstr "WP Job Portalは、求職者が自分の履歴書を注目の履歴書として作成するのに役立ちます。"
+
+msgid "WP Job Portal offers Real Simple Syndication (RSS) to set feeds for the jobs. Everyone can get jobs RSS just by clicking on icon."
+msgstr "WP Job Portalは、ジョブのフィードを設定するためのReal Simple Syndication（RSS）を提供しています。アイコンをクリックするだけで、誰でも仕事のRSSを取得できます。"
+
+msgid "WP Job Portal offers a message system for Employers and Job Seekers. Employers initiate messages on any applied resume."
+msgstr "WP Job Portalは、雇用主と求職者にメッセージシステムを提供します。雇用主は、適用された履歴書でメッセージを開始します。"
+
+msgid "WP Job Portal offers a feature for employers to perform some actions on resumes. Employer mark shortlisted, hired, spam, add a note on the applied resume."
+msgstr "WP Job Portalは、雇用主が履歴書に対していくつかのアクションを実行するための機能を提供します。雇用主は最終候補者、採用者、スパムをマークし、適用された履歴書にメモを追加します。"
+
+msgid "WP Job Portal offers a feature for the job seeker to add multiple resumes. Job seeker have a choice on which job which resume to apply."
+msgstr "WP Job Portalは、求職者が複数の履歴書を追加するための機能を提供します。求職者は、どの仕事に応募するかを選択できます。"
+
+msgid "This add-on offers to the employer to search the resume in the system with multiple criteria."
+msgstr "このアドオンは、複数の基準でシステム内の履歴書を検索することを雇用主に提供します。"
+
+msgid "WP Job Portal will help job seekers to shortlist their desired jobs. All shortlisted jobs are available in job seeker dashboard."
+msgstr "WP Job Portalは、求職者が希望する仕事を候補リストに載せるのに役立ちます。最終選考に残ったすべての求人は、求職者ダッシュボードで利用できます。"
+
+msgid "Cron job adon offers to reduce dependencies on WordPress cron job and support Hosting Panel cron job for WP Job Portal tasks."
+msgstr "cronジョブadonは、WordPress cronジョブへの依存を減らし、WPジョブポータルタスクのホスティングパネルcronジョブをサポートすることを提案します。"
+
+msgid "Widgets in WordPress allow you to add content and features in the widgetized areas of your theme."
+msgstr "WordPressのウィジェットを使用すると、テーマのウィジェット化された領域にコンテンツと機能を追加できます。"
+
+msgid "When WordPress language change to ro, WP Job Portal language will auto change to ro"
+msgstr "WordPressの言語がroに変更されると、WP JobPortalの言語は自動的にroに変更されます"
+
+msgid "Data has been uploaded successfully"
+msgstr "データが正常にアップロードされました"
+
+msgid "Data has not been uploaded"
+msgstr "データはアップロードされていません"
+
+msgid "Click here to continue"
+msgstr "続けるにはこちらをクリック"
+
+msgid "Address Data Update"
+msgstr "アドレスデータの更新"
+
+msgid "LOADING"
+msgstr "読み込み中"
+
+msgid "Backup"
+msgstr "バックアップ"
+
+msgid "Importing New Data"
+msgstr "新しいデータのインポート"
+
+msgid "help"
+msgstr "ヘルプ"
+
+msgid "Download From Joomsky website"
+msgstr "JoomskyのWebサイトからダウンロード"
+
+msgid "download"
+msgstr "ダウンロード"
+
+msgid "Kept Data"
+msgstr "データを保持"
+
+msgid "Discard Old Data"
+msgstr "古いデータを破棄する"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "My File"
+msgstr "マイファイル"
+
+msgid "Joomsky File"
+msgstr "Joomskyファイル"
+
+msgid "Data Contain"
+msgstr "データに含まれる"
+
+msgid "States and cities"
+msgstr "州と都市"
+
+msgid "Make sure you did not changed country id or state id in database"
+msgstr "データベースで国IDまたは州IDを変更していないことを確認してください"
+
+msgid "Choose File"
+msgstr "ファイルを選ぶ"
+
+msgid "State id greater country id is your responsibility"
+msgstr "州ID大国IDはあなたの責任です"
+
+msgid "Cities have no ids also state id and country id is your responsibility"
+msgstr "都市にはIDがなく、州IDと国IDもあなたの責任です"
+
+msgid "Consider old countries were not edit otherwise problem may occur"
+msgstr "古い国は編集されていないと考えてください。そうしないと問題が発生する可能性があります"
+
+msgid "load address data"
+msgstr "アドレスデータをロードする"
+
+msgid "Map Detail"
+msgstr "地図の詳細"
+
+msgid "Radius"
+msgstr "半径"
+
+msgid "Radius Length Type"
+msgstr "半径長さタイプ"
+
+msgid "Add Skills"
+msgstr "スキルを追加する"
+
+msgid "There was some problem performing action"
+msgstr "アクションの実行に問題がありました"
+
+msgid "Job has been copied successfully"
+msgstr "ジョブは正常にコピーされました"
+
+msgid "popup close"
+msgstr "ポップアップ閉じる"
+
+msgid "You do not have any job remaining"
+msgstr "仕事が残っていません"
+
+msgid "Expiry"
+msgstr "有効期限"
+
+msgid "Add To Job"
+msgstr "ジョブに追加"
+
+msgid "Copy job"
+msgstr "コピージョブ"
+
+msgid "PayPal payment agreement"
+msgstr "PayPal支払い契約"
+
+msgid "User cancelled subscription"
+msgstr "ユーザーがサブスクリプションをキャンセルしました"
+
+msgid "package on"
+msgstr "上のパッケージ"
+
+msgid "Invoice Details"
+msgstr "請求の詳細"
+
+msgid "Amount"
+msgstr "額"
+
+msgid "Property Details"
+msgstr "プロパティの詳細"
+
+msgid "Call for price"
+msgstr "価格を求める"
+
+msgid "Garage Size"
+msgstr "ガレージサイズ"
+
+msgid "by"
+msgstr "に"
+
+msgid "Package Details"
+msgstr "パッケージの詳細"
+
+msgid "Package Expiry"
+msgstr "パッケージの有効期限"
+
+msgid "No of Agents"
+msgstr "エージェント数"
+
+msgid "No of Properties"
+msgstr "プロパティの数"
+
+msgid "Property Expiry"
+msgstr "プロパティの有効期限"
+
+msgid "Property Images"
+msgstr "プロパティ画像"
+
+msgid "No of Featured"
+msgstr "注目の数"
+
+msgid "Featured Expiry"
+msgstr "注目の有効期限"
+
+msgid "Renewal Discount"
+msgstr "更新割引"
+
+msgid "Video"
+msgstr "ビデオ"
+
+msgid "Virtual Tour"
+msgstr "バーチャル・ツアー"
+
+msgid "Subunits"
+msgstr "サブユニット"
+
+msgid "Floor Plans"
+msgstr "間取り図"
+
+msgid "Property"
+msgstr "財産"
+
+msgid "Select Currency"
+msgstr "通貨を選択"
+
+msgid "Select Type"
+msgstr "タイプを選択"
+
+msgid "user"
+msgstr "ユーザー"
+
+msgid "Not published"
+msgstr "未公開"
+
+msgid "You do not have any Department remaining"
+msgstr "部門が残っていません"
+
+msgid "Add To Featured Company"
+msgstr "注目の会社に追加"
+
+msgid "Action For"
+msgstr "アクション"
+
+msgid "Cost"
+msgstr "費用"
+
+msgid "both"
+msgstr "両方"
+
+msgid "employer MISC."
+msgstr "雇用主MISC。"
+
+msgid "Misc."
+msgstr "その他"
+
+msgid "Not Published"
+msgstr "未公開"
+
+msgid "Both"
+msgstr "両方"
+
+msgid "You can define expiry date of action. i.e"
+msgstr "アクションの有効期限を定義できます。つまり、"
+
+msgid "Job will be expire in 30 days"
+msgstr "ジョブは30日で期限切れになります"
+
+msgid "Gold job will be expire in 30 days"
+msgstr "ゴールドジョブは30日で期限切れになります"
+
+msgid "Expire in Days"
+msgstr "数日で期限切れ"
+
+msgid "will be expire"
+msgstr "有効期限が切れます"
+
+msgid "How much credits required for"
+msgstr "に必要なクレジット"
+
+msgid "Invalid Entry"
+msgstr "無効なエントリ"
+
+msgid "Message History"
+msgstr "メッセージ履歴"
+
+msgid "Administrator sent"
+msgstr "管理者が送信しました"
+
+msgid "Job seeker sent"
+msgstr "求職者が送った"
+
+msgid "Employer sent"
+msgstr "雇用主が送った"
+
+msgid "You sent"
+msgstr "あなたは送った"
+
+msgid "read"
+msgstr "読んだ"
+
+msgid "Unread"
+msgstr "未読"
+
+msgid "Credits Pack"
+msgstr "クレジットパック"
+
+msgid "off"
+msgstr "オフ"
+
+msgid "Buy with"
+msgstr "で購入"
+
+msgid "Buy now"
+msgstr "今買う"
+
+msgid "Rate List"
+msgstr "料金表"
+
+msgid "Admin sent"
+msgstr "管理者が送信しました"
+
+msgid "Job Seeker Name"
+msgstr "求職者名"
+
+msgid "Is Conflicted"
+msgstr "競合しています"
+
+msgid "Message Status"
+msgstr "メッセージステータス"
+
+msgid "Message Subject"
+msgstr "メッセージの件名"
+
+msgid "Select Plan"
+msgstr "プランを選択"
+
+msgid "Please select payment method"
+msgstr "お支払い方法を選択してください"
+
+msgid "paypal"
+msgstr "ペイパル"
+
+msgid "woocommerce"
+msgstr "woocommerce"
+
+msgid "stripe"
+msgstr "ストライプ"
+
+msgid "Make payment recurring"
+msgstr "定期的に支払いを行う"
+
+msgid "Buy Now"
+msgstr "今買う"
+
+msgid "Weeks"
+msgstr "週"
+
+msgid "Months"
+msgstr "月"
+
+msgid "Package For"
+msgstr "のパッケージ"
+
+msgid "Is Free"
+msgstr "無料です"
+
+msgid "Price"
+msgstr "価格"
+
+msgid "Company Section"
+msgstr "会社課"
+
+msgid "No of Companies"
+msgstr "会社数"
+
+msgid "No of Featured Company"
+msgstr "注目企業数"
+
+msgid "Feature Company Expiry"
+msgstr "フィーチャー会社の有効期限"
+
+msgid "No of View Company Contact Detail"
+msgstr "会社の連絡先の詳細を表示しません"
+
+msgid "Job Section"
+msgstr "仕事課"
+
+msgid "No of jobs"
+msgstr "仕事はありません"
+
+msgid "No of Feauted Jobs"
+msgstr "FeautedJobsの数"
+
+msgid "Feature Job Expiry"
+msgstr "機能の有効期限"
+
+msgid "No of Job Search"
+msgstr "就職活動はありません"
+
+msgid "No of Job Alert"
+msgstr "ジョブアラートの数"
+
+msgid "No of Job Apply"
+msgstr "応募数"
+
+msgid "No of Resumes"
+msgstr "履歴書の数"
+
+msgid "No of Featured Resume"
+msgstr "注目の履歴書はありません"
+
+msgid "Feature Resume Expiry"
+msgstr "機能の履歴書の有効期限"
+
+msgid "No of Resume Search"
+msgstr "履歴書検索の数"
+
+msgid "No of Resume Save Search"
+msgstr "履歴書の保存検索の数"
+
+msgid "No of View Resume Contact Detail"
+msgstr "ビューの数履歴書の連絡先の詳細"
+
+msgid "Departments Section"
+msgstr "部門セクション"
+
+msgid "No of Departments"
+msgstr "部門数"
+
+msgid "Payment Methods Section"
+msgstr "お支払い方法セクション"
+
+msgid "Paypal Subscription"
+msgstr "Paypalサブスクリプション"
+
+msgid "Stripe Subscription"
+msgstr "ストライプサブスクリプション"
+
+msgid "Discount"
+msgstr "割引"
+
+msgid "Loading stripe plans"
+msgstr "ストライププランの読み込み"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "Amount Off"
+msgstr "金額オフ"
+
+msgid "No of Jobs"
+msgstr "ジョブの数"
+
+msgid "No of Featured Jobs"
+msgstr "注目の仕事はありません"
+
+msgid "No Job Alert"
+msgstr "ジョブアラートなし"
+
+msgid " No of companies"
+msgstr "会社数"
+
+msgid " No of Featured company"
+msgstr "注目の会社はありません"
+
+msgid "No of View Company Contact"
+msgstr "ビュー会社の連絡先の数"
+
+msgid "No of Resume"
+msgstr "履歴書の数"
+
+msgid "No of Featured Job"
+msgstr "注目の仕事はありません"
+
+msgid "Featured Job Expiry"
+msgstr "注目の仕事の有効期限"
+
+msgid "Featured Company Expiry"
+msgstr "注目の会社の有効期限"
+
+msgid "Purchased"
+msgstr "購入した"
+
+msgid "close"
+msgstr "選ぶ"
+
+msgid "Package Buy With"
+msgstr "パッケージ購入"
+
+msgid "Please select the payment method"
+msgstr "お支払い方法を選択してください"
+
+msgid "Property Listing"
+msgstr "プロパティリスト"
+
+msgid "Stripe"
+msgstr "ストライプ"
+
+msgid "job Expiry"
+msgstr "仕事の有効期限"
+
+msgid "Reusume"
+msgstr "履歴書"
+
+msgid "Featued Resume"
+msgstr "注目の履歴書"
+
+msgid "Show No of Resume Contact"
+msgstr "履歴書の連絡先を表示しない"
+
+msgid "Show No of Company Contact"
+msgstr "会社の連絡先の番号を表示"
+
+msgid "Please Select Package First"
+msgstr "最初にパッケージを選択してください"
+
+msgid "Total "
+msgstr "合計"
+
+msgid "Remaining "
+msgstr "残り"
+
+msgid "select"
+msgstr "選択する"
+
+msgid "coin icon"
+msgstr "コインアイコン"
+
+msgid "No JOb Alert"
+msgstr "JObアラートなし"
+
+msgid "Payment Method Configurations"
+msgstr "お支払い方法の構成"
+
+msgid "menu"
+msgstr "メニュー"
+
+msgid "Select Configuration"
+msgstr "構成を選択"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+msgid "PayPal Enabled"
+msgstr "PayPal対応"
+
+msgid "Signature"
+msgstr "サイン"
+
+msgid "Logo URL"
+msgstr "ロゴのURL"
+
+msgid "Cancel Url"
+msgstr "URLをキャンセルする"
+
+msgid "Notify Url"
+msgstr "URLに通知"
+
+msgid "Test Mode"
+msgstr "テストモード"
+
+msgid "Please enter language code ie: EN"
+msgstr "言語コードを入力してください。例：EN"
+
+msgid "You must add following url to"
+msgstr "次のURLをに追加する必要があります"
+
+msgid "paypal IPN"
+msgstr "ペイパルIPN"
+
+msgid "in order to work with subscriptions"
+msgstr "サブスクリプションを操作するため"
+
+msgid "Stripe Enabled"
+msgstr "ストライプ対応"
+
+msgid "Publishable key"
+msgstr "公開可能なキー"
+
+msgid "Secret key"
+msgstr "シークレットキー"
+
+msgid "stripe webhook endpoint"
+msgstr "ストライプWebhookエンドポイント"
+
+msgid "Property has been successfully featured"
+msgstr "プロパティは正常に紹介されました"
+
+msgid "Company has been successfully published"
+msgstr "会社は正常に公開されました"
+
+msgid "View Resume Contact Successfully"
+msgstr "履歴書の連絡を正常に表示"
+
+msgid "Featured Company has been successfully published"
+msgstr "注目の会社が正常に公開されました"
+
+msgid "Featured Resume has been successfully published"
+msgstr "注目の履歴書が正常に公開されました"
+
+msgid "Featured Job has been successfully published"
+msgstr "注目のジョブが正常に公開されました"
+
+msgid "Resume has been successfully published"
+msgstr "履歴書は正常に公開されました"
+
+msgid "You can view Company Contact Detail Now"
+msgstr "会社の連絡先の詳細を今すぐ表示できます"
+
+msgid "Job Alert Added Successfully"
+msgstr "ジョブアラートが正常に追加されました"
+
+msgid "Requested page is not available contact system Administrator"
+msgstr "要求されたページは利用できませんシステム管理者に連絡してください"
+
+msgid "Company has been successfully featured"
+msgstr "会社は首尾よく紹介されました"
+
+msgid "Payment has not been verified"
+msgstr "支払いは確認されていません"
+
+msgid "Feature Job has been successfully featured"
+msgstr "フィーチャージョブは正常にフィーチャーされました"
+
+msgid "Feature Resume has been successfully featured"
+msgstr "機能の履歴書が正常に機能しました"
+
+msgid "Department has been successfully published"
+msgstr "部門は正常に公開されました"
+
+msgid "job has been successfully Applied"
+msgstr "ジョブは正常に適用されました"
+
+msgid "Job Alert has been successfully published"
+msgstr "JobAlertが正常に公開されました"
+
+msgid "Job has been successfully published"
+msgstr "ジョブは正常に公開されました"
+
+msgid "Woocommerce product not found, please contact to system Administrator"
+msgstr "Woocommerce製品が見つかりません。システム管理者に連絡してください"
+
+msgid "Subscription has been cancelled"
+msgstr "サブスクリプションはキャンセルされました"
+
+msgid "Add New User Package"
+msgstr "新しいユーザーパッケージを追加する"
+
+msgid "Select users"
+msgstr "ユーザーを選択"
+
+msgid "User Packages"
+msgstr "ユーザーパッケージ"
+
+msgid "User Package"
+msgstr "ユーザーパッケージ"
+
+msgid "add new user package"
+msgstr "新しいユーザーパッケージを追加する"
+
+msgid "View Purchase History"
+msgstr "購入履歴の表示"
+
+msgid "Purchase History Details"
+msgstr "購入履歴の詳細"
+
+msgid "Payer name"
+msgstr "支払人名"
+
+msgid "Payer email address"
+msgstr "支払人のメールアドレス"
+
+msgid "Payer address"
+msgstr "支払人の住所"
+
+msgid "Payer contact number"
+msgstr "支払人の連絡先番号"
+
+msgid "Amount paid"
+msgstr "払込金額"
+
+msgid "Transaction number"
+msgstr "取引番号"
+
+msgid "Payment gateway"
+msgstr "支払いゲートウェイ"
+
+msgid "Transaction Status"
+msgstr "トランザクションステータス"
+
+msgid "Purchase date"
+msgstr "購入日"
+
+msgid "Package expiry"
+msgstr "パッケージの有効期限"
+
+msgid "Billing Cycle"
+msgstr "請求サイクル"
+
+msgid "Next Billing Date"
+msgstr "次の請求日"
+
+msgid "Are you sure to cancel subscription"
+msgstr "サブスクリプションをキャンセルしてもよろしいですか"
+
+msgid "Feature Job"
+msgstr "フィーチャージョブ"
+
+msgid "Candel Payment"
+msgstr "キャンドルペイメント"
+
+msgid "Remaining Jobs"
+msgstr "残りの仕事"
+
+msgid "Remaining Featured Job"
+msgstr "残りの注目の仕事"
+
+msgid "No of  Companies"
+msgstr "会社数"
+
+msgid "Remaining Companies"
+msgstr "残りの会社"
+
+msgid "Remaining Featured Company"
+msgstr "残りの注目企業"
+
+msgid "No Of Resume"
+msgstr "履歴書なし"
+
+msgid "No Of Feature Resume"
+msgstr "機能の再開なし"
+
+msgid "Remaining Featured Resume"
+msgstr "残りの注目の履歴書"
+
+msgid "No Of Resume Contact View"
+msgstr "履歴書の連絡先ビューはありません"
+
+msgid "Remaining Resume Contact View"
+msgstr "残りの履歴書連絡先ビュー"
+
+msgid "No Of Job Apply"
+msgstr "仕事は適用されません"
+
+msgid "Remaining Job Apply"
+msgstr "残りの仕事を適用する"
+
+msgid "No Of Job Alert"
+msgstr "求人アラートなし"
+
+msgid "Remaining Job Alert"
+msgstr "残りのジョブアラート"
+
+msgid "No Of Department"
+msgstr "部門なし"
+
+msgid "Remaining Department"
+msgstr "残りの部門"
+
+msgid "renew this package"
+msgstr "このパッケージを更新する"
+
+msgid "Renew This Package"
+msgstr "このパッケージを更新する"
+
+msgid "and get discount"
+msgstr "割引を受ける"
+
+msgid "payment methods"
+msgstr "お支払い方法"
+
+msgid "Payment Methods"
+msgstr "お支払い方法"
+
+msgid "my packages"
+msgstr "私のパッケージ"
+
+msgid "my subscriptions"
+msgstr "私のサブスクリプション"
+
+msgid "invoices"
+msgstr "請求書"
+
+msgid "Login to view contact detail"
+msgstr "ログインして連絡先の詳細を表示"
+
+msgid "Show Resume Contact"
+msgstr "履歴書の連絡先を表示"
+
+msgid "Show resume contact"
+msgstr "履歴書の連絡先を表示する"
+
+msgid "Cancel payment"
+msgstr "支払いをキャンセルする"
+
+msgid "Show company contact"
+msgstr "会社の連絡先を表示する"
+
+msgid "user packages"
+msgstr "ユーザーパッケージ"
+
+msgid "add new user packages"
+msgstr "新しいユーザーパッケージを追加する"
+
+msgid "Make Payment"
+msgstr "支払う"
+
+msgid "You have already applied"
+msgstr "すでに申し込みました"
+
+msgid "Apply on this job"
+msgstr "この仕事に応募する"
+
+msgid "Apply this job"
+msgstr "この仕事を適用する"
+
+msgid "Apply This Job"
+msgstr "このジョブを適用する"
+
+msgid "apply on this job"
+msgstr "この仕事に応募する"
+
+msgid "You do not have any "
+msgstr "あなたは何も持っていません"
+
+msgid "Proceed Without Package"
+msgstr "パッケージなしで続行"
+
+msgid "Proceed With Package"
+msgstr "パッケージを続行します"
+
+msgid "proceed without paying"
+msgstr "支払うことなく続行します"
+
+msgid "proceed with paying"
+msgstr "支払いを続行します"
+
+msgid "Webcrown.org"
+msgstr "Webcrown.org"
+
+msgid "Wget"
+msgstr "Wget"
+
+msgid "Curl"
+msgstr "カール"
+
+msgid "Php Script"
+msgstr "PHPスクリプト"
+
+msgid "Recommended run script once a day"
+msgstr "1日1回スクリプトを実行することをお勧めします"
+
+msgid "Configuration Of A Backup Job With"
+msgstr "を使用したバックアップジョブの構成"
+
+msgid "Name Of Cronjob"
+msgstr "cronjobの名前"
+
+msgid "Log In To"
+msgstr "ログイン先"
+
+msgid "In The Cron Area"
+msgstr "cronエリアで"
+
+msgid "Click On The New Cron Button"
+msgstr "新しいcronボタンをクリックします"
+
+msgid "Below You will Find What You Have To Enter At"
+msgstr "以下にあなたが入力しなければならないものがあります"
+
+msgid "Interface"
+msgstr "インターフェース"
+
+msgid "Timeout"
+msgstr "タイムアウト"
+
+msgid "180 sec If The Backup Does Not Complete"
+msgstr "バックアップが完了しない場合は180秒"
+
+msgid "Increase It"
+msgstr "それを増やす"
+
+msgid "Most Sites Will Work With A Setting Of 180 Or 600 Here"
+msgstr "ほとんどのサイトはここで180または600の設定で動作します"
+
+msgid "As Its Much More Cost-effective."
+msgstr "そのはるかに費用対効果の高いとして。"
+
+msgid "Url You Want To Execute"
+msgstr "実行したいURL"
+
+msgid "Leave This Blank"
+msgstr "これを空白のままにします"
+
+msgid "Execution Time"
+msgstr "実行時間"
+
+msgid "Thats The Grid Below The Other Options"
+msgstr "それは他のオプションの下のグリッドです"
+
+msgid "Select When And How Often You Want Your Cron Job To Run."
+msgstr "cronジョブを実行するタイミングと頻度を選択します。"
+
+msgid "Alerts"
+msgstr "アラート"
+
+msgid "If You Have Already Set Up Alert Methods In"
+msgstr "アラートメソッドをすでに設定している場合"
+
+msgid "Finally Click On The Submit Button To Finish Setting Up Your Cron Job."
+msgstr "最後に、[送信]ボタンをクリックして、cronジョブの設定を完了します。"
+
+msgid "Cron Scheduling Using Wget most Hosts"
+msgstr "Wgetのほとんどのホストを使用したcronスケジューリング"
+
+msgid "Cron Scheduling Using Curl siteground And A Few Other Hosts"
+msgstr "Curlサイトグラウンドと他のいくつかのホストを使用したcronスケジューリング"
+
+msgid "Or"
+msgstr "または"
+
+msgid "Custom Php Script To Run"
+msgstr "実行するカスタムPHPスクリプト"
+
+msgid "Sorry"
+msgstr "ごめん"
+
+msgid "    The Backup Did Not Work."
+msgstr "バックアップが機能しませんでした。"
+
+msgid "Url For Use With Your Own Scripts And Third Party Services"
+msgstr "独自のスクリプトおよびサードパーティサービスで使用するためのURL"
+
+msgid "pending payment"
+msgstr "支払い待ち"
+
+msgid "department name"
+msgstr "部署名"
+
+msgid "Department Name"
+msgstr "部署名"
+
+msgid "Edit department"
+msgstr "編集部門"
+
+msgid "Edit Department"
+msgstr "編集部"
+
+msgid "Delete department"
+msgstr "部門を削除する"
+
+msgid "Delete Department"
+msgstr "部門を削除"
+
+msgid "Total Department"
+msgstr "総部門"
+
+msgid "Add department"
+msgstr "部門を追加"
+
+msgid "Add departments"
+msgstr "部門を追加する"
+
+msgid "WP JOB PORTAL resume export"
+msgstr "WPJOBPORTAL履歴書のエクスポート"
+
+msgid "export all"
+msgstr "すべてエクスポート"
+
+msgid "Export All"
+msgstr "すべてエクスポート"
+
+msgid "Company added to featured"
+msgstr "会社が特集に追加されました"
+
+msgid "Waiting"
+msgstr "待っている"
+
+msgid "You do not have any featured remaining"
+msgstr "注目の作品は残っていません"
+
+msgid "Select package"
+msgstr "パッケージを選択"
+
+msgid "Add To Featured"
+msgstr "注目に追加"
+
+msgid "Buy Packages"
+msgstr "パッケージを購入する"
+
+msgid "Featured companies"
+msgstr "注目の企業"
+
+msgid "featured approval waiting"
+msgstr "注目の承認待ち"
+
+msgid "Featured Approval Waiting"
+msgstr "注目の承認待ち"
+
+msgid "add to featured"
+msgstr "注目に追加"
+
+msgid "add featured"
+msgstr "注目の追加"
+
+msgid "Add Featured"
+msgstr "注目の追加"
+
+msgid "downhover part"
+msgstr "ダウンホバー部分"
+
+msgid "Job added to featured"
+msgstr "注目に追加されたジョブ"
+
+msgid "You do not have any featured Job remaining"
+msgstr "注目のジョブが残っていません"
+
+msgid "Add To Featured Job"
+msgstr "注目の仕事に追加"
+
+msgid "Featured jobs"
+msgstr "注目の仕事"
+
+msgid "Add featured"
+msgstr "注目の追加"
+
+msgid "Resume added to featured"
+msgstr "注目に履歴書を追加"
+
+msgid "Please Select A Package First"
+msgstr "最初にパッケージを選択してください"
+
+msgid "Add to featured"
+msgstr "注目に追加"
+
+msgid "add to Featured"
+msgstr "注目に追加"
+
+msgid "Saved to Folder Successfully"
+msgstr "フォルダに正常に保存されました"
+
+msgid "Resume already in folder"
+msgstr "すでにフォルダに再開"
+
+msgid "Salary "
+msgstr "給料"
+
+msgid "Contact Email"
+msgstr "連絡先メールアドレス"
+
+msgid "Select one"
+msgstr "一つ選択してください"
+
+msgid "No folder found"
+msgstr "フォルダが見つかりません"
+
+msgid "add folder"
+msgstr "フォルダーを追加"
+
+msgid "Add Folder"
+msgstr "フォルダーを追加"
+
+msgid "remove resume from folder"
+msgstr "フォルダから履歴書を削除します"
+
+msgid "Remove Resume From Folder"
+msgstr "フォルダから履歴書を削除"
+
+msgid "view resume"
+msgstr "履歴書を見る"
+
+msgid "Owner"
+msgstr "オーナー"
+
+msgid "Folder Name"
+msgstr "フォルダ名"
+
+msgid "folders"
+msgstr "フォルダ"
+
+msgid "Remove resume from folder"
+msgstr "フォルダから履歴書を削除します"
+
+msgid "copy to folder"
+msgstr "フォルダにコピー"
+
+msgid "Copy To Folder"
+msgstr "フォルダにコピー"
+
+msgid "Daily"
+msgstr "毎日"
+
+msgid "Weekly"
+msgstr "毎週"
+
+msgid "Monthly"
+msgstr "毎月"
+
+msgid "Job Category"
+msgstr "職種"
+
+msgid "Job Location"
+msgstr "仕事の場所"
+
+msgid "Job Alert Subscribed Succefully"
+msgstr "ジョブアラートが正常にサブスクライブされました"
+
+msgid "Provided Email Already Registered For Job Alert"
+msgstr "提供された電子メールはすでにジョブアラートに登録されています"
+
+msgid "Error While Subscribing Job Alert"
+msgstr "ジョブアラートのサブスクライブ中にエラーが発生しました"
+
+msgid "Zip Code"
+msgstr "郵便番号"
+
+msgid "Keywords"
+msgstr "キーワード"
+
+msgid "Alert Type"
+msgstr "アラートタイプ"
+
+msgid "Unsubscribe"
+msgstr "登録を解除する"
+
+msgid "Unsubscribe job alert"
+msgstr "ジョブアラートの購読を解除する"
+
+msgid "Are you sure to Unsubscribe job alert"
+msgstr "ジョブアラートの購読を解除してもよろしいですか"
+
+msgid "Captcha"
+msgstr "キャプチャ"
+
+msgid "Save Job Alert"
+msgstr "ジョブアラートを保存"
+
+msgid "Total Job Alert"
+msgstr "トータルジョブアラート"
+
+msgid "Do not email me"
+msgstr "私にメールしないでください"
+
+msgid "No job applied notification will be emailed to you"
+msgstr "求人応募の通知はメールで送信されません"
+
+msgid "you can only check your workspace for new applicants"
+msgstr "ワークスペースで確認できるのは、新規の応募者のみです。"
+
+msgid "Email me resume of new applicant"
+msgstr "新規応募者の履歴書をメールで送ってください"
+
+msgid "you can also check your workspace"
+msgstr "ワークスペースを確認することもできます"
+
+msgid "Email me resume and resume attachments of new applicant"
+msgstr "履歴書をメールで送って、新しい応募者の履歴書を添付してください"
+
+msgid "Edit Message"
+msgstr "メッセージの編集"
+
+msgid "Reply Message"
+msgstr "返信メッセージ"
+
+msgid "message subject"
+msgstr "メッセージの件名"
+
+msgid "send message"
+msgstr "メッセージを送る"
+
+msgid "messages"
+msgstr "メッセージ"
+
+msgid "You do not have any View Company Contact remaining"
+msgstr "ViewCompanyの連絡先が残っていません"
+
+msgid "View Company Contact"
+msgstr "会社の連絡先を表示"
+
+msgid "Remaining View Company Contact"
+msgstr "残りのビュー会社の連絡先"
+
+msgid "Add company"
+msgstr "会社を追加"
+
+msgid "You Are Applying On This Job"
+msgstr "あなたはこの仕事に応募しています"
+
+msgid "N/A"
+msgstr "該当なし"
+
+msgid "Skill"
+msgstr "スキル"
+
+msgid "Employer Reports"
+msgstr "雇用主レポート"
+
+msgid "Jobs By Cities"
+msgstr "都市別の仕事"
+
+msgid "Jobs By Companies"
+msgstr "企業別の仕事"
+
+msgid "Job by city"
+msgstr "都市別の仕事"
+
+msgid "Jobs by company"
+msgstr "会社別の仕事"
+
+msgid "Job by type"
+msgstr "タイプ別の仕事"
+
+msgid "Jobseeker Reports"
+msgstr "求職者レポート"
+
+msgid "Active Resume"
+msgstr "アクティブな履歴書"
+
+msgid "Resume By Job Types"
+msgstr "職種ごとの履歴書"
+
+msgid "Resume By Cities"
+msgstr "都市別の履歴書"
+
+msgid "Resume By Job Salaries"
+msgstr "仕事の給与で再開"
+
+msgid "Active resume"
+msgstr "アクティブな履歴書"
+
+msgid "Gold resume"
+msgstr "ゴールド履歴書"
+
+msgid "Job by salary"
+msgstr "給与による仕事"
+
+msgid "employer reports"
+msgstr "雇用主の報告"
+
+msgid "job seeker reports"
+msgstr "求職者レポート"
+
+msgid "Job Seeker Reports"
+msgstr "求職者レポート"
+
+msgid "My Stats"
+msgstr "私の統計"
+
+msgid "Job copy successfully"
+msgstr "ジョブのコピーが正常に実行されました"
+
+msgid "Note"
+msgstr "ノート"
+
+msgid "Resume has been marked as spam"
+msgstr "履歴書はスパムとしてマークされています"
+
+msgid "Job seeker has been hired"
+msgstr "求職者が採用されました"
+
+msgid "Resume moved to the inbox"
+msgstr "受信トレイに移動した履歴書"
+
+msgid "Resume rejected"
+msgstr "履歴書が拒否されました"
+
+msgid "Candidate short listed"
+msgstr "候補者のショートリスト"
+
+msgid "mark spam"
+msgstr "スパムをマークする"
+
+msgid "Mark Spam"
+msgstr "マークスパム"
+
+msgid "not spam"
+msgstr "スパムじゃない"
+
+msgid "Not Spam"
+msgstr "スパムじゃない"
+
+msgid "hired"
+msgstr "雇われた"
+
+msgid "rejected"
+msgstr "拒否されました"
+
+msgid "add note"
+msgstr "メモを追加"
+
+msgid "Add Note"
+msgstr "メモを追加"
+
+msgid "details"
+msgstr "詳細"
+
+msgid "Details"
+msgstr "詳細"
+
+msgid "email candidate"
+msgstr "メール候補"
+
+msgid "Email Candidate"
+msgstr "メール候補"
+
+msgid "short list"
+msgstr "ショートリスト"
+
+msgid "Short List"
+msgstr "ショートリスト"
+
+msgid "inbox"
+msgstr "受信トレイ"
+
+msgid "advance search"
+msgstr "高度な検索"
+
+msgid "short listed"
+msgstr "ショートリスト"
+
+msgid "Short Listed"
+msgstr "ショートリスト"
+
+msgid "spam"
+msgstr "スパム"
+
+msgid "Resume Files Download"
+msgstr "ファイルのダウンロードを再開"
+
+msgid "Select job type"
+msgstr "職種を選択する"
+
+msgid "No Resume found"
+msgstr "履歴書が見つかりません"
+
+msgid "Go Back To"
+msgstr "帰ります"
+
+msgid "Total Resume Save Search"
+msgstr "合計履歴書保存検索"
+
+msgid "Remaining Resume Save Search"
+msgstr "残りの履歴書検索を保存"
+
+msgid "You don't have any save serch remaining "
+msgstr "セーブサーチが残っていません"
+
+msgid "Search name"
+msgstr "検索名"
+
+msgid "Job RSS"
+msgstr "ジョブRSS"
+
+msgid "Job has been Shortlisted"
+msgstr "ジョブは最終候補になりました"
+
+msgid "Birthday"
+msgstr "誕生日"
+
+msgid "Apply as facebook"
+msgstr "Facebookとして申し込む"
+
+msgid "View facebook profile"
+msgstr "Facebookのプロフィールを見る"
+
+msgid "Show contact details"
+msgstr "連絡先の詳細を表示する"
+
+msgid "Something wrong, contact to system administrator"
+msgstr "何か問題があります。システム管理者に連絡してください"
+
+msgid "Profile link"
+msgstr "プロファイルリンク"
+
+msgid "School"
+msgstr "学校"
+
+msgid "Headline"
+msgstr "見出し"
+
+msgid "Apply with linkedin"
+msgstr "LinkedInで申し込む"
+
+msgid "View linkedin profile"
+msgstr "LinkedInのプロフィールを見る"
+
+msgid "Academic title"
+msgstr "学術称号"
+
+msgid "Apply with xing"
+msgstr "xingで適用する"
+
+msgid "View xing profile"
+msgstr "View xing profile"
+
+msgid "Wants"
+msgstr "望む"
+
+msgid "Haves"
+msgstr "持っている"
+
+msgid "Interests"
+msgstr "興味"
+
+msgid "Organization"
+msgstr "組織"
+
+msgid "Time zone"
+msgstr "タイムゾーン"
+
+msgid "Employment status"
+msgstr "雇用状況"
+
+msgid "Degree"
+msgstr "程度"
+
+msgid "Begin date"
+msgstr "開始日"
+
+msgid "End date"
+msgstr "終了日"
+
+msgid "Qualifications"
+msgstr "資格"
+
+msgid "Professional experience"
+msgstr "プロとしての経験"
+
+msgid "Primary company"
+msgstr "一次企業"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Still working"
+msgstr "まだ働いています"
+
+msgid "Discipline"
+msgstr "規律"
+
+msgid "Industry"
+msgstr "業界"
+
+msgid "Company size"
+msgstr "会社の規模"
+
+msgid "Career level"
+msgstr "キャリアレベル"
+
+msgid "Form of employment"
+msgstr "雇用形態"
+
+msgid "Awards"
+msgstr "賞"
+
+msgid "Date awarded"
+msgstr "授与日"
+
+msgid "Private address"
+msgstr "プライベートアドレス"
+
+msgid "Street"
+msgstr "街"
+
+msgid "Zip code"
+msgstr "郵便番号"
+
+msgid "Province"
+msgstr "州"
+
+msgid "Fax"
+msgstr "ファックス"
+
+msgid "Mobile phone"
+msgstr "携帯電話"
+
+msgid "Business address"
+msgstr "職場の住所"
+
+msgid "Until now"
+msgstr "今まで"
+
+msgid "Facebook user"
+msgstr "ファイスブックユーザー"
+
+msgid "Linkedin user"
+msgstr "Linkedinユーザー"
+
+msgid "Xing user"
+msgstr "Xing user"
+
+msgid "You are logged in as "
+msgstr "としてログインしています"
+
+msgid "Please select your role to continue"
+msgstr "続行するには役割を選択してください"
+
+msgid "You are logged out"
+msgstr "ログアウトしています"
+
+msgid "Error applying on job"
+msgstr "ジョブへの適用中にエラーが発生しました"
+
+msgid "Facebook Comments"
+msgstr "Facebookのコメント"
+
+msgid "Share This Job"
+msgstr "この仕事を共有する"
+
+msgid "Apply With Social"
+msgstr "ソーシャルで申し込む"
+
+msgid "Login with social media"
+msgstr "ソーシャルメディアでログイン"
+
+msgid "Tag Name"
+msgstr "タグ名"
+
+msgid "Tag For"
+msgstr "のタグ"
+
+msgid "tag name"
+msgstr "タグ名"
+
+msgid "Job Tags"
+msgstr "ジョブタグ"
+
+msgid "Email has been send to friend[s]"
+msgstr "メールが友達に送信されました[s]"
+
+msgid "Incorrect Captcha"
+msgstr "不正なキャプチャ"
+
+msgid "Click Here To View Job"
+msgstr "ジョブを表示するには、ここをクリックしてください"
+
+msgid "Your Name"
+msgstr "あなたの名前"
+
+msgid "Your Email"
+msgstr "あなたのEメール"
+
+msgid "Friend Email"
+msgstr "友達のメール"
+
+msgid "Send to friends"
+msgstr "友達に送る"
+
+msgid "Job Id not provided "
+msgstr "ジョブIDが提供されていません"
+
+msgid "Receiver email not provided"
+msgstr "受信者の電子メールが提供されていません"
+
+msgid "Email sent successfully to friend[s]"
+msgstr "友達にメールが正常に送信されました"
+
+msgid "Start"
+msgstr "始める"
+
+msgid "End"
+msgstr "終わり"
+
+msgid "Work Permit"
+msgstr "労働許可"
+
+msgid "Required Travel"
+msgstr "必要な旅行"
+
+msgid "Set Job Apply Redirect Link"
+msgstr "ジョブの設定リダイレクトリンクの適用"
+
+msgid "Job Apply Alert E-mail Setting"
+msgstr "ジョブ適用アラート電子メール設定"
+
+msgid "Email me the daily count of new applicants"
+msgstr "新規応募者の1日あたりの数をメールで送ってください"
+
+msgid "These Filters Are Applied On Applied Resume"
+msgstr "これらのフィルターは、適用された履歴書に適用されます"
+
+msgid "WPJOBPORTAL Companies"
+msgstr "WPJOBPORTAL企業"
+
+msgid "Show Companies"
+msgstr "会社を表示する"
+
+msgid "Type of companies"
+msgstr "会社の種類"
+
+msgid "Gold companies"
+msgstr "金会社"
+
+msgid "Hide all"
+msgstr "すべて非表示"
+
+msgid "Show all"
+msgstr "すべて表示する"
+
+msgid "Show desktop and tablet"
+msgstr "デスクトップとタブレットを表示する"
+
+msgid "Show desktop and mobile"
+msgstr "デスクトップとモバイルを表示"
+
+msgid "Show tablet and mobile"
+msgstr "タブレットとモバイルを表示"
+
+msgid "Show desktop"
+msgstr "デスクトップを表示する"
+
+msgid "Show tablet"
+msgstr "タブレットを表示"
+
+msgid "Show mobile"
+msgstr "モバイルを表示"
+
+msgid "Number of companies"
+msgstr "会社数"
+
+msgid "Listing style"
+msgstr "リストスタイル"
+
+msgid "List style"
+msgstr "リストスタイル"
+
+msgid "Box style"
+msgstr "ボックススタイル"
+
+msgid "Horizontal"
+msgstr "水平"
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid "Field column"
+msgstr "フィールド列"
+
+msgid "Module height"
+msgstr "モジュールの高さ"
+
+msgid "Company height"
+msgstr "会社の高さ"
+
+msgid "Company logo width"
+msgstr "会社のロゴの幅"
+
+msgid "Company logo height"
+msgstr "会社のロゴの高さ"
+
+msgid "Number of companies per row"
+msgstr "1行あたりの企業数"
+
+msgid "desktop"
+msgstr "デスクトップ"
+
+msgid "tablet"
+msgstr "タブレット"
+
+msgid "Top margin"
+msgstr "トップマージン"
+
+msgid "Left margin"
+msgstr "左マージン"
+
+msgid "Title color"
+msgstr "タイトルカラー"
+
+msgid "Title border bottom"
+msgstr "タイトルボーダー下"
+
+msgid "Background color"
+msgstr "背景色"
+
+msgid "Border color"
+msgstr "ボーダの色"
+
+msgid "Data label color"
+msgstr "データラベルの色"
+
+msgid "Data value color"
+msgstr "データ値の色"
+
+msgid "Jobs Widget"
+msgstr "ジョブウィジェット"
+
+msgid "Show jobs"
+msgstr "仕事を表示"
+
+msgid "Top jobs"
+msgstr "トップジョブ"
+
+msgid "Gold jobs"
+msgstr "ゴールドジョブ"
+
+msgid "Number of jobs"
+msgstr "仕事の数"
+
+msgid "Job height"
+msgstr "仕事の高さ"
+
+msgid "Number of jobs per row"
+msgstr "行あたりのジョブ数"
+
+msgid "Jobs By Categories Widget"
+msgstr "カテゴリ別ジョブウィジェット"
+
+msgid "Show jobs by categories form jobs database"
+msgstr "ジョブデータベースからカテゴリ別にジョブを表示"
+
+msgid "Show Maximum records"
+msgstr "最大レコードを表示"
+
+msgid "Show all categories"
+msgstr "すべてのカテゴリを表示"
+
+msgid "Show only record that have jobs"
+msgstr "ジョブがあるレコードのみを表示する"
+
+msgid "Show jobs by Types form jobs database"
+msgstr "ジョブデータベースからタイプ別にジョブを表示"
+
+msgid "Show all types"
+msgstr "すべてのタイプを表示"
+
+msgid "Jobs By Location Widget"
+msgstr "場所別ジョブウィジェット"
+
+msgid "Job By Location"
+msgstr "場所別の仕事"
+
+msgid "Show jobs by"
+msgstr "で仕事を表示"
+
+msgid "Jobs by states"
+msgstr "州別の仕事"
+
+msgid "Jobs On Map Widget"
+msgstr "マップウィジェット上のジョブ"
+
+msgid "Show jobs by location on google map"
+msgstr "グーグルマップ上の場所ごとに仕事を表示する"
+
+msgid "Show no of jobs"
+msgstr "仕事を表示しない"
+
+msgid "Zoom"
+msgstr "ズーム"
+
+msgid "Jobs stats"
+msgstr "ジョブの統計"
+
+msgid "Jobs stats from WP Job Portal database"
+msgstr "WP求人ポータルデータベースからの求人統計"
+
+msgid "Resume Widget"
+msgstr "ウィジェットを再開"
+
+msgid "Show resumes"
+msgstr "履歴書を表示"
+
+msgid "Type of resume"
+msgstr "履歴書の種類"
+
+msgid "Newest resume"
+msgstr "最新の履歴書"
+
+msgid "Top resume"
+msgstr "トップ履歴書"
+
+msgid "Number of resumes"
+msgstr "履歴書の数"
+
+msgid "Resume height"
+msgstr "高さを再開する"
+
+msgid "Resume logo width"
+msgstr "ロゴの幅を再開します"
+
+msgid "Resume logo height"
+msgstr "ロゴの高さを再開します"
+
+msgid "Number of resume per row"
+msgstr "行ごとの履歴書の数"
+
+msgid "Search resume form wpjobportal database"
+msgstr "wp求人ポータルデータベースの履歴書を検索"
+
+msgid "I am available"
+msgstr "私は利用可能です"
+
+msgid "Salary range"
+msgstr "給与範囲"
+
+msgid "colors"
+msgstr "色"
+
+msgid "Colors"
+msgstr "色"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Feature Approve"
+msgstr "機能の承認"
+
+msgid "Feature Reject"
+msgstr "機能の拒否"
+
+msgid "general setting"
+msgstr "一般的な設定"
+
+msgid "Default Settings"
+msgstr "デフォルトの設定"
+
+msgid "Auto Approve"
+msgstr "自動承認"
+
+msgid "visitor setting"
+msgstr "ビジター設定"
+
+msgid "Visitor Settings"
+msgstr "訪問者の設定"
+
+msgid "Captcha Settings"
+msgstr "キャプチャ設定"
+
+msgid "Employer Links"
+msgstr "雇用主のリンク"
+
+msgid "Jobseeker Links"
+msgstr "求職者のリンク"
+
+msgid "package setting"
+msgstr "パッケージ設定"
+
+msgid "Free Packages"
+msgstr "無料パッケージ"
+
+msgid "Paid Submissions"
+msgstr "有料提出"
+
+msgid "social apps"
+msgstr "ソーシャルアプリ"
+
+msgid " Social Apps"
+msgstr "ソーシャルアプリ"
+
+msgid "rss"
+msgstr "rss"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Job Settings"
+msgstr "ジョブ設定"
+
+msgid "login/register"
+msgstr "ログイン/登録"
+
+msgid " Login/Register"
+msgstr "ログイン/登録"
+
+msgid "payment method"
+msgstr "支払方法"
+
+msgid "WP Job Portal Register Page"
+msgstr "WP求人ポータル登録ページ"
+
+msgid "WordPress Default Register Page"
+msgstr "WordPressのデフォルト登録ページ"
+
+msgid "WP Job Portal Login Page"
+msgstr "WP求人ポータルログインページ"
+
+msgid "WordPress Default Login Page"
+msgstr "WordPressのデフォルトのログインページ"
+
+msgid "Offline Message"
+msgstr "オフラインメッセージ"
+
+msgid "Captcha Setting"
+msgstr "キャプチャ設定"
+
+msgid "Default Captcha"
+msgstr "デフォルトのキャプチャ"
+
+msgid "Google reCaptcha"
+msgstr "Google reCaptcha"
+
+msgid "Google reCaptcha Private Key"
+msgstr "GooglereCaptcha秘密鍵"
+
+msgid "Enter the Google reCaptcha private key from"
+msgstr "からGooglereCaptcha秘密鍵を入力します"
+
+msgid "Google reCaptcha Public Key"
+msgstr "GooglereCaptcha公開鍵"
+
+msgid "Enter the Google reCaptcha public key from"
+msgstr "からGooglereCaptcha公開鍵を入力します"
+
+msgid "Active Jobs Graph"
+msgstr "アクティブジョブグラフ"
+
+msgid "Client secret here"
+msgstr "ここにクライアントの秘密"
+
+msgid "Valid OAuth redirect URI for social login"
+msgstr "ソーシャルログイン用の有効なOAuthリダイレクトURI"
+
+msgid "Valid OAuth redirect URI for social apply"
+msgstr "ソーシャルアプライの有効なOAuthリダイレクトURI"
+
+msgid "App secret here"
+msgstr "ここにアプリの秘密"
+
+msgid "Set Login Link"
+msgstr "ログインリンクを設定する"
+
+msgid "Set login redirect Link Default or Custom"
+msgstr "ログインリダイレクトリンクをデフォルトまたはカスタムに設定"
+
+msgid "Show Log In/Out Button For Employer"
+msgstr "雇用主のログイン/ログアウトボタンを表示"
+
+msgid "Show Log In/Out Button For Jobseeker"
+msgstr "求職者のログイン/ログアウトボタンを表示する"
+
+msgid "Set register Link"
+msgstr "レジスタリンクの設定"
+
+msgid "Set register redirect Link Default or Custom"
+msgstr "レジスタリダイレクトリンクのデフォルトまたはカスタムを設定します"
+
+msgid "Set Employer After Register link"
+msgstr "登録後の雇用主の設定リンク"
+
+msgid "New Employer Set After Register link redirect page"
+msgstr "登録後の新しい雇用者設定リンクリダイレクトページ"
+
+msgid "Employer After Registration Redirect Page "
+msgstr "登録後の雇用主リダイレクトページ"
+
+msgid "Employer After Registration Redirect Link"
+msgstr "登録後の雇用者リダイレクトリンク"
+
+msgid "Custome Empolyer After Regitser Link"
+msgstr "登録後のカスタム雇用者リンク"
+
+msgid "Set Job seeker After Register link"
+msgstr "登録後の求職者の設定リンク"
+
+msgid "New Job seeker Set After Register link redirect page"
+msgstr "登録後に設定された新しい求職者リンクリダイレクトページ"
+
+msgid "Job seeker After Registration redirect page "
+msgstr "登録後の求職者リダイレクトページ"
+
+msgid "Job Seeker After Registration Redirect Link"
+msgstr "登録後の求職者リダイレクトリンク"
+
+msgid "Custome Job seeker After Regitser Link"
+msgstr "登録後のカスタム求職者リンク"
+
+msgid "mneu"
+msgstr "メニュー"
+
+msgid "Job Approve"
+msgstr "仕事の承認"
+
+msgid "Job Reject"
+msgstr "仕事の拒否"
+
+msgid "Login to Apply On This Job"
+msgstr "ログインしてこのジョブに応募する"
+
+msgid "sender email is not of correct formate"
+msgstr "送信者の電子メールが正しい形式ではありません"
+
+msgid "Select Jobseeker"
+msgstr "求職者を選択"
+
+msgid "refresh"
+msgstr "リフレッシュ"
+
+msgid "Refresh"
+msgstr "更新"
+
+msgid "create user"
+msgstr "ユーザーを作成"
+
+msgid "Create user"
+msgstr "ユーザーを作成"
+
+msgid "Select Employer"
+msgstr "雇用主を選択"
+
+msgid "Save big with an exclusive membership plan today!"
+msgstr "今日の独占会員プランで大幅に節約！"
+
+msgid "show bundle pack"
+msgstr "バンドルパックを表示"
+
+msgid "Advance Custom Fields"
+msgstr "高度なカスタムフィールド"
+
+msgid "Front-end Widget"
+msgstr "フロントエンドウィジェット"
+
+msgid "Tell A Friend"
+msgstr "友達に言う"
+
+msgid "WP Job Portal Add-Ons Bundle Pack"
+msgstr "WP求人ポータルアドオンバンドルパック"
+
+msgid "Basic"
+msgstr "基本"
+
+msgid "year"
+msgstr "年"
+
+msgid "Multi Departments"
+msgstr "複数の部門"
+
+msgid "Standard"
+msgstr "標準"
+
+msgid "Tell a Friend"
+msgstr "友達に言う"
+
+msgid "Professional"
+msgstr "プロ"
+
+msgid "Visitor Can Apply Job"
+msgstr "訪問者は仕事を申し込むことができます"
+
+msgid "Credits System"
+msgstr "クレジットシステム"
+
+msgid "Save Colors"
+msgstr "色を保存"
+
+msgid "preset"
+msgstr "プリセット"
+
+msgid "Preset"
+msgstr "プリセット"
+
+msgid "Primary Color"
+msgstr "原色"
+
+msgid "Secondary Color"
+msgstr "二次色"
+
+msgid "Content Color"
+msgstr "コンテンツの色"
+
+msgid "Buruj Solution"
+msgstr "ブルジソリューション"
+
+msgid "PHP Developer"
+msgstr "PHP開発者"
+
+msgid "Computer/IT"
+msgstr "コンピューター/IT"
+
+msgid "Karachi, Pakistan"
+msgstr "パキスタンのカラチ市"
+
+msgid "Full-Time"
+msgstr "フルタイム"
+
+msgid "Per Month"
+msgstr "月額"
+
+msgid "Per Year"
+msgstr "1年当たり"
+
+msgid "Per Day"
+msgstr "1日あたり"
+
+msgid "Per Week"
+msgstr "週あたり"
+
+msgid "hours Ago"
+msgstr "時間前"
+
+msgid "Resume (1)"
+msgstr "履歴書（1）"
+
+msgid "Android Developer"
+msgstr "Androidデベロッパー"
+
+msgid "Gujranwala, Pakistan"
+msgstr "パキスタン、グジュランワラ"
+
+msgid "Add Featured "
+msgstr "注目の追加"
+
+msgid "Resume (0)"
+msgstr "再開（0）"
+
+msgid "Accountant"
+msgstr "会計士"
+
+msgid "Lahore, Pakistan"
+msgstr "パキスタン、ラホール"
+
+msgid "Resume (10)"
+msgstr "履歴書（10）"
+
+msgid "Database Administrator"
+msgstr "データベース管理者"
+
+msgid "Islamabad, Pakistan"
+msgstr "イスラマバード、パキスタン"
+
+msgid "Preset Theme"
+msgstr "プリセットテーマ"
+
+msgid "Mint"
+msgstr "ミント"
+
+msgid "Red"
+msgstr "赤"
+
+msgid "Aqua"
+msgstr "アクア"
+
+msgid "Blue Jeans"
+msgstr "ブルージーンズ"
+
+msgid "Grass"
+msgstr "草"
+
+msgid "Grape fruit"
+msgstr "グレープフルーツ"
+
+msgid "Lavender"
+msgstr "ラベンダー"
+
+msgid "Black"
+msgstr "黒"
+
+msgid "Help icon"
+msgstr "ヘルプアイコン"
+
+msgid "We are here to help you"
+msgstr "私たちはあなたを助けるためにここにいます"
+
+msgid "View all videos"
+msgstr "すべてのビデオを見る"
+
+msgid "Video icon"
+msgstr "ビデオアイコン"
+
+msgid "View All Videos"
+msgstr "すべてのビデオを見る"
+
+msgid "WP JOB PORTAL icon"
+msgstr "WPJOBPORTALアイコン"
+
+msgid "WP Job Portal Support"
+msgstr "WP求人ポータルサポート"
+
+msgid "Submit ticket"
+msgstr "チケットを送信する"
+
+msgid "Submit Ticket"
+msgstr "チケットを提出する"
+
+msgid "Job Portal"
+msgstr "求人ポータル"
+
+msgid "Shortlist Jobs"
+msgstr "候補リストの仕事"
+
+msgid "Visitor Create a Job"
+msgstr "訪問者がジョブを作成する"
+
+msgid "Apply as a Visitor"
+msgstr "訪問者として申し込む"
+
+msgid "Advance Resume"
+msgstr "事前の履歴書"
+
+msgid "Resume Actions"
+msgstr "アクションを再開する"
+
+msgid "Create Company"
+msgstr "会社を作る"
+
+msgid "Misc"
+msgstr "その他"
+
+msgid "Widget Settings"
+msgstr "ウィジェット設定"
+
+msgid "Credit Pack"
+msgstr "クレジットパック"
+
+msgid "Color Manager"
+msgstr "カラーマネージャー"
+
+msgid "State id greater and cities have no ids also state id and country id is your responsibility"
+msgstr "州IDが大きく、都市にはIDがありません。州IDと国IDもあなたの責任です"
+
+msgid "Consider old countries and states were not edit otherwise problem may occur"
+msgstr "古い国や州が編集されていないことを考慮してください。そうしないと、問題が発生する可能性があります"
+
+msgid "Configure your credit system. How much credits required for action. if you don't enter any credit. it will be free"
+msgstr "クレジットシステムを設定します。アクションに必要なクレジットの量。クレジットを入力しない場合。無料になります"
+
+msgid "By agreeing to recurring payment you will be charged with package price at the end of billing cycle and package will be renewed"
+msgstr "定期支払いに同意すると、請求サイクルの最後にパッケージ価格が請求され、パッケージが更新されます"
+
+msgid "Contact administrator to delete agreement from his paypal account. Your agreement id is"
+msgstr "管理者に連絡して、ペイパルアカウントから契約を削除してください。契約IDは"
+
+msgid "You must cancel agreement from your paypal account. Your agreement id is"
+msgstr "PayPalアカウントからの契約をキャンセルする必要があります。契約IDは"
+
+msgid "If You Have A Very Big Site Which Takes More Than 5 Minutes To Back Itself Up"
+msgstr "バックアップに5分以上かかる非常に大きなサイトがある場合"
+
+msgid "You Might Consider Using Akeeba Backup Professional And The Native Cli Cron Job Instead"
+msgstr "代わりに、AkeebaBackupProfessionalとネイティブのCliCronジョブの使用を検討してください。"
+
+msgid "We Recommend Choosing An Alert Method Here And Not Checking The only On Error So That You Always Get A Notification When The Backup Cron Job Runs"
+msgstr "ここでアラート方法を選択し、唯一のエラーをチェックしないことをお勧めします。これにより、バックアップCronジョブの実行時に常に通知を受け取ることができます。"
+
+msgid "Job applied notification will be emailed to you with resume of the applicant"
+msgstr "求職通知は、応募者の履歴書とともにメールで送信されます"
+
+msgid "Job applied notification will be emailed to you with resume and attachments of the applicant"
+msgstr "求職通知は、応募者の履歴書と添付ファイルとともにメールで送信されます"
+
+msgid "No notification will be emailed to you regarding job applications you can also check your workspace for new applicant"
+msgstr "求人応募に関する通知はメールで送信されません。また、ワークスペースで新しい応募者を確認することもできます。"
+
+msgid "The Total number of applicants for each day will be e-mailed to you on a daily basis.you can also check your workspace for new applicant."
+msgstr "毎日の応募者の総数が毎日メールで送信されます。また、ワークスペースで新しい応募者を確認することもできます。"
+
+msgid "Each applicants cv will be emailed directily to you as they apply.you can also check your workspace for new applicant"
+msgstr "各応募者の履歴書は、応募時に直接メールで送信されます。また、ワークスペースで新しい応募者を確認することもできます。"
+
+msgid "Get trusted WordPress add on’s. Guaranteed to work fast, safe to use, beautifully coded, packed with features and easy to use."
+msgstr "信頼できるWordPressアドオンを入手してください。高速で安全に使用でき、美しくコーディングされ、機能が満載で使いやすいことが保証されています。"
+
+msgid "WP Job Portal offers a feature for users to see address data for states, cities or both. Admin will upload that file."
+msgstr "WP Job Portalは、州、都市、またはその両方の住所データを表示する機能をユーザーに提供します。管理者はそのファイルをアップロードします。"
+
+msgid "WP Job Portal offers an outstanding feature for employers to featured their companies. Employers will be able to featured their desired companies."
+msgstr "WP Job Portalは、雇用主が自社を紹介するための優れた機能を提供します。雇用主は彼らの希望する会社を紹介することができます。"
+
+msgid "WP Job Portal helps employers to make the resume as Featured Resume. Employers can featured their desired resume from the resume list."
+msgstr "WP Job Portalは、雇用主が注目の履歴書として履歴書を作成するのに役立ちます。雇用主は履歴書リストから希望の履歴書を紹介することができます。"
+
+msgid "WP Job Portal offers a feature for employers to perform some actions on resumes. Employes have some rights to reject or accept the jobseeker resume."
+msgstr "WP Job Portalは、雇用主が履歴書に対していくつかのアクションを実行するための機能を提供します。雇用者には、求職者の履歴書を拒否または受け入れる権利があります。"
+
+msgid "WP Job Portal offers a  message feature for Employers and Job Seekers. All the Employers and Job Seekers can message each other."
+msgstr "WP Job Portalは、雇用主と求職者にメッセージ機能を提供します。すべての雇用主と求職者はお互いにメッセージを送ることができます。"
+
+msgid "WP job Portal offers a feature for employers to add multi companies. Employers will add their desired multi-companies."
+msgstr "WP求人ポータルは、雇用主が複数の会社を追加するための機能を提供します。雇用主は希望する複数の会社を追加します。"
+
+msgid "Widgets in WordPress allows you to add content and features in the widgetized areas of your theme which is mostly the sidebar."
+msgstr "WordPressのウィジェットを使用すると、テーマのウィジェット化された領域（主にサイドバー）にコンテンツと機能を追加できます。"
+
+msgid "WP Job Portal offers a feature for the jobseeker to add their multi-resume. Jobseeker will be able to create a multiple resume for applying any job."
+msgstr "WP Job Portalは、求職者がマルチレジュメを追加するための機能を提供します。求職者は、任意の仕事を適用するための複数の履歴書を作成できるようになります。"
+
+msgid "WP Job Portal offers a feature for Employes to add multi-departments related to jobs. Jobseeker can apply to jobs related to the desired department."
+msgstr "WP Job Portalは、雇用者が仕事に関連する複数の部門を追加するための機能を提供します。求職者は、希望する部門に関連する仕事に応募することができます。"
+
+msgid "WP Job Portal offers Real Simple Syndication (RSS) to set feeds for the jobs. Admin manipulates RSS settings. Employers and Job Seekers can see the Jobs RSS."
+msgstr "WP Job Portalは、ジョブのフィードを設定するためのReal Simple Syndication（RSS）を提供しています。管理者はRSS設定を操作します。雇用主と求職者は求人RSSを見ることができます。"
+
+msgid "WP Job Portal will help employers and jobseekers to shortlist their desired jobs. They can see their shortlisted jobs on the list."
+msgstr "WP Job Portalは、雇用主と求職者が希望する仕事を候補リストに載せるのに役立ちます。彼らはリストに彼らの最終候補の仕事を見ることができます。"
+
+msgid "WP Job Portal allows registration from social logins. Employer and Job Seekers can create a new account for login or they can use their social media Logins."
+msgstr "WP Job Portalでは、ソーシャルログインからの登録が可能です。雇用主と求職者は、ログイン用の新しいアカウントを作成するか、ソーシャルメディアのログインを使用できます。"
+
+msgid "Get multiple themes with beautiful color scheme to make your site more beautiful and eye-catchy by just one click."
+msgstr "ワンクリックでサイトをより美しく、人目を引くように、美しい配色で複数のテーマを取得します。"
+
+msgid "WP Job Portal offers a feature for visitors. A visitor can apply to any company posted jobs. The visitor will apply for the jobs by their resume."
+msgstr "WP求人ポータルは訪問者に機能を提供します。訪問者は、会社が投稿した仕事に応募できます。訪問者は履歴書で仕事に応募します。"
+
+msgid "WP Job Portal is a simple yet powerful Jobs Board plugin that provides a Step-by-step Youtube guide for its ease of use."
+msgstr "WP Job Portalは、シンプルでありながら強力なJobs Boardプラグインであり、使いやすさのためのステップバイステップのYouTubeガイドを提供します。"
+
+msgid "WP Job Portal delivers timely customer support if you have any query then we're here to show you the way."
+msgstr "WP Job Portalは、ご不明な点がございましたら、タイムリーなカスタマーサポートを提供します。"
+
+msgid "Unable to open file!"
+msgstr "ファイルを開けません！"
+
+msgid "Effect On Credits System"
+msgstr "クレジットシステムへの影響"
+
+msgid "Are You Sure You Want To Feature this Company?"
+msgstr "この会社を紹介してもよろしいですか？"
+
+msgid "Meta Keywords"
+msgstr "メタキーワード"
+
+msgid "Enter Data"
+msgstr "データを入力"
+
+msgid "Email Setting"
+msgstr "メール設定"
+
+msgid "Meta Description"
+msgstr "メタ記述"
+
+msgid "Are You Sure You Want To Feature this Job?"
+msgstr "この仕事を紹介してもよろしいですか？"
+
+msgid "Are You Sure You Want To Feature this Resume?"
+msgstr "この履歴書を特集してもよろしいですか？"
+
+msgid "Record per page"
+msgstr "ページごとの記録"
+
+msgid "slug for new in wp job portal page"
+msgstr "wp求人ポータルページの新しいためのスラッグ"
+
+msgid "slug for jobseeker control panel"
+msgstr "求職者コントロールパネルのスラッグ"
+
+msgid "slug for employer control panel"
+msgstr "雇用主のコントロールパネル用のスラッグ"
+
+msgid "slug for job seeker my stats page"
+msgstr "求職者のためのスラッグ私の統計ページ"
+
+msgid "slug for employer my stats page"
+msgstr "雇用主のためのスラッグ私の統計ページ"
+
+msgid "slug for resume main listing page"
+msgstr "履歴書のメインリストページのスラッグ"
+
+msgid "slug for job main listing page"
+msgstr "ジョブのメインリストページのスラッグ"
+
+msgid "slug for my companies page"
+msgstr "私の会社のページのスラッグ"
+
+msgid "slug for add company page"
+msgstr "会社ページを追加するためのスラッグ"
+
+msgid "slug for my jobs page"
+msgstr "私の仕事のページのスラッグ"
+
+msgid "slug for add job page"
+msgstr "ジョブページを追加するためのスラッグ"
+
+msgid "slug for my departments page"
+msgstr "私の部門のページのスラッグ"
+
+msgid "slug for add department page"
+msgstr "部門ページを追加するためのスラッグ"
+
+msgid "slug for view department page"
+msgstr "ビュー部門ページのスラッグ"
+
+msgid "slug for view company page"
+msgstr "会社のページを表示するためのスラッグ"
+
+msgid "slug for view resume page"
+msgstr "履歴書ページを表示するためのスラッグ"
+
+msgid "slug for view job page"
+msgstr "ジョブページを表示するためのスラッグ"
+
+msgid "slug for my folders page"
+msgstr "私のフォルダページのスラッグ"
+
+msgid "slug for add folder page"
+msgstr "フォルダページを追加するためのスラッグ"
+
+msgid "slug for view folder page"
+msgstr "ビューフォルダページのスラッグ"
+
+msgid "slug for folder resume page"
+msgstr "フォルダ履歴書ページのスラッグ"
+
+msgid "slug for job seeker messages page"
+msgstr "求職者メッセージページのスラッグ"
+
+msgid "slug for employer messages page"
+msgstr "雇用主のメッセージページのスラッグ"
+
+msgid "slug for send message page"
+msgstr "メッセージ送信ページのスラッグ"
+
+msgid "slug for job messages page"
+msgstr "ジョブメッセージページのスラッグ"
+
+msgid "slug for jobs by types page"
+msgstr "タイプ別のジョブのスラッグページ"
+
+msgid "slug for messages page"
+msgstr "メッセージページのスラッグ"
+
+msgid "slug for resume search page"
+msgstr "履歴書検索ページのスラッグ"
+
+msgid "slug for resume save search page"
+msgstr "履歴書保存検索ページのスラッグ"
+
+msgid "slug for resume by category page"
+msgstr "カテゴリページによる履歴書のスラッグ"
+
+msgid "slug for resume rss page"
+msgstr "履歴書のRSSページのスラッグ"
+
+msgid "slug for employer credits page"
+msgstr "雇用主のクレジットページのスラッグ"
+
+msgid "slug for job seeker credits page"
+msgstr "求職者クレジットページのスラッグ"
+
+msgid "slug for employer purchase history page"
+msgstr "雇用主の購入履歴ページのスラッグ"
+
+msgid "employer my stats page"
+msgstr "雇用主私の統計ページ"
+
+msgid "slug for job seeker stats page"
+msgstr "求職者の統計ページのスラッグ"
+
+msgid "slug for register as employer page"
+msgstr "雇用者ページとして登録するためのスラッグ"
+
+msgid "reg job seeker page"
+msgstr "reg求職者ページ"
+
+msgid "slug for user register page"
+msgstr "ユーザー登録ページのスラッグ"
+
+msgid "slug for add resume page"
+msgstr "履歴書ページを追加するためのスラッグ"
+
+msgid "slug for my resumes page"
+msgstr "私の履歴書ページのスラッグ"
+
+msgid "slug for companies page"
+msgstr "会社のページのスラッグ"
+
+msgid "slug for my applied jobs page"
+msgstr "適用されたジョブページのスラッグ"
+
+msgid "slug for job applied resume page"
+msgstr "仕事に適用された履歴書ページのスラッグ"
+
+msgid "slug for job search page"
+msgstr "就職活動ページのスラッグ"
+
+msgid "slug for job save search page"
+msgstr "ジョブ保存検索ページのスラッグ"
+
+msgid "slug for job alert page"
+msgstr "ジョブアラートページのスラッグ"
+
+msgid "slug for job rss page"
+msgstr "ジョブのRSSページのスラッグ"
+
+msgid "slug for shortlisted jobs page"
+msgstr "候補リストのジョブページのスラッグ"
+
+msgid "slug for job seeker purchase history page"
+msgstr "求職者の購入履歴ページのスラッグ"
+
+msgid "slug for rate list job seeker page"
+msgstr "レートリスト求職者ページのスラッグ"
+
+msgid "slug for rate list employer page"
+msgstr "レートリスト雇用者ページのスラッグ"
+
+msgid "slug for job seeker credits log page"
+msgstr "求職者クレジットログページのスラッグ"
+
+msgid "slug for employer credits log page"
+msgstr "雇用主のクレジットログページのスラッグ"
+
+msgid "slug for jobs by categories page"
+msgstr "カテゴリ別のジョブのスラッグページ"
+
+msgid "slug for newest jobs page"
+msgstr "最新のジョブページのスラッグ"
+
+msgid "slug for jobs by cities page"
+msgstr "都市別の仕事のスラッグページ"
+
+msgid "slug for employer resume pdf"
+msgstr "雇用主の履歴書pdfのスラッグ"
+
+msgid "Slug for edit Profile"
+msgstr "プロファイルを編集するためのスラッグ"
+
+msgid "Accounting/Finance"
+msgstr "会計＆ファイナンス"
+
+msgid "Administrative"
+msgstr "管理"
+
+msgid "Advertising"
+msgstr "広告"
+
+msgid "Airlines/Avionics/Aerospace"
+msgstr "航空/アビオニクス/航空宇宙"
+
+msgid "Architectural"
+msgstr "建築"
+
+msgid "Automotive"
+msgstr "自動車"
+
+msgid "Banking/Finance"
+msgstr "銀行/金融"
+
+msgid "Biotechnology"
+msgstr "バイオテクノロジー"
+
+msgid "Civil/Construction"
+msgstr "土木"
+
+msgid "Engineering"
+msgstr "エンジニアリング"
+
+msgid "Cleared Jobs"
+msgstr "クリアされたジョブ"
+
+msgid "Communications"
+msgstr "コミュニケーション"
+
+msgid "Construction"
+msgstr "工事"
+
+msgid "Consultant/Contractual"
+msgstr "コンサルタント/契約"
+
+msgid "Customer Service"
+msgstr "顧客サービス"
+
+msgid "Defense"
+msgstr "防衛"
+
+msgid "Design"
+msgstr "デザイン"
+
+msgid "Electrical Engineering"
+msgstr "電気工学"
+
+msgid "Electronics Engineering"
+msgstr "電子工学"
+
+msgid "Energy"
+msgstr "エネルギー"
+
+msgid "Environmental/Safety"
+msgstr "環境/安全"
+
+msgid "Fundraising"
+msgstr "募金"
+
+msgid "Health/Medicine"
+msgstr "健康/医療"
+
+msgid "Homeland Security"
+msgstr "国土安全保障"
+
+msgid "Human Resources"
+msgstr "人事"
+
+msgid "Insurance"
+msgstr "保険"
+
+msgid "Intelligence Jobs"
+msgstr "インテリジェンスジョブ"
+
+msgid "Internships/Trainees"
+msgstr "インターンシップ/研修生"
+
+msgid "Legal"
+msgstr "法的"
+
+msgid "Logistics/Transportation"
+msgstr "ロジスティクス/輸送"
+
+msgid "Maintenance"
+msgstr "メンテナンス"
+
+msgid "Management"
+msgstr "管理"
+
+msgid "Manufacturing/Warehouse"
+msgstr "製造/倉庫"
+
+msgid "Marketing"
+msgstr "マーケティング"
+
+msgid "Materials Management"
+msgstr "資材管理"
+
+msgid "Mechanical Engineering"
+msgstr "機械工学"
+
+msgid "Mortgage/Real Estate"
+msgstr "住宅ローン/不動産"
+
+msgid "National Security"
+msgstr "国際セキュリティー"
+
+msgid "Part-time/Freelance"
+msgstr "パートタイム/フリーランス"
+
+msgid "Printing"
+msgstr "印刷"
+
+msgid "Product Design"
+msgstr "製品デザイン"
+
+msgid "Public Relations"
+msgstr "広報"
+
+msgid "Public Safety"
+msgstr "公安"
+
+msgid "Research"
+msgstr "リサーチ"
+
+msgid "Retail"
+msgstr "小売り"
+
+msgid "Sales"
+msgstr "売上高"
+
+msgid "Scientific"
+msgstr "科学"
+
+msgid "Shipping/Distribution"
+msgstr "配送/配送"
+
+msgid "Technicians"
+msgstr "技術者"
+
+msgid "Trades"
+msgstr "トレード"
+
+msgid "Transportation"
+msgstr "交通"
+
+msgid "Transportation Engineering"
+msgstr "交通工学"
+
+msgid "Web Site Development"
+msgstr "Webサイトの開発"
+
+msgid "Cast Accounting"
+msgstr "キャストアカウンティング"
+
+msgid "Controllership & Accounting Managment"
+msgstr "管理および会計管理"
+
+msgid "Payroll"
+msgstr "給与"
+
+msgid "Corporate Finance"
+msgstr "企業金融"
+
+msgid "Administrative Division"
+msgstr "行政区画"
+
+msgid "Autonomous Territories"
+msgstr "自治区"
+
+msgid "Administrative County"
+msgstr "行政カウンティ"
+
+msgid "Administrative Communes"
+msgstr "管理コミューン"
+
+msgid "Finance Advertising"
+msgstr "金融広告"
+
+msgid "Advertising-Tourism"
+msgstr "広告-観光"
+
+msgid "Advertising Social Net"
+msgstr "広告ソーシャルネット"
+
+msgid "Distributor Marketing"
+msgstr "ディストリビューターマーケティング"
+
+msgid "Facebook Advertising"
+msgstr "Facebookの広告"
+
+msgid "Quality Engineer"
+msgstr "品質管理技術者"
+
+msgid "Office Assistant"
+msgstr "オフィスアシスタント"
+
+msgid "Air Host/hostess"
+msgstr "エアホスト/ホステス"
+
+msgid "Ticketing/reservation"
+msgstr "発券/予約"
+
+msgid "Architectural Drafting"
+msgstr "建築製図"
+
+msgid "Enterprize Architecture"
+msgstr "エンタープライズアーキテクチャ"
+
+msgid "Architecture Frameworks"
+msgstr "アーキテクチャフレームワーク"
+
+msgid "Automotive Design"
+msgstr "自動車デザイン"
+
+msgid "Autmotive Paints"
+msgstr "自動車用塗料"
+
+msgid "Automotive Equipment/Parts"
+msgstr "自動車機器/部品"
+
+msgid "Automotive Search Engine"
+msgstr "自動車検索エンジン"
+
+msgid "Private Banking"
+msgstr "プライベートバンキング"
+
+msgid "Stock Brocker"
+msgstr "株式ブローカー"
+
+msgid "Fractional-reserve Banking"
+msgstr "部分準備銀行"
+
+msgid "Mobile Banking"
+msgstr "モバイルバンキング"
+
+msgid "Plant Biotechnology"
+msgstr "植物バイオテクノロジー"
+
+msgid "Animal Biotechnology"
+msgstr "動物バイオテクノロジー"
+
+msgid "Biotechnology & Medicine"
+msgstr "バイオテクノロジーと医学"
+
+msgid "Biotechnology & Society"
+msgstr "バイオテクノロジーと社会"
+
+msgid "Industrail & Microbial Biotechnonogy"
+msgstr "産業および微生物バイオテクノロジー"
+
+msgid "Construction (Design & Managment)"
+msgstr "建設（設計および管理）"
+
+msgid "Construction Engineering"
+msgstr "建設工学"
+
+msgid "Composite Construction"
+msgstr "複合構造"
+
+msgid "Civil Engineering"
+msgstr "土木工学"
+
+msgid "Software Engineering"
+msgstr "ソフトウェア工学"
+
+msgid "Nuclear Engineering"
+msgstr "原子力工学"
+
+msgid "Ocean Engingeering"
+msgstr "海洋工学"
+
+msgid "Transpotation Engineering"
+msgstr "交通工学"
+
+msgid "Security Cleared Jobs"
+msgstr "セキュリティクリアされたジョブ"
+
+msgid "Security Cleared IT Jobs"
+msgstr "セキュリティはITジョブをクリアしました"
+
+msgid "Confidential & Secret Security Clearance Job"
+msgstr "機密および秘密のセキュリティクリアランスジョブ"
+
+msgid "Verbal"
+msgstr "口頭"
+
+msgid "E-mail"
+msgstr "Eメール"
+
+msgid "Non-verbal"
+msgstr "非言語的"
+
+msgid "Computer Consulting Services"
+msgstr "コンピュータコンサルティングサービス"
+
+msgid "Computer Installations Services"
+msgstr "コンピュータインストールサービス"
+
+msgid "Software Vendors"
+msgstr "ソフトウェアベンダー"
+
+msgid "Renovaiton"
+msgstr "リノベーション"
+
+msgid "New Construction"
+msgstr "新築"
+
+msgid "Organization Development"
+msgstr "組織開発"
+
+msgid "Construction Management"
+msgstr "施工管理"
+
+msgid "Managment Consulting"
+msgstr "経営コンサルティング"
+
+msgid "High Touch Customer Service"
+msgstr "ハイタッチカスタマーサービス"
+
+msgid "Low Touch Customer Service"
+msgstr "ロータッチカスタマーサービス"
+
+msgid "Bad Touch Customer Service"
+msgstr "バッドタッチカスタマーサービス"
+
+msgid "By Using legal services for the poor"
+msgstr "貧しい人々のための法律サービスを利用することによって"
+
+msgid "By Using Retained Counsel"
+msgstr "留置された弁護士を利用することによって"
+
+msgid "By Self-representation"
+msgstr "自己表現による"
+
+msgid "Project Subtype Design"
+msgstr "プロジェクトサブタイプの設計"
+
+msgid "Graphic Design"
+msgstr "グラフィックデザイン"
+
+msgid "Interior Desing"
+msgstr "インテリア・デザイン"
+
+msgid "IT or Engineering Education"
+msgstr "ITまたは工学教育"
+
+msgid "Commerce & Managment"
+msgstr "コマース＆マネジメント"
+
+msgid "Medical Education"
+msgstr "医学教育"
+
+msgid "Power Engineering"
+msgstr "パワー工学"
+
+msgid "Instrumentation"
+msgstr "計装"
+
+msgid "Telecommunication"
+msgstr "電気通信"
+
+msgid "Signal Processing"
+msgstr "信号処理"
+
+msgid "Electromagnetics"
+msgstr "電磁気学"
+
+msgid "Network Analysis"
+msgstr "ネットワーク分析"
+
+msgid "Control Systems"
+msgstr "制御システム"
+
+msgid "Thermal Energy"
+msgstr "熱エネルギー"
+
+msgid "Chemical Energy"
+msgstr "化学エネルギー"
+
+msgid "Electrical Energy"
+msgstr "電気エネルギー"
+
+msgid "Nuclear Energy"
+msgstr "核エネルギー"
+
+msgid "Nuclear Safety"
+msgstr "原子力安全"
+
+msgid "Agriculture Safety"
+msgstr "農業の安全性"
+
+msgid "Occupational Health Safety"
+msgstr "労働安全衛生"
+
+msgid "Unique Fundraisers"
+msgstr "ユニークな募金活動"
+
+msgid "Sports Fundraiserse"
+msgstr "スポーツ募金活動"
+
+msgid "Fundraisers"
+msgstr "募金活動"
+
+msgid "Staying Informed"
+msgstr "情報を入手する"
+
+msgid "Medical Edcuation"
+msgstr "医学教育"
+
+msgid "Managing a partucular disease"
+msgstr "特定の病気の管理"
+
+msgid "Customs & Border Protection"
+msgstr "税関国境警備局"
+
+msgid "Federal Law & Enforcement"
+msgstr "連邦法および施行"
+
+msgid "Nation Protection"
+msgstr "国家保護"
+
+msgid "Benefits Administrators"
+msgstr "メリット管理者"
+
+msgid "Executive Compensation Analysts"
+msgstr "役員報酬アナリスト"
+
+msgid "Managment Analysts"
+msgstr "経営アナリスト"
+
+msgid "Health Insurance"
+msgstr "健康保険"
+
+msgid "Life Insurance"
+msgstr "生命保険"
+
+msgid "Vehicle Insurance"
+msgstr "自動車保険"
+
+msgid "Artificial Intelligence"
+msgstr "人工知能"
+
+msgid "Predictive Analytics"
+msgstr "予測分析"
+
+msgid "Science & Technology"
+msgstr "科学技術"
+
+msgid "Work Experience internship"
+msgstr "実務経験インターンシップ"
+
+msgid "Research internship"
+msgstr "研究インターンシップ"
+
+msgid "Sales & Marketing Intern"
+msgstr "セールス＆マーケティングインターン"
+
+msgid "According To Law"
+msgstr "法律によると"
+
+msgid "Defined Rule"
+msgstr "定義されたルール"
+
+msgid "Shipping"
+msgstr "運送"
+
+msgid "Transpotation Managment"
+msgstr "輸送管理"
+
+msgid "Third-party Logistics Provider"
+msgstr "サードパーティロジスティクスプロバイダー"
+
+msgid "General Maintenance"
+msgstr "一般的なメンテナンス"
+
+msgid "Automobile Maintenance"
+msgstr "自動車のメンテナンス"
+
+msgid "Equipment Manitenance"
+msgstr "設備保全"
+
+msgid "Project Managment"
+msgstr "プロジェクト管理"
+
+msgid "Planning"
+msgstr "計画"
+
+msgid "Risk Managment"
+msgstr "危機管理"
+
+msgid "Quality Assurance"
+msgstr "品質保証"
+
+msgid "Product Manager"
+msgstr "プロダクトマネージャー"
+
+msgid "Planning Supervisor"
+msgstr "企画監督者"
+
+msgid "Networking"
+msgstr "ネットワーキング"
+
+msgid "Direct Mail Marketing"
+msgstr "ダイレクトメールマーケティング"
+
+msgid "Media Advertising"
+msgstr "メディア広告"
+
+msgid "Supply Chain"
+msgstr "サプライチェーン"
+
+msgid "Hazardous Materials Management"
+msgstr "危険物管理"
+
+msgid "Materials Inventory Managment"
+msgstr "材料在庫管理"
+
+msgid "Aerospace"
+msgstr "航空宇宙"
+
+msgid "Biomedical"
+msgstr "生物医学"
+
+msgid "Mechanical"
+msgstr "機械的"
+
+msgid "Naval"
+msgstr "海軍"
+
+msgid "Conventional Mortgage"
+msgstr "従来の住宅ローン"
+
+msgid "Adjustable Rate Mortgage"
+msgstr "アジャスタブルレート住宅ローン"
+
+msgid "Commercial Mortgages"
+msgstr "商業用不動産ローン"
+
+msgid "Economic Security"
+msgstr "経済安全保障"
+
+msgid "Environmental Security"
+msgstr "環境セキュリティ"
+
+msgid "Military Security"
+msgstr "軍事安全保障"
+
+msgid "Freelance Portfolios"
+msgstr "フリーランスのポートフォリオ"
+
+msgid "Freelance Freedom"
+msgstr "フリーランスの自由"
+
+msgid "Freelance Jobs"
+msgstr "フリーランスの仕事"
+
+msgid "Offset Lithographp"
+msgstr "オフセットリトグラフ"
+
+msgid "Themography Raised Printing"
+msgstr "サーモグラフィーレイズドプリント"
+
+msgid "Digital Printing"
+msgstr "デジタル印刷"
+
+msgid "idea Generation"
+msgstr "アイデア創造"
+
+msgid "Need Based Generation"
+msgstr "ニーズベースの世代"
+
+msgid "Design Solution"
+msgstr "デザインソリューション"
+
+msgid "Media Relations"
+msgstr "メディアへの広報窓口"
+
+msgid "Media Tours"
+msgstr "メディアツアー"
+
+msgid "Newsletters"
+msgstr "ニュースレター"
+
+msgid "Automised Security"
+msgstr "自動化されたセキュリティ"
+
+msgid "Environmental & Social Safety"
+msgstr "環境と社会の安全"
+
+msgid "Basic Research"
+msgstr "基礎研究"
+
+msgid "Applied Research"
+msgstr "応用研究"
+
+msgid "Methods & Appraches"
+msgstr "方法とアプローチ"
+
+msgid "Department Stores"
+msgstr "デパート"
+
+msgid "Discount Stores"
+msgstr "ディスカウントストア"
+
+msgid "Supermarkets"
+msgstr "スーパーマーケット"
+
+msgid "Sales Contracts"
+msgstr "売買契約"
+
+msgid "Sales Forecasts"
+msgstr "売上予測"
+
+msgid "Sales Managment"
+msgstr "販売管理"
+
+msgid "Scientific Managment"
+msgstr "科学的管理"
+
+msgid "Scientific Research"
+msgstr "科学研究"
+
+msgid "Scientific invenctions"
+msgstr "科学的発明"
+
+msgid "Shppping/Distrubution Companies"
+msgstr "配送/流通会社"
+
+msgid "Services"
+msgstr "サービス"
+
+msgid "Channels & Softwares"
+msgstr "チャネルとソフトウェア"
+
+msgid "Medical Technicians"
+msgstr "医療技術者"
+
+msgid "Electrical Technicians"
+msgstr "電気技術者"
+
+msgid "Accounting Technicians"
+msgstr "会計技術者"
+
+msgid "Construction Trade"
+msgstr "建設業"
+
+msgid "Stock Trade"
+msgstr "株取引"
+
+msgid "skilled Trade"
+msgstr "熟練を要する職業"
+
+msgid "Option Trade"
+msgstr "オプション取引"
+
+msgid "Transpotation System"
+msgstr "交通機関"
+
+msgid "Human-Powered"
+msgstr "人力輸送"
+
+msgid "Airline,Train,bus,car"
+msgstr "航空会社、電車、バス、車"
+
+msgid "Subway & Civil"
+msgstr "地下鉄と市民"
+
+msgid "Traffic Highway Transpotation"
+msgstr "交通高速道路輸送"
+
+msgid "Small Business"
+msgstr "小規模なビジネス"
+
+msgid "E-Commerce Sites"
+msgstr "Eコマースサイト"
+
+msgid "Portals"
+msgstr "ポータル"
+
+msgid "Search Engines"
+msgstr "サーチエンジン"
+
+msgid "Personal,Commercial,Govt"
+msgstr "個人、商業、政府"
+
+msgid "Student (Undergraduate)"
+msgstr "学生（学部）"
+
+msgid "Student (Graduate)"
+msgstr "学生（大学院）"
+
+msgid "Entry Level"
+msgstr "入門レベル"
+
+msgid "Experienced (Non-Manager)"
+msgstr "経験豊富（非マネージャー）"
+
+msgid "Manager"
+msgstr "マネジャー"
+
+msgid "Executive (Department Head, SVP, VP etc)"
+msgstr "エグゼクティブ（部門長、SVP、VPなど）"
+
+msgid "Senior Executive (President, CEO, etc)"
+msgstr "シニアエグゼクティブ（社長、CEOなど）"
+
+msgid "uid"
+msgstr "uid"
+
+msgid "Logo"
+msgstr "ロゴ"
+
+msgid "Address1"
+msgstr "住所（1"
+
+msgid "Address2"
+msgstr "アドレス2"
+
+msgid "Terms And Conditions"
+msgstr "規約と条件"
+
+msgid "Send Email"
+msgstr "メールを送る"
+
+msgid "Send me Resume"
+msgstr "履歴書を送ってください"
+
+msgid "Prefered Skills"
+msgstr "優先スキル"
+
+msgid "Agreement"
+msgstr "合意"
+
+msgid "Filter"
+msgstr "フィルター"
+
+msgid "Redirect on apply"
+msgstr "適用時にリダイレクト"
+
+msgid "First Name"
+msgstr "ファーストネーム"
+
+msgid "Last Name"
+msgstr "苗字"
+
+msgid "Files"
+msgstr "ファイル"
+
+msgid "Add Address"
+msgstr "住所を追加"
+
+msgid "Certificate Name"
+msgstr "証明書名"
+
+msgid "Study Area"
+msgstr "学習の場"
+
+msgid "Supervisor"
+msgstr "スーパーバイザー"
+
+msgid "Resume Editor"
+msgstr "履歴書編集者"
+
+msgid "Add Language"
+msgstr "言語を追加"
+
+msgid "Date From"
+msgstr "デートから"
+
+msgid "Date to"
+msgstr "日付"
+
+msgid "Tag Line"
+msgstr "タグライン"
+
+msgid "Desired  Salary"
+msgstr "希望する給与"
+
+msgid "I currently work there"
+msgstr "私は現在そこで働いています"
+
+msgid "University"
+msgstr "大学"
+
+msgid "College"
+msgstr "カレッジ"
+
+msgid "High School"
+msgstr "高校"
+
+msgid "No School"
+msgstr "休校"
+
+msgid "Sourcing"
+msgstr "ソーシング"
+
+msgid "Interviewing"
+msgstr "インタビュー"
+
+msgid "Closed to New Applicants"
+msgstr "新規応募者の締め切り"
+
+msgid "Finalists Identified"
+msgstr "ファイナリストが特定"
+
+msgid "Pending Approval"
+msgstr "承認待ちの"
+
+msgid "Hold"
+msgstr "所有"
+
+msgid "Part-Time"
+msgstr "パートタイム"
+
+msgid "Internship"
+msgstr "インターンシップ"
+
+msgid "United States"
+msgstr "アメリカ"
+
+msgid "Canada"
+msgstr "カナダ"
+
+msgid "Bahamas"
+msgstr "バハマ"
+
+msgid "Barbados"
+msgstr "バルバドス"
+
+msgid "Belize"
+msgstr "ベリーズ"
+
+msgid "Bermuda"
+msgstr "バミューダ"
+
+msgid "British Virgin Islands"
+msgstr "イギリス領バージン諸島"
+
+msgid "Cayman Islands"
+msgstr "ケイマン諸島"
+
+msgid "Costa Rica"
+msgstr "コスタリカ"
+
+msgid "Cuba"
+msgstr "キューバ"
+
+msgid "Dominica"
+msgstr "ドミニカ"
+
+msgid "Dominican Republic"
+msgstr "ドミニカ共和国"
+
+msgid "El Salvador"
+msgstr "エルサルバドル"
+
+msgid "Greenland"
+msgstr "グリーンランド"
+
+msgid "Grenada"
+msgstr "グレナダ"
+
+msgid "Guadeloupe"
+msgstr "グアドループ"
+
+msgid "Guatemala"
+msgstr "グアテマラ"
+
+msgid "Haiti"
+msgstr "ハイチ"
+
+msgid "Honduras"
+msgstr "ホンジュラス"
+
+msgid "Jamaica"
+msgstr "ジャマイカ"
+
+msgid "Martinique"
+msgstr "マルティニーク"
+
+msgid "Mexico"
+msgstr "メキシコ"
+
+msgid "Montserrat"
+msgstr "モントセラト"
+
+msgid "Nicaragua"
+msgstr "ニカラグア"
+
+msgid "Panama"
+msgstr "パナマ"
+
+msgid "Puerto Rico"
+msgstr "プエルトリコ"
+
+msgid "Trinidad and Tobago"
+msgstr "トリニダード・トバゴ"
+
+msgid "United States Virgin Islands"
+msgstr "アメリカ領バージン諸島"
+
+msgid "Argentina"
+msgstr "アルゼンチン"
+
+msgid "Bolivia"
+msgstr "ボリビア"
+
+msgid "Brazil"
+msgstr "ブラジル"
+
+msgid "Chile"
+msgstr "チリ"
+
+msgid "Colombia"
+msgstr "コロンビア"
+
+msgid "Ecuador"
+msgstr "エクアドル"
+
+msgid "Falkland Islands"
+msgstr "フォークランド諸島"
+
+msgid "French Guiana"
+msgstr "フランス領ギアナ"
+
+msgid "Guyana"
+msgstr "ガイアナ"
+
+msgid "Paraguay"
+msgstr "パラグアイ"
+
+msgid "Peru"
+msgstr "ペルー"
+
+msgid "Suriname"
+msgstr "スリナム"
+
+msgid "Uruguay"
+msgstr "ウルグアイ"
+
+msgid "Venezuela"
+msgstr "ベネズエラ"
+
+msgid "Albania"
+msgstr "アルバニア"
+
+msgid "Andorra"
+msgstr "アンドラ"
+
+msgid "Armenia"
+msgstr "アルメニア"
+
+msgid "Austria"
+msgstr "オーストリア"
+
+msgid "Azerbaijan"
+msgstr "アゼルバイジャン"
+
+msgid "Belarus"
+msgstr "ベラルーシ"
+
+msgid "Belgium"
+msgstr "ベルギー"
+
+msgid "Bosnia and Herzegovina"
+msgstr "ボスニア・ヘルツェゴビナ"
+
+msgid "Bulgaria"
+msgstr "ブルガリア"
+
+msgid "Croatia"
+msgstr "クロアチア"
+
+msgid "Cyprus"
+msgstr "キプロス"
+
+msgid "Czech Republic"
+msgstr "チェコ共和国"
+
+msgid "Denmark"
+msgstr "デンマーク"
+
+msgid "Estonia"
+msgstr "エストニア"
+
+msgid "Finland"
+msgstr "フィンランド"
+
+msgid "France"
+msgstr "フランス"
+
+msgid "Georgia"
+msgstr "ジョージア"
+
+msgid "Germany"
+msgstr "ドイツ"
+
+msgid "Gibraltar"
+msgstr "ジブラルタル"
+
+msgid "Greece"
+msgstr "ギリシャ"
+
+msgid "Guernsey"
+msgstr "ガーンジー"
+
+msgid "Hungary"
+msgstr "ハンガリー"
+
+msgid "Iceland"
+msgstr "アイスランド"
+
+msgid "Ireland"
+msgstr "アイルランド"
+
+msgid "Isle of Man"
+msgstr "マン島"
+
+msgid "Italy"
+msgstr "イタリア"
+
+msgid "Jersey"
+msgstr "ジャージー"
+
+msgid "Kosovo"
+msgstr "コソボ"
+
+msgid "Latvia"
+msgstr "ラトビア"
+
+msgid "Liechtenstein"
+msgstr "リヒテンシュタイン"
+
+msgid "Lithuania"
+msgstr "リトアニア"
+
+msgid "Luxembourg"
+msgstr "ルクセンブルク"
+
+msgid "Macedonia"
+msgstr "マケドニア"
+
+msgid "Malta"
+msgstr "マルタ"
+
+msgid "Moldova"
+msgstr "モルドバ"
+
+msgid "Monaco"
+msgstr "モナコ"
+
+msgid "Montenegro"
+msgstr "モンテネグロ"
+
+msgid "Netherlands"
+msgstr "オランダ"
+
+msgid "Norway"
+msgstr "ノルウェー"
+
+msgid "Poland"
+msgstr "ポーランド"
+
+msgid "Portugal"
+msgstr "ポルトガル"
+
+msgid "Romania"
+msgstr "ルーマニア"
+
+msgid "Russia"
+msgstr "ロシア"
+
+msgid "San Marino"
+msgstr "サンマリノ"
+
+msgid "Serbia"
+msgstr "セルビア"
+
+msgid "Slovakia"
+msgstr "スロバキア"
+
+msgid "Slovenia"
+msgstr "スロベニア"
+
+msgid "Spain"
+msgstr "スペイン"
+
+msgid "Sweden"
+msgstr "スウェーデン"
+
+msgid "Switzerland"
+msgstr "スイス"
+
+msgid "Turkey"
+msgstr "七面鳥"
+
+msgid "Ukraine"
+msgstr "ウクライナ"
+
+msgid "United Kingdom"
+msgstr "イギリス"
+
+msgid "Vatican City"
+msgstr "バチカン市"
+
+msgid "Afghanistan"
+msgstr "アフガニスタン"
+
+msgid "Bahrain"
+msgstr "バーレーン"
+
+msgid "Bangladesh"
+msgstr "バングラデシュ"
+
+msgid "Bhutan"
+msgstr "ブータン"
+
+msgid "Brunei"
+msgstr "ブルネイ"
+
+msgid "Cambodia"
+msgstr "カンボジア"
+
+msgid "China"
+msgstr "中国"
+
+msgid "East Timor"
+msgstr "東ティモール"
+
+msgid "Hong Kong"
+msgstr "香港"
+
+msgid "India"
+msgstr "インド"
+
+msgid "Indonesia"
+msgstr "インドネシア"
+
+msgid "Iran"
+msgstr "イラン"
+
+msgid "Iraq"
+msgstr "イラク"
+
+msgid "Israel"
+msgstr "イスラエル"
+
+msgid "Japan"
+msgstr "日本"
+
+msgid "Jordan"
+msgstr "ヨルダン"
+
+msgid "Kazakhstan"
+msgstr "カザフスタン"
+
+msgid "Kuwait"
+msgstr "クウェート"
+
+msgid "Kyrgyzstan"
+msgstr "キルギスタン"
+
+msgid "Laos"
+msgstr "ラオス"
+
+msgid "Lebanon"
+msgstr "レバノン"
+
+msgid "Macau"
+msgstr "マカオ"
+
+msgid "Malaysia"
+msgstr "マレーシア"
+
+msgid "Maldives"
+msgstr "モルディブ"
+
+msgid "Mongolia"
+msgstr "モンゴル"
+
+msgid "Myanmar (Burma)"
+msgstr "ミャンマー（ビルマ）"
+
+msgid "Nepal"
+msgstr "ネパール"
+
+msgid "North Korea"
+msgstr "北朝鮮"
+
+msgid "Oman"
+msgstr "オマーン"
+
+msgid "Pakistan"
+msgstr "パキスタン"
+
+msgid "Philippines"
+msgstr "フィリピン"
+
+msgid "Qatar"
+msgstr "カタール"
+
+msgid "Saudi Arabia"
+msgstr "サウジアラビア"
+
+msgid "Singapore"
+msgstr "シンガポール"
+
+msgid "South Korea"
+msgstr "韓国"
+
+msgid "Sri Lanka"
+msgstr "スリランカ"
+
+msgid "Syria"
+msgstr "シリア"
+
+msgid "Taiwan"
+msgstr "台湾"
+
+msgid "Tajikistan"
+msgstr "タジキスタン"
+
+msgid "Thailand"
+msgstr "タイ"
+
+msgid "Turkmenistan"
+msgstr "トルクメニスタン"
+
+msgid "United Arab Emirates"
+msgstr "アラブ首長国連邦"
+
+msgid "Uzbekistan"
+msgstr "ウズベキスタン"
+
+msgid "Vietnam"
+msgstr "ベトナム"
+
+msgid "Yemen"
+msgstr "イエメン"
+
+msgid "Algeria"
+msgstr "アルジェリア"
+
+msgid "Angola"
+msgstr "アンゴラ"
+
+msgid "Benin"
+msgstr "ベナン"
+
+msgid "Botswana"
+msgstr "ボツワナ"
+
+msgid "Burkina Faso"
+msgstr "ブルキナファソ"
+
+msgid "Burundi"
+msgstr "ブルンジ"
+
+msgid "Cameroon"
+msgstr "カメルーン"
+
+msgid "Cape Verde"
+msgstr "カーボベルデ"
+
+msgid "Central African Republic"
+msgstr "中央アフリカ共和国"
+
+msgid "Chad"
+msgstr "チャド"
+
+msgid "Congo"
+msgstr "コンゴ"
+
+msgid "Democoratic Republic of Congo"
+msgstr "コンゴ民主共和国"
+
+msgid "Djibouti"
+msgstr "ジブチ"
+
+msgid "Egypt"
+msgstr "エジプト"
+
+msgid "Equatorial Guinea"
+msgstr "赤道ギニア"
+
+msgid "Eritrea"
+msgstr "エリトリア"
+
+msgid "Ethiopia"
+msgstr "エチオピア"
+
+msgid "Gabon"
+msgstr "ガボン"
+
+msgid "Gambia"
+msgstr "ガンビア"
+
+msgid "Ghana"
+msgstr "ガーナ"
+
+msgid "Guinea"
+msgstr "ギニア"
+
+msgid "Guinea-Bissau"
+msgstr "ギニアビサウ"
+
+msgid "Cote DIvory"
+msgstr "コートジボワール"
+
+msgid "Kenya"
+msgstr "ケニア"
+
+msgid "Lesotho"
+msgstr "レソト"
+
+msgid "Liberia"
+msgstr "リベリア"
+
+msgid "Libya"
+msgstr "リビア"
+
+msgid "Madagascar"
+msgstr "マダガスカル"
+
+msgid "Malawi"
+msgstr "マラウイ"
+
+msgid "Mali"
+msgstr "マリ"
+
+msgid "Mauritania"
+msgstr "モーリタニア"
+
+msgid "Mauritius"
+msgstr "モーリシャス"
+
+msgid "Morocco"
+msgstr "モロッコ"
+
+msgid "Mozambique"
+msgstr "モザンビーク"
+
+msgid "Namibia"
+msgstr "ナミビア"
+
+msgid "Niger"
+msgstr "ニジェール"
+
+msgid "Nigeria"
+msgstr "ナイジェリア"
+
+msgid "Reunion"
+msgstr "再会"
+
+msgid "Rwanda"
+msgstr "ルワンダ"
+
+msgid "Sao Tome and Principe"
+msgstr "サントメ・プリンシペ"
+
+msgid "Senegal"
+msgstr "セネガル"
+
+msgid "Seychelles"
+msgstr "セイシェル"
+
+msgid "Sierra Leone"
+msgstr "シエラレオネ"
+
+msgid "Somalia"
+msgstr "ソマリア"
+
+msgid "South Africa"
+msgstr "南アフリカ"
+
+msgid "Sudan"
+msgstr "スーダン"
+
+msgid "Swaziland"
+msgstr "スワジランド"
+
+msgid "Tanzania"
+msgstr "タンザニア"
+
+msgid "Togo"
+msgstr "トーゴ"
+
+msgid "Tunisia"
+msgstr "チュニジア"
+
+msgid "Uganda"
+msgstr "ウガンダ"
+
+msgid "Western Sahara"
+msgstr "西サハラ"
+
+msgid "Zambia"
+msgstr "ザンビア"
+
+msgid "Zimbabwe"
+msgstr "ジンバブエ"
+
+msgid "Australia"
+msgstr "オーストラリア"
+
+msgid "New Zealand"
+msgstr "ニュージーランド"
+
+msgid "Fiji"
+msgstr "フィジー"
+
+msgid "French Polynesia"
+msgstr "フランス領ポリネシア"
+
+msgid "Guam"
+msgstr "グアム"
+
+msgid "Kiribati"
+msgstr "キリバス"
+
+msgid "Marshall Islands"
+msgstr "マーシャル諸島"
+
+msgid "Micronesia"
+msgstr "ミクロネシア"
+
+msgid "Nauru"
+msgstr "ナウル"
+
+msgid "New Caledonia"
+msgstr "ニューカレドニア"
+
+msgid "Papua New Guinea"
+msgstr "パプアニューギニア"
+
+msgid "Samoa"
+msgstr "サモア"
+
+msgid "Solomon Islands"
+msgstr "ソロモン諸島"
+
+msgid "Tonga"
+msgstr "トンガ"
+
+msgid "Tuvalu"
+msgstr "ツバル"
+
+msgid "Vanuatu"
+msgstr "バヌアツ"
+
+msgid "Wallis and Futuna"
+msgstr "ウォリス・フツナ"
+
+msgid "Comoros"
+msgstr "コモロ"
+
+msgid "Cote DIvorie"
+msgstr "コートジボワール"
+
+msgid "Type city:"
+msgstr "タイプ都市："
+
+msgid "Expiry In"
+msgstr "有効期限"
+
+msgid "Email is not of correct Format"
+msgstr "メールの形式が正しくありません"
+
+msgid "Resumefiles"
+msgstr "再開ファイル"
+
+msgid "Show number of job types per row on"
+msgstr "行ごとのジョブタイプの数を表示する"
+
+msgid "job by type"
+msgstr "タイプ別の仕事"
+
+msgid "page"
+msgstr "ページ"
+
+msgid "Show number of categories per row in"
+msgstr "行ごとのカテゴリ数をで表示"
+
+msgid "job/resume by category"
+msgstr "カテゴリ別の仕事/履歴書"
+
+msgid "How many sub categories show in popup on"
+msgstr "上のポップアップに表示されるサブカテゴリの数"
+
+msgid "Price per Company submission (only for"
+msgstr "会社の提出ごとの価格（"
+
+msgid "per listing"
+msgstr "リストごと"
+
+msgid "mode)"
+msgstr "モード）"
+
+msgid "Price per Job Alert Submission (only for"
+msgstr "ジョブアラート送信あたりの価格（"
+
+msgid "Price per Job submission (only for"
+msgstr "ジョブ送信あたりの価格（"
+
+msgid "Price per Featured Job submission (only for"
+msgstr "注目のジョブ送信あたりの価格（"
+
+msgid "Resume submission (only for"
+msgstr "提出を再開します（"
+
+msgid "Feature per Resume submission (only for"
+msgstr "履歴書提出ごとの機能（"
+
+msgid "Feature per Company submission (only for"
+msgstr "会社ごとの機能の提出（"
+
+msgid "Resume Save Search  submission (only for"
+msgstr "保存検索の送信を再開します（"
+
+msgid "Job Apply  submission (only for"
+msgstr "求人応募の提出（"
+
+msgid "Resume View Contact Detail  submission (only for"
+msgstr "連絡先の詳細の表示の送信を再開します（"
+
+msgid "Company View Contact Detail  submission (only for"
+msgstr "会社ビュー連絡先詳細の送信（"
+
+msgid "Department  submission (only for"
+msgstr "部門の提出（"
+
+msgid "Currencies"
+msgstr "通貨"
+
+msgid "Add Job Status"
+msgstr "ジョブステータスの追加"
+
+msgid "Add Shifts"
+msgstr "シフトを追加"
+
+msgid "Add Highest Education"
+msgstr "最高の教育を追加する"
+
+msgid "Add Age"
+msgstr "年齢を追加"
+
+msgid "Add Career Level"
+msgstr "キャリアレベルを追加"
+
+msgid "Add Experience"
+msgstr "経験を追加する"
+
+msgid "Add Currency"
+msgstr "通貨を追加する"
+
+msgid "Select Language"
+msgstr "言語を選択する"
+
+msgid "Show gold jobs in jobs listing page"
+msgstr "ジョブリストページにゴールドジョブを表示する"
+
+msgid "Show featured jobs in jobs listing page"
+msgstr "ジョブリストページに注目のジョブを表示する"
+
+msgid "Job Seeker purchase package"
+msgstr "求職者購入パッケージ"
+
+msgid "Desire Salary"
+msgstr "希望給与"
+
+msgid "File Upload"
+msgstr "ファイルのアップロード"
+
+msgid "Language Where Learned"
+msgstr "学んだ言語"
+
+msgid "Language Understanding"
+msgstr "言語理解"
+
+msgid "Language Writing"
+msgstr "言語ライティング"
+
+msgid "Language Reading"
+msgstr "言語読解"
+
+msgid "Reference Name"
+msgstr "参照名"
+
+msgid "Reference City"
+msgstr "参照都市"
+
+msgid "Reference Zipcode"
+msgstr "参照郵便番号"
+
+msgid "Reference Address"
+msgstr "参照アドレス"
+
+msgid "Reference Phone"
+msgstr "参照電話"
+
+msgid "Reference Relation"
+msgstr "参照関係"
+
+msgid "Reference Years"
+msgstr "基準年"
+
+msgid "Leave Reason"
+msgstr "理由を残す"
+
+msgid "Institute City"
+msgstr "インスティテュートシティ"
+
+msgid "Driving License"
+msgstr "運転免許証"
+
+msgid "License No."
+msgstr "ライセンス番号"
+
+msgid "License Country"
+msgstr "ライセンス国"
+
+msgid "Searchable"
+msgstr "検索可能"
+
+msgid "Job Salary Range"
+msgstr "仕事の給与範囲"
+
+msgid "No Of Jobs"
+msgstr "仕事はありません"
+
+msgid "Zipcode"
+msgstr "郵便番号"
+
+msgid "Send Me Resume"
+msgstr "履歴書を送ってください"
+
+msgid "Visitor Unpublish"
+msgstr "ビジター非公開"
+
+msgid "Visitor Publish"
+msgstr "ビジター公開"
+
+msgid "Select Files"
+msgstr "ファイルを選択"
+
+msgid "You Unsubscribe Job Alert"
+msgstr "ジョブアラートの購読を解除します"
+
+msgid "Add Employer Package"
+msgstr "雇用者パッケージを追加"
+
+msgid "Free Package"
+msgstr "無料パッケージ"
+
+msgid "Delete Cat And Sub-cat"
+msgstr "猫とサブ猫を削除"
+
+msgid "Error in saving message"
+msgstr "メッセージの保存中にエラーが発生しました"
+
+msgid "Can not get free package more then once"
+msgstr "無料パッケージを2回以上取得することはできません"
+
+msgid "Incorrect Email Address"
+msgstr "正しくないメールアドレス"
+
+msgid "Employer Not Allowed"
+msgstr "雇用主は許可されていません"
+
+msgid "You are not allowed to unsubscribe from the job alert"
+msgstr "ジョブアラートの購読を解除することはできません"
+
+msgid "Error while assigning package to user"
+msgstr "パッケージをユーザーに割り当てるときにエラーが発生しました"
+
+msgid "Cannot assign free package more than once"
+msgstr "無料パッケージを複数回割り当てることはできません"
+
+msgid "JS Jobs for any business, industry body or staffing company wishing to establish a presence on the internet where job seekers can come to view the latest jobs and apply to them.JS Jobs allows you to run your own, unique jobs classifieds service where you or employer can advertise their jobs and jobseekers can upload their Resumes."
+msgstr "JS Jobsは、求職者が最新の求人を閲覧して応募できるインターネット上での存在感を確立したいと考えている企業、業界団体、または人材派遣会社向けです。JSJobsを使用すると、独自の求人広告サービスを実行できます。雇用主は自分の仕事を宣伝でき、求職者は履歴書をアップロードできます。"
+
+msgid "Choose Version"
+msgstr "バージョンを選択"
+
+msgid "Continue"
+msgstr "継続する"
+
+msgid "JS Support Ticket is a trusted open source ticket system. JS Support Ticket is a simple, easy to use, web-based customer support system. User can create ticket from front-end. JS Support Ticket comes packed with lot features than most of the expensive"
+msgstr "JSサポートチケットは、信頼できるオープンソースのチケットシステムです。 JSサポートチケットは、シンプルで使いやすいWebベースのカスタマーサポートシステムです。ユーザーはフロントエンドからチケットを作成できます。 JSサポートチケットには、高価なもののほとんどよりも多くの機能が満載されています"
+
+msgid "and complex"
+msgstr "複雑"
+
+msgid "support ticket system on market."
+msgstr "市場に出回っているサポートチケットシステム。"
+
+msgid "You Are Not Allowed"
+msgstr "あなたは許可されていません"
+
+msgid "Edit Erase Data Request"
+msgstr "消去データリクエストの編集"
+
+msgid "Email template option for employer has been changed"
+msgstr "雇用主のメールテンプレートオプションが変更されました"
+
+msgid "Do you sure to submit the erase data request?"
+msgstr "データ消去リクエストを送信してもよろしいですか？"
+
+msgid "Delete Cat"
+msgstr "猫を削除"
+
+msgid "Sub-Cat"
+msgstr "サブキャット"
+
+msgid " "
+msgstr ""
+
+msgid "Resume files"
+msgstr "ファイルを再開する"
+
+msgid "Enter Name Here"
+msgstr "ここに名前を入力してください"
+
+msgid "You do not have any companies remaining"
+msgstr "会社が残っていません"
+
+msgid "You do not have any department remaining"
+msgstr "部門が残っていません"
+
+msgid "Enter -1 for Unlimited"
+msgstr "Unlimitedに-1を入力します"
+
+msgid "Less than 1 year"
+msgstr "1年未満"
+
+msgid "Fresh"
+msgstr "新鮮"
+
+msgid "Miscellaneous Tutorials"
+msgstr "その他のチュートリアル"
+
+msgid "Plugin Walkthrough"
+msgstr "プラグインのチュートリアル"
+
+msgid "How to Set Up WP Job Portal"
+msgstr "WP ジョブポータルのセットアップ方法"
+
+msgid "Find step-by-step setup instructions and access all tutorial videos to get started quickly."
+msgstr "ステップバイステップのセットアップ手順を確認し、すべてのチュートリアル ビデオにアクセスして、すぐに開始できます。"
+
+msgid "Explore all shortcodes and watch a video tutorial on how to create pages with them."
+msgstr "すべてのショートコードを調べて、それを使用してページを作成する方法に関するビデオ チュートリアルをご覧ください。"
+
+msgid "Manage Addons"
+msgstr "アドオンの管理"
+
+msgid "Check the status of your addons and easily install new ones to enhance functionality."
+msgstr "アドオンのステータスを確認し、新しいアドオンを簡単にインストールして機能を強化します。"
+
+msgid "How to Set Up"
+msgstr "セットアップ方法"
+
+msgid "Visit Help Page"
+msgstr "ヘルプページにアクセス"
+
+msgid "Check Status"
+msgstr "ステータスの確認"
+
+msgid "Install Guide"
+msgstr "インストールガイド"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Deleting section will delete all its fields."
+msgstr "セクションを削除すると、そのセクションのすべてのフィールドが削除されます。"
+
+msgid "more"
+msgstr "もっと"
+
+msgid "link"
+msgstr "リンク"
+
+msgid "Days+"
+msgstr "日+"
+
+msgid "Jobseeker not allowed to perform this action"
+msgstr "求職者はこのアクションを実行できません"
+
+msgid "No Of Job"
+msgstr "ジョブの番号"
+
+msgid "No Of Feature"
+msgstr "機能の数"
+
+msgid "No Of Company Contact View"
+msgstr "会社の連絡先ビューの番号"
+
+msgid "Remaining Company Contact View"
+msgstr "残りの会社の連絡先ビュー"
+
+msgid "Addons Status"
+msgstr "アドオンのステータス"
+
+msgid "Please enter a Photo"
+msgstr "写真を入力してください"
+
+msgid "Please enter a Last Name"
+msgstr "姓を入力してください"
+
+msgid "Please enter a First Name"
+msgstr "名を入力してください"
+
+msgid "Invalid User Name"
+msgstr "無効なユーザー名"
+
+msgid "Please enter a User Name"
+msgstr "ユーザー名を入力してください"
+
+msgid "register an account"
+msgstr "アカウントを登録"
+
+msgid "Full Time"
+msgstr "フルタイム"
+
+msgid "Parent Category"
+msgstr "親カテゴリ"
+
+msgid "Folders Approval Queue"
+msgstr "フォルダー承認キュー"
+
+msgid "Cover Letter Section"
+msgstr "カバーレターセクション"
+
+msgid "Visitor Published"
+msgstr "訪問者公開"
+
+msgid "User Published"
+msgstr "ユーザー公開"
+
+msgid "Meta"
+msgstr "メタ"
+
+msgid "Visitor Unpublished"
+msgstr "訪問者非公開"
+
+msgid "user unpublish"
+msgstr "ユーザーの非公開"
+
+msgid "User Publish"
+msgstr "ユーザー公開"
+
+msgid "Normal"
+msgstr "普通"
+
+msgid "Savings"
+msgstr "貯蓄"
+
+msgid "Credit System"
+msgstr "クレジット制度"
+
+msgid "on preser theme Aqua"
+msgstr "プリザーテーマ「アクア」について"
+
+msgid "Reference For column"
+msgstr "参考コラム"
+
+msgid "User Id"
+msgstr "ユーザーID"
+
+msgid "slug for companies listing page"
+msgstr "企業リストページのスラッグ"
+
+msgid "slug for my jobs by cities page"
+msgstr "都市別の私の仕事のスラッグページ"
+
+msgid "slug for view coverletter page"
+msgstr "カバーレターページを表示するためのスラッグ"
+
+msgid "slug for add coverletter page"
+msgstr "カバーレター ページを追加するためのスラッグ"
+
+msgid "slug for my coverletters page"
+msgstr "私のカバーレターページのスラッグ"
+
+msgid "slug for login page"
+msgstr "ログインページのスラッグ"
+
+msgid "added a new Resume"
+msgstr "新しい履歴書を追加しました"
+
+msgid "added a new Job"
+msgstr "新しいジョブを追加しました"
+
+msgid "Deleted a Job"
+msgstr "ジョブを削除しました"
+
+msgid "Deleted a Company"
+msgstr "会社を削除しました"
+
+msgid "added a new Company"
+msgstr "新しい会社を追加しました"
+
+msgid "added a new Resume Search"
+msgstr "新しい履歴書検索を追加しました"
+
+msgid "Resumesearches"
+msgstr "履歴書検索"
+
+msgid "slugs on multi places"
+msgstr "複数の場所にナメクジ"
+
+msgid "Sample Page"
+msgstr "サンプルページ"
+
+msgid "subscriber"
+msgstr "加入者"
+
+msgid "Employer Stat Boxes"
+msgstr "雇用主統計ボックス"
+
+msgid "Applied Jobs Box"
+msgstr "適用されたジョブボックス"
+
+msgid "Enter the Google reCaptcha site key from"
+msgstr "Google reCaptcha サイト キーを入力します。"
+
+msgid "Google reCaptcha Version"
+msgstr "Google reCaptcha バージョン"
+
+msgid "Google reCaptcha Site Key"
+msgstr "Google reCaptcha サイトキー"
+
+msgid "Newsest Jobs Box"
+msgstr "最新の求人ボックス"
+
+msgid "Price per"
+msgstr "あたりの価格"
+
+msgid "submission"
+msgstr "提出"
+
+msgid "only for"
+msgstr "それだけに"
+
+msgid "No of days untill"
+msgstr "までの日数"
+
+msgid "Expire"
+msgstr "期限切れ"
+
+msgid "Price per Resume View Contact Detail (only for"
+msgstr "履歴書ごとの価格 連絡先の詳細を表示 (のみ)"
+
+msgid "this is some desc text for job rss"
+msgstr "これはジョブ RSS の説明テキストです"
+
+msgid "webmaster text"
+msgstr "ウェブマスターテキスト"
+
+msgid "copy right text"
+msgstr "著作権テキスト"
+
+msgid "Redirect Link For WP User after login"
+msgstr "ログイン後の WP ユーザーのリダイレクト リンク"
+
+msgid "Link To Redirect WP user who does not have a role in WP Job Portal"
+msgstr "WP Job Portal でロールを持たない WP ユーザーをリダイレクトするリンク"
+
+msgid "WP Job Portal is an open-source job board plugin for WordPress that provides advanced features to help you create a successful job board. In addition, we offer trusted WP Job Portal add-ons that can further enhance your job board's functionality in a fast, safe, and easy manner. Our add-ons have been designed to integrate seamlessly with our job board plugin, ensuring you can expand your job board's capabilities without any complications. "
+msgstr "WP Job Portal は、WordPress 用のオープンソースの求人掲示板プラグインで、成功する求人掲示板の作成に役立つ高度な機能を提供します。さらに、迅速、安全、簡単な方法で求人サイトの機能をさらに強化できる、信頼できる WP Job Portal アドオンを提供します。当社のアドオンは、求人掲示板プラグインとシームレスに統合できるように設計されており、複雑なことをせずに求人掲示板の機能を拡張できます。"
+
+msgid "Deactivate"
+msgstr "非アクティブ化"
+
+msgid "Updated"
+msgstr "更新しました"
+
+msgid "editor text"
+msgstr "エディターのテキスト"
+
+msgid "No of Cover Letters"
+msgstr "カバーレターの数"
+
+msgid "You have not answered all required fields"
+msgstr "すべての必須フィールドに回答していません"
+
+msgid "January"
+msgstr "1月"
+
+msgid "February"
+msgstr "2月"
+
+msgid "March"
+msgstr "行進"
+
+msgid "April"
+msgstr "4月"
+
+msgid "May"
+msgstr "5月"
+
+msgid "June"
+msgstr "六月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "August"
+msgstr "8月"
+
+msgid "September"
+msgstr "9月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "November"
+msgstr "11月"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Auto approve cover letter for job seeker"
+msgstr "求職者のカバーレターを自動承認"
+
+msgid "Job Seeker Stat Boxes"
+msgstr "求職者統計ボックス"
+
+msgid "Job short list setting effects on job detail page"
+msgstr "ジョブ詳細ページでのジョブ候補リスト設定の影響"
+
+msgid "Resume View Contact Detail"
+msgstr "履歴書 連絡先の詳細を表示"
+
+msgid "Company View Contact Detail"
+msgstr "会社概要連絡先詳細を見る"
+
+msgid "Cover Letters"
+msgstr "カバーレター"
+
+msgid "Activate"
+msgstr "活性化"
+
+msgid "View Cover Letter"
+msgstr "カバーレターを見る"
+
+msgid "No Cover Letter"
+msgstr "カバーレターなし"
+
+msgid "searchable"
+msgstr "検索可能"
+
+msgid "Cover Letter Title"
+msgstr "カバーレターのタイトル"
+
+msgid "Cover Letter Approval Queue"
+msgstr "カバーレター承認キュー"
+
+msgid "Cover Letters Approval Queue"
+msgstr "カバーレターの承認キュー"
+
+msgid "Already uploaded"
+msgstr "すでにアップロードされています"
+
+msgid "How to Setup"
+msgstr "セットアップ方法"
+
+msgid "How to setup WP Job Portal"
+msgstr "WPジョブポータルのセットアップ方法"
+
+msgid "Delete Cover Letter"
+msgstr "カバーレターの削除"
+
+msgid "Cover Letter Detail"
+msgstr "カバーレターの詳細"
+
+msgid "Select Payment"
+msgstr "お支払いを選択してください"
+
+msgid "My Department"
+msgstr "私の部署"
+
+msgid "Add To ShortList"
+msgstr "ショートリストに追加"
+
+msgid "or"
+msgstr "または"
+
+msgid "company logo"
+msgstr "会社のロゴ"
+
+msgid "job title"
+msgstr "役職"
+
+msgid "company name"
+msgstr "会社名"
+
+msgid "Resume Has Been Feature SuccesFully"
+msgstr "履歴書は正常に取り上げられています"
+
+msgid "My coverletter"
+msgstr "私のカバーレター"
+
+msgid "Add coverletter"
+msgstr "カバーレターを追加します"
+
+msgid "Total Cover Letter"
+msgstr "トータルカバーレター"
+
+msgid "Remaining Cover Letter"
+msgstr "残りのカバーレター"
+
+msgid "Open ChatGPT"
+msgstr "chatgptを開きます"
+
+msgid "How To Add Cover Letter With ChatGPT"
+msgstr "chatgptにカバーレターを追加する方法"
+
+msgid "Edit coverletter"
+msgstr "カバーレターを編集します"
+
+msgid "Edit Cover Letter"
+msgstr "カバーレターを編集します"
+
+msgid "Delete coverletter"
+msgstr "カバーレターを削除します"
+
+msgid "coverletter title"
+msgstr "カバーレターのタイトル"
+
+msgid "Add New Cover Letter"
+msgstr "新しいカバーレターを追加します"
+
+msgid "Quote from Hello Dolly song, by Jerry Herman:"
+msgstr "ジェリー・ハーマンによるハロー・ドリー・ソングからの引用："
+
+msgid "Select Parent"
+msgstr "親を選択します"
+
+msgid "Edit Field"
+msgstr "フィールドを編集します"
+
+msgid "Visitor published"
+msgstr "訪問者が公開されました"
+
+msgid "Show On Listing"
+msgstr "リストに表示します"
+
+msgid "Advanced"
+msgstr "高度な"
+
+msgid "Equal"
+msgstr "等しい"
+
+msgid "Not Equal"
+msgstr "平等ではありません"
+
+msgid "Multi Select"
+msgstr "マルチセレクト"
+
+msgid "Visible"
+msgstr "見える"
+
+msgid "Select Child"
+msgstr "子を選択します"
+
+msgid "Select Condition"
+msgstr "条件を選択します"
+
+msgid "To use this feature please fill the above three fields."
+msgstr "この機能を使用するには、上記の3つのフィールドを埋めてください。"
+
+msgid "No response found"
+msgstr "応答が見つかりません"
+
+msgid "Quick Apply"
+msgstr "迅速な適用"
+
+msgid "user publish"
+msgstr "ユーザーパブリッシュ"
+
+msgid "User Unpublished"
+msgstr "ユーザー未発表"
+
+msgid "visitor publish"
+msgstr "訪問者パブリッシュ"
+
+msgid "visitor unpublish"
+msgstr "訪問者は不公開"
+
+msgid "Select user status"
+msgstr "ユーザーステータスを選択します"
+
+msgid "Un published"
+msgstr "国連公開"
+
+msgid "File upload fields and text editor fields cannot be made required."
+msgstr "ファイルアップロードフィールドとテキストエディターフィールドを必要とすることはできません。"
+
+msgid "Dependent Field"
+msgstr "従属フィールド"
+
+msgid "Job Apply settings"
+msgstr "job適用設定"
+
+msgid "Quick Apply settings"
+msgstr "クイック適用設定"
+
+msgid "Show count in jobs by cities page"
+msgstr "都市ごとのJobsのカウントを表示します"
+
+msgid "Show country in jobs by cities page"
+msgstr "都市ごとのジョブズの国を表示します"
+
+msgid "Profile Section"
+msgstr "プロファイルセクション"
+
+msgid "Recaptcha Version 2"
+msgstr "Recaptchaバージョン2"
+
+msgid "Recaptcha Version 3"
+msgstr "Recaptchaバージョン3"
+
+msgid "System slug"
+msgstr "システムスラッグ"
+
+msgid "Image file size"
+msgstr "画像ファイルサイズ"
+
+msgid "System will not upload if image size is greater than the given size"
+msgstr "画像サイズが与えられたサイズより大きい場合、システムはアップロードされません"
+
+msgid "Show page title above wpjobportal breadcrumbs"
+msgstr "wpjobportalパン粉の上にページのタイトルを表示します"
+
+msgid "Default Image For WP Job Portal"
+msgstr "WPジョブポータルのデフォルト画像"
+
+msgid "This image will shown as default image for entities & users if no other image is provided."
+msgstr "この画像は、他の画像が提供されていない場合、エンティティとユーザーのデフォルト画像として表示されます。"
+
+msgid "Default country"
+msgstr "デフォルトの国"
+
+msgid "Select default country for user added cities"
+msgstr "ユーザーが追加された都市のデフォルトの国を選択します"
+
+msgid "Job detail URL options are title, company, category, location, jobtype. eg- [title] [company]"
+msgstr "ジョブの詳細URLオプションは、タイトル、会社、カテゴリ、場所、jobTypeです。 eg- [title] [company]"
+
+msgid "Select the Google reCaptcha Version"
+msgstr "Google Recaptchaバージョンを選択します"
+
+msgid "Recent Resumes Box"
+msgstr "最近の履歴書ボックス"
+
+msgid "mode"
+msgstr "モード"
+
+msgid "expire"
+msgstr "期限切れ"
+
+msgid "Registration is disabled in WordPress settings, please enable to Membership: anyone can register."
+msgstr "登録はWordPressの設定で無効になります。メンバーシップを有効にしてください：誰でも登録できます。"
+
+msgid "Quick Apply Now"
+msgstr "今すぐ迅速に適用してください"
+
+msgid "Enable Quick Apply for user"
+msgstr "ユーザーを迅速に適用できるようにします"
+
+msgid "Enable Quick Apply for visitor"
+msgstr "訪問者を迅速に適用できるようにします"
+
+msgid "Enable captcha for visitor Quick Apply"
+msgstr "訪問者にCaptchaを迅速に適用できるようにします"
+
+msgid "Show captcha to visitor on quick apply form."
+msgstr "Quick Apply FormでCaptchaを訪問者に見せます。"
+
+msgid "Add ons for WP Job Portal have been installed and activated successfully. "
+msgstr "WPジョブポータルの追加をインストールし、正常にアクティブ化しました。"
+
+msgid "WP Job Portal is an open-source job board plugin for WordPress that provides advanced features to help you create a successful job board. In addition, we offer trusted WP Job Portal add-ons that can further enhance your job board's functionality in a fast, safe, and easy manner. Our add-ons have been designed to integrate seamlessly with our job board plugin, ensuring you can expand your job board's capabilities without any complications."
+msgstr "WP Job Portalは、WordPress用のオープンソースジョブボードプラグインであり、成功したジョブボードを作成するのに役立つ高度な機能を提供します。さらに、迅速で安全で簡単な方法でジョブボードの機能をさらに強化できる、信頼できるWPジョブポータルアドオンを提供しています。アドオンは、ジョブボードプラグインとシームレスに統合するように設計されており、合併症なくジョブボードの機能を拡大できるようにしています。"
+
+msgid "Savings*"
+msgstr "節約*"
+
+msgid "Best Deal"
+msgstr "最良の取引"
+
+msgid "Shortlist Job"
+msgstr "候補者の仕事"
+
+msgid "e.g 45000"
+msgstr "例：45000"
+
+msgid "e.g 3000"
+msgstr "例：3000"
+
+msgid "e.g 6000"
+msgstr "例：6000"
+
+msgid "Deactivated"
+msgstr "非アクティブ化"
+
+msgid "Not Installed"
+msgstr "インストールされていません"
+
+msgid "Addon Installed Successfully"
+msgstr "Addonは正常にインストールされました"
+
+msgid "Addon installation failed"
+msgstr "アドオンのインストールに失敗しました"
+
+msgid "Resume Data Management"
+msgstr "データ管理を再開します"
+
+msgid "Export (csv)"
+msgstr "エクスポート（CSV）"
+
+msgid "Configuration Based Tutorials"
+msgstr "構成ベースのチュートリアル"
+
+msgid "Slugs"
+msgstr "ナメクジ"
+
+msgid "Theme Installation"
+msgstr "テーマのインストール"
+
+msgid "WP Job Portal Theme  Installation"
+msgstr "WPジョブポータルテーマのインストール"
+
+msgid "System Management"
+msgstr "システム管理"
+
+msgid "Activity Log and System Errors"
+msgstr "アクティビティログとシステムエラー"
+
+msgid "Shortcode"
+msgstr "ショートコード"
+
+msgid "Job Seeker Control Panel"
+msgstr "求職者コントロールパネル"
+
+msgid "A shortcode designed for jobseeker, providing an easy-to-use controlpanel to manage applications, resume, and preferences directly from their dashboard."
+msgstr "ジョブシーカー向けに設計されたショートコードは、ダッシュボードから直接アプリケーション、履歴書、および好みを管理するための使いやすいコントロールパネルを提供します。"
+
+msgid "Base Shortcode"
+msgstr "ベースショートコード"
+
+msgid "Shortcode With All Options"
+msgstr "すべてのオプションを備えたショートコード"
+
+msgid " The Employer Control Panel is a streamlined interface that allows employers to manage job postings, track applications, communicate with candidates, and analyze hiring metrics efficiently."
+msgstr "雇用主のコントロールパネルは、雇用主が求人を管理し、アプリケーションを追跡し、候補者と通信し、採用メトリックを効率的に分析できるための合理化されたインターフェイスです。"
+
+msgid "The job search shortcode enables users to easily find job listings based on various criteria."
+msgstr "求人検索ショートコードにより、ユーザーはさまざまな基準に基づいてジョブリストを簡単に見つけることができます。"
+
+msgid "The jobs shortcode is a feature that displays individual job listings on a website."
+msgstr "Jobsショートコードは、Webサイトに個々のジョブリストを表示する機能です。"
+
+msgid "The featured job shortcode highlights select job listings on a website, making them stand out to potential applicants."
+msgstr "注目のジョブショートコードは、Webサイトで選択したジョブリストを強調し、潜在的な応募者に目立たせます。"
+
+msgid "This Shortcode requires WP Job Portal Featured Jobs Addon"
+msgstr "このショートコードには、WPジョブポータルが機能するジョブアドオンが必要です"
+
+msgid "Get Addon"
+msgstr "アドオンを取得します"
+
+msgid "Job Categories"
+msgstr "職種"
+
+msgid "The job categories shortcode displays a dynamic list of available categories, enabling users to easily navigate and find relevant job listings."
+msgstr "ジョブカテゴリショートコードは、利用可能なカテゴリの動的リストを表示し、ユーザーが簡単にナビゲートして関連するジョブリストを見つけることができます。"
+
+msgid "The job types shortcode presents a comprehensive list of available job types, allowing users to quickly explore and find suitable job opportunities."
+msgstr "ジョブタイプのショートコードは、利用可能なジョブタイプの包括的なリストを提供し、ユーザーが迅速に適切な雇用機会を探索して見つけることができます。"
+
+msgid "My applied jobs shortcode provides users with a personalized list of their job applications, allowing easy access to track application status and details."
+msgstr "私のApplied Jobsショートコードは、ユーザーに求人アプリケーションのパーソナライズされたリストを提供し、アプリケーションのステータスと詳細を簡単に追跡できるようにします。"
+
+msgid "My companies shortcode displays a personalized list of companies users are associated with, facilitating easy access to company information and opportunities."
+msgstr "私の企業のショートコードは、ユーザーが関連付けている企業のパーソナライズされたリストを表示し、企業の情報と機会への簡単なアクセスを促進します。"
+
+msgid "All companies shortcode offers a curated directory of all companies, allowing users to easily browse and connect with potential employers."
+msgstr "すべての企業ショートコードは、すべての企業のキュレーションされたディレクトリを提供しており、ユーザーは潜在的な雇用主と簡単に閲覧してつながることができます。"
+
+msgid "This Shortcode requires WP Job Portal All Companies Addon"
+msgstr "このショートコードには、WPジョブポータルすべての企業アドオンが必要です"
+
+msgid "The featured companies shortcode showcases prominent companies within the portal, allowing users to explore exciting job opportunities from industry leaders."
+msgstr "注目の企業ショートコードは、ポータル内の著名な企業を紹介し、ユーザーが業界のリーダーからのエキサイティングな雇用機会を探求できるようにします。"
+
+msgid "This Shortcode requires WP Job Portal Featured Companies Addon"
+msgstr "このショートコードには、WPジョブポータルが特徴の企業アドオンが必要です"
+
+msgid "My jobs shortcode allows users to view and manage their saved job listings, making it easy to keep track of potential opportunities."
+msgstr "私のジョブショートコードにより、ユーザーは保存されたジョブリストを表示および管理できるようになり、潜在的な機会を簡単に追跡できます。"
+
+msgid "My resume shortcode allows users to view and manage their uploaded resumes, providing a convenient way to keep their job application materials up to date."
+msgstr "私の履歴書ショートコードにより、ユーザーはアップロードされた履歴書を表示および管理できるようになり、求人資料を最新の状態に保つための便利な方法が提供されます。"
+
+msgid "All Resumes"
+msgstr "すべての履歴書"
+
+msgid "All resumes shortcode allows job seekers to view and manage their uploaded resumes, ensuring they have easy access to their application materials."
+msgstr "すべての履歴書ショートコードにより、求職者はアップロードされた履歴書を表示および管理することができ、アプリケーション資料に簡単にアクセスできるようにします。"
+
+msgid "This Shortcode requires WP Job Portal All Resumes Addon"
+msgstr "このショートコードには、WPジョブポータルがすべてAddonを履歴書する必要があります"
+
+msgid "The featured resumes shortcode showcases a selection of standout resumes, allowing job seekers to stand out to potential employers."
+msgstr "注目の履歴書のショートコードは、傑出した履歴書の選択を紹介し、求職者が潜在的な雇用主に目立つことができます。"
+
+msgid "This Shortcode requires WP Job Portal Featured Resumes Addon"
+msgstr "このショートコードには、WPジョブポータルが履歴書アドオンを特徴とする必要があります"
+
+msgid "Add company shortcode allows employers to effortlessly register their organization, providing essential details to attract talent and post job openings."
+msgstr "ADD Companyショートコードにより、雇用主は組織を楽に登録することができ、才能を引き付け、求人をポストするための本質的な詳細を提供します。"
+
+msgid "Add department shortcode enables employers to easily create and manage specific departments within their organization, facilitating better job categorization and organization."
+msgstr "部門のショートコードを追加すると、雇用主は組織内の特定の部門を簡単に作成および管理できるようになり、より良い職種化と組織が促進されます。"
+
+msgid "This Shortcode requires WP Job Portal Multi Departments Addon"
+msgstr "このショートコードには、WPジョブポータルマルチ部門アドオンが必要です"
+
+msgid "Add jobs enables organizations to effortlessly publish job postings, helping them connect with potential applicants and fill vacancies more effectively."
+msgstr "ADDジョブにより、組織は求人を簡単に公開し、潜在的な応募者とつながり、空席をより効果的に満たすのに役立ちます。"
+
+msgid "Add resume shortcode simplifies the process for candidates to submit their resumes, helping them showcase their qualifications and experiences to potential employers."
+msgstr "履歴書ショートコードを追加すると、候補者が履歴書を提出するプロセスを簡素化し、潜在的な雇用主に資格と経験を紹介するのに役立ちます。"
+
+msgid "Resume search shortcode provides a powerful search tool for employers to explore candidate profiles, making it easier to connect with potential hires."
+msgstr "Resume Searchショートコードは、雇用主が候補者のプロファイルを探索するための強力な検索ツールを提供し、潜在的な採用者との接続を容易にします。"
+
+msgid "This Shortcode requires WP Job Portal Resume Search Addon"
+msgstr "このショートコードには、WPジョブポータル履歴書検索アドオンが必要です"
+
+msgid "Registration"
+msgstr "登録"
+
+msgid "Registration shortcode allows individuals to easily create accounts as their selected role"
+msgstr "登録ショートコードにより、個人は選択した役割としてアカウントを簡単に作成できます"
+
+msgid "Employer registration shortcode streamlines the process for organizations to register, ensuring they can efficiently manage job postings and their company profiles."
+msgstr "雇用主の登録ショートコードは、組織が登録するプロセスを合理化し、求人と会社のプロファイルを効率的に管理できるようにします。"
+
+msgid "Job Seeker Registration"
+msgstr "求職者登録"
+
+msgid "Job seeker registration shortcode allows individuals to easily create accounts, enabling them to apply for jobs and manage their resumes."
+msgstr "求職者登録ショートコードにより、個人はアカウントを簡単に作成できるようになり、ジョブに応募して履歴書を管理できます。"
+
+msgid "Login Page"
+msgstr "ログインページ"
+
+msgid "Login page shortcode offers a user-friendly interface for candidates and employers to securely log in and manage their profiles and postings."
+msgstr "ログインページショートコードは、候補者と雇用主がプロファイルと投稿を安全にログインして管理するためのユーザーフレンドリーなインターフェイスを提供します。"
+
+msgid "Widget"
+msgstr "ウィジェット"
+
+msgid "Search job widget provides an intuitive interface for candidates to filter and browse openings, connecting them with opportunities that align with their skills."
+msgstr "検索ジョブウィジェットは、候補者が開口部をフィルタリングおよび閲覧するための直感的なインターフェイスを提供し、スキルと一致する機会と接続します。"
+
+msgid "This Shortcode requires WP Job Portal Front-end Widgets Addon"
+msgstr "このショートコードには、WPジョブポータルフロントエンドウィジェットアドオンが必要です"
+
+msgid "My packages offers a personalized dashboard for users to monitor their subscription details, helping them manage job postings and access features effectively."
+msgstr "私のパッケージには、ユーザーがサブスクリプションの詳細を監視するためのパーソナライズされたダッシュボードを提供し、求人とアクセス機能を効果的に管理するのに役立ちます。"
+
+msgid "This Shortcode requires WP Job Portal Credits Addon"
+msgstr "このショートコードには、WPジョブポータルクレジットアドオンが必要です"
+
+msgid "My subscription provides users with an overview of their active subscriptions, allowing easy management and tracking of their job posting plans.  "
+msgstr "私のサブスクリプションは、ユーザーにアクティブなサブスクリプションの概要を提供し、求人計画の簡単な管理と追跡を可能にします。"
+
+msgid "All packages showcases a comprehensive list of available subscription plans, allowing users to compare features and select the best options for their job posting needs."
+msgstr "すべてのパッケージには、利用可能なサブスクリプションプランの包括的なリストが表示され、ユーザーが機能を比較し、求人ニーズに最適なオプションを選択できます。"
+
+msgid "My invoices provides a convenient way for users to view and manage their invoices, helping them stay organized and up to date with their payments."
+msgstr "私の請求書は、ユーザーが請求書を表示および管理するための便利な方法を提供し、支払いを組織化し、最新の状態に保つのに役立ちます。"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Document Title Settings"
+msgstr "ドキュメントタイトル設定"
+
+msgid "Company detail url options are name, location. eg- [name] [location]"
+msgstr "会社の詳細URLオプションは、名前、場所です。 eg- [name] [場所]"
+
+msgid "spinning wheel"
+msgstr "紡績ホイール"
+
+msgid "New Update Version"
+msgstr "新しいアップデートバージョン"
+
+msgid "is Available"
+msgstr "利用可能です"
+
+msgid "Hey there! We have recently launched a fresh update for the add-ons. Don't forget to update the add-ons to enjoy the greatest features!"
+msgstr "ちょっと、そこ！最近、アドオンの新鮮なアップデートを開始しました。アドオンを更新して、最大の機能を楽しむことを忘れないでください！"
+
+msgid "View Addone Status"
+msgstr "アドオンステータスを表示します"
+
+msgid "Active Companies"
+msgstr "アクティブな企業"
+
+msgid "Help Page"
+msgstr "ヘルプページ"
+
+msgid "Watch Tutorial"
+msgstr "チュートリアルをご覧ください"
+
+msgid "video"
+msgstr "ビデオ"
+
+msgid "Apply Now Failed"
+msgstr "今すぐ応募しました"
+
+msgid "You do not have package required for job apply"
+msgstr "仕事の応募に必要なパッケージはありません"
+
+msgid "You package has expired"
+msgstr "パッケージの有効期限が切れています"
+
+msgid "You do not any more job apply available"
+msgstr "あなたはこれ以上の仕事を利用可能にしません"
+
+msgid "Job Not Found"
+msgstr "ジョブが見つかりません"
+
+msgid "Job does not exist in the system"
+msgstr "システムにはジョブは存在しません"
+
+msgid "Make Payment To Complete The Job Apply"
+msgstr "仕事を完了するために支払いを行います"
+
+msgid "Successfully applied on job"
+msgstr "ジョブに正常に適用されます"
+
+msgid "view coverletter"
+msgstr "カバーレターを表示します"
+
+msgid "Please Fill out fields"
+msgstr "フィールドに記入してください"
+
+msgid "sender email is not of correct format"
+msgstr "送信者の電子メールは正しい形式ではありません"
+
+msgid "Erase Selected Country"
+msgstr "選択した国を消去します"
+
+msgid "Erase All Data"
+msgstr "すべてのデータを消去します"
+
+msgid "Click on package to select one"
+msgstr "パッケージをクリックして選択します"
+
+msgid "Apply to the Job"
+msgstr "仕事に応募してください"
+
+msgid "No Cover Letter!"
+msgstr "カバーレターはありません！"
+
+msgid "Add Cover Lettter"
+msgstr "カバーレターを追加します"
+
+msgid "You have already applied on this job."
+msgstr "あなたはすでにこの仕事に応募しています。"
+
+msgid "Unlimited job applies"
+msgstr "無制限の求人が適用されます"
+
+msgid "Job applies remaining"
+msgstr "ジョブは残りを適用します"
+
+msgid "Buy package to apply on job."
+msgstr "仕事に応募するためにパッケージを購入します。"
+
+msgid "Apply With Package"
+msgstr "パッケージで適用します"
+
+msgid "Payment of"
+msgstr "の支払い"
+
+msgid "is required to complete the job apply process"
+msgstr "職務適用プロセスを完了するには必要です"
+
+msgid "You are logged in as employer."
+msgstr "あなたは雇用主としてログインしています。"
+
+msgid "You are not a logged in member."
+msgstr "あなたはログインしているメンバーではありません。"
+
+msgid "You do not have any role."
+msgstr "あなたには何の役割もありません。"
+
+msgid "Proceed to payment"
+msgstr "支払いに進みます"
+
+msgid "Views"
+msgstr "ビュー"
+
+msgid "Save As Draft"
+msgstr "ドラフトとして保存します"
+
+msgid "Job Has Been Feature SuccesFully"
+msgstr "仕事は正常に取り上げられています"
+
+msgid "You are Not Allowed To Add More than One"
+msgstr "複数を追加することは許可されていません"
+
+msgid "Contact TO Adminstrator"
+msgstr "管理者に連絡します"
+
+msgid "This Is Meta Description"
+msgstr "これはメタの説明です"
+
+msgid "jobs by cities"
+msgstr "都市による仕事"
+
+msgid "Show Info"
+msgstr "情報を表示します"
+
+msgid "Changing a user's role will not remove its entites from the system !"
+msgstr "ユーザーの役割を変更しても、システムからエンティテスが削除されません！"
+
+msgid "company reject"
+msgstr "会社は拒否します"
+
+msgid "all reject"
+msgstr "すべてが拒否されます"
+
+msgid "Missing user(s) added successfully!"
+msgstr "不足しているユーザーが正常に追加されました！"
+
+msgid "No missing user found!"
+msgstr "不足しているユーザーは見つかりません！"
+
+msgid "Jobs Listing Menu"
+msgstr "ジョブリストメニュー"
+
+msgid "Visitor"
+msgstr "ビジター"
+
+msgid "new message alert"
+msgstr "新しいメッセージアラート"
+
+msgid "New Message Alert"
+msgstr "新しいメッセージアラート"
+
+msgid "Recipient Name"
+msgstr "受信者名"
+
+msgid "Sender Name"
+msgstr "送信者名"
+
+msgid "Sender Role"
+msgstr "送信者の役割"
+
+msgid "Message Text"
+msgstr "メッセージテキスト"
+
+msgid "Job/Resume Info"
+msgstr "ジョブ/履歴書情報"
+
+msgid "Upload Resume"
+msgstr "履歴書をアップロードします"
+
+msgid "Profile Status"
+msgstr "プロファイルステータス"
+
+msgid "Profile Completed"
+msgstr "プロファイルが完了しました"
+
+msgid "feature approve"
+msgstr "機能承認"
+
+msgid "feature reject"
+msgstr "機能は拒否されます"
+
+msgid "Type city"
+msgstr "タイプシティ"
+
+msgid "New Message"
+msgstr "新しいメッセージ"
+
+msgid "Employer is disabled by admin"
+msgstr "雇用主は管理者によって無効になっています"
+
+msgid "You are not allowed to add more than one"
+msgstr "複数を追加することは許可されていません"
+
+msgid "contact adminstrator"
+msgstr "管理者に連絡してください"
+
+msgid "Payment is not made against this job contact adminstrator"
+msgstr "このジョブ連絡先管理者に対する支払いは行われません"
+
+msgid "Addon Page Not Found"
+msgstr "アドオンページが見つかりません"
+
+msgid "User Role"
+msgstr "ユーザーロール"
+
+msgid "Jobs Role"
+msgstr "仕事の役割"
+
+msgid "User has been successfully created"
+msgstr "ユーザーは正常に作成されました"
+
+msgid "Pay For Department"
+msgstr "部門の支払い"
+
+msgid "Pay For Job Apply"
+msgstr "雇用申請の支払い"
+
+msgid "Pay For Company"
+msgstr "会社の代金を支払う"
+
+msgid "Pay For Featured Company"
+msgstr "特集会社の支払い"
+
+msgid "Pay For Job"
+msgstr "仕事の代金を支払う"
+
+msgid "Pay For Featured Job"
+msgstr "注目の仕事の代金を支払います"
+
+msgid "Pay For Resume Search"
+msgstr "履歴書検索の支払い"
+
+msgid "Pay For Resume "
+msgstr "履歴書の支払い"
+
+msgid "Pay For Featured Resume "
+msgstr "特集履歴書の支払い"
+
+msgid "Job Saved Searches"
+msgstr "ジョブで保存された検索"
+
+msgid "Job Apply Configurations"
+msgstr "JOB応用構成"
+
+msgid "Quick Apply Fields"
+msgstr "クイック適用フィールド"
+
+msgid "addons status"
+msgstr "アドオンステータス"
+
+msgid "coverletters"
+msgstr "カバーレター"
+
+msgid "coverletter"
+msgstr "カバーレター"
+
+msgid "add new cover letter"
+msgstr "新しいカバーレターを追加します"
+
+msgid "Loaction Name settings"
+msgstr "ロケーション名の設定"
+
+msgid "Loaction Name Settings"
+msgstr "ロケーション名の設定"
+
+msgid "shifts"
+msgstr "シフト"
+
+msgid "ages"
+msgstr "年齢"
+
+msgid "Error file size too large"
+msgstr "エラーファイルサイズが大きすぎます"
+
+msgid "Maximum Size"
+msgstr "最大サイズ"
+
+msgid "is in use"
+msgstr "使用中です"
+
+msgid "can not deleted it"
+msgstr "削除できません"
+
+msgid "Address data"
+msgstr "アドレスデータ"
+
+msgid "themes"
+msgstr "テーマ"
+
+msgid "Color Schemes"
+msgstr "カラースキーム"
+
+msgid "Color Chooser"
+msgstr "カラーチョーザー"
+
+msgid "Color 1"
+msgstr "色1"
+
+msgid "Color 2"
+msgstr "色2"
+
+msgid "Color 3"
+msgstr "色3"
+
+msgid "Add User Fields"
+msgstr "ユーザーフィールドを追加します"
+
+msgid "cannot unpublished"
+msgstr "未発表はできません"
+
+msgid "Search Name"
+msgstr "名前を検索します"
+
+msgid "start"
+msgstr "始める"
+
+msgid "Total Resume Search"
+msgstr "履歴書の合計検索"
+
+msgid "Remaining Resume Search"
+msgstr "残りの履歴書検索"
+
+msgid "Reference"
+msgstr "参照"
+
+msgid "cancel payment"
+msgstr "支払いをキャンセルします"
+
+msgid "Apply now"
+msgstr "今すぐ申請してください"
+
+msgid " Listing"
+msgstr "リスト"
+
+msgid "Credits log"
+msgstr "クレジットログ"
+
+msgid "Rate list"
+msgstr "レートリスト"
+
+msgid "Purchase history"
+msgstr "購入履歴"
+
+msgid " remaining"
+msgstr "残り"
+
+msgid "Cover Letter has been successfully published"
+msgstr "カバーレターが正常に公開されました"
+
+msgid "cover Letter has been successfully published"
+msgstr "カバーレターが正常に公開されました"
+
+msgid "Resume files download"
+msgstr "再開ファイルのダウンロード"
+
+msgid "apply with facebook"
+msgstr "Facebookに適用します"
+
+msgid "apply with linkedin"
+msgstr "LinkedInに適用します"
+
+msgid "apply with xing"
+msgstr "xingで適用します"
+
+msgid "Resume removed from featured"
+msgstr "機能から削除された履歴書"
+
+msgid "share blog"
+msgstr "ブログを共有します"
+
+msgid "share digg"
+msgstr "Diggを共有します"
+
+msgid "share fb"
+msgstr "FBを共有します"
+
+msgid "share ff"
+msgstr "FFを共有します"
+
+msgid "share google"
+msgstr "Googleを共有します"
+
+msgid "share linkedin"
+msgstr "LinkedInを共有します"
+
+msgid "share myspace"
+msgstr "myspaceを共有します"
+
+msgid "share twitter"
+msgstr "Twitterを共有します"
+
+msgid "share yahoo"
+msgstr "Yahooを共有します"
+
+msgid "Mark As Shortlist Job"
+msgstr "最終リストとしてマークするジョブとしてマークします"
+
+msgid "Keep this job on your list! Mark it as shortlisted and find it easily whenever you need."
+msgstr "この仕事をリストに載せてください！最終候補としてマークを付け、必要なときにいつでも簡単に見つけてください。"
+
+msgid "Search job title, company name, keywords"
+msgstr "役職、会社名、キーワードを検索します"
+
+msgid "Loction"
+msgstr "loction"
+
+msgid "Applied Resume Title"
+msgstr "応用履歴書タイトル"
+
+msgid "Arrow"
+msgstr "矢印"
+
+msgid "Already Applied"
+msgstr "すでに適用されています"
+
+msgid "Ready to take the next step? Simply fill out the form and submit your application. It only takes a few minutes!"
+msgstr "次のステップを踏む準備はできましたか？フォームに記入して、アプリケーションを送信するだけです。数分しかかかりません！"
+
+msgid "Waiting for Payment"
+msgstr "支払いを待っています"
+
+msgid "Salery"
+msgstr "塩水"
+
+msgid "Buy"
+msgstr "買う"
+
+msgid "Employer can add companies and jobs while searching for potential candidate to hire"
+msgstr "雇用主は、雇用する潜在的な候補者を探している間、企業や仕事を追加できます"
+
+msgid "Selected"
+msgstr "選択"
+
+msgid "Jobseeker can add resume, cover letters, search jobs and apply to multiple jobs easily"
+msgstr "Jobseekerは履歴書を追加したり、カバーレターを追加したり、ジョブを検索したり、複数のジョブに簡単に適用できます"
+
+msgid "Hello, again!..."
+msgstr "こんにちは、もう一度！..."
+
+msgid "View All Applied Jobs"
+msgstr "すべての適用ジョブを表示します"
+
+msgid "View All Newest Jobs"
+msgstr "すべての最新の仕事を見る"
+
+msgid "Hello, again!…"
+msgstr "こんにちは、また！…"
+
+msgid "Submit job"
+msgstr "ジョブを提出します"
+
+msgid "Submit Job"
+msgstr "ジョブを提出します"
+
+msgid "View detail"
+msgstr "詳細を表示します"
+
+msgid "Recently Applied Resume"
+msgstr "最近適用された履歴書"
+
+msgid "Messages By Resume"
+msgstr "履歴書によるメッセージ"
+
+msgid "Reply"
+msgstr "返事"
+
+msgid "View jobs"
+msgstr "ジョブを見る"
+
+msgid "Other Info"
+msgstr "その他の情報"
+
+msgid "Link"
+msgstr "リンク"
+
+msgid "Mail"
+msgstr "郵便"
+
+msgid "Site"
+msgstr "サイト"
+
+msgid "View Company Details"
+msgstr "会社の詳細を表示します"
+
+msgid "Completed"
+msgstr "完了しました"
+
+msgid "Categoty"
+msgstr "カテゴリ"
+
+msgid "tell a friend"
+msgstr "友達に教えてください"
+
+msgid "Tell friend"
+msgstr "友達に教えてください"
+
+msgid "Know someone perfect for this job? Share it with them!"
+msgstr "この仕事にぴったりの人を知っていますか？彼らと共有してください！"
+
+msgid "Your name"
+msgstr "あなたの名前"
+
+msgid "Your email"
+msgstr "あなたのメール"
+
+msgid "Show the"
+msgstr "を表示します"
+
+msgid "form to logged-in users on the job detail page. If this is on,"
+msgstr "ジョブの詳細ページでユーザーをログインするフォーム。これがオンになっている場合、"
+
+msgid "will be turned off."
+msgstr "オフになります。"
+
+msgid "form to visitor on the job detail page. If this is on,"
+msgstr "ジョブの詳細ページで訪問者にフォーム。これがオンになっている場合、"
+
+msgid "You do not have any save serch remaining"
+msgstr "セーブセルチが残っていません"
+
+msgid "We would love to hear from You."
+msgstr "私たちはあなたから聞いてみたいです。"

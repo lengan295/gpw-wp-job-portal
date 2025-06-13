@@ -1,0 +1,10 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Δήμος Λάρνακας", "Δήμος Λάρνακας", "Larnaca Municipality", NULL, 53, 0, 1, NULL, "34.9236095", "33.6236184"),
+("Δήμος Λευκωσίας", "Δήμος Λευκωσίας", "Nicosia Municipality", NULL, 53, 0, 1, NULL, "35.1769245", "33.392441020699"),
+("Lefkoşa", "Lefkoşa", "Nicosia", NULL, 53, 0, 1, NULL, "35.21165235", "33.331187759998"),
+("Πάφος", "Πάφος", "Pafos", NULL, 53, 0, 1, NULL, "34.7743988", "32.4231586"),
+("Λεμεσός", "Λεμεσός", "Limassol", NULL, 53, 0, 1, NULL, "34.6852901", "33.0332657"),
+("Λάρνακα", "Λάρνακα", "Larnaca", NULL, 53, 0, 1, NULL, "34.9236095", "33.6236184"),
+("Girne", "Girne", "Kyrenia", NULL, 53, 0, 1, NULL, "35.3352654", "33.3188405"),
+("Gazimağusa", "Gazimağusa", "Famagusta", NULL, 53, 0, 1, NULL, "35.1245436", "33.9325419");

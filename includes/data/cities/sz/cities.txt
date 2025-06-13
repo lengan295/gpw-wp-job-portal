@@ -1,0 +1,4 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Manzini", "Manzini", "Manzini", NULL, 188, 0, 1, NULL, "-26.4958706", "31.3695887"),
+("Mbabane", "Mbabane", "Mbabane", NULL, 188, 0, 1, NULL, "-26.325745", "31.144663");

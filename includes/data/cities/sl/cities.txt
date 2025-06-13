@@ -1,0 +1,8 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Waterloo", "Waterloo", "Waterloo", NULL, 184, 0, 1, NULL, "8.338977", "-13.069573"),
+("Bo", "Bo", "Bo", NULL, 184, 0, 1, NULL, "7.962065", "-11.73665"),
+("Freetown", "Freetown", "Freetown", NULL, 184, 0, 1, NULL, "8.479004", "-13.26795"),
+("Kambia", "Kambia", "Kambia", NULL, 184, 0, 1, NULL, "9.125073", "-12.919337"),
+("Kenema", "Kenema", "Kenema", NULL, 184, 0, 1, NULL, "7.8859723", "-11.1863832"),
+("Koidu", "Koidu", "Koidu", NULL, 184, 0, 1, NULL, "8.642281", "-10.971631");

@@ -1,0 +1,15 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Shkodër", "Shkodër", "Shkoder", NULL, 43, 0, 1, NULL, "42.0681371", "19.5121437"),
+("Vlorë", "Vlorë", "Vlora", NULL, 43, 0, 1, NULL, "40.4707602", "19.4912716"),
+("Fier", "Fier", "Fier", NULL, 43, 0, 1, NULL, "40.7251118", "19.5582079"),
+("Kavajë", "Kavajë", "Kavaje", NULL, 43, 0, 1, NULL, "41.1834239", "19.5599485"),
+("Durrës", "Durrës", "Durrës", NULL, 43, 0, 1, NULL, "41.313255", "19.4462348"),
+("Gjirokastër", "Gjirokastër", "Gjirokastra", NULL, 43, 0, 1, NULL, "40.0770871", "20.1393359"),
+("Berat", "Berat", "Berat", NULL, 43, 0, 1, NULL, "40.7018636", "19.9580758"),
+("Korçë", "Korçë", "Korçë", NULL, 43, 0, 1, NULL, "40.6158501", "20.7771401"),
+("Lushnjë", "Lushnjë", "Lushnja", NULL, 43, 0, 1, NULL, "40.9422038", "19.7059724"),
+("Elbasan", "Elbasan", "Elbasan", NULL, 43, 0, 1, NULL, "41.1105874", "20.0794072"),
+("Kamëz", "Kamëz", "Kamez", NULL, 43, 0, 1, NULL, "41.3835259", "19.7604224"),
+("Tiranë", "Tiranë", "Tirana", NULL, 43, 0, 1, NULL, "41.3281482", "19.8184435"),
+("Pogradec", "Pogradec", "Pogradec", NULL, 43, 0, 1, NULL, "40.8998739", "20.6573881");

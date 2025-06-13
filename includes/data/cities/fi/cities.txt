@@ -1,0 +1,23 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Turku", "Turku", "Turku", NULL, 57, 0, 1, NULL, "60.4517531", "22.2670522"),
+("Pori", "Pori", "Pori", NULL, 57, 0, 1, NULL, "61.4865542", "21.7968951"),
+("Vaasa", "Vaasa", "Vaasa", NULL, 57, 0, 1, NULL, "63.0957722", "21.6159187"),
+("Salo", "Salo", "Salo", NULL, 57, 0, 1, NULL, "60.3846716", "23.1286377"),
+("Espoo", "Espoo", "Espoo", NULL, 57, 0, 1, NULL, "60.2047672", "24.6568435"),
+("Helsinki", "Helsinki", "Helsinki", NULL, 57, 0, 1, NULL, "60.1674881", "24.9427473"),
+("Vantaa", "Vantaa", "Vantaa", NULL, 57, 0, 1, NULL, "60.2921321", "25.0411832"),
+("Tampere", "Tampere", "Tampere", NULL, 57, 0, 1, NULL, "61.4980214", "23.7603118"),
+("Hämeenlinna", "Hämeenlinna", "Hämeenlinna", NULL, 57, 0, 1, NULL, "60.9948584", "24.46654"),
+("Kotka", "Kotka", "Kotka", NULL, 57, 0, 1, NULL, "60.4674228", "26.9450844"),
+("Lahti", "Lahti", "Lahti", NULL, 57, 0, 1, NULL, "60.9826014", "25.6613764"),
+("Mikkeli", "Mikkeli", "Mikkeli", NULL, 57, 0, 1, NULL, "61.6877956", "27.2726569"),
+("Lappeenranta", "Lappeenranta", "Lappeenranta", NULL, 57, 0, 1, NULL, "61.0583713", "28.1862742"),
+("Seinäjoki", "Seinäjoki", "Seinäjoki", NULL, 57, 0, 1, NULL, "62.7954104", "22.8442015"),
+("Kokkola", "Kokkola", "Kokkola", NULL, 57, 0, 1, NULL, "63.8391421", "23.1336845"),
+("Jyväskylä", "Jyväskylä", "Jyväskylä", NULL, 57, 0, 1, NULL, "62.2417066", "25.7495727"),
+("Kuopio", "Kuopio", "Kuopio", NULL, 57, 0, 1, NULL, "62.8924601", "27.6781839"),
+("Kajaani", "Kajaani", "Kajaani", NULL, 57, 0, 1, NULL, "64.2240872", "27.7334227"),
+("Oulu", "Oulu", "Oulu", NULL, 57, 0, 1, NULL, "65.0118734", "25.4716809"),
+("Rovaniemi", "Rovaniemi", "Rovaniemi", NULL, 57, 0, 1, NULL, "66.5025657", "25.73122"),
+("Joensuu", "Joensuu", "Joensuu", NULL, 57, 0, 1, NULL, "62.6005753", "29.7622128");

@@ -1,0 +1,16 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Split", "Split", "Split", NULL, 52, 0, 1, NULL, "43.5116383", "16.4399659"),
+("Zadar", "Zadar", "Zadar", NULL, 52, 0, 1, NULL, "44.1168594", "15.2353257"),
+("Šibenik", "Šibenik", "Šibenik", NULL, 52, 0, 1, NULL, "43.74117455", "15.898446229374"),
+("Dubrovnik", "Dubrovnik", "Dubrovnik", NULL, 52, 0, 1, NULL, "42.64873625", "18.094680152605"),
+("Karlovac", "Karlovac", "Karlovac", NULL, 52, 0, 1, NULL, "45.4892522", "15.5486303"),
+("Zagreb", "Zagreb", "Zagreb", NULL, 52, 0, 1, NULL, "45.84264135", "15.962231476594"),
+("Varaždin", "Varaždin", "Varaždin", NULL, 52, 0, 1, NULL, "46.31267315", "16.351019097087"),
+("Osijek", "Osijek", "Osijek", NULL, 52, 0, 1, NULL, "45.5548793", "18.6953685"),
+("Pula", "Pula", "Pula", NULL, 52, 0, 1, NULL, "44.8702281", "13.8455311"),
+("Rijeka", "Rijeka", "Rijeka", NULL, 52, 0, 1, NULL, "45.3267976", "14.442208"),
+("Sisak", "Sisak", "Sisak", NULL, 52, 0, 1, NULL, "45.4891806", "16.374592"),
+("Bjelovar", "Bjelovar", "Bjelovar", NULL, 52, 0, 1, NULL, "45.8986869", "16.8421977"),
+("Slavonski Brod", "Slavonski Brod", "Slavonski Brod", NULL, 52, 0, 1, NULL, "45.1665803", "18.0121385"),
+("Vinkovci", "Vinkovci", "Vinkovci", NULL, 52, 0, 1, NULL, "45.2883771", "18.8045248");

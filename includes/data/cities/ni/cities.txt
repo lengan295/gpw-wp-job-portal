@@ -1,0 +1,21 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Rivas", "Rivas", "Rivas", NULL, 24, 0, 1, NULL, "11.4398929", "-85.828094788279"),
+("Chinandega", "Chinandega", "Chinandega", NULL, 24, 0, 1, NULL, "12.62389285", "-87.127041623745"),
+("Boaco", "Boaco", "Boaco", NULL, 24, 0, 1, NULL, "12.467867", "-85.659225405962"),
+("Lugar La Hoyada", "Lugar La Hoyada", "Lugar La Hoyada", NULL, 24, 0, 1, NULL, "12.6912561", "-86.949314897358"),
+("Matagalpa", "Matagalpa", "Matagalpa", NULL, 24, 0, 1, NULL, "12.9285563", "-85.9174331"),
+("Jinotega", "Jinotega", "Jinotega", NULL, 24, 0, 1, NULL, "13.0910392", "-86.0023584"),
+("Somoto", "Somoto", "Somoto", NULL, 24, 0, 1, NULL, "13.48103475", "-86.581989436463"),
+("Ocotal", "Ocotal", "Ocotal", NULL, 24, 0, 1, NULL, "13.6334012", "-86.479819109368"),
+("Bluefields", "Bluefields", "Bluefields", NULL, 24, 0, 1, NULL, "12.0131543", "-83.764907"),
+("San Carlos", "San Carlos", "San Carlos", NULL, 24, 0, 1, NULL, "11.1235301", "-84.7778379"),
+("Jinotepe", "Jinotepe", "Jinotepe", NULL, 24, 0, 1, NULL, "11.8471433", "-86.1990863"),
+("Granada", "Granada", "Granada", NULL, 24, 0, 1, NULL, "11.9303801", "-85.9535897"),
+("León", "León", "León", NULL, 24, 0, 1, NULL, "12.4348568", "-86.8788302"),
+("Managua", "Managua", "Managua", NULL, 24, 0, 1, NULL, "12.1544035", "-86.2737642"),
+("Masaya", "Masaya", "Masaya", NULL, 24, 0, 1, NULL, "11.9736474", "-86.0960547"),
+("Juigalpa", "Juigalpa", "Juigalpa", NULL, 24, 0, 1, NULL, "12.1085987", "-85.3689381"),
+("La Ollada", "La Ollada", "La Ollada", NULL, 24, 0, 1, NULL, "12.6891152", "-86.9572579"),
+("Estelí", "Estelí", "Esteli", NULL, 24, 0, 1, NULL, "13.0931241", "-86.3554436"),
+("Bilwi", "Bilwi", "Bilwi", NULL, 24, 0, 1, NULL, "14.0294451", "-83.3831224");

@@ -1,0 +1,12 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Pointe-Noire", "Pointe-Noire", "Pointe-Noire", NULL, 152, 0, 1, NULL, "-4.7975373", "11.8503297"),
+("Dolisie", "Dolisie", "Dolisie", NULL, 152, 0, 1, NULL, "-4.2005398", "12.6791573"),
+("Nkayi", "Nkayi", "Nkayi", NULL, 152, 0, 1, NULL, "-4.1840962", "13.2883675"),
+("Madingou", "Madingou", "Madingou", NULL, 152, 0, 1, NULL, "-4.1626734", "13.5498132"),
+("Brazzaville", "Brazzaville", "Brazzaville", NULL, 152, 0, 1, NULL, "-4.2694407", "15.2712256"),
+("Kindamba", "Kindamba", "Kindamba", NULL, 152, 0, 1, NULL, "-3.7348289", "14.5097358"),
+("Owando", "Owando", "Owando", NULL, 152, 0, 1, NULL, "-0.4833599", "15.8974175"),
+("Liranga", "Liranga", "Liranga", NULL, 152, 0, 1, NULL, "-0.6621466", "17.6107531"),
+("Ouésso", "Ouésso", "Ouésso", NULL, 152, 0, 1, NULL, "1.6105452", "16.0513456"),
+("Impfondo", "Impfondo", "Impfondo", NULL, 152, 0, 1, NULL, "1.6187416", "18.0623499");

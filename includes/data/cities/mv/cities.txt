@@ -1,0 +1,7 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("އިސްދޫ", "އިސްދޫ", "Isdhoo", NULL, 120, 0, 1, NULL, "2.1189323", "73.564434704969"),
+("ފުވައްމުލައް", "ފުވައްމުލައް", "Fuvahmulah", NULL, 120, 0, 1, NULL, "-0.3005253", "73.4254986"),
+("ހިތަދޫ", "ހިތަދޫ", "Hithadhoo", NULL, 120, 0, 1, NULL, "-0.6061889", "73.0879612"),
+("މާލެ", "މާލެ", "Malé", NULL, 120, 0, 1, NULL, "4.1779879", "73.5107387"),
+("ކުޅުދުއްފުށި", "ކުޅުދުއްފުށި", "Kulhudhuffushi", NULL, 120, 0, 1, NULL, "6.6229329", "73.0709428");

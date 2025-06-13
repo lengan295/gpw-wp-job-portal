@@ -1,0 +1,8 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Innsbruck", "Innsbruck", "Innsbruck", NULL, 46, 0, 1, NULL, "47.2654296", "11.3927685"),
+("Salzburg", "Salzburg", "Salzburg", NULL, 46, 0, 1, NULL, "47.7981346", "13.0464806"),
+("Klagenfurt", "Klagenfurt", "Klagenfurt", NULL, 46, 0, 1, NULL, "46.623943", "14.3075976"),
+("Graz", "Graz", "Graz", NULL, 46, 0, 1, NULL, "47.0708678", "15.4382786"),
+("Linz", "Linz", "Linz", NULL, 46, 0, 1, NULL, "48.3059078", "14.286198"),
+("Wien", "Wien", "Vienna", NULL, 46, 0, 1, NULL, "48.2083537", "16.3725042");

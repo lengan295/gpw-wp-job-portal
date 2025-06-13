@@ -1,0 +1,18 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Tchibanga", "Tchibanga", "Tchibanga", NULL, 159, 0, 1, NULL, "-2.9170995", "10.9955955"),
+("Mayumba", "Mayumba", "Mayumba", NULL, 159, 0, 1, NULL, "-3.4316464", "10.6545157"),
+("Gamba", "Gamba", "Gamba", NULL, 159, 0, 1, NULL, "-2.7201331", "10.0189421"),
+("Mouila", "Mouila", "Mouila", NULL, 159, 0, 1, NULL, "-1.8627018", "11.058713"),
+("Port-Gentil", "Port-Gentil", "Port-Gentil", NULL, 159, 0, 1, NULL, "-0.7151966", "8.7787919"),
+("Lambaréné", "Lambaréné", "Lambarene", NULL, 159, 0, 1, NULL, "-0.6942603", "10.2236482"),
+("Moanda", "Moanda", "Moanda", NULL, 159, 0, 1, NULL, "-1.554004", "13.220574"),
+("Franceville", "Franceville", "Franceville", NULL, 159, 0, 1, NULL, "-1.634363", "13.589513"),
+("Booué", "Booué", "Booué", NULL, 159, 0, 1, NULL, "-0.1015728", "11.9481458"),
+("Lastoursville", "Lastoursville", "Lastoursville", NULL, 159, 0, 1, NULL, "-0.8102497", "12.7311454"),
+("Koulamoutou", "Koulamoutou", "Koulamoutou", NULL, 159, 0, 1, NULL, "-1.1340007", "12.4672747"),
+("Owendo", "Owendo", "Owendo", NULL, 159, 0, 1, NULL, "0.3208235", "9.4952738"),
+("Libreville", "Libreville", "Libreville", NULL, 159, 0, 1, NULL, "0.4086518", "9.4418849"),
+("Makokou", "Makokou", "Makokou", NULL, 159, 0, 1, NULL, "0.5619085", "12.8525045"),
+("Oyem", "Oyem", "Oyem", NULL, 159, 0, 1, NULL, "1.5997904", "11.5751003"),
+("Bitam", "Bitam", "Bitam", NULL, 159, 0, 1, NULL, "2.0786422", "11.4944412");

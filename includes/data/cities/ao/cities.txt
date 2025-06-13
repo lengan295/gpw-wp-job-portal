@@ -1,0 +1,23 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Luanda", "Luanda", "Luanda", NULL, 143, 0, 1, NULL, "-8.8272699", "13.2439512"),
+("Ondjiva", "Ondjiva", "Ondjiva", NULL, 143, 0, 1, NULL, "-17.0705234", "15.7280115"),
+("Moçâmedes", "Moçâmedes", "Moçâmedes", NULL, 143, 0, 1, NULL, "-15.195064", "12.1458085"),
+("Lubango", "Lubango", "Lubango", NULL, 143, 0, 1, NULL, "-14.9195617", "13.4897509"),
+("Lobito", "Lobito", "Lobito", NULL, 143, 0, 1, NULL, "-12.3506867", "13.5464318"),
+("Benguela", "Benguela", "Benguela", NULL, 143, 0, 1, NULL, "-12.5790048", "13.4037117"),
+("Huambo", "Huambo", "Huambo", NULL, 143, 0, 1, NULL, "-12.7765392", "15.7320468"),
+("Menongue", "Menongue", "Menongue", NULL, 143, 0, 1, NULL, "-14.6610713", "17.6820336"),
+("Cuíto", "Cuíto", "Cuito", NULL, 143, 0, 1, NULL, "-12.3831319", "16.9425484"),
+("Chicala", "Chicala", "Chicala", NULL, 143, 0, 1, NULL, "-11.9381082", "19.6321032"),
+("Luchazes", "Luchazes", "Luchazes", NULL, 143, 0, 1, NULL, "-13.7016602", "19.8625463"),
+("Luena", "Luena", "Luena", NULL, 143, 0, 1, NULL, "-11.7790355", "19.9122676"),
+("Sumbe", "Sumbe", "Sumbe", NULL, 143, 0, 1, NULL, "-11.2019365", "13.8396845"),
+("N'dalatando", "N'dalatando", "N'dalatando", NULL, 143, 0, 1, NULL, "-9.2984831", "14.9144981"),
+("Malanje", "Malanje", "Malanje", NULL, 143, 0, 1, NULL, "-9.5483991", "16.3475335"),
+("Uíge", "Uíge", "Uíge", NULL, 143, 0, 1, NULL, "-7.6117323", "15.0563515"),
+("M'banza Congo", "M'banza Congo", "M'banza Congo", NULL, 143, 0, 1, NULL, "-6.2678204", "14.2417957"),
+("Saurimo", "Saurimo", "Saurimo", NULL, 143, 0, 1, NULL, "-9.6589303", "20.3981118"),
+("Lucapa", "Lucapa", "Lucapa", NULL, 143, 0, 1, NULL, "-8.4195244", "20.7410918"),
+("Cabinda", "Cabinda", "Cabinda", NULL, 143, 0, 1, NULL, "-5.5576435", "12.1919468"),
+("Buco-Zau", "Buco-Zau", "Buco-Zau", NULL, 143, 0, 1, NULL, "-4.7621662", "12.5388765");

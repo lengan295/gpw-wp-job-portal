@@ -1,0 +1,113 @@
+/**********************
+	employer cp
+**********************/
+div#wjportal-emp-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes div.wjportal-cp-box {width: 100%;margin-right: 0;}
+
+/**********************
+	jobseeker cp
+**********************/
+div#wjportal-job-cp-wrp div.wjportal-cp-right div.wjportal-cp-boxes div.wjportal-cp-box {width: 100%;margin-right: 0;}
+
+/**********************
+	resume list
+**********************/
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp {width: 100%;padding-left: 10px;padding-top: 20px;}
+
+/**********************
+	resume detail
+**********************/
+div.wjportal-resume-detail-wrapper div.wjportal-resume-top-section div.wjportal-resume-adv-act-wrp {width: 100%;margin-top: 0;margin-bottom: 20px;}
+
+/**********************
+	jobs by catagory
+	resume by catagory
+**********************/
+div.wjportal-by-categories-main-wrp div.wjportal-by-category-wrp {width: 100% !important;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-contentarea div.wjportal-by-sub-catagory div.wjportal-by-category-wrp {width: 100% !important;}
+
+
+/**********************
+	filter search
+**********************/
+div.wjportal-filter-search-main-wrp div.wjportal-filter-search-wrp div.wjportal-filter-search-field-wrp {width: 100%;margin-bottom: 10px;}
+div.wjportal-filter-search-main-wrp div.wjportal-filter-search-wrp div.wjportal-filter-search-btn-wrp {width: 100%;margin-top: 0;}
+
+/**********************
+	job list
+**********************/
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp {width: 100%;padding-left: 10px;padding-top: 20px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-jobs-action-wrp a.wjportal-jobs-act-btn {margin: 0 5px 5px 0;}
+
+/**********************
+ 	view job detail
+**********************/
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-cnt {width: 100%;padding-left: 10px;padding-top: 20px;}
+div.wjportal-jobdetail-wrapper div.wjportal-jobinfo-wrp div.wjportal-jobinfo:nth-child(1) {width: 100%;}
+
+/**********************
+	job apllied resume
+**********************/
+div.wjportal-applied-job-actions-popup div.wjportal-applied-job-actions-wrp div.wjportal-applied-job-actions-row {width: 100%;}
+div.wjportal-applied-job-actions-popup div.wjportal-job-actions-detail-wrp div.wjportal-job-actions-detail-row {width: 100%;}
+div.wjportal-applied-job-adv-search-wrp div.wjportal-applied-job-adv-search-field {width: 100%;}
+
+/**********************
+	all popups
+**********************/
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-field-wrp div.wjportal-popup-field {width: 100%;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-field-wrp div.wjportal-popup-field:nth-child(2n) {margin-left: 0;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-field-wrp div.wjportal-popup-field:nth-child(2n+1) {margin-right: 0;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp div.wjportal-pkg-item {width: 100%;}
+
+/**********************
+	all forms
+**********************/
+div.wjportal-form-wrp div.wjportal-form-btn-wrp div.wjportal-form-2-btn {width: 100%;margin: 0 0 10px;}
+
+/**********************
+	department list
+**********************/
+div.wjportal-department-list div.wjportal-department-list-btm-wrp div.wjportal-department-action-wrp a.wjportal-department-act-btn {margin: 0 5px 5px 0;}
+
+/**********************
+	save search form
+**********************/
+div.wjportal-save-search-form-wrp form input.wjportal-save-search-input-field {width: 100%;}
+div.wjportal-save-search-form-wrp form .wjportal-save-search-btn {margin-left: 0;margin-top: 10px;}
+
+/**********************
+ 	company list
+**********************/
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp {width: 100%;padding-left: 10px;padding-top: 10px;}
+
+/**********************
+	messages list
+**********************/
+div.wjportal-messages-list-wrapper div.wjportal-messages-list div.wjportal-msg-list-btm div.wjportal-msg-info {width: 100%;}
+div.wjportal-messages-list-wrapper div.wjportal-messages-list div.wjportal-msg-list-btm div.wjportal-msg-action-wrp {width: 100%;text-align: left;padding-top: 10px;}
+div.wjportal-send-message-wrapper div.wjportal-message-history-wrp div.wjportal-msg-history div.wjportal-msg-history-cnt {width: 100%;}
+
+/**********************
+	save search
+**********************/
+div.wjportal-save-search-list div.wjportal-save-search-title {width: 100%;}
+div.wjportal-save-search-list div.wjportal-save-search-created {width: 100%;}
+div.wjportal-save-search-list div.wjportal-save-search-created span.wjportal-save-search-created-text {padding-left: 0;}
+
+/**********************
+	folder list
+**********************/
+div.wjportal-folder-list div.wjportal-folder-title {width: 100%;}
+div.wjportal-folder-list div.wjportal-folder-status {width: 100%;text-align: left;}
+
+/**********************
+	packages list
+**********************/ 
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-price span.wjportal-pkg-list-item-price-txt {width: 48%;}
+
+/**********************
+	jobs list
+**********************/
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-jobs-list-resume-wrp div.wjportal-jobs-list-resume-data {width: 100%;margin-right: 0;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-jobs-list-resume-wrp span.wjportal-applied-job-resume-status {float: left;margin-top: 10px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-shortlist-stars {float: left;}

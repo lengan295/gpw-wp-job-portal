@@ -1,0 +1,11 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Plzeň", "Plzeň", "Plzeň", NULL, 54, 0, 1, NULL, "49.7477415", "13.3775249"),
+("České Budějovice", "České Budějovice", "České Budějovice", NULL, 54, 0, 1, NULL, "48.9747357", "14.474285"),
+("Brno", "Brno", "Brno", NULL, 54, 0, 1, NULL, "49.1922443", "16.6113382"),
+("Praha", "Praha", "Prague", NULL, 54, 0, 1, NULL, "50.0874654", "14.4212535"),
+("Hradec Králové", "Hradec Králové", "Hradec Králové", NULL, 54, 0, 1, NULL, "50.2092113", "15.8327512"),
+("Olomouc", "Olomouc", "Olomouc", NULL, 54, 0, 1, NULL, "49.5940567", "17.251143"),
+("Ostrava", "Ostrava", "Ostrava", NULL, 54, 0, 1, NULL, "49.8349139", "18.2820084"),
+("Ústí nad Labem", "Ústí nad Labem", "Ústí nad Labem", NULL, 54, 0, 1, NULL, "50.6603327", "14.0381357"),
+("Liberec", "Liberec", "Liberec", NULL, 54, 0, 1, NULL, "50.7702648", "15.0583947");

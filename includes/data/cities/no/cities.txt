@@ -1,0 +1,22 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Jåttåvågen", "Jåttåvågen", "Jåttåvågen", NULL, 81, 0, 1, NULL, "58.91747365", "5.7295909529085"),
+("Oslo", "Oslo", "Oslo", NULL, 81, 0, 1, NULL, "59.9133301", "10.7389701"),
+("Haugesund", "Haugesund", "Haugesund", NULL, 81, 0, 1, NULL, "59.413807", "5.2681249"),
+("Bergen", "Bergen", "Bergen", NULL, 81, 0, 1, NULL, "60.3943055", "5.3259192"),
+("Stavanger", "Stavanger", "Stavanger", NULL, 81, 0, 1, NULL, "58.9699675", "5.7318101"),
+("Kristiansand", "Kristiansand", "Kristiansand", NULL, 81, 0, 1, NULL, "58.14615", "7.9957333"),
+("Arendal", "Arendal", "Arendal", NULL, 81, 0, 1, NULL, "58.4600196", "8.765288"),
+("Porsgrunn", "Porsgrunn", "Porsgrunn", NULL, 81, 0, 1, NULL, "59.140759", "9.6562495"),
+("Skien", "Skien", "Skien", NULL, 81, 0, 1, NULL, "59.2091003", "9.607544"),
+("Sandefjord", "Sandefjord", "Sandefjord", NULL, 81, 0, 1, NULL, "59.1300112", "10.2255602"),
+("Tønsberg", "Tønsberg", "Tønsberg", NULL, 81, 0, 1, NULL, "59.2677363", "10.4080715"),
+("Drammen", "Drammen", "Drammen", NULL, 81, 0, 1, NULL, "59.7436802", "10.2043644"),
+("Fredrikstad", "Fredrikstad", "Fredrikstad", NULL, 81, 0, 1, NULL, "59.2133614", "10.9361604"),
+("Sarpsborg", "Sarpsborg", "Sarpsborg", NULL, 81, 0, 1, NULL, "59.2838792", "11.1096115"),
+("Moss", "Moss", "Moss", NULL, 81, 0, 1, NULL, "59.4347974", "10.6619753"),
+("Hamar", "Hamar", "Hamar", NULL, 81, 0, 1, NULL, "60.7947205", "11.0680555"),
+("Ålesund", "Ålesund", "Ålesund", NULL, 81, 0, 1, NULL, "62.4711412", "6.1551755"),
+("Trondheim", "Trondheim", "Trondheim", NULL, 81, 0, 1, NULL, "63.4304475", "10.3952118"),
+("Bodø", "Bodø", "Bodø", NULL, 81, 0, 1, NULL, "67.2844313", "14.3817503"),
+("Tromsø", "Tromsø", "Tromsø", NULL, 81, 0, 1, NULL, "69.6516345", "18.9558585");

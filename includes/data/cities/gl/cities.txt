@@ -1,0 +1,7 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Qaqortoq", "Qaqortoq", "Qaqortoq", NULL, 14, 0, 1, NULL, "60.718202", "-46.0385214"),
+("Nuuk", "Nuuk", "Nuuk", NULL, 14, 0, 1, NULL, "64.175029", "-51.7355386"),
+("Sisimiut", "Sisimiut", "Sisimiut", NULL, 14, 0, 1, NULL, "66.9371906", "-53.6664816"),
+("Aasiaat", "Aasiaat", "Aasiaat", NULL, 14, 0, 1, NULL, "68.709588", "-52.8512976"),
+("Ilulissat", "Ilulissat", "Ilulissat", NULL, 14, 0, 1, NULL, "69.2197127", "-51.0986385");

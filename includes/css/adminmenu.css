@@ -1,0 +1,3 @@
+a.wp-has-submenu.wp-not-current-submenu.toplevel_page_wpjobportal div.wp-menu-image.dashicons-before{background: url(../images/admin_wpjobportal1.png) no-repeat center center;}
+a.wp-has-submenu.wp-has-current-submenu.toplevel_page_wpjobportal div.wp-menu-image.dashicons-before{background: url(../images/admin_wpjobportal2.png) no-repeat center center;}
+#adminmenu li#toplevel_page_wpjobportal:hover a.toplevel_page_wpjobportal div.wp-menu-image.dashicons-before{background: url(../images/admin_wpjobportal2.png) no-repeat center center;}

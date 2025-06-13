@@ -1,0 +1,8 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Montego Bay", "Montego Bay", "Montego Bay", NULL, 20, 0, 1, NULL, "18.4724603", "-77.9217357"),
+("Negril", "Negril", "Negril", NULL, 20, 0, 1, NULL, "18.2779531", "-78.3494771"),
+("Spanish Town", "Spanish Town", "Spanish Town", NULL, 20, 0, 1, NULL, "17.9956926", "-76.9540831"),
+("Portmore", "Portmore", "Portmore", NULL, 20, 0, 1, NULL, "17.9717917", "-76.8738048"),
+("Kingston", "Kingston", "Kingston", NULL, 20, 0, 1, NULL, "17.9712148", "-76.7928128"),
+("Ocho Rios", "Ocho Rios", "Ocho Rios", NULL, 20, 0, 1, NULL, "18.4081045", "-77.1011092");

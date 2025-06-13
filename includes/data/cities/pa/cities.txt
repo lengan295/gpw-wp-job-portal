@@ -1,0 +1,11 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("David", "David", "David", NULL, 25, 0, 1, NULL, "8.4371469", "-82.4286281"),
+("Santiago", "Santiago", "Santiago", NULL, 25, 0, 1, NULL, "8.0989867", "-80.9803978"),
+("Las Tablas", "Las Tablas", "Las Tablas", NULL, 25, 0, 1, NULL, "7.7677917", "-80.2764151"),
+("Chitré", "Chitré", "Chitré", NULL, 25, 0, 1, NULL, "7.9633096", "-80.4283492"),
+("Changuinola", "Changuinola", "Changuinola", NULL, 25, 0, 1, NULL, "9.4456086", "-82.5190339"),
+("Penonomé", "Penonomé", "Penonomé", NULL, 25, 0, 1, NULL, "8.5204989", "-80.359579"),
+("La Chorrera", "La Chorrera", "La Chorrera", NULL, 25, 0, 1, NULL, "8.8835312", "-79.7799505"),
+("Panamá", "Panamá", "Panama", NULL, 25, 0, 1, NULL, "8.9714493", "-79.5341802"),
+("Colón", "Colón", "Colón", NULL, 25, 0, 1, NULL, "9.3553005", "-79.8974085");

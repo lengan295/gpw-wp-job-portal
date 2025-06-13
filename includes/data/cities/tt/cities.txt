@@ -1,0 +1,6 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Chaguanas", "Chaguanas", "Chaguanas", NULL, 27, 0, 1, NULL, "10.53216895", "-61.407164537037"),
+("San Fernando", "San Fernando", "San Fernando", NULL, 27, 0, 1, NULL, "10.2807069", "-61.4645896"),
+("Port of Spain", "Port of Spain", "Port of Spain", NULL, 27, 0, 1, NULL, "10.6572678", "-61.5180173"),
+("Scarborough", "Scarborough", "Scarborough", NULL, 27, 0, 1, NULL, "11.1852893", "-60.735024");

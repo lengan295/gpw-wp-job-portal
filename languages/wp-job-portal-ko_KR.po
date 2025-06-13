@@ -1,0 +1,10278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "dashboard"
+msgstr "계기반"
+
+msgid "Dashboard"
+msgstr "계기반"
+
+msgid "Load Address Data"
+msgstr "주소 데이터 로드"
+
+msgid "configuration"
+msgstr "구성"
+
+msgid "Version"
+msgstr "버전"
+
+msgid "Download"
+msgstr "다운로드"
+
+msgid "Action"
+msgstr "행동"
+
+msgid "States"
+msgstr "상태"
+
+msgid "Cities"
+msgstr "도시"
+
+msgid "Latitude"
+msgstr "위도"
+
+msgid "Longitude"
+msgstr "경도"
+
+msgid "Map"
+msgstr "지도"
+
+msgid "Select One"
+msgstr "하나를 고르세요"
+
+msgid "Meters"
+msgstr "미터"
+
+msgid "Kilometers"
+msgstr "킬로미터"
+
+msgid "Miles"
+msgstr "마일리지"
+
+msgid "Nautical Miles"
+msgstr "해상 마일"
+
+msgid "Select"
+msgstr "선택하다"
+
+msgid "Address"
+msgstr "주소"
+
+msgid "Add New"
+msgstr "새로운 걸 더하다"
+
+msgid "Employer"
+msgstr "고용주"
+
+msgid "Languages"
+msgstr "언어"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Institute"
+msgstr "학회"
+
+msgid "Copy"
+msgstr "복사"
+
+msgid "Select Package"
+msgstr "패키지 선택"
+
+msgid "Please select a package first"
+msgstr "먼저 패키지를 선택해주세요"
+
+msgid "Job"
+msgstr "직업"
+
+msgid "Unlimited"
+msgstr "제한 없는"
+
+msgid "Remaining"
+msgstr "남은"
+
+msgid "copy job"
+msgstr "복사 작업"
+
+msgid "Copy Job"
+msgstr "복사 작업"
+
+msgid "User"
+msgstr "사용자"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Payment Method"
+msgstr "결제 방법"
+
+msgid "Very Poor"
+msgstr "매우 가난한"
+
+msgid "Poor"
+msgstr "가난한"
+
+msgid "Regular"
+msgstr "정기적인"
+
+msgid "Good"
+msgstr "좋은"
+
+msgid "Very Good"
+msgstr "매우 좋은"
+
+msgid "Pending"
+msgstr "보류 중"
+
+msgid "Approved"
+msgstr "승인됨"
+
+msgid "Rejected"
+msgstr "거부됨"
+
+msgid "Posted"
+msgstr "게시됨"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "No"
+msgstr "아니요"
+
+msgid "Created"
+msgstr "만들어진"
+
+msgid "Free"
+msgstr "무료"
+
+msgid "Package"
+msgstr "패키지"
+
+msgid "Invoices"
+msgstr "송장"
+
+msgid "Are you sure to delete"
+msgstr "삭제하시겠습니까?"
+
+msgid "User Name"
+msgstr "사용자 이름"
+
+msgid "Select Status"
+msgstr "상태 선택"
+
+msgid "Search"
+msgstr "찾다"
+
+msgid "Reset"
+msgstr "초기화"
+
+msgid "Published"
+msgstr "게시됨"
+
+msgid "No record found"
+msgstr "기록을 찾을 수 없습니다"
+
+msgid "%s"
+msgstr "%에스"
+
+msgid "My Invoices"
+msgstr "내 청구서"
+
+msgid "View All"
+msgstr "모두보기"
+
+msgid "Featured"
+msgstr "추천"
+
+msgid "Credits"
+msgstr "크레딧"
+
+msgid "Title"
+msgstr "제목"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Company"
+msgstr "회사"
+
+msgid "Job seeker"
+msgstr "구직자"
+
+msgid "Edit"
+msgstr "편집하다"
+
+msgid "Resume"
+msgstr "재개하다"
+
+msgid "Job Seeker"
+msgstr "구직자"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Save"
+msgstr "구하다"
+
+msgid "Day"
+msgstr "낮"
+
+msgid "Days"
+msgstr "날"
+
+msgid "Approve"
+msgstr "승인하다"
+
+msgid "Reject"
+msgstr "거부하다"
+
+msgid "Message"
+msgstr "메시지"
+
+msgid "Subject"
+msgstr "주제"
+
+msgid "message"
+msgstr "메시지"
+
+msgid "Send Message"
+msgstr "문자 보내"
+
+msgid "Expire in"
+msgstr "만료 날짜:"
+
+msgid "Job Messages"
+msgstr "작업 메시지"
+
+msgid "Messages"
+msgstr "메시지"
+
+msgid "Job Title"
+msgstr "직위"
+
+msgid "Resume Title"
+msgstr "이력서 제목"
+
+msgid "Employer Name"
+msgstr "고용주 이름"
+
+msgid "This will delete every thing about this record"
+msgstr "이 기록에 관한 모든 내용이 삭제됩니다."
+
+msgid "Force Delete"
+msgstr "강제삭제"
+
+msgid "Company Name"
+msgstr "회사 이름"
+
+msgid "Select All"
+msgstr "모두 선택"
+
+msgid "Purchase Package"
+msgstr "패키지 구매"
+
+msgid "Years"
+msgstr "연령"
+
+msgid "Currency"
+msgstr "통화"
+
+msgid "Job Expiry"
+msgstr "직업 만료"
+
+msgid "Resume Section"
+msgstr "이력서 섹션"
+
+msgid "cancel"
+msgstr "취소"
+
+msgid "Package Detail"
+msgstr "패키지 세부정보"
+
+msgid "Departments"
+msgstr "부서"
+
+msgid "Resume Search"
+msgstr "이력서 검색"
+
+msgid "Job Alert"
+msgstr "채용공고"
+
+msgid "Job Apply"
+msgstr "채용 지원"
+
+msgid "User name"
+msgstr "사용자 이름"
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Subscription"
+msgstr "신청"
+
+msgid "Enabled"
+msgstr "활성화됨"
+
+msgid "Configuration"
+msgstr "구성"
+
+msgid "You can view Resume Contact Detail Now"
+msgstr "지금 이력서 연락처 세부정보를 볼 수 있습니다."
+
+msgid "Login"
+msgstr "로그인"
+
+msgid "Username"
+msgstr "사용자 이름"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Email Address"
+msgstr "이메일 주소"
+
+msgid "Select User"
+msgstr "사용자 선택"
+
+msgid "Default"
+msgstr "기본"
+
+msgid "add"
+msgstr "추가하다"
+
+msgid "delete"
+msgstr "삭제"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "published"
+msgstr "출판됨"
+
+msgid "not published"
+msgstr "게시되지 않음"
+
+msgid "Type"
+msgstr "유형"
+
+msgid "Department"
+msgstr "부서"
+
+msgid "Proceed To Payment"
+msgstr "결제 진행"
+
+msgid "Remaining Resume"
+msgstr "남은 이력서"
+
+msgid "Ends On"
+msgstr "종료 날짜"
+
+msgid "Packages"
+msgstr "패키지"
+
+msgid "packages"
+msgstr "패키지"
+
+msgid "My Packages"
+msgstr "내 패키지"
+
+msgid "My Subscriptions"
+msgstr "내 구독"
+
+msgid "Cancel Payment"
+msgstr "결제 취소"
+
+msgid "Show Company Contact"
+msgstr "회사 연락처 표시"
+
+msgid "add new package"
+msgstr "새 패키지 추가"
+
+msgid "Add New Package"
+msgstr "새 패키지 추가"
+
+msgid "make payment"
+msgstr "결제하다"
+
+msgid "You have Already Applied"
+msgstr "이미 신청하셨습니다"
+
+msgid "Make Payment To Apply"
+msgstr "신청하려면 결제하세요"
+
+msgid "Apply On This Job"
+msgstr "이 직업에 지원하세요"
+
+msgid "Proceed With Paying"
+msgstr "결제를 진행하세요"
+
+msgid "Apply Now"
+msgstr "지금 신청하세요"
+
+msgid "Cron Job"
+msgstr "크론 작업"
+
+msgid "Website"
+msgstr "웹사이트"
+
+msgid "cron job"
+msgstr "크론 작업"
+
+msgid "Select role"
+msgstr "역할 선택"
+
+msgid "Buy Package"
+msgstr "패키지 구매"
+
+msgid "Buy credits"
+msgstr "크레딧 구매"
+
+msgid "Departments Approval Queue"
+msgstr "부서 승인 대기열"
+
+msgid "Pending Payment"
+msgstr "결제 보류 중"
+
+msgid "Add New Department"
+msgstr "새 부서 추가"
+
+msgid "Ago"
+msgstr "전에"
+
+msgid "edit"
+msgstr "편집하다"
+
+msgid "approve"
+msgstr "승인하다"
+
+msgid "reject"
+msgstr "거부하다"
+
+msgid "View Department"
+msgstr "부서 보기"
+
+msgid "Pending Due To Payment"
+msgstr "결제로 인해 보류 중"
+
+msgid "Change package"
+msgstr "패키지 변경"
+
+msgid "Change Package"
+msgstr "패키지 변경"
+
+msgid "My departments"
+msgstr "내 부서"
+
+msgid "My Departments"
+msgstr "내 부서"
+
+msgid "Add Department"
+msgstr "부서 추가"
+
+msgid "Male"
+msgstr "남성"
+
+msgid "Female"
+msgstr "여성"
+
+msgid "Does not matter"
+msgstr "문제가되지 않는다"
+
+msgid "City"
+msgstr "도시"
+
+msgid "export"
+msgstr "내보내다"
+
+msgid "Export"
+msgstr "내보내다"
+
+msgid "Waiting for approval"
+msgstr "승인 대기 중"
+
+msgid "Expiry Date"
+msgstr "만료일"
+
+msgid "remove featured"
+msgstr "추천 삭제"
+
+msgid "Remove Featured"
+msgstr "추천 삭제"
+
+msgid "Failed while performing this action"
+msgstr "이 작업을 수행하는 동안 실패했습니다."
+
+msgid "Search All"
+msgstr "모두 검색"
+
+msgid "Applied resume"
+msgstr "이력서 적용"
+
+msgid "Category"
+msgstr "범주"
+
+msgid "Job Type"
+msgstr "직업 종류"
+
+msgid "Location"
+msgstr "위치"
+
+msgid "View Resume"
+msgstr "이력서 보기"
+
+msgid "Folder"
+msgstr "폴더"
+
+msgid "Add"
+msgstr "추가하다"
+
+msgid "Folders"
+msgstr "폴더"
+
+msgid "Folder Resume"
+msgstr "폴더 이력서"
+
+msgid "Applied Resume"
+msgstr "적용된 이력서"
+
+msgid "view"
+msgstr "보다"
+
+msgid "logo"
+msgstr "심벌 마크"
+
+msgid "Salary Range"
+msgstr "급여 범위"
+
+msgid "Folders Queue"
+msgstr "폴더 대기열"
+
+msgid "Add New Folder"
+msgstr "새 폴더 추가"
+
+msgid "The page you are looking for no longer exists"
+msgstr "찾고 있는 페이지가 더 이상 존재하지 않습니다."
+
+msgid "publish"
+msgstr "출판하다"
+
+msgid "unpublish"
+msgstr "게시 취소"
+
+msgid "View"
+msgstr "보다"
+
+msgid "add new folder"
+msgstr "새 폴더 추가"
+
+msgid "approval queue"
+msgstr "승인 대기열"
+
+msgid "Approval Queue"
+msgstr "승인 대기열"
+
+msgid "My Folders"
+msgstr "내 폴더"
+
+msgid "Invalid captcha"
+msgstr "잘못된 보안 문자"
+
+msgid "Incorrect Captcha code"
+msgstr "잘못된 보안문자 코드"
+
+msgid "Type In A Search Term"
+msgstr "검색어를 입력하세요"
+
+msgid "No Results"
+msgstr "결과 없음"
+
+msgid "Searching"
+msgstr "수색"
+
+msgid "Add New Job Alert"
+msgstr "새 채용 알림 추가"
+
+msgid "Categories"
+msgstr "카테고리"
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "name"
+msgstr "이름"
+
+msgid "job alert"
+msgstr "취업알림"
+
+msgid "add new job alert"
+msgstr "새 채용 알림 추가"
+
+msgid "Please fill the message"
+msgstr "메시지를 작성해주세요"
+
+msgid "Are you sure?"
+msgstr "확실합니까?"
+
+msgid "Messages Approval Queue"
+msgstr "메시지 승인 대기열"
+
+msgid "force delete"
+msgstr "강제 삭제"
+
+msgid "Error Deleting Logo"
+msgstr "로고 삭제 중 오류 발생"
+
+msgid "Enter Correct Company Site"
+msgstr "올바른 회사 사이트를 입력하세요."
+
+msgid "File size is greater then allowed file size"
+msgstr "파일 크기가 허용된 파일 크기보다 큽니다."
+
+msgid "File ext. is mismatched"
+msgstr "파일 확장자 일치하지 않습니다"
+
+msgid "Something got wrong"
+msgstr "문제가 발생했습니다."
+
+msgid "Terms and Conditions"
+msgstr "이용약관"
+
+msgid "Company Has Been Feature SuccesFully"
+msgstr "회사는 성공을 거두었습니다."
+
+msgid "Error While Adding Feature job"
+msgstr "기능 작업을 추가하는 중 오류가 발생했습니다."
+
+msgid "Total Company"
+msgstr "전체 회사"
+
+msgid "Remaining Company"
+msgstr "남은 회사"
+
+msgid "change package"
+msgstr "패키지 변경"
+
+msgid "Add Company"
+msgstr "회사 추가"
+
+msgid "My companies"
+msgstr "내 회사"
+
+msgid "My Companies"
+msgstr "내 회사"
+
+msgid "Are you sure to cancel job apply"
+msgstr "입사 지원을 취소하시겠습니까?"
+
+msgid "Please first save the resume then apply"
+msgstr "이력서를 먼저 저장하신 후 지원해주세요"
+
+msgid "Remove"
+msgstr "제거하다"
+
+msgid "Error"
+msgstr "오류"
+
+msgid "File extension mismatch"
+msgstr "파일 확장자 불일치"
+
+msgid "File size exceeds limit"
+msgstr "파일 크기가 한도를 초과했습니다."
+
+msgid "Maximum files selected"
+msgstr "선택된 최대 파일 수"
+
+msgid "Confirm to delete resume file"
+msgstr "이력서 파일 삭제 확인"
+
+msgid "Please first save resume personal section then add any other section"
+msgstr "먼저 이력서 개인 섹션을 저장한 후 다른 섹션을 추가하세요."
+
+msgid "Geocode was not successful for the following reason"
+msgstr "다음과 같은 이유로 지오코딩이 실패했습니다."
+
+msgid "Resume Files"
+msgstr "이력서 파일"
+
+msgid "Select files"
+msgstr "파일 선택"
+
+msgid "Selected files"
+msgstr "선택한 파일"
+
+msgid "No file selected"
+msgstr "파일이 선택되지 않았습니다"
+
+msgid "Files allowed"
+msgstr "허용된 파일"
+
+msgid "Maximum file size"
+msgstr "최대 파일 크기"
+
+msgid "Edit Resume"
+msgstr "이력서 편집"
+
+msgid "Add New Resume"
+msgstr "새 이력서 추가"
+
+msgid "Resume Has Been Feature SuccessFully"
+msgstr "이력서 기능이 성공적으로 완료되었습니다."
+
+msgid "Application title"
+msgstr "신청서 제목"
+
+msgid "First name"
+msgstr "이름"
+
+msgid "Job type"
+msgstr "직업 종류"
+
+msgid "Total Resume"
+msgstr "전체 이력서"
+
+msgid "Add Resume"
+msgstr "이력서 추가"
+
+msgid "My Resumes"
+msgstr "내 이력서"
+
+msgid "Personal Information"
+msgstr "개인 정보"
+
+msgid "Institutes"
+msgstr "제요"
+
+msgid "Employers"
+msgstr "고용주"
+
+msgid "Skills"
+msgstr "기술"
+
+msgid "pdf"
+msgstr "PDF"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "print"
+msgstr "인쇄"
+
+msgid "Print"
+msgstr "인쇄"
+
+msgid "Jobs"
+msgstr "채용정보"
+
+msgid "Active Jobs"
+msgstr "활성 작업"
+
+msgid "Applied Jobs"
+msgstr "응용직업"
+
+msgid "Featured Jobs"
+msgstr "주요 채용정보"
+
+msgid "Overall Statistics"
+msgstr "전체 통계"
+
+msgid "Jobs By Categories"
+msgstr "카테고리별 채용정보"
+
+msgid "Jobs By Types"
+msgstr "유형별 채용"
+
+msgid "Dates"
+msgstr "날짜"
+
+msgid "Featured Resume"
+msgstr "추천 이력서"
+
+msgid "Resume By Categories"
+msgstr "카테고리별 이력서"
+
+msgid "Applied jobs"
+msgstr "적용 직무"
+
+msgid "Featured resume"
+msgstr "주요 이력서"
+
+msgid "Stats"
+msgstr "통계"
+
+msgid "Total"
+msgstr "총"
+
+msgid "Companies"
+msgstr "회사"
+
+msgid "Active"
+msgstr "활동적인"
+
+msgid "Publish"
+msgstr "게시"
+
+msgid "Expired"
+msgstr "만료됨"
+
+msgid "Type here"
+msgstr "여기에 입력하세요"
+
+msgid "Inbox"
+msgstr "받은편지함"
+
+msgid "Spam"
+msgstr "스팸"
+
+msgid "Hired"
+msgstr "고용됨"
+
+msgid "Short listed"
+msgstr "짧은 상장"
+
+msgid "Advance Search"
+msgstr "고급 검색"
+
+msgid "Nationality"
+msgstr "국적"
+
+msgid "Gender"
+msgstr "성별"
+
+msgid "Application Title"
+msgstr "신청서 제목"
+
+msgid "Highest Education"
+msgstr "고등교육"
+
+msgid "Resumes By Tag"
+msgstr "태그별 이력서"
+
+msgid "Resumes"
+msgstr "이력서"
+
+msgid "save searches"
+msgstr "검색 저장"
+
+msgid "Saved Searches"
+msgstr "저장된 검색"
+
+msgid "Resume RSS"
+msgstr "RSS 재개"
+
+msgid "Short List Job"
+msgstr "짧은 목록 작업"
+
+msgid "Comments"
+msgstr "코멘트"
+
+msgid "Rate"
+msgstr "비율"
+
+msgid "Close"
+msgstr "닫다"
+
+msgid "shortlisted jobs"
+msgstr "최종 후보 직업"
+
+msgid "Shotlisted Jobs"
+msgstr "최종 후보 채용 공고"
+
+msgid "Short Listed Jobs"
+msgstr "단기 채용공고"
+
+msgid "Last name"
+msgstr "성"
+
+msgid "Notes"
+msgstr "노트"
+
+msgid "Profile"
+msgstr "프로필"
+
+msgid "Personal information"
+msgstr "개인 정보"
+
+msgid "Education"
+msgstr "교육"
+
+msgid "Email address"
+msgstr "이메일 주소"
+
+msgid "Tag"
+msgstr "꼬리표"
+
+msgid "Country"
+msgstr "국가"
+
+msgid "Phone"
+msgstr "핸드폰"
+
+msgid "Addresses"
+msgstr "구애"
+
+msgid "Job has been applied"
+msgstr "채용정보가 적용되었습니다"
+
+msgid "Login with facebook"
+msgstr "페이스북으로 로그인"
+
+msgid "Login with linkedin"
+msgstr "링크드인으로 로그인"
+
+msgid "Login with xing"
+msgstr "싱으로 로그인하세요"
+
+msgid "Error in saving records please try again"
+msgstr "기록을 저장하는 중 오류가 발생했습니다. 다시 시도해 주세요."
+
+msgid "Tags"
+msgstr "태그"
+
+msgid "Add New Tag"
+msgstr "새 태그 추가"
+
+msgid "Unpublish"
+msgstr "게시 취소"
+
+msgid "tags"
+msgstr "태그"
+
+msgid "add new tag"
+msgstr "새 태그 추가"
+
+msgid "Tell a friend"
+msgstr "친구에게 말하세요"
+
+msgid "Send"
+msgstr "보내다"
+
+msgid "Age"
+msgstr "나이"
+
+msgid "Minimum"
+msgstr "최저한의"
+
+msgid "Maximum"
+msgstr "최고"
+
+msgid "Specify range"
+msgstr "범위 지정"
+
+msgid "Cancel range"
+msgstr "취소 범위"
+
+msgid "Experience"
+msgstr "경험"
+
+msgid "Total Experience"
+msgstr "총 경험"
+
+msgid "Job Status"
+msgstr "직위"
+
+msgid "Shift"
+msgstr "옮기다"
+
+msgid "Please enter the coordinate radius"
+msgstr "좌표 반경을 입력하세요."
+
+msgid "Company Info"
+msgstr "회사 정보"
+
+msgid "Job Info"
+msgstr "채용 정보"
+
+msgid "Select widget"
+msgstr "위젯 선택"
+
+msgid "Show Title"
+msgstr "제목 표시"
+
+msgid "Hide"
+msgstr "숨다"
+
+msgid "Show"
+msgstr "보여주다"
+
+msgid "Company logo"
+msgstr "회사 로고"
+
+msgid "1"
+msgstr "1"
+
+msgid "2"
+msgstr "2"
+
+msgid "3"
+msgstr "삼"
+
+msgid "4"
+msgstr "4"
+
+msgid "5"
+msgstr "5"
+
+msgid "Type of jobs"
+msgstr "직업 유형"
+
+msgid "Newest jobs"
+msgstr "최신 채용공고"
+
+msgid "Hot jobs"
+msgstr "인기 직업"
+
+msgid "Column per row"
+msgstr "행당 열"
+
+msgid "Jobs by cities"
+msgstr "도시별 일자리"
+
+msgid "Jobs by countries"
+msgstr "국가별 일자리"
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Photo"
+msgstr "사진"
+
+msgid "Available"
+msgstr "사용 가능"
+
+msgid "Search Resume"
+msgstr "이력서 검색"
+
+msgid "Highest education"
+msgstr "고등교육"
+
+msgid "Transaction Key"
+msgstr "거래 키"
+
+msgid "Please select "
+msgstr "선택 해주세요"
+
+msgid "Hide notice"
+msgstr "공지 숨기기"
+
+msgid "Something went wrong"
+msgstr "문제가 발생했습니다."
+
+msgid "Control Panel"
+msgstr "제어판"
+
+msgid "Company Information"
+msgstr "회사 정보"
+
+msgid "My Jobs"
+msgstr "내 직업"
+
+msgid "View Job"
+msgstr "직무 보기"
+
+msgid "Newest Jobs"
+msgstr "최신 채용 정보"
+
+msgid "Job Seeker Messages"
+msgstr "구직자 메시지"
+
+msgid "Resume List"
+msgstr "이력서 목록"
+
+msgid "Purchase History"
+msgstr "구매 내역"
+
+msgid "My Subscription"
+msgstr "내 구독"
+
+msgid "My  Packages"
+msgstr "내 패키지"
+
+msgid "View Folder"
+msgstr "폴더 보기"
+
+msgid "Folder Resumes"
+msgstr "폴더 이력서"
+
+msgid "My Resume"
+msgstr "내 이력서"
+
+msgid "My Applied Jobs"
+msgstr "내 지원 직무"
+
+msgid "Job Applied Resume"
+msgstr "직무 지원 이력서"
+
+msgid "Job Search"
+msgstr "구직 검색"
+
+msgid "Log In"
+msgstr "로그인"
+
+msgid "Register"
+msgstr "등록하다"
+
+msgid "Edit Profile"
+msgstr "프로필 수정"
+
+msgid "Plus"
+msgstr "을 더한"
+
+msgid "Equals"
+msgstr "같음"
+
+msgid "Minus"
+msgstr "마이너스"
+
+msgid "Proceed Without Paying"
+msgstr "결제하지 않고 진행"
+
+msgid "Proceed"
+msgstr "진행하다"
+
+msgid "Total Credits"
+msgstr "총 학점"
+
+msgid "Credit for action"
+msgstr "행동에 대한 공로"
+
+msgid "Life time alerts"
+msgstr "수명 알림"
+
+msgid "Credits remaining after proceed"
+msgstr "진행 후 남은 크레딧"
+
+msgid "Insufficient Credits"
+msgstr "부족한 크레딧"
+
+msgid "Can Not Proceed"
+msgstr "계속할 수 없습니다"
+
+msgid "Add to"
+msgstr "다음에 추가"
+
+msgid "featured"
+msgstr "특집"
+
+msgid "company"
+msgstr "회사"
+
+msgid "Company name"
+msgstr "회사 이름"
+
+msgid "job"
+msgstr "직업"
+
+msgid "Job title"
+msgstr "직위"
+
+msgid "resume"
+msgstr "재개하다"
+
+msgid "Resume title"
+msgstr "이력서 제목"
+
+msgid "Alert"
+msgstr "알리다"
+
+msgid "View company contact detail"
+msgstr "회사 연락처 보기"
+
+msgid "View resume contact detail"
+msgstr "이력서 연락처 보기"
+
+msgid "search"
+msgstr "찾다"
+
+msgid "Apply On Job"
+msgstr "입사지원"
+
+msgid "language"
+msgstr "언어"
+
+msgid "Upload Image"
+msgstr "이미지 업로드"
+
+msgid "Resume image"
+msgstr "이력서 이미지"
+
+msgid "Max logo size allowed"
+msgstr "허용되는 최대 로고 크기"
+
+msgid "Select Multiple Files"
+msgstr "여러 파일 선택"
+
+msgid "Save Resume"
+msgstr "이력서 저장"
+
+msgid "Cancel Resume"
+msgstr "이력서 취소"
+
+msgid "Attachment"
+msgstr "부착"
+
+msgid "email"
+msgstr "이메일"
+
+msgid "salary"
+msgstr "샐러리"
+
+msgid "number"
+msgstr "숫자"
+
+msgid "location"
+msgstr "위치"
+
+msgid "activity log"
+msgstr "활동 로그"
+
+msgid "Activity Log"
+msgstr "활동 로그"
+
+msgid "stats"
+msgstr "통계"
+
+msgid "translations"
+msgstr "번역"
+
+msgid "Translations"
+msgstr "번역"
+
+msgid "system errors"
+msgstr "시스템 오류"
+
+msgid "System Errors"
+msgstr "시스템 오류"
+
+msgid "slug"
+msgstr "강타"
+
+msgid "Slug"
+msgstr "강타"
+
+msgid "ad ons"
+msgstr "추가 기능"
+
+msgid "Install Addons"
+msgstr "애드온 설치"
+
+msgid "install addons"
+msgstr "애드온 설치"
+
+msgid "addons list"
+msgstr "애드온 목록"
+
+msgid "Addons List"
+msgstr "애드온 목록"
+
+msgid "companies"
+msgstr "회사"
+
+msgid "add new company"
+msgstr "새 회사 추가"
+
+msgid "Add New Company"
+msgstr "새 회사 추가"
+
+msgid "fields"
+msgstr "필드"
+
+msgid "Fields"
+msgstr "필드"
+
+msgid "departments"
+msgstr "부서"
+
+msgid "add new department"
+msgstr "새 부서 추가"
+
+msgid "jobs"
+msgstr "직업"
+
+msgid "add new job"
+msgstr "새 직업 추가"
+
+msgid "Add New Job"
+msgstr "새 직업 추가"
+
+msgid "search fields"
+msgstr "검색 필드"
+
+msgid "Search Fields"
+msgstr "검색 필드"
+
+msgid "credits"
+msgstr "크레딧"
+
+msgid "folder"
+msgstr "폴더"
+
+msgid "job types"
+msgstr "직업 유형"
+
+msgid "Job Types"
+msgstr "직업 유형"
+
+msgid "add new job type"
+msgstr "새 직업 유형 추가"
+
+msgid "Add New Job Type"
+msgstr "새 직무 유형 추가"
+
+msgid "job status"
+msgstr "직위"
+
+msgid "add new job status"
+msgstr "새 작업 상태 추가"
+
+msgid "Add New Job Status"
+msgstr "새 작업 상태 추가"
+
+msgid "highest educations"
+msgstr "고등교육"
+
+msgid "Highest Educations"
+msgstr "고등교육"
+
+msgid "add new highest education"
+msgstr "새로운 최고 교육을 추가하다"
+
+msgid "Add New Highest Education"
+msgstr "새로운 최고 교육 추가"
+
+msgid "career levels"
+msgstr "경력 수준"
+
+msgid "Career Levels"
+msgstr "경력 수준"
+
+msgid "add new career level"
+msgstr "새로운 직업 레벨 추가"
+
+msgid "Add New Career Level"
+msgstr "새로운 경력 레벨 추가"
+
+msgid "currency"
+msgstr "통화"
+
+msgid "add new currency"
+msgstr "새 통화 추가"
+
+msgid "Add New Currency"
+msgstr "새 통화 추가"
+
+msgid "categories"
+msgstr "카테고리"
+
+msgid "add new category"
+msgstr "새 카테고리 추가"
+
+msgid "Add New Category"
+msgstr "새 카테고리 추가"
+
+msgid "salary range"
+msgstr "급여 범위"
+
+msgid "salary range type"
+msgstr "급여 범위 유형"
+
+msgid "Salary Range Type"
+msgstr "급여 범위 유형"
+
+msgid "add new salary range type"
+msgstr "새 급여 범위 유형 추가"
+
+msgid "Add New Salary Range Type"
+msgstr "새 급여 범위 유형 추가"
+
+msgid "users"
+msgstr "사용자"
+
+msgid "Users"
+msgstr "사용자"
+
+msgid "assign role"
+msgstr "역할 할당"
+
+msgid "Assign Role"
+msgstr "역할 할당"
+
+msgid "short codes"
+msgstr "단축 코드"
+
+msgid "Short Codes"
+msgstr "단축 코드"
+
+msgid "reports"
+msgstr "보고서"
+
+msgid "Reports"
+msgstr "보고서"
+
+msgid "overall reports"
+msgstr "전체 보고서"
+
+msgid "Overall Reports"
+msgstr "전체 보고서"
+
+msgid "Employer / Job Seeker Report"
+msgstr "고용주/구직자 보고서"
+
+msgid "email templates"
+msgstr "이메일 템플릿"
+
+msgid "Email Templates"
+msgstr "이메일 템플릿"
+
+msgid "options"
+msgstr "옵션"
+
+msgid "Options"
+msgstr "옵션"
+
+msgid "new company"
+msgstr "새로운 회사"
+
+msgid "New Company"
+msgstr "새로운 회사"
+
+msgid "delete company"
+msgstr "회사 삭제"
+
+msgid "Delete Company"
+msgstr "회사 삭제"
+
+msgid "company status"
+msgstr "회사현황"
+
+msgid "Company Status"
+msgstr "회사현황"
+
+msgid "new job"
+msgstr "새 직업"
+
+msgid "New Job"
+msgstr "새 직업"
+
+msgid "new visitor job"
+msgstr "새로운 방문자 직업"
+
+msgid "New Visitor Job"
+msgstr "새로운 방문자 직업"
+
+msgid "job delete"
+msgstr "작업 삭제"
+
+msgid "Job Delete"
+msgstr "작업 삭제"
+
+msgid "new resume"
+msgstr "새로운 이력서"
+
+msgid "New Resume"
+msgstr "새로운 이력서"
+
+msgid "new visitor resume"
+msgstr "새로운 방문자 이력서"
+
+msgid "New Visitor Resume"
+msgstr "새로운 방문자 이력서"
+
+msgid "resume status"
+msgstr "재개 상태"
+
+msgid "Resume Status"
+msgstr "이력서 상태"
+
+msgid "delete resume"
+msgstr "이력서 삭제"
+
+msgid "Delete Resume"
+msgstr "이력서 삭제"
+
+msgid "new employer"
+msgstr "새로운 고용주"
+
+msgid "New Employer"
+msgstr "새로운 고용주"
+
+msgid "new job seeker"
+msgstr "새로운 구직자"
+
+msgid "New Job Seeker"
+msgstr "신규 구직자"
+
+msgid "job apply admin"
+msgstr "입사 지원 관리자"
+
+msgid "Job Apply Admin"
+msgstr "채용 지원 관리자"
+
+msgid "job apply employer"
+msgstr "취업 지원 고용주"
+
+msgid "Job Apply Employer"
+msgstr "채용 지원 고용주"
+
+msgid "job apply job seeker"
+msgstr "취업 지원 구직자"
+
+msgid "Job Apply Job Seeker"
+msgstr "취업 지원 구직자"
+
+msgid "applied resume status change"
+msgstr "이력서 상태 변경 적용"
+
+msgid "Applied Resume Status Change"
+msgstr "이력서 상태 변경 적용"
+
+msgid "tell to friend"
+msgstr "친구에게 말하다"
+
+msgid "Tell To Friend"
+msgstr "친구에게 말하다"
+
+msgid "Purchase Package Admin"
+msgstr "구매 패키지 관리자"
+
+msgid "Purchase Status"
+msgstr "구매현황"
+
+msgid "countries"
+msgstr "국가"
+
+msgid "Countries"
+msgstr "국가"
+
+msgid "add new country"
+msgstr "새 국가 추가"
+
+msgid "Add New Country"
+msgstr "새 국가 추가"
+
+msgid "Total Stats"
+msgstr "총 통계"
+
+msgid "Company Type"
+msgstr "회사 유형"
+
+msgid "Featured Companies"
+msgstr "주요 기업"
+
+msgid "Columns"
+msgstr "열"
+
+msgid "No. of Companies"
+msgstr "회사 수"
+
+msgid "Top Jobs"
+msgstr "상위 직업"
+
+msgid "Hot Jobs"
+msgstr "인기 직업"
+
+msgid "No. of jobs"
+msgstr "일자리 수"
+
+msgid "Duration"
+msgstr "지속"
+
+msgid "Start Publishing"
+msgstr "게시 시작"
+
+msgid "Stop Publishing"
+msgstr "게시 중지"
+
+msgid "Column rer row"
+msgstr "열 다시 행"
+
+msgid "Resume Type"
+msgstr "이력서 유형"
+
+msgid "Newest Resumes"
+msgstr "최신 이력서"
+
+msgid "Top Resumes"
+msgstr "최고의 이력서"
+
+msgid "Featured Resumes"
+msgstr "주요 이력서"
+
+msgid "No. of Resumes"
+msgstr "이력서 수"
+
+msgid "Could not find any matching results"
+msgstr "일치하는 결과를 찾을 수 없습니다"
+
+msgid "no record"
+msgstr "어떤 기록도 없다"
+
+msgid "No record found !..."
+msgstr "기록을 찾을 수 없습니다 !..."
+
+msgid "system offline"
+msgstr "시스템 오프라인"
+
+msgid "user ban"
+msgstr "사용자 금지"
+
+msgid "Your account is disabled, please contact system administrator !..."
+msgstr "귀하의 계정이 비활성화되었습니다. 시스템 관리자에게 문의하세요!..."
+
+msgid "login"
+msgstr "로그인"
+
+msgid "To Access This Page Please Login !..."
+msgstr "이 페이지에 액세스하려면 로그인하세요!..."
+
+msgid "Back to control panel"
+msgstr "제어판으로 돌아가기"
+
+msgid "register banned"
+msgstr "금지된 등록"
+
+msgid "You are not logged in"
+msgstr "로그인되어 있지 않습니다."
+
+msgid "Job seeker not allowed to perform this action"
+msgstr "구직자는 이 작업을 수행할 수 없습니다."
+
+msgid "Employer not allowed to perform this action"
+msgstr "고용주는 이 작업을 수행할 수 없습니다."
+
+msgid "You do not have enough credits"
+msgstr "크레딧이 부족합니다."
+
+msgid "Employer Is Disabled By Admin"
+msgstr "고용주가 관리자에 의해 비활성화되었습니다"
+
+msgid "Employer not allowed in job seeker area"
+msgstr "구직자 지역에 고용주가 허용되지 않음"
+
+msgid "You are already logged in"
+msgstr "귀하는 이미 로그인하셨습니다"
+
+msgid "Please select your role"
+msgstr "당신의 역할을 선택해주세요"
+
+msgid "You are not allowed"
+msgstr "너는 허가받지 않았다"
+
+msgid "Buy New Package"
+msgstr "새 패키지 구매"
+
+msgid "You are Not Allowed To add More than One "
+msgstr "둘 이상을 추가하는 것은 허용되지 않습니다"
+
+msgid "Payment is Not Made Against This Job  Contact Adminstrator"
+msgstr "이 작업 연락처 관리자에 대해 지급이 이루어지지 않았습니다."
+
+msgid "not allowed"
+msgstr "허용되지 않음"
+
+msgid "You are already logged in !..."
+msgstr "귀하는 이미 로그인하셨습니다 !..."
+
+msgid "Logout"
+msgstr "로그 아웃"
+
+msgid "Please first make a selection from the list"
+msgstr "먼저 목록에서 항목을 선택하세요."
+
+msgid "Unknown"
+msgstr "알려지지 않은"
+
+msgid "Invalid request"
+msgstr "잘못된 요청"
+
+msgid "has been successfully saved"
+msgstr "성공적으로 저장되었습니다"
+
+msgid "has not been saved"
+msgstr "저장되지 않았습니다"
+
+msgid "has been successfully deleted"
+msgstr "성공적으로 삭제되었습니다"
+
+msgid "Record not exist"
+msgstr "레코드가 존재하지 않습니다"
+
+msgid "has not been deleted"
+msgstr "삭제되지 않았습니다"
+
+msgid "has been successfully published"
+msgstr "성공적으로 출판되었습니다"
+
+msgid "transaction has been successfully verified"
+msgstr "거래가 성공적으로 확인되었습니다"
+
+msgid "transaction has been successfully un-verified"
+msgstr "거래가 성공적으로 확인 취소되었습니다."
+
+msgid "transaction has not been successfully verified"
+msgstr "거래가 성공적으로 확인되지 않았습니다"
+
+msgid "transaction has not been successfully un-verified"
+msgstr "거래가 성공적으로 확인 취소되지 않았습니다."
+
+msgid "has not been published"
+msgstr "출판되지 않았습니다"
+
+msgid "has been successfully unpublished"
+msgstr "게시가 취소되었습니다."
+
+msgid "has not been unpublished"
+msgstr "게시가 취소되지 않았습니다."
+
+msgid "Fields has been successfully required"
+msgstr "필드가 성공적으로 요구되었습니다"
+
+msgid "Field has not been required"
+msgstr "필드가 필수가 아닙니다."
+
+msgid "Fields has not been required"
+msgstr "필드가 필수가 아닙니다."
+
+msgid "Fields has been successfully not required"
+msgstr "필드가 필요하지 않습니다."
+
+msgid "Field has not been not required"
+msgstr "필드가 필수가 아닙니다."
+
+msgid "Fields has not been not required"
+msgstr "필드가 필요하지 않았습니다."
+
+msgid "Field order up successfully"
+msgstr "현장 주문이 성공적으로 완료되었습니다."
+
+msgid "Field order up error"
+msgstr "필드 주문 오류"
+
+msgid "Field order down successfully"
+msgstr "필드 주문이 성공적으로 중단되었습니다."
+
+msgid "has been rejected"
+msgstr "거부되었습니다"
+
+msgid "Job applied successfully"
+msgstr "작업이 성공적으로 적용되었습니다."
+
+msgid "Error in applying job"
+msgstr "입사지원 중 오류가 발생했습니다."
+
+msgid "has not been rejected"
+msgstr "거절되지 않았습니다"
+
+msgid "has been approved"
+msgstr "승인되었습니다"
+
+msgid "has not been approved"
+msgstr "승인되지 않았습니다"
+
+msgid "has been set as default"
+msgstr "기본값으로 설정되었습니다"
+
+msgid "Unpublished field cannot set default"
+msgstr "게시되지 않은 필드에는 기본값을 설정할 수 없습니다."
+
+msgid "has not been set as default"
+msgstr "기본값으로 설정되지 않았습니다"
+
+msgid "status has been updated"
+msgstr "상태가 업데이트되었습니다"
+
+msgid "has not been updated"
+msgstr "업데이트되지 않았습니다"
+
+msgid "in use cannot deleted"
+msgstr "사용 중 삭제할 수 없습니다"
+
+msgid "already exist"
+msgstr "이미 존재한다"
+
+msgid "File type error"
+msgstr "파일 형식 오류"
+
+msgid "File size error"
+msgstr "파일 크기 에러"
+
+msgid "has been enabled"
+msgstr "활성화되었습니다"
+
+msgid "Can not buy free package more than once"
+msgstr "무료 패키지를 두 번 이상 구매할 수 없습니다."
+
+msgid "has been disabled"
+msgstr "비활성화되었습니다"
+
+msgid "no active package"
+msgstr "활성 패키지 없음"
+
+msgid "You don't have enough credits"
+msgstr "크레딧이 부족합니다."
+
+msgid "buy packages"
+msgstr "패키지 구매"
+
+msgid "Address Data"
+msgstr "주소 데이터"
+
+msgid "Featured company"
+msgstr "주요 회사"
+
+msgid "Field"
+msgstr "필드"
+
+msgid "Employer package"
+msgstr "고용주 패키지"
+
+msgid "Featured job"
+msgstr "주요 직업"
+
+msgid "Job alert"
+msgstr "채용공고"
+
+msgid "State"
+msgstr "상태"
+
+msgid "User role"
+msgstr "사용자 역할"
+
+msgid "Email Template"
+msgstr "이메일 템플릿"
+
+msgid "record"
+msgstr "기록"
+
+msgid "s"
+msgstr "에스"
+
+msgid "Prefix"
+msgstr "접두사"
+
+msgid "Career Level"
+msgstr "경력 수준"
+
+msgid "Jobseeker"
+msgstr "구직자"
+
+msgid "Previous"
+msgstr "이전의"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "Search job"
+msgstr "채용정보 검색"
+
+msgid "Jobs by state"
+msgstr "주별 일자리"
+
+msgid "Latest Resumes"
+msgstr "최신 이력서"
+
+msgid "Search jobs form WP Job Portal database"
+msgstr "WP 취업 포털 데이터베이스에서 채용 정보 검색"
+
+msgid "Search Job"
+msgstr "채용정보 검색"
+
+msgid "Username / password is incorrect"
+msgstr "사용자 이름/비밀번호가 올바르지 않습니다."
+
+msgid "Jobs role"
+msgstr "직무 역할"
+
+msgid "Select job role"
+msgstr "직무 선택"
+
+msgid "You must set jobs user role"
+msgstr "작업 사용자 역할을 설정해야 합니다."
+
+msgid "Username already taken"
+msgstr "이미 사용중인 이름입니다"
+
+msgid "Invalid username"
+msgstr "잘못된 사용자 이름"
+
+msgid "Please enter a username"
+msgstr "사용자 이름을 입력 해주세요"
+
+msgid "Invalid email"
+msgstr "잘못된 이메일"
+
+msgid "Email already registered"
+msgstr "이미 등록된 이메일"
+
+msgid "Please enter a password"
+msgstr "비밀번호를 입력해주세요"
+
+msgid "Passwords do not match"
+msgstr "비밀번호가 일치하지 않습니다"
+
+msgid "Error Updating User"
+msgstr "사용자를 업데이트하는 중 오류가 발생했습니다."
+
+msgid "User Added Successfully"
+msgstr "사용자가 성공적으로 추가되었습니다"
+
+msgid "Employer Control Panel"
+msgstr "고용주 제어판"
+
+msgid "WP JOB PORTAL Pages"
+msgstr "WP JOB 포털 페이지"
+
+msgid "Jobseeker Control Panel"
+msgstr "구직자 제어판"
+
+msgid "Job Listing"
+msgstr "채용정보"
+
+msgid "Jobs By Catergories"
+msgstr "카테고리별 채용정보"
+
+msgid "Add Job"
+msgstr "직업 추가"
+
+msgid "Employer Registration"
+msgstr "고용주 등록"
+
+msgid "Jobseeker Registration"
+msgstr "구직자 등록"
+
+msgid "All Companies"
+msgstr "모든 회사"
+
+msgid "My Cover Letters"
+msgstr "내 커버레터"
+
+msgid "Add Cover Letter"
+msgstr "자기 소개서 추가"
+
+msgid "Employer My Stats"
+msgstr "고용주 내 통계"
+
+msgid "Jobseeker My Stats"
+msgstr "구직자 내 통계"
+
+msgid "WP JOB PORTAL Package"
+msgstr "WP 직업 포털 패키지"
+
+msgid "WP JOB PORTAL Perlisting"
+msgstr "WP JOB PORTAL Perlisting"
+
+msgid "Package combo"
+msgstr "패키지 콤보"
+
+msgid "Select packages pack so that user can purchase them."
+msgstr "사용자가 구매할 수 있도록 패키지 팩을 선택합니다."
+
+msgid "Feature Company"
+msgstr "특집회사"
+
+msgid "Featuer Job"
+msgstr "특집 직업"
+
+msgid "Feature Resume"
+msgstr "기능 재개"
+
+msgid "Add  Department"
+msgstr "부서 추가"
+
+msgid "Resume Save Search"
+msgstr "저장 검색 재개"
+
+msgid "Job Alert Time "
+msgstr "채용 알림 시간"
+
+msgid "View Company Contact Detail "
+msgstr "회사 연락처 세부정보 보기"
+
+msgid "View Resume Contact Detail"
+msgstr "이력서 연락처 세부정보 보기"
+
+msgid "WP Job Portal"
+msgstr "WP 취업 포털"
+
+msgid "Theme"
+msgstr "주제"
+
+msgid "Configurations"
+msgstr "구성"
+
+msgid "Jobseeker/Employer Reports"
+msgstr "구직자/고용주 보고서"
+
+msgid "Pro Installer"
+msgstr "프로 설치 프로그램"
+
+msgid "Email Templates Options"
+msgstr "이메일 템플릿 옵션"
+
+msgid "Custom Fields"
+msgstr "사용자 정의 필드"
+
+msgid "Employer Packages"
+msgstr "고용주 패키지"
+
+msgid "Field Ordering"
+msgstr "필드 주문"
+
+msgid "Job Seeker Packages"
+msgstr "구직자 패키지"
+
+msgid "WP Job Alert"
+msgstr "WP 채용 알림"
+
+msgid "Payment History"
+msgstr "결제 내역"
+
+msgid "Payment Method Configuration"
+msgstr "결제수단 구성"
+
+msgid "Salary Range Types"
+msgstr "급여 범위 유형"
+
+msgid "Cover letter"
+msgstr "자기 소개서"
+
+msgid "Shortcodes"
+msgstr "단축 코드"
+
+msgid "WP Job Portal Settings"
+msgstr "WP 취업 포털 설정"
+
+msgid "WP Job Portal Slug"
+msgstr "WP 취업 포털 슬러그"
+
+msgid "Premium Plugin"
+msgstr "프리미엄 플러그인"
+
+msgid "Premium Addon"
+msgstr "프리미엄 애드온"
+
+msgid "Cover Letter"
+msgstr "자기 소개서"
+
+msgid "Applied for job"
+msgstr "구직 신청"
+
+msgid "With Resume"
+msgstr "이력서 포함"
+
+msgid "Administrator"
+msgstr "관리자"
+
+msgid "added a new"
+msgstr "새로 추가했습니다"
+
+msgid "Edited a existing"
+msgstr "기존 편집됨"
+
+msgid "Deleted a"
+msgstr "삭제됨"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Reference For"
+msgstr "참조 대상"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Ages"
+msgstr "연령"
+
+msgid "Custom Field"
+msgstr "사용자 정의 필드"
+
+msgid "submit"
+msgstr "제출하다"
+
+msgid "Submit"
+msgstr "제출하다"
+
+msgid "Sort by"
+msgstr "정렬 기준"
+
+msgid "Ordering updated"
+msgstr "주문이 업데이트되었습니다."
+
+msgid "Ordering"
+msgstr "주문"
+
+msgid "Save Ordering"
+msgstr "주문 저장"
+
+msgid "Add New Career Levels"
+msgstr "새로운 경력 레벨 추가"
+
+msgid "grab"
+msgstr "붙잡다"
+
+msgid "title"
+msgstr "제목"
+
+msgid "default"
+msgstr "기본"
+
+msgid "not default"
+msgstr "기본값이 아님"
+
+msgid "Records per page"
+msgstr "페이지당 기록"
+
+msgid "Show More"
+msgstr "자세히보기"
+
+msgid "Category Title"
+msgstr "카테고리 제목"
+
+msgid "category name"
+msgstr "카테고리 이름"
+
+msgid "Error while saving new state"
+msgstr "새 상태를 저장하는 중 오류가 발생했습니다."
+
+msgid "Country not found"
+msgstr "국가를 찾을 수 없습니다"
+
+msgid "Add New City"
+msgstr "새 도시 추가"
+
+msgid "Not Required"
+msgstr "필요하지 않음"
+
+msgid "25 Per"
+msgstr "25퍼"
+
+msgid "50 Per"
+msgstr "50 당"
+
+msgid "75 Per"
+msgstr "75 당"
+
+msgid "100 Per"
+msgstr "100 당"
+
+msgid "New company"
+msgstr "새로운 회사"
+
+msgid "New department"
+msgstr "새로운 부서"
+
+msgid "New job"
+msgstr "새 직업"
+
+msgid "Searched and saved resume"
+msgstr "이력서를 검색하고 저장했습니다."
+
+msgid "Viewed resume contact details"
+msgstr "이력서 연락처 세부정보를 확인했습니다."
+
+msgid "Featured company for time period"
+msgstr "기간별 주요 회사"
+
+msgid "New resume"
+msgstr "새로운 이력서"
+
+msgid "New cover letter"
+msgstr "새로운 자기 소개서"
+
+msgid "Life time job alert"
+msgstr "평생 직업 알림"
+
+msgid "Job alert for time"
+msgstr "시간에 대한 작업 알림"
+
+msgid "Saved a job search"
+msgstr "구직 활동을 저장했습니다."
+
+msgid "Job short listed"
+msgstr "직업 간략히 나열됨"
+
+msgid "Viewed job status"
+msgstr "작업 상태를 확인함"
+
+msgid "Viewed company contact detail"
+msgstr "회사 연락처 세부정보를 확인했습니다."
+
+msgid "Told a friend"
+msgstr "친구에게 말했어요"
+
+msgid "Saved a job filter"
+msgstr "채용정보 필터를 저장했습니다."
+
+msgid "Shared on social media"
+msgstr "소셜 미디어에 공유됨"
+
+msgid "Unpublished"
+msgstr "널리 알려지지 않은"
+
+msgid "Subscribed"
+msgstr "구독함"
+
+msgid "Unsubscribed"
+msgstr "구독 취소됨"
+
+msgid "Text Field"
+msgstr "텍스트 필드"
+
+msgid "Text Area"
+msgstr "텍스트 영역"
+
+msgid "Check Box"
+msgstr "체크박스"
+
+msgid "Drop Down"
+msgstr "쓰러지 다"
+
+msgid "Negotiable"
+msgstr "협상 가능"
+
+msgid "You are Not Allowed To Add More than One "
+msgstr "둘 이상 추가할 수 없습니다."
+
+msgid "Are you new in"
+msgstr "새로 들어오셨나요?"
+
+msgid "Select Role"
+msgstr "역할 선택"
+
+msgid "Companies Approval Queue"
+msgstr "회사 승인 대기열"
+
+msgid "cross"
+msgstr "십자가"
+
+msgid "enforce delete"
+msgstr "강제 삭제"
+
+msgid "Enforce Delete"
+msgstr "강제 삭제"
+
+msgid "Company Approve"
+msgstr "회사 승인"
+
+msgid "Company Reject"
+msgstr "회사 거부"
+
+msgid "sort"
+msgstr "종류"
+
+msgid "Date Start"
+msgstr "날짜 시작"
+
+msgid "Date End"
+msgstr "날짜 종료"
+
+msgid "View all jobs"
+msgstr "모든 채용공고 보기"
+
+msgid "View All Jobs"
+msgstr "모든 채용정보 보기"
+
+msgid "Edit company"
+msgstr "회사 편집"
+
+msgid "Edit Company"
+msgstr "회사 편집"
+
+msgid "Delete company"
+msgstr "회사 삭제"
+
+msgid "Waiting For Approval"
+msgstr "승인 대기 중"
+
+msgid "Pending For Approval of Payment"
+msgstr "결제 승인 보류 중"
+
+msgid "View company"
+msgstr "회사보기"
+
+msgid "View Company"
+msgstr "회사보기"
+
+msgid "website"
+msgstr "웹사이트"
+
+msgid "Data directory can not empty."
+msgstr "데이터 디렉터리는 비워둘 수 없습니다."
+
+msgid "Data directory is not proper."
+msgstr "데이터 디렉토리가 올바르지 않습니다."
+
+msgid "Data directory is not writable."
+msgstr "데이터 디렉터리에 쓸 수 없습니다."
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "Site Settings"
+msgstr "사이트 설정"
+
+msgid "Offline"
+msgstr "오프라인"
+
+msgid "Term And Conditions"
+msgstr "이용 약관"
+
+msgid "employer"
+msgstr "고용주"
+
+msgid "Members Links"
+msgstr "회원 링크"
+
+msgid "job seeker"
+msgstr "구직자"
+
+msgid "Resume Settings"
+msgstr "이력서 설정"
+
+msgid "Employer Settings"
+msgstr "고용주 설정"
+
+msgid "Jobseeker Settings"
+msgstr "구직자 설정"
+
+msgid "Package Settings"
+msgstr "패키지 설정"
+
+msgid "Social Links"
+msgstr "소셜 링크"
+
+msgid "Social Share"
+msgstr "소셜 공유"
+
+msgid "Facebook"
+msgstr "페이스북"
+
+msgid "Linkedin"
+msgstr "링크드인"
+
+msgid "Xing"
+msgstr "싱"
+
+msgid "Social Login"
+msgstr "소셜 로그인"
+
+msgid "dd-mm-yyyy"
+msgstr "dd-mm-yyyy"
+
+msgid "mm/dd/yyyy"
+msgstr "mm/dd/yyyy"
+
+msgid "yyyy-mm-dd"
+msgstr "yyyy-mm-dd"
+
+msgid "Top left"
+msgstr "왼쪽 위"
+
+msgid "Top right"
+msgstr "맨 위 오른쪽"
+
+msgid "Middle left"
+msgstr "가운데 왼쪽"
+
+msgid "Middle right"
+msgstr "가운데 오른쪽"
+
+msgid "Bottom left"
+msgstr "왼쪽 하단"
+
+msgid "Bottom right"
+msgstr "오른쪽 하단"
+
+msgid "Google Captcha"
+msgstr "구글 보안문자"
+
+msgid "WP JOB PORTAL Captcha"
+msgstr "WP JOB 포털 보안 문자"
+
+msgid "Any"
+msgstr "어느"
+
+msgid "Addition"
+msgstr "덧셈"
+
+msgid "Subtraction"
+msgstr "빼기"
+
+msgid "Left align"
+msgstr "왼쪽 정렬"
+
+msgid "Right align"
+msgstr "오른쪽 정렬"
+
+msgid "Per Listing"
+msgstr "목록당"
+
+msgid "Membership"
+msgstr "회원"
+
+msgid "Google Map"
+msgstr "구글지도"
+
+msgid "Open Street Map"
+msgstr "오픈스트리트맵"
+
+msgid "Custom"
+msgstr "관습"
+
+msgid "Data directory"
+msgstr "데이터 디렉토리"
+
+msgid "System will upload all user files in this folder"
+msgstr "시스템이 이 폴더에 있는 모든 사용자 파일을 업로드합니다."
+
+msgid "Show breadcrumbs"
+msgstr "탐색경로 표시"
+
+msgid "Show navigation in breadcrumbs"
+msgstr "탐색경로에 탐색 표시"
+
+msgid "Date format"
+msgstr "날짜 형식"
+
+msgid "Date format for plugin"
+msgstr "플러그인의 날짜 형식"
+
+msgid "Mark Job New"
+msgstr "직업 표시 신규"
+
+msgid "How many days system show New tag"
+msgstr "시스템에 새 태그가 표시되는 일수"
+
+msgid "Image file extensions"
+msgstr "이미지 파일 확장자"
+
+msgid "Add image allowed extensions"
+msgstr "이미지 허용 확장자 추가"
+
+msgid "Must be comma separated"
+msgstr "쉼표로 구분해야 합니다."
+
+msgid "User can add city in database"
+msgstr "사용자는 데이터베이스에 도시를 추가할 수 있습니다."
+
+msgid "User can add new city in the system"
+msgstr "사용자는 시스템에 새로운 도시를 추가할 수 있습니다."
+
+msgid "Maximum record for city field"
+msgstr "도시 분야 최대 기록"
+
+msgid "Set number of cities to show in result of the location input box"
+msgstr "위치 입력 상자 결과에 표시할 도시 수를 설정합니다."
+
+msgid "User can add tag in database"
+msgstr "사용자는 데이터베이스에 태그를 추가할 수 있습니다."
+
+msgid "User can add new tags in the system"
+msgstr "사용자는 시스템에 새 태그를 추가할 수 있습니다."
+
+msgid "Maximum record for tag field"
+msgstr "태그 필드의 최대 레코드"
+
+msgid "Set number of tags to show in result of the tag input box"
+msgstr "태그 입력 상자의 결과에 표시할 태그 수를 설정합니다."
+
+msgid "Currency symbol position"
+msgstr "통화 기호 위치"
+
+msgid "Show currency symbol left or right to the amount"
+msgstr "금액 왼쪽이나 오른쪽에 통화 기호 표시"
+
+msgid "Job types per row"
+msgstr "행당 작업 유형"
+
+msgid "Show number of job types per row on 'job by type' page"
+msgstr "'유형별 직무' 페이지에 행당 직무 유형 수 표시"
+
+msgid "Message auto approve"
+msgstr "메시지 자동 승인"
+
+msgid "Auto approve messages for job seeker and employer"
+msgstr "구직자와 고용주를 위한 메시지 자동 승인"
+
+msgid "Conflict message auto approve"
+msgstr "충돌 메시지 자동 승인"
+
+msgid "Auto approve conflicted messages for job seeker and employer"
+msgstr "구직자와 고용주에 대한 충돌 메시지 자동 승인"
+
+msgid "Default page"
+msgstr "기본 페이지"
+
+msgid "Default address display style"
+msgstr "기본 주소 표시 스타일"
+
+msgid "Employer default role"
+msgstr "고용주 기본 역할"
+
+msgid "This role will auto assign to new employer"
+msgstr "이 역할은 새 고용주에게 자동으로 할당됩니다."
+
+msgid "Job Seeker default role"
+msgstr "구직자 기본 역할"
+
+msgid "This role will auto assign to new job seeker"
+msgstr "이 역할은 새 구직자에게 자동으로 할당됩니다."
+
+msgid "Default Pagination size"
+msgstr "기본 페이지 매김 크기"
+
+msgid "Maximum number of records per page"
+msgstr "페이지당 최대 레코드 수"
+
+msgid "Show All Categories"
+msgstr "모든 카테고리 표시"
+
+msgid "Categories per row"
+msgstr "행당 카테고리"
+
+msgid "Sub-categories limit"
+msgstr "하위 카테고리 제한"
+
+msgid "Sender email address"
+msgstr "보낸 사람 이메일 주소"
+
+msgid "Email address that will be used to send emails"
+msgstr "이메일을 보내는 데 사용될 이메일 주소"
+
+msgid "Sender name"
+msgstr "보낸 사람 이름"
+
+msgid "Sender name that will be used in emails"
+msgstr "이메일에 사용될 발신자 이름"
+
+msgid "Admin email address"
+msgstr "관리자 이메일 주소"
+
+msgid "Admin will receive email notifications on this address"
+msgstr "관리자는 이 주소로 이메일 알림을 받게 됩니다."
+
+msgid "Map height"
+msgstr "지도 높이"
+
+msgid "Set map height for plugin"
+msgstr "플러그인의 지도 높이 설정"
+
+msgid "Show Map"
+msgstr "지도 표시"
+
+msgid "Google Map API key"
+msgstr "Google 지도 API 키"
+
+msgid "Get API key from"
+msgstr "다음에서 API 키 가져오기"
+
+msgid "here"
+msgstr "여기"
+
+msgid "Mapping Service"
+msgstr "매핑 서비스"
+
+msgid "Default longitude"
+msgstr "기본 경도"
+
+msgid "Default latitude"
+msgstr "기본 위도"
+
+msgid "Default map radius type"
+msgstr "기본 지도 반경 유형"
+
+msgid "Company terms and conditions page"
+msgstr "회사 이용 약관 페이지"
+
+msgid "Select terms and conditions page for company"
+msgstr "회사 이용약관 페이지 선택"
+
+msgid "Job terms and conditions page"
+msgstr "채용 약관 페이지"
+
+msgid "Select terms and conditions page for job"
+msgstr "채용정보 이용약관 페이지 선택"
+
+msgid "Resume terms and conditions page"
+msgstr "이용약관 페이지 재개"
+
+msgid "Select terms and conditions page for Resume"
+msgstr "이력서 이용약관 페이지 선택"
+
+msgid "Show captcha on registration form"
+msgstr "등록 양식에 보안 문자 표시"
+
+msgid "Show captcha on WP JOB PORTAL registration form"
+msgstr "WP JOB PORTAL 등록 양식에 보안 문자 표시"
+
+msgid "default captcha"
+msgstr "기본 보안 문자"
+
+msgid "Select captcha for plugin"
+msgstr "플러그인용 보안 문자 선택"
+
+msgid "WP JOB PORTAL captcha calculation type"
+msgstr "WP JOB PORTAL 보안 문자 계산 유형"
+
+msgid "Select calculation type (addition, subtraction)"
+msgstr "계산 유형 선택(덧셈, 뺄셈)"
+
+msgid "WP JOB PORTAL captcha answer always positive"
+msgstr "WP JOB PORTAL 보안 문자 답변은 항상 긍정적입니다."
+
+msgid "Subtraction answer should be positive"
+msgstr "뺄셈 답은 양수여야 합니다."
+
+msgid "Number of operands for WP JOB PORTAL captcha"
+msgstr "WP JOB PORTAL 보안 문자의 피연산자 수"
+
+msgid "Number of operands for captcha"
+msgstr "보안 문자의 피연산자 수"
+
+msgid "Job Posting Options"
+msgstr "채용 공고 옵션"
+
+msgid "Visitor can post job"
+msgstr "방문자는 채용 공고를 게시할 수 있습니다."
+
+msgid "Visitor can post a job"
+msgstr "방문자는 채용 정보를 게시할 수 있습니다."
+
+msgid "Allow edit job"
+msgstr "작업 편집 허용"
+
+msgid "Visitor can edit his posted job"
+msgstr "방문자는 게시된 채용 정보를 편집할 수 있습니다."
+
+msgid "Show captcha"
+msgstr "보안 문자 표시"
+
+msgid "Show captcha on visitor form job"
+msgstr "방문자 양식 작업에 보안 문자 표시"
+
+msgid "Visitor post job redirect page "
+msgstr "방문자 게시물 작업 리디렉션 페이지"
+
+msgid "whenever any visitor posts a job, he will be redirected to this page"
+msgstr "방문자가 채용 공고를 게시할 때마다 이 페이지로 리디렉션됩니다."
+
+msgid "Visitors Can View Employer"
+msgstr "방문자는 고용주를 볼 수 있습니다"
+
+msgid "Resume Categories"
+msgstr "이력서 카테고리"
+
+msgid "Visitor can apply to job"
+msgstr "방문자가 직업에 지원할 수 있습니다."
+
+msgid "Visitor can add resume"
+msgstr "방문자가 이력서를 추가할 수 있습니다."
+
+msgid "Show login message to visitor"
+msgstr "방문자에게 로그인 메시지 표시"
+
+msgid "Show login option to visitor on job apply"
+msgstr "입사지원 시 방문자에게 로그인 옵션 표시"
+
+msgid "Visitor post resume redirect page "
+msgstr "방문자 게시물 이력서 리디렉션 페이지"
+
+msgid "whenever any visitor posts a resume, he will be redirected to this page"
+msgstr "방문자가 이력서를 게시할 때마다 이 페이지로 리디렉션됩니다."
+
+msgid "Show captcha on resume form"
+msgstr "이력서 양식에 보안 문자 표시"
+
+msgid "Show captcha on visitor form resume"
+msgstr "방문자 양식 이력서에 보안 문자 표시"
+
+msgid "Show captcha on Job alert form"
+msgstr "취업 알림 양식에 보안 문자 표시"
+
+msgid "Show captcha visitor job alert form"
+msgstr "보안 문자 방문자 채용 알림 양식 표시"
+
+msgid "Show captcha on tell a friend popup"
+msgstr "친구에게 알리기 팝업에 보안 문자 표시"
+
+msgid "Show captcha on visitor tell a friend popup"
+msgstr "방문자에게 친구에게 알리기 팝업에 보안 문자 표시"
+
+msgid "Visitors Can View Job seeker"
+msgstr "방문자는 구직자를 볼 수 있습니다"
+
+msgid "Job search result"
+msgstr "채용정보 검색결과"
+
+msgid "Enable disable control panel for visitor"
+msgstr "방문자에 대한 제어판 비활성화 활성화"
+
+msgid "Employer Dashboard"
+msgstr "고용주 대시보드"
+
+msgid "Stats Graph"
+msgstr "통계 그래프"
+
+msgid "Useful Links"
+msgstr "유용한 링크"
+
+msgid "Saved Search"
+msgstr "저장된 검색"
+
+msgid "Invoice"
+msgstr "송장"
+
+msgid "Newest Resume"
+msgstr "최신 이력서"
+
+msgid "Employer Control Panel Links"
+msgstr "고용주 제어판 링크"
+
+msgid "Jobs Graph"
+msgstr "채용 그래프"
+
+msgid "Job Seeker Dashboard"
+msgstr "구직자 대시보드"
+
+msgid "Shortlisted Jobs"
+msgstr "최종 후보 채용 공고"
+
+msgid "Job Seeker Control Panel Links"
+msgstr "구직자 제어판 링크"
+
+msgid "Jobs RSS"
+msgstr "채용정보 RSS"
+
+msgid "Applied Resume Alert"
+msgstr "이력서 알림 적용"
+
+msgid "Applied resume notification"
+msgstr "이력서 적용 알림"
+
+msgid "Applied resume status change mail to jobseeker"
+msgstr "구직자에게 이력서 상태 변경 메일 적용"
+
+msgid "Paid Submission"
+msgstr "유료 제출"
+
+msgid "Auto Assign Free package to new user"
+msgstr "신규 사용자에게 무료 패키지 자동 할당"
+
+msgid "free package purchase"
+msgstr "무료 패키지 구매"
+
+msgid "Free Package purchase auto approve"
+msgstr "무료 패키지 구매 자동 승인"
+
+msgid "Submission Type"
+msgstr "제출 유형"
+
+msgid "No of Days untill Job expire (per-listing)"
+msgstr "작업이 만료될 때까지 남은 일수(목록별)"
+
+msgid "Job Expiry Days (per-listing)"
+msgstr "작업 만료 일수(목록당)"
+
+msgid "No of Days untill Feature Company expire (per-listing)"
+msgstr "주요 회사가 만료될 때까지 남은 일수(목록별)"
+
+msgid "Company Expiry Days (per-listing)"
+msgstr "회사 만료일(목록당)"
+
+msgid "No of Days untill Feature Company expire (Free)"
+msgstr "특집회사 만료까지 남은 일수(무료)"
+
+msgid "Company Expiry Days (Free)"
+msgstr "회사 만료일(무료)"
+
+msgid "No of Days untill Featured Job expire (per-listing)"
+msgstr "추천 채용정보가 만료될 때까지 남은 일수(목록별)"
+
+msgid "No Of Days until Featured Job  Expire (Free)"
+msgstr "추천 채용 정보 만료까지 남은 일수(무료)"
+
+msgid "Featured Job Expiry Days (Free)"
+msgstr "주요 채용 만료일(무료)"
+
+msgid "No Of Days until Featured Resume  Expire (Free)"
+msgstr "추천 이력서 ​​만료까지 남은 일수(무료)"
+
+msgid "Featured Resume Expiry Days (Free)"
+msgstr "주요 이력서 만료일(무료)"
+
+msgid "No Of Days until Featured Resume  Expire (per-listing)"
+msgstr "추천 이력서 ​​만료까지 남은 일수(목록별)"
+
+msgid "Featured Resume Expiry Days (per-listing)"
+msgstr "주요 이력서 만료일(목록당)"
+
+msgid "No Of Days until Job  Expire (Free)"
+msgstr "작업 만료까지 남은 일수(무료)"
+
+msgid "Job Expiry Days (Free)"
+msgstr "직업 만료일(무료)"
+
+msgid "Facebook likes"
+msgstr "페이스북 좋아요"
+
+msgid "Facebook share"
+msgstr "페이스 북에 공유"
+
+msgid "Facebook comments"
+msgstr "페이스북 댓글"
+
+msgid "Google likes"
+msgstr "구글이 좋아하는"
+
+msgid "Google share"
+msgstr "구글 공유"
+
+msgid "Blogger"
+msgstr "블로거"
+
+msgid "Digg"
+msgstr "디그"
+
+msgid "Twitter"
+msgstr "트위터"
+
+msgid "Myspace"
+msgstr "내 공간"
+
+msgid "Yahoo"
+msgstr "야후"
+
+msgid "Facebook user can login in WP JOB PORTAL"
+msgstr "Facebook 사용자는 WP JOB PORTAL에 로그인할 수 있습니다."
+
+msgid "Job apply with facebook"
+msgstr "페이스북으로 입사지원"
+
+msgid "Facebook user can apply to jobs"
+msgstr "Facebook 사용자가 채용에 지원할 수 있습니다."
+
+msgid "API key"
+msgstr "API 키"
+
+msgid "API key is required for facebook app"
+msgstr "Facebook 앱에는 API 키가 필요합니다"
+
+msgid "Secret"
+msgstr "비밀"
+
+msgid "Linkedin user can login in WP JOB PORTAL"
+msgstr "Linkedin 사용자는 WP JOB PORTAL에 로그인할 수 있습니다."
+
+msgid "Job apply with linkedin"
+msgstr "링크드인으로 입사 지원"
+
+msgid "Linkedin user can apply to jobs"
+msgstr "Linkedin 사용자가 채용 공고에 지원할 수 있습니다."
+
+msgid "API key is required for linkedin app"
+msgstr "연결된 앱에는 API 키가 필요합니다."
+
+msgid "Xing user can login in WP JOB PORTAL"
+msgstr "Xing 사용자는 WP JOB PORTAL에 로그인할 수 있습니다."
+
+msgid "Job apply with xing"
+msgstr "Xing으로 지원하세요"
+
+msgid "Xing user can apply to jobs"
+msgstr "Xing 사용자가 채용 공고에 지원할 수 있습니다."
+
+msgid "API key is required for xing app"
+msgstr "Xing 앱에는 API 키가 필요합니다"
+
+msgid "Must provide title for job feed"
+msgstr "채용 정보 피드에 제목을 제공해야 합니다."
+
+msgid "Must provide description for job feed"
+msgstr "채용정보 피드에 대한 설명을 제공해야 합니다."
+
+msgid "Copyright"
+msgstr "저작권"
+
+msgid "Leave blank to hide"
+msgstr "숨기려면 비워두세요."
+
+msgid "Editor"
+msgstr "편집자"
+
+msgid "Leave blank to hide editor used for feed content issue"
+msgstr "피드 콘텐츠 문제에 사용되는 편집기를 숨기려면 비워두세요."
+
+msgid "Time to live"
+msgstr "살 시간"
+
+msgid "Time to live for job feed"
+msgstr "작업 피드의 수명"
+
+msgid "Webmaster"
+msgstr "웹마스터"
+
+msgid "Leave blank to hide webmaster used for technical issue"
+msgstr "기술적인 문제에 사용된 웹마스터를 숨기려면 비워두세요."
+
+msgid "Job block"
+msgstr "작업 블록"
+
+msgid "Show with categories"
+msgstr "카테고리와 함께 표시"
+
+msgid "Use rss categories with our job categories"
+msgstr "직업 카테고리에 RSS 카테고리를 사용하세요"
+
+msgid "Company image"
+msgstr "회사 이미지"
+
+msgid "Show company logo with job feeds"
+msgstr "채용정보 피드에 회사 로고 표시"
+
+msgid "Must provide title for resume feed"
+msgstr "이력서 피드의 제목을 제공해야 합니다."
+
+msgid "Must provide description for resume feed"
+msgstr "이력서 피드에 대한 설명을 제공해야 합니다."
+
+msgid "Time to live for resume feed"
+msgstr "이력서 피드의 TTL(Time to Live)"
+
+msgid "Resume block"
+msgstr "이력서 차단"
+
+msgid "Use rss categories with our resume categories"
+msgstr "이력서 카테고리에 RSS 카테고리를 사용하세요"
+
+msgid "Show resume file"
+msgstr "이력서 파일 표시"
+
+msgid "Show resume files to downloadable from feed"
+msgstr "피드에서 다운로드할 수 있는 이력서 파일 표시"
+
+msgid "Show login/logout button on employer control panel"
+msgstr "고용주 제어판에 로그인/로그아웃 버튼 표시"
+
+msgid "Show login logout button in job seeker control panel"
+msgstr "구직자 제어판에 로그인 로그아웃 버튼 표시"
+
+msgid "Only section that have value"
+msgstr "값이 있는 섹션만"
+
+msgid "All sections"
+msgstr "모든 섹션"
+
+msgid "Select Option"
+msgstr "옵션 선택"
+
+msgid "All Fields"
+msgstr "모든 분야"
+
+msgid "Only filled fields"
+msgstr "채워진 필드만"
+
+msgid "Employer Configurations"
+msgstr "고용주 구성"
+
+msgid "Enable Employer Area"
+msgstr "고용주 영역 활성화"
+
+msgid "If no then front end employer area is not accessable"
+msgstr "그렇지 않은 경우 프런트 엔드 고용주 영역에 접근할 수 없습니다."
+
+msgid "Allow user to register as employer"
+msgstr "사용자가 고용주로 등록하도록 허용"
+
+msgid "effects on user registration"
+msgstr "사용자 등록에 미치는 영향"
+
+msgid "Employer can view job seeker area"
+msgstr "고용주는 구직자 영역을 볼 수 있습니다"
+
+msgid "Enable"
+msgstr "할 수 있게 하다"
+
+msgid "Featured companies are allowed in plugin"
+msgstr "주요 회사는 플러그인에서 허용됩니다."
+
+msgid "Featured jobs are allowed in plugin"
+msgstr "추천 채용정보는 플러그인에서 허용됩니다."
+
+msgid "Company logo maximum size"
+msgstr "회사 로고 최대 크기"
+
+msgid "Show resume contact detail"
+msgstr "이력서 연락처 세부 정보 표시"
+
+msgid "effect on credits system"
+msgstr "학점 시스템에 미치는 영향"
+
+msgid "If no then credits will be taken to view contact detail"
+msgstr "그렇지 않은 경우 연락처 세부 정보를 확인하기 위해 크레딧이 사용됩니다."
+
+msgid "Show count in resume categories"
+msgstr "이력서 카테고리에 개수 표시"
+
+msgid "Allow save search"
+msgstr "검색 저장 허용"
+
+msgid "User can save search criteria"
+msgstr "사용자는 검색 기준을 저장할 수 있습니다"
+
+msgid "Email Alert To Employer On Resume Apply"
+msgstr "이력서 적용 시 고용주에게 이메일 알림"
+
+msgid "What to include in email"
+msgstr "이메일에 포함할 내용"
+
+msgid "All fields are included in employer email content or only filled fields"
+msgstr "모든 필드가 고용주 이메일 콘텐츠에 포함되거나 채워진 필드만 포함됩니다."
+
+msgid "auto approve"
+msgstr "자동 승인"
+
+msgid "Company Settings"
+msgstr "회사 설정"
+
+msgid "Effects on jobs listing and view company page"
+msgstr "채용 공고 및 회사 페이지 조회에 미치는 영향"
+
+msgid "Effects on view company page"
+msgstr "회사 페이지 보기에 미치는 영향"
+
+msgid "Effects on company listing and view company page"
+msgstr "회사 상장 및 회사 페이지 조회에 미치는 영향"
+
+msgid "View Company Jobs"
+msgstr "회사 채용정보 보기"
+
+msgid "Company URL"
+msgstr "회사 URL"
+
+msgid "User Messages"
+msgstr "사용자 메시지"
+
+msgid "Disable"
+msgstr "장애를 입히다"
+
+msgid "Jobseeker Configurations"
+msgstr "구직자 구성"
+
+msgid "Email Alert"
+msgstr "이메일 알림"
+
+msgid "Enable featured resume"
+msgstr "추천 이력서 ​​활성화"
+
+msgid "Featured resume are allowed in plugin"
+msgstr "주요 이력서는 플러그인에서 허용됩니다."
+
+msgid "Show company contact detail"
+msgstr "회사 연락처 세부정보 표시"
+
+msgid "Show apply button"
+msgstr "적용 버튼 표시"
+
+msgid "Controls the visibility of apply now button in plugin"
+msgstr "플러그인에서 지금 적용 버튼의 가시성을 제어합니다."
+
+msgid "Show applied resume status"
+msgstr "적용된 이력서 상태 표시"
+
+msgid "Show count in jobs by categories page"
+msgstr "카테고리별 채용 공고 수 표시 페이지"
+
+msgid "Show count in jobs by types page"
+msgstr "유형별 채용정보 페이지 수 표시"
+
+msgid "Job alert for visitor"
+msgstr "방문자를 위한 채용공고"
+
+msgid "Job short list"
+msgstr "직업 짧은 목록"
+
+msgid "Job short list setting effects on jobs listing page"
+msgstr "채용공고 목록 페이지에 채용공고 목록 설정 효과"
+
+msgid "Tell a friend setting effects on jobs listing page"
+msgstr "채용정보 페이지의 설정 효과를 친구에게 알려주세요."
+
+msgid "Document file extensions"
+msgstr "문서 파일 확장자"
+
+msgid "Document file extensions allowed"
+msgstr "문서 파일 확장자가 허용됩니다."
+
+msgid "Resume file maximum size"
+msgstr "이력서 파일 최대 크기"
+
+msgid "System will not upload if resume file size exceeds than given size"
+msgstr "이력서 파일 크기가 지정된 크기를 초과하면 시스템이 업로드되지 않습니다."
+
+msgid "Number of files for resume"
+msgstr "이력서용 파일 수"
+
+msgid "Maximum number of files that job seeker can upload in resume"
+msgstr "구직자가 이력서에 업로드할 수 있는 최대 파일 수"
+
+msgid "Resume photo maximum size "
+msgstr "이력서 사진 최대 크기"
+
+msgid "Number of employers allowed"
+msgstr "허용되는 고용주 수"
+
+msgid "Maximum number of employers allowed in resume"
+msgstr "이력서에 허용되는 최대 고용주 수"
+
+msgid "Number of institutes allowed"
+msgstr "허용 기관 수"
+
+msgid "Maximum number of institutes allowed in resume"
+msgstr "이력서에 허용되는 최대 교육 기관 수"
+
+msgid "Number of languages allowed"
+msgstr "허용되는 언어 수"
+
+msgid "Maximum number of languages allowed in resume"
+msgstr "이력서에 허용되는 최대 언어 수"
+
+msgid "Number of addresses allowed"
+msgstr "허용되는 주소 수"
+
+msgid "Maximum number of addresses allowed in resume"
+msgstr "이력서에 허용되는 최대 주소 수"
+
+msgid "Credits Log"
+msgstr "크레딧 로그"
+
+msgid "Listing Style"
+msgstr "목록 스타일"
+
+msgid "Search icon position"
+msgstr "검색 아이콘 위치"
+
+msgid "Postion for search icon on jobs listing page."
+msgstr "채용 정보 페이지의 검색 아이콘 위치입니다."
+
+msgid "Show featured jobs"
+msgstr "추천 채용정보 표시"
+
+msgid "Show featured jobs in jobs lising page"
+msgstr "채용정보 페이지에 추천 채용정보 표시"
+
+msgid "Show Total Number Of jobs"
+msgstr "총 작업 수 표시"
+
+msgid "Show total number of jobs in jobs lising page"
+msgstr "채용공고 페이지에 총 채용공고 수 표시"
+
+msgid "Number of featured jobs"
+msgstr "주요 채용정보 수"
+
+msgid "Number of featured job show per scroll"
+msgstr "스크롤당 주요 채용정보 수"
+
+msgid "Show labels in jobs listing"
+msgstr "채용정보 목록에 라벨 표시"
+
+msgid "Show labels in jobs listings, my jobs etc"
+msgstr "채용 정보 목록, 내 채용 정보 등에 라벨 표시"
+
+msgid "Indeed Jobs"
+msgstr "실제로 채용 정보"
+
+msgid "Show Indeed jobs on jobs listings"
+msgstr "채용 목록에 인디드 채용 정보 표시"
+
+msgid "Number of jobs before showing indeed jobs"
+msgstr "실제로 채용정보를 표시하기 전의 채용정보 수"
+
+msgid "How many plugin jobs show before indeed jobs"
+msgstr "실제로 작업 전에 표시되는 플러그인 작업 수"
+
+msgid "Number of Indeed jobs per page"
+msgstr "페이지당 인디드 채용공고 수"
+
+msgid "Number of Indeed Jobs per scroll"
+msgstr "스크롤당 인디드 채용 수"
+
+msgid "Comma separated list of categories i.e Accounting, Management etc"
+msgstr "쉼표로 구분된 범주 목록(예: 회계, 관리 등)"
+
+msgid "Location format must be country, state, city"
+msgstr "위치 형식은 국가, 주, 도시여야 합니다."
+
+msgid "Job types"
+msgstr "직업 유형"
+
+msgid "Comma separated list of job types i.e full time, part time etc"
+msgstr "풀타임, 파트타임 등 쉼표로 구분된 직업 유형 목록"
+
+msgid "Career Builder"
+msgstr "커리어 빌더"
+
+msgid "Show Career Builder jobs in job listings"
+msgstr "채용 정보 목록에 Career Builder 채용 정보 표시"
+
+msgid "Number of jobs before showing Career Builder jobs"
+msgstr "Career Builder 채용 정보를 표시하기 전의 채용 정보 수"
+
+msgid "How many plugin jobs show before career builder jobs"
+msgstr "경력 구축 작업 전에 표시되는 플러그인 작업 수"
+
+msgid "Number of Career Builder jobs per page"
+msgstr "페이지당 Career Builder 작업 수"
+
+msgid "Number of Career Builder jobs per scroll"
+msgstr "스크롤당 Career Builder 작업 수"
+
+msgid "Country Code"
+msgstr "국가 코드"
+
+msgid "Comma separated list of country codes"
+msgstr "쉼표로 구분된 국가 코드 목록"
+
+msgid "Comma separated list of job types i.e JTFT, JTPT, JTFP, JTCT, JTIN "
+msgstr "쉼표로 구분된 작업 유형 목록(예: JTFT, JTPT, JTFP, JTCT, JTIN)"
+
+msgid "Full-time"
+msgstr "풀 타임"
+
+msgid "Part-time"
+msgstr "파트타임"
+
+msgid "Full-time/part-time"
+msgstr "풀타임/파트타임"
+
+msgid "Contractant"
+msgstr "계약자"
+
+msgid "Stagiair"
+msgstr "스타지어"
+
+msgid "states"
+msgstr "주"
+
+msgid "cities"
+msgstr "도시"
+
+msgid "Has states"
+msgstr "상태 있음"
+
+msgid "Has cities"
+msgstr "도시 있음"
+
+msgid "Currency Code"
+msgstr "통화 코드"
+
+msgid "Code"
+msgstr "암호"
+
+msgid "Currency Symbol"
+msgstr "통화 기호"
+
+msgid "Parent Field"
+msgstr "상위 필드"
+
+msgid "Add User Field"
+msgstr "사용자 필드 추가"
+
+msgid "Radio Button"
+msgstr "라디오 버튼"
+
+msgid "Field Type"
+msgstr "필드 유형"
+
+msgid "Field Title"
+msgstr "필드 제목"
+
+msgid "Show on listing"
+msgstr "목록에 표시"
+
+msgid "Section cannot be changeable in edit case"
+msgstr "편집 케이스에서는 섹션을 변경할 수 없습니다."
+
+msgid "Required"
+msgstr "필수의"
+
+msgid "Place Holder"
+msgstr "자리 표시자"
+
+msgid "Use enter key to separate options"
+msgstr "옵션을 구분하려면 Enter 키를 사용하세요."
+
+msgid "User Field"
+msgstr "사용자 필드"
+
+msgid "Disabled"
+msgstr "장애가 있는"
+
+msgid "User Search"
+msgstr "사용자 검색"
+
+msgid "Visitor Search"
+msgstr "방문자 검색"
+
+msgid "Go"
+msgstr "가다"
+
+msgid "unpublished"
+msgstr "널리 알려지지 않은"
+
+msgid "User Fields"
+msgstr "사용자 필드"
+
+msgid "Field Name"
+msgstr "분야 명"
+
+msgid "Read Only"
+msgstr "읽기 전용"
+
+msgid "Pending Due to Payment"
+msgstr "결제로 인해 보류 중"
+
+msgid "Company Detail"
+msgstr "회사 세부정보"
+
+msgid "rejected for featured"
+msgstr "추천 거부됨"
+
+msgid "approved for featured"
+msgstr "추천으로 승인됨"
+
+msgid "removed for featured"
+msgstr "추천 항목에서 삭제됨"
+
+msgid "pending for featured"
+msgstr "추천 대기 중"
+
+msgid "Removed"
+msgstr "제거됨"
+
+msgid "Due to rejection of job you do not have permission to see job detail"
+msgstr "채용 거부로 인해 채용 세부정보를 볼 수 있는 권한이 없습니다."
+
+msgid "click here to edit job"
+msgstr "작업을 편집하려면 여기를 클릭하세요"
+
+msgid " Admin"
+msgstr "관리자"
+
+msgid "Admin"
+msgstr "관리자"
+
+msgid "Body"
+msgstr "몸"
+
+msgid "Parameters"
+msgstr "매개변수"
+
+msgid "Employer name"
+msgstr "고용주 이름"
+
+msgid "Company status for approve,reject,pending"
+msgstr "승인, 거부, 보류 중 회사 상태"
+
+msgid "Company approve or reject"
+msgstr "회사 승인 또는 거부"
+
+msgid "Gold"
+msgstr "금"
+
+msgid "Company Owner Name"
+msgstr "회사 소유자 이름"
+
+msgid "Job seeker name"
+msgstr "구직자 이름"
+
+msgid "Job link"
+msgstr "채용 링크"
+
+msgid "Job  approve or reject"
+msgstr "작업 승인 또는 거부"
+
+msgid "Role for employer"
+msgstr "고용주의 역할"
+
+msgid "Employer control panel link"
+msgstr "고용주 제어판 링크"
+
+msgid "Role for job seeker"
+msgstr "구직자의 역할"
+
+msgid "Job seeker control panel link"
+msgstr "구직자 제어판 링크"
+
+msgid "Resume data"
+msgstr "데이터 재개"
+
+msgid "Resume curent status"
+msgstr "현재 상태 재개"
+
+msgid "Cover letter title"
+msgstr "자기 소개서 제목"
+
+msgid "Cover letter description"
+msgstr "자기 소개서 설명"
+
+msgid "Resume link"
+msgstr "이력서 링크"
+
+msgid "Resume  approve or reject"
+msgstr "재개 승인 또는 거부"
+
+msgid "Applied resume status"
+msgstr "적용된 이력서 상태"
+
+msgid "Agency name"
+msgstr "대행사 이름"
+
+msgid "Package title"
+msgstr "패키지 제목"
+
+msgid "Package price"
+msgstr "패키지 가격"
+
+msgid "View package"
+msgstr "패키지 보기"
+
+msgid "Publish status"
+msgstr "게시 상태"
+
+msgid "new"
+msgstr "새로운"
+
+msgid "status"
+msgstr "상태"
+
+msgid "buy credits pack"
+msgstr "크레딧 팩 구매"
+
+msgid "expire package"
+msgstr "패키지 만료"
+
+msgid "job apply"
+msgstr "취업 지원"
+
+msgid "New"
+msgstr "새로운"
+
+msgid "resume "
+msgstr "재개하다"
+
+msgid "by visitor"
+msgstr "방문자별"
+
+msgid "Applied resume status change"
+msgstr "이력서 상태 변경 적용"
+
+msgid "Package Purchase Admin"
+msgstr "패키지 구매 관리자"
+
+msgid "Package Status"
+msgstr "패키지 상태"
+
+msgid "Package Purchase"
+msgstr "패키지 구매"
+
+msgid "Job Seeker Visitor"
+msgstr "구직자 방문자"
+
+msgid "Employer Visitor"
+msgstr "고용주 방문자"
+
+msgid "send email"
+msgstr "이메일을 보내"
+
+msgid "dont send email"
+msgstr "이메일을 보내지 마세요"
+
+msgid "Miscellaneous"
+msgstr "여러 가지 잡다한"
+
+msgid "Send email"
+msgstr "이메일을 보내"
+
+msgid "Dont send email"
+msgstr "이메일을 보내지 마세요"
+
+msgid "Go Back To Home"
+msgstr "홈으로 돌아가기"
+
+msgid "Edit profile"
+msgstr "프로필 수정"
+
+msgid "Short Links"
+msgstr "짧은 링크"
+
+msgid "posted jobs"
+msgstr "게시된 채용정보"
+
+msgid "Posted Jobs"
+msgstr "게시된 채용정보"
+
+msgid "View Detail"
+msgstr "자세히보기"
+
+msgid "applied resume"
+msgstr "이력서 적용"
+
+msgid "my company"
+msgstr "내 회사"
+
+msgid "My Company"
+msgstr "내 회사"
+
+msgid "Recent Application's"
+msgstr "최근 지원서"
+
+msgid "User image"
+msgstr "사용자 이미지"
+
+msgid "My jobs"
+msgstr "내 직업"
+
+msgid "Add job"
+msgstr "직업 추가"
+
+msgid "Resume by categories"
+msgstr "카테고리별 이력서"
+
+msgid "Resumes by categories"
+msgstr "카테고리별 이력서"
+
+msgid "Resumes By Categories"
+msgstr "카테고리별 이력서"
+
+msgid "add user fields"
+msgstr "사용자 필드 추가"
+
+msgid "required"
+msgstr "필수의"
+
+msgid "not required"
+msgstr "필요하지 않음"
+
+msgid "Select status"
+msgstr "상태 선택"
+
+msgid "References"
+msgstr "참고자료"
+
+msgid "Add New Education"
+msgstr "새로운 교육 추가"
+
+msgid "Educations"
+msgstr "교육"
+
+msgid "JS multi city"
+msgstr "JS 멀티시티"
+
+msgid "JS search all"
+msgstr "JS 전체 검색"
+
+msgid "JS_SEARCH_ALL"
+msgstr "JS_SEARCH_ALL"
+
+msgid "JS From"
+msgstr "JS에서"
+
+msgid "JS To"
+msgstr "JS로"
+
+msgid "You do not have any Job Apply remaining"
+msgstr "남은 채용 지원이 없습니다."
+
+msgid "Job Information"
+msgstr "직업정보"
+
+msgid "Overview"
+msgstr "개요"
+
+msgid "Full Detail"
+msgstr "전체 세부정보"
+
+msgid "Something got wrong 1"
+msgstr "뭔가 잘못됐어 1"
+
+msgid "Job Approval Queue"
+msgstr "작업 승인 대기열"
+
+msgid "Job Copied Successfully"
+msgstr "작업이 성공적으로 복사되었습니다."
+
+msgid "If Any Other Experience"
+msgstr "다른 경험이 있는 경우"
+
+msgid "Select some options"
+msgstr "일부 옵션을 선택하세요"
+
+msgid "Type in city name"
+msgstr "도시 이름을 입력하세요"
+
+msgid "Job Has Been Feature SuccessFully"
+msgstr "작업이 성공적으로 완료되었습니다."
+
+msgid "Salary"
+msgstr "샐러리"
+
+msgid "Fixed"
+msgstr "결정된"
+
+msgid "Range"
+msgstr "범위"
+
+msgid "Salary Type"
+msgstr "급여 유형"
+
+msgid "Not publish"
+msgstr "게시하지 않음"
+
+msgid "Edit Job"
+msgstr "직무 편집"
+
+msgid "Delete Job"
+msgstr "작업 삭제"
+
+msgid "wjportal-filter-search-input-field"
+msgstr "wjportal-필터-검색-입력-필드"
+
+msgid "ago"
+msgstr "~ 전에"
+
+msgid "Degree Title"
+msgstr "학위명"
+
+msgid "Apply Before"
+msgstr "이전에 신청하세요"
+
+msgid "category"
+msgstr "범주"
+
+msgid "created"
+msgstr "만들어진"
+
+msgid "end date"
+msgstr "종료일"
+
+msgid "Closes"
+msgstr "마감"
+
+msgid "You Already Applied to this job "
+msgstr "귀하는 이미 이 직무에 지원했습니다."
+
+msgid "Total Jobs"
+msgstr "총 일자리"
+
+msgid "Remaining Job"
+msgstr "남은 직업"
+
+msgid "Current Salary"
+msgstr "현재 급여"
+
+msgid "Applied Info"
+msgstr "적용정보"
+
+msgid "No Record Found"
+msgstr "기록을 찾을 수 없습니다"
+
+msgid "Something wrong pleas try later"
+msgstr "문제가 발생했습니다. 나중에 시도해 보세요."
+
+msgid "Apply With Resume"
+msgstr "이력서로 지원"
+
+msgid "You do not have any resume!"
+msgstr "이력서가 없습니다!"
+
+msgid "You are employer, you can not apply to job"
+msgstr "당신은 고용주이므로 직업에 지원할 수 없습니다"
+
+msgid "You do not have any role"
+msgstr "귀하에게는 어떤 역할도 없습니다."
+
+msgid "Apply as visitor"
+msgstr "방문자로 신청"
+
+msgid "please select a resume first"
+msgstr "이력서를 먼저 선택해주세요"
+
+msgid "You have already applied this job"
+msgstr "이미 이 직무에 지원했습니다."
+
+msgid "Job has been Pending Due to Payment"
+msgstr "결제로 인해 작업이 보류 중입니다."
+
+msgid "Sender Email"
+msgstr "보낸 사람 이메일"
+
+msgid "Cell"
+msgstr "셀"
+
+msgid "Work preference"
+msgstr "직업 선호도"
+
+msgid "Institution Name"
+msgstr "기관 이름"
+
+msgid "Cert/deg/oth"
+msgstr "인증서/학위/기타"
+
+msgid "Position"
+msgstr "위치"
+
+msgid "From Date"
+msgstr "날짜부터"
+
+msgid "To Date"
+msgstr "현재까지"
+
+msgid "Language Name"
+msgstr "언어 이름"
+
+msgid "Email has been send"
+msgstr "이메일이 전송되었습니다"
+
+msgid "Email has not been send"
+msgstr "이메일이 전송되지 않았습니다"
+
+msgid "Please fill the subject"
+msgstr "주제를 채워주세요"
+
+msgid "Message sent"
+msgstr "메시지 전송 됨"
+
+msgid "Message not sent"
+msgstr "메시지가 전송되지 않았습니다."
+
+msgid "JS invalid email"
+msgstr "JS 유효하지 않은 이메일"
+
+msgid "JS your email is required"
+msgstr "JS 귀하의 이메일이 필요합니다"
+
+msgid "Note have been saved successfully"
+msgstr "메모가 성공적으로 저장되었습니다"
+
+msgid "Failed while performing action"
+msgstr "작업을 수행하는 동안 실패했습니다."
+
+msgid "Error sending email"
+msgstr "이메일을 보내는 중에 오류가 발생했습니다."
+
+msgid "Failed While Performing Action"
+msgstr "작업을 수행하는 동안 실패했습니다."
+
+msgid "Resume Applied On Job"
+msgstr "이력서가 직무에 적용됨"
+
+msgid "view profile"
+msgstr "프로필보기"
+
+msgid "View Profile"
+msgstr "프로필보기"
+
+msgid "Desired Salary"
+msgstr "원하는 급여"
+
+msgid "Job View"
+msgstr "직무 보기"
+
+msgid "Applied"
+msgstr "적용된"
+
+msgid "Number of jobs in last six months"
+msgstr "지난 6개월간 일자리 수"
+
+msgid "my resume"
+msgstr "내 이력서"
+
+msgid "applied job"
+msgstr "지원직업"
+
+msgid "newest jobs"
+msgstr "최신 직업"
+
+msgid "Newest Job"
+msgstr "최신 채용공고"
+
+msgid "view detail"
+msgstr "자세히보기"
+
+msgid "Jobs Applied Recently"
+msgstr "최근 지원한 직무"
+
+msgid "view all"
+msgstr "모두보기"
+
+msgid "Total resume"
+msgstr "총 이력서"
+
+msgid "register"
+msgstr "등록하다"
+
+msgid "my applied jobs"
+msgstr "내 지원 직무"
+
+msgid "search job"
+msgstr "직업 검색"
+
+msgid "jobs by categories"
+msgstr "카테고리별 직업"
+
+msgid "jobs by types"
+msgstr "종류별 직업"
+
+msgid "edit resume"
+msgstr "이력서 편집"
+
+msgid "add resume"
+msgstr "이력서 추가"
+
+msgid "logout"
+msgstr "로그 아웃"
+
+msgid "Profile image"
+msgstr "프로필 이미지"
+
+msgid "Color"
+msgstr "색상"
+
+msgid "no default"
+msgstr "기본값 없음"
+
+msgid "Jobs data has been successfully imported"
+msgstr "채용정보 데이터를 성공적으로 가져왔습니다."
+
+msgid "Select the demo data to import"
+msgstr "가져올 데모 데이터를 선택하세요."
+
+msgid "Select demo"
+msgstr "데모 선택"
+
+msgid "What to do with previous demo data"
+msgstr "이전 데모 데이터로 무엇을 해야 할까요?"
+
+msgid "All the content of previus demo data will be deleted."
+msgstr "이전 데모 데이터의 모든 내용이 삭제됩니다."
+
+msgid "Import Sample Data"
+msgstr "샘플 데이터 가져오기"
+
+msgid "General"
+msgstr "일반적인"
+
+msgid "Sample Data"
+msgstr "샘플 데이터"
+
+msgid "Insert Sample Data"
+msgstr "샘플 데이터 삽입"
+
+msgid "jobseeker"
+msgstr "구직자"
+
+msgid "Menu"
+msgstr "메뉴"
+
+msgid "Job Seeker Menu"
+msgstr "구직자 메뉴"
+
+msgid "Employer Menu"
+msgstr "고용주 메뉴"
+
+msgid "Job Hub Sample Data"
+msgstr "직업 허브 샘플 데이터"
+
+msgid "back"
+msgstr "뒤쪽에"
+
+msgid "Back"
+msgstr "뒤쪽에"
+
+msgid "finish"
+msgstr "마치다"
+
+msgid "Finish"
+msgstr "마치다"
+
+msgid "DD MM YYYY"
+msgstr "DD MM YYYY"
+
+msgid "MM DD YYYY"
+msgstr "MM DD YYYY"
+
+msgid "YYYY MM DD"
+msgstr "YYYY월 DD"
+
+msgid "General Configurations"
+msgstr "일반 구성"
+
+msgid "System email address"
+msgstr "시스템 이메일 주소"
+
+msgid "Email from name"
+msgstr "이름의 이메일"
+
+msgid "Default date format"
+msgstr "기본 날짜 형식"
+
+msgid "next"
+msgstr "다음"
+
+msgid "Position for search icon on jobs listing page"
+msgstr "채용 공고 페이지의 검색 아이콘 위치"
+
+msgid "Resume auto approve"
+msgstr "자동 승인 재개"
+
+msgid "Allow user register as employer"
+msgstr "사용자를 고용주로 등록하도록 허용"
+
+msgid "Effects on user registration"
+msgstr "사용자 등록에 미치는 영향"
+
+msgid "Company auto approve"
+msgstr "회사 자동 승인"
+
+msgid "Job auto approve"
+msgstr "작업 자동 승인"
+
+msgid "Demo data has been successfully imported"
+msgstr "데모 데이터를 성공적으로 가져왔습니다."
+
+msgid "Please select the right demo data to import"
+msgstr "가져올 올바른 데모 데이터를 선택하세요."
+
+msgid "Free Version"
+msgstr "무료 버전"
+
+msgid "Import Data"
+msgstr "데이터 가져오기"
+
+msgid "Pro Version"
+msgstr "프로 버전"
+
+msgid "Free To Pro Updated"
+msgstr "프로 버전으로 무료 업데이트됨"
+
+msgid "Click Here To Go Control Panel"
+msgstr "제어판으로 이동하려면 여기를 클릭하세요."
+
+msgid "Click Here To Go Template Options"
+msgstr "템플릿 옵션으로 이동하려면 여기를 클릭하세요."
+
+msgid "Please insert activation key to proceed"
+msgstr "계속하려면 활성화 키를 삽입하세요."
+
+msgid "Addon Installation Failed"
+msgstr "애드온 설치 실패"
+
+msgid "Addon installation failed, Directory permission error"
+msgstr "애드온 설치 실패, 디렉토리 권한 오류"
+
+msgid "Addon Installation Failed, File download error"
+msgstr "애드온 설치 실패, 파일 다운로드 오류"
+
+msgid "Addon's List and Features"
+msgstr "애드온 목록 및 기능"
+
+msgid "Add-On’s For Job Portal"
+msgstr "취업 포털용 추가 기능"
+
+msgid "buy now"
+msgstr "지금 구매"
+
+msgid "Advance Resume Builder"
+msgstr "고급 이력서 작성기"
+
+msgid "Featured Company"
+msgstr "주요 회사"
+
+msgid "Featured Job"
+msgstr "추천 직업"
+
+msgid "Resume Action"
+msgstr "작업 재개"
+
+msgid "Multi Company"
+msgstr "다중 회사"
+
+msgid "Front-end Widgets"
+msgstr "프런트엔드 위젯"
+
+msgid "Multi Resume"
+msgstr "다중 이력서"
+
+msgid "Report's"
+msgstr "보고서의"
+
+msgid "Rss Feed"
+msgstr "RSS 피드"
+
+msgid "Shortlist"
+msgstr "최종 후보"
+
+msgid "Tell Friend"
+msgstr "친구에게 말하다"
+
+msgid "Themes"
+msgstr "테마"
+
+msgid "Visitor Apply Job"
+msgstr "방문자 채용 지원"
+
+msgid "Visitor Add Job"
+msgstr "방문자 직업 추가"
+
+msgid "Plugin Color"
+msgstr "플러그인 색상"
+
+msgid "Premium Addons"
+msgstr "프리미엄 애드온"
+
+msgid "addon in no longer active"
+msgstr "애드온이 더 이상 활성화되지 않습니다."
+
+msgid "WP Job Portal Addon Installer"
+msgstr "WP 취업 포털 애드온 설치 프로그램"
+
+msgid "Wordpress Plugin"
+msgstr "워드프레스 플러그인"
+
+msgid "Add on list"
+msgstr "목록에 추가"
+
+msgid "Please Insert Your Activation key"
+msgstr "활성화 키를 삽입하세요"
+
+msgid "Activation key"
+msgstr "정품 인증 키"
+
+msgid "Select Addons for download"
+msgstr "다운로드할 애드온 선택"
+
+msgid "All allowed add-ons are already installed"
+msgstr "허용된 모든 추가 기능이 이미 설치되어 있습니다."
+
+msgid "You are not allowed to install any add on"
+msgstr "추가 기능을 설치할 수 없습니다"
+
+msgid "Select All Addons"
+msgstr "모든 애드온 선택"
+
+msgid "Add ons installed and activated successfully"
+msgstr "추가 기능이 성공적으로 설치 및 활성화되었습니다."
+
+msgid "Total Companies"
+msgstr "전체 회사"
+
+msgid "Report By Job Categories"
+msgstr "직종별 보고"
+
+msgid "Report By Resume Categories"
+msgstr "이력서 카테고리별 보고"
+
+msgid "Report By Job Cities"
+msgstr "일자리 도시별 보고"
+
+msgid "Report By Company Cities"
+msgstr "기업도시별 보고"
+
+msgid "Report By Resume Cities"
+msgstr "이력서 도시별로 보고"
+
+msgid "Report By Job Types"
+msgstr "직무 유형별 보고"
+
+msgid "Report By Resume Types"
+msgstr "이력서 유형별 보고서"
+
+msgid "Over All"
+msgstr "전반적인"
+
+msgid "select.genericList"
+msgstr "select.genericList"
+
+msgid "Section has been deleted"
+msgstr "섹션이 삭제되었습니다."
+
+msgid "Error deleting section"
+msgstr "섹션 삭제 오류"
+
+msgid "You do not have any View Resume Contact remaining"
+msgstr "이력서 연락처 보기가 남아 있지 않습니다."
+
+msgid "View Contact Resume"
+msgstr "연락처 이력서 보기"
+
+msgid "Resume Queue"
+msgstr "재개 대기열"
+
+msgid "Are you sure to force delete"
+msgstr "강제로 삭제하시겠습니까?"
+
+msgid "Resume Approve"
+msgstr "이력서 승인"
+
+msgid "All Approve"
+msgstr "모두 승인"
+
+msgid "Resume Reject"
+msgstr "이력서 거부"
+
+msgid "All Reject"
+msgstr "모두 거부"
+
+msgid "Modified Date"
+msgstr "수정된 날짜"
+
+msgid "Your Profile Status"
+msgstr "귀하의 프로필 상태"
+
+msgid " Profile Status"
+msgstr "프로필 상태"
+
+msgid "Home Slug"
+msgstr "홈 슬러그"
+
+msgid "This prefix will be added to slug incase of homepage links"
+msgstr "이 접두사는 홈페이지 링크의 경우 슬러그에 추가됩니다."
+
+msgid "This prefix will be added to slug incase of conflict"
+msgstr "이 접두사는 충돌이 발생할 경우 슬러그에 추가됩니다."
+
+msgid "Search By Slug"
+msgstr "슬러그로 검색"
+
+msgid "Slug List"
+msgstr "슬러그 목록"
+
+msgid "This button will only save slugs on current page"
+msgstr "이 버튼은 현재 페이지의 슬러그만 저장합니다."
+
+msgid "Add New State"
+msgstr "새 상태 추가"
+
+msgid "Error Log"
+msgstr "오류 기록"
+
+msgid "add job"
+msgstr "직업 추가"
+
+msgid "popup cross"
+msgstr "팝업 크로스"
+
+msgid "Role"
+msgstr "역할"
+
+msgid "Assign role"
+msgstr "역할 할당"
+
+msgid "Change Role"
+msgstr "역할 변경"
+
+msgid "User Details"
+msgstr "사용자 세부정보"
+
+msgid "User Stats Companies"
+msgstr "사용자 통계 회사"
+
+msgid "Job Approved"
+msgstr "채용 승인됨"
+
+msgid "Job Rejected"
+msgstr "작업이 거부됨"
+
+msgid "User Stats Jobs"
+msgstr "사용자 통계 작업"
+
+msgid "User Stats Resume"
+msgstr "사용자 통계 이력서"
+
+msgid "User Stats"
+msgstr "사용자 통계"
+
+msgid "Word Press user login"
+msgstr "워드프레스 사용자 로그인"
+
+msgid "Start publishing"
+msgstr "게시 시작"
+
+msgid "Stop publishing"
+msgstr "게시 중지"
+
+msgid "Update"
+msgstr "업데이트"
+
+msgid "change role"
+msgstr "역할 변경"
+
+msgid "Group"
+msgstr "그룹"
+
+msgid "Job Applies"
+msgstr "직무 지원"
+
+msgid "user name"
+msgstr "사용자 이름"
+
+msgid "Password Again"
+msgstr "비밀번호를 다시 입력하세요"
+
+msgid "Password again"
+msgstr "비밀번호를 다시 입력하세요"
+
+msgid "Register New Account"
+msgstr "새 계정 등록"
+
+msgid "Today Jobs"
+msgstr "오늘의 채용 정보"
+
+msgid "Newest Companies"
+msgstr "최신 회사"
+
+msgid "Newest Applied Jobs"
+msgstr "최신 적용 채용정보"
+
+msgid "Oops..."
+msgstr "이런..."
+
+msgid "Record Not Found"
+msgstr "기록을 찾을 수 없음"
+
+msgid "Applicant"
+msgstr "응모자"
+
+msgid "Applied Date"
+msgstr "적용일"
+
+msgid "Dir is not writable"
+msgstr "Dir은 쓸 수 없습니다."
+
+msgid "Unable to connect to server"
+msgstr "서버에 연결할 수 없습니다"
+
+msgid "Language is not installed"
+msgstr "언어가 설치되지 않았습니다"
+
+msgid "Language directory is not writeable"
+msgstr "언어 디렉터리에 쓸 수 없습니다."
+
+msgid "Required language is not installed but similar language[s] like"
+msgstr "필수 언어가 설치되어 있지 않지만 다음과 유사한 언어가 설치되어 있습니다."
+
+msgid "is found in your system"
+msgstr "시스템에서 발견되었습니다"
+
+msgid "Language code"
+msgstr "언어 코드"
+
+msgid "Empty values"
+msgstr "빈 값"
+
+msgid "Language directory is not writable"
+msgstr "언어 디렉토리에 쓸 수 없습니다"
+
+msgid "File is not writable"
+msgstr "파일에 쓸 수 없습니다"
+
+msgid "File Downloaded Successfully"
+msgstr "파일이 성공적으로 다운로드되었습니다."
+
+msgid "Statistics"
+msgstr "통계"
+
+msgid "configuartion"
+msgstr "구성"
+
+msgid "Configuartion"
+msgstr "구성"
+
+msgid "arrow"
+msgstr "화살"
+
+msgid "trannslations"
+msgstr "번역"
+
+msgid "Trannslations"
+msgstr "번역"
+
+msgid "premium add ons"
+msgstr "프리미엄 추가 기능"
+
+msgid "Premium Add Ons"
+msgstr "프리미엄 추가 기능"
+
+msgid "Install Now"
+msgstr "지금 설치"
+
+msgid "Premium Addons List & Features"
+msgstr "프리미엄 애드온 목록 및 기능"
+
+msgid "The best support system plugin for WordPress has everything you need."
+msgstr "WordPress를 위한 최고의 지원 시스템 플러그인은 필요한 모든 것을 갖추고 있습니다."
+
+msgid "Add-Ons List"
+msgstr "애드온 목록"
+
+msgid "Add New Addons"
+msgstr "새로운 애드온 추가"
+
+msgid "addon"
+msgstr "애드온"
+
+msgid "Latest Jobs"
+msgstr "최신 채용정보"
+
+msgid "view all jobs"
+msgstr "모든 채용정보 보기"
+
+msgid "Latest Resume"
+msgstr "최신 이력서"
+
+msgid "Addons"
+msgstr "애드온"
+
+msgid "address data"
+msgstr "주소 데이터"
+
+msgid "social login"
+msgstr "소셜 로그인"
+
+msgid "visitor apply job"
+msgstr "방문자 지원 직업"
+
+msgid "featured company"
+msgstr "주요 회사"
+
+msgid "department"
+msgstr "부서"
+
+msgid "feature resume"
+msgstr "기능 이력서"
+
+msgid "featured job"
+msgstr "추천 직업"
+
+msgid "rss feed"
+msgstr "RSS 피드"
+
+msgid "Message System"
+msgstr "메시지 시스템"
+
+msgid "resume action"
+msgstr "작업 재개"
+
+msgid "multi resume"
+msgstr "다중 이력서"
+
+msgid "resume search"
+msgstr "검색 재개"
+
+msgid "shortlist"
+msgstr "후보 목록"
+
+msgid "social share"
+msgstr "소셜 공유"
+
+msgid "tell friend"
+msgstr "친구에게 말하다"
+
+msgid "advance resume builder"
+msgstr "사전 이력서 작성기"
+
+msgid "visitor add job"
+msgstr "방문자가 직업을 추가합니다"
+
+msgid "Front-End Widgets"
+msgstr "프런트엔드 위젯"
+
+msgid "We'd love to hear from You."
+msgstr "우리는 당신의 의견을 듣고 싶습니다."
+
+msgid "Please write appreciated review at"
+msgstr "다음 사이트에서 평가된 리뷰를 작성해 주세요."
+
+msgid "WP Extension Directory"
+msgstr "WP 확장 디렉토리"
+
+msgid "Spread the word : "
+msgstr "널리 알리세요:"
+
+msgid "Social Apps"
+msgstr "소셜 앱"
+
+msgid "Pro Features"
+msgstr "프로 기능"
+
+msgid "WP JOB PORTAL PRO FEATURES"
+msgstr "WP 작업 포털 프로 기능"
+
+msgid "BUY NOW"
+msgstr "지금 구매"
+
+msgid "Job seeker control panel"
+msgstr "구직자 제어판"
+
+msgid "job seeker control panel"
+msgstr "구직자 제어판"
+
+msgid "Employer control panel"
+msgstr "고용주 제어판"
+
+msgid "employer control panel"
+msgstr "고용주 제어판"
+
+msgid "form"
+msgstr "형태"
+
+msgid "Job categories"
+msgstr "직종"
+
+msgid "job categories"
+msgstr "직종"
+
+msgid "My applied jobs"
+msgstr "내 지원 직무"
+
+msgid "Show employer"
+msgstr "고용주 표시"
+
+msgid "My resume"
+msgstr "내 이력서"
+
+msgid "My resumes"
+msgstr "내 이력서"
+
+msgid "Employer registration"
+msgstr "고용주 등록"
+
+msgid "registration form"
+msgstr "등록 양식"
+
+msgid "Job seeker registration"
+msgstr "구직자 등록"
+
+msgid "Login page"
+msgstr "로그인 페이지"
+
+msgid "Show login page"
+msgstr "로그인 페이지 표시"
+
+msgid "widget"
+msgstr "위젯"
+
+msgid "in widget style"
+msgstr "위젯 스타일로"
+
+msgid "My"
+msgstr "나의"
+
+msgid "All Packages"
+msgstr "모든 패키지"
+
+msgid "All"
+msgstr "모두"
+
+msgid "Get WP Job Portal Translations"
+msgstr "WP 취업 포털 번역 받기"
+
+msgid "Get Translations"
+msgstr "번역 받기"
+
+msgid "Select Translation"
+msgstr "번역 선택"
+
+msgid "Contribute In Translation"
+msgstr "번역에 기여"
+
+msgid "Manual Download"
+msgstr "수동 다운로드"
+
+msgid "Login into your account"
+msgstr "귀하의 계정에 로그인하십시오"
+
+msgid "keep me login"
+msgstr "계속 로그인하세요"
+
+msgid "0 $"
+msgstr "0 $"
+
+msgid " / Per Month"
+msgstr "/ 달마다"
+
+msgid "plus icon"
+msgstr "플러스 아이콘"
+
+msgid "all jobs"
+msgstr "모든 직업"
+
+msgid "All Jobs"
+msgstr "모든 직업"
+
+msgid "reset all"
+msgstr "모두 초기화"
+
+msgid "Reset All"
+msgstr "모두 초기화"
+
+msgid "Shifts"
+msgstr "교대근무"
+
+msgid "add new shift"
+msgstr "새로운 교대근무 추가"
+
+msgid "Add New Shift"
+msgstr "새 교대근무 추가"
+
+msgid "add new age"
+msgstr "새로운 시대를 추가하다"
+
+msgid "Add New Age"
+msgstr "뉴에이지 추가"
+
+msgid "Experiences"
+msgstr "경험담"
+
+msgid "add new experience"
+msgstr "새로운 경험을 추가하다"
+
+msgid "Add New Experience"
+msgstr "새로운 경험 추가"
+
+msgid "Resume Approval Queue"
+msgstr "재개 승인 대기열"
+
+msgid "Jobs Approval Queue"
+msgstr "작업 승인 대기열"
+
+msgid "add new city"
+msgstr "새로운 도시 추가"
+
+msgid "add new education"
+msgstr "새로운 교육을 추가하다"
+
+msgid "add new state"
+msgstr "새로운 상태 추가"
+
+msgid "Edit Package"
+msgstr "패키지 편집"
+
+msgid "Post a Job"
+msgstr "채용 공고 게시"
+
+msgid "Login "
+msgstr "로그인"
+
+msgid "Department Detail"
+msgstr "부서 세부정보"
+
+msgid "Jobs By Catagories"
+msgstr "카테고리별 채용정보"
+
+msgid "Register Your Account"
+msgstr "계정 등록"
+
+msgid "Resume By Category"
+msgstr "카테고리별 이력서"
+
+msgid "Pay per listing price to publish your "
+msgstr "게시하려면 목록 가격당 지불하세요."
+
+msgid "Job Alert Info"
+msgstr "채용 알림 정보"
+
+msgid "Resume Saved Searches"
+msgstr "저장된 검색 재개"
+
+msgid " Packages"
+msgstr "패키지"
+
+msgid "Job By Types"
+msgstr "유형별 직업"
+
+msgid "You have insufficient credits, you can not perform this action"
+msgstr "크레딧이 부족하여 이 작업을 수행할 수 없습니다."
+
+msgid "Please Accept Terms And Conditions So You Can Proceed"
+msgstr "계속하려면 이용약관에 동의하세요."
+
+msgid "Lost your password"
+msgstr "비밀번호를 잊어 버렸습니까"
+
+msgid "Activated"
+msgstr "활성화됨"
+
+msgid "Active Now"
+msgstr "활성 지금"
+
+msgid "Location Format Is Not Correct Please Enter City In This Format City Name Country Name Or City Name State Name Country Name"
+msgstr "위치 형식이 올바르지 않습니다. 이 형식으로 도시를 입력하십시오. 도시 이름 국가 이름 또는 도시 이름 주 이름 국가 이름"
+
+msgid "Credits will only be deducted if you select a resume and click Apply Now on next popup."
+msgstr "이력서를 선택하고 다음 팝업에서 지금 신청을 클릭한 경우에만 학점이 차감됩니다."
+
+msgid "Unfortunately sytem is offline for a bit of maintenance right now. But soon we will be up."
+msgstr "안타깝게도 현재 약간의 유지 관리를 위해 시스템이 오프라인 상태입니다. 하지만 곧 우리는 일어날 것입니다."
+
+msgid "Registration is disabled by admin, please contact to system administrator !..."
+msgstr "관리자에 의해 등록이 비활성화되었습니다. 시스템 관리자에게 문의하세요!..."
+
+msgid "Location format is not correct please enter city in this format city name, country name"
+msgstr "위치 형식이 올바르지 않습니다. 도시 이름, 국가 이름 형식으로 도시를 입력하세요."
+
+msgid "Select WP JOB PORTAL default page, on action system will redirect on selected page. If not select default page, email links and support icon might not work."
+msgstr "WP JOB PORTAL 기본 페이지를 선택하면 작업 시스템에서 선택한 페이지로 리디렉션됩니다. 기본 페이지를 선택하지 않으면 이메일 링크와 지원 아이콘이 작동하지 않을 수 있습니다."
+
+msgid "If no is selected then only categories that have jobs or resumes will be shown on jobs,resumes by categories layout"
+msgstr "아니요를 선택하면 작업 또는 이력서가 있는 카테고리만 작업에 표시되고 카테고리 레이아웃별로 이력서가 표시됩니다."
+
+msgid "This configuration controls whethre new user will get free package (if free package exsist in the system)"
+msgstr "이 구성은 신규 사용자가 무료 패키지를 받을지 여부를 제어합니다(시스템에 무료 패키지가 있는 경우)."
+
+msgid "This configuration controls whether user can be free package more than once"
+msgstr "이 구성은 사용자가 두 번 이상 패키지를 무료로 사용할 수 있는지 여부를 제어합니다."
+
+msgid "This configuration controls whether free package will be auto approve or not"
+msgstr "이 구성은 무료 패키지의 자동 승인 여부를 제어합니다."
+
+msgid "whenever anyone registers as employer he will be redirected to this page"
+msgstr "누구든지 고용주로 등록할 때마다 이 페이지로 리디렉션됩니다."
+
+msgid "whenever anyone registers as job seeker, he will be redirected to this page"
+msgstr "누구든지 구직자로 등록할 때마다 이 페이지로 리디렉션됩니다."
+
+msgid "All sections are included in employer email content or only sections that have value"
+msgstr "모든 섹션은 고용주 이메일 콘텐츠에 포함되거나 가치가 있는 섹션만 포함됩니다."
+
+msgid "This option is only valid if employer selected send resume data in email settings while posting job"
+msgstr "이 옵션은 고용주가 채용 정보를 게시하는 동안 이메일 설정에서 이력서 데이터 보내기를 선택한 경우에만 유효합니다."
+
+msgid "Due to pending status of job you do not have permission to see job detail"
+msgstr "작업 보류 상태로 인해 작업 세부정보를 볼 권한이 없습니다."
+
+msgid "Due to rejection of resume you do not have permission to see resume detail"
+msgstr "이력서 거부로 인해 이력서 세부정보를 볼 수 있는 권한이 없습니다."
+
+msgid "Due to pending status of resume you do not have permission to see resume detail"
+msgstr "이력서 보류 상태로 인해 이력서 세부정보를 볼 권한이 없습니다."
+
+msgid "if yes is selected then pages and menus of job manager template will be cretaed and published."
+msgstr "예를 선택하면 작업 관리자 템플릿의 페이지와 메뉴가 생성되고 게시됩니다."
+
+msgid "Select WP Job Portal default page, on action system will redirect on selected page."
+msgstr "WP Job Portal 기본 페이지를 선택하면 작업 시스템에서 선택한 페이지로 리디렉션됩니다."
+
+msgid "If not select default page, email links and support icon might not work."
+msgstr "기본 페이지를 선택하지 않으면 이메일 링크와 지원 아이콘이 작동하지 않을 수 있습니다."
+
+msgid "This add-on offers to job seekers create a resume with multiple options like multiple addresses, institutions, employers, references and skills."
+msgstr "이 추가 기능은 구직자에게 여러 주소, 기관, 고용주, ​​추천서 및 기술과 같은 다양한 옵션이 포함된 이력서를 생성하도록 제공합니다."
+
+msgid "WP Job Portal offers a feature for an employer to copy their jobs. Employers can copy their jobs easily."
+msgstr "WP Job Portal은 고용주가 자신의 직업을 복사할 수 있는 기능을 제공합니다. 고용주는 자신의 작업을 쉽게 복사할 수 있습니다."
+
+msgid "WP Job Portal offers a feature for admin to add multiple credit system against particular actions. Admin can add multiple packages against particular actions."
+msgstr "WP Job Portal은 관리자가 특정 작업에 대해 여러 신용 시스템을 추가할 수 있는 기능을 제공합니다. 관리자는 특정 작업에 대해 여러 패키지를 추가할 수 있습니다."
+
+msgid "Advance custom fields add-on offers to admin add new custom fields like combo, checkbox, radio button, email and dependent fields."
+msgstr "관리자를 위한 고급 사용자 정의 필드 추가 기능 제안은 콤보, 확인란, 라디오 버튼, 이메일 및 종속 필드와 같은 새로운 사용자 정의 필드를 추가합니다."
+
+msgid "WP Job Manager offers a feature for Employer and Job Seeker in which they can export Resume information in the form of an excel file easily."
+msgstr "WP Job Manager는 고용주와 구직자를 위해 이력서 정보를 엑셀 파일 형식으로 쉽게 내보낼 수 있는 기능을 제공합니다."
+
+msgid "WP Job Portal offers a feature for making the jobs as Featured Job. This will help to make it easier for jobseekers to find jobs."
+msgstr "WP Job Portal은 해당 채용공고를 Featured Job으로 만드는 기능을 제공합니다. 이는 구직자들이 일자리를 찾는 데 도움이 될 것입니다."
+
+msgid "WP Job Portal offers a feature for employers to make folders. Employers can make a folder and copy their resumes into the folders."
+msgstr "WP Job Portal은 고용주가 폴더를 만들 수 있는 기능을 제공합니다. 고용주는 폴더를 만들고 이력서를 폴더에 복사할 수 있습니다."
+
+msgid "WP Job Portal allows registered users to save their job searches and create alerts that send new jobs via email daily, weekly or fortnightly."
+msgstr "WP Job Portal을 사용하면 등록된 사용자가 구직 활동을 저장하고 매일, 매주 또는 격주로 이메일을 통해 새 채용 정보를 보내는 알림을 만들 수 있습니다."
+
+msgid "WP Job Portal offer a feature for Employer and Job Seekers , which allows them to take PDF of Resume and can save it."
+msgstr "WP Job Portal은 고용주와 구직자를 위한 기능을 제공하여 이력서 PDF를 가져와 저장할 수 있습니다."
+
+msgid "WP Job Portal offers a Resume and print feature. Employer and Job Seeker can view the Resume page or take a print of the Resume."
+msgstr "WP Job Portal은 이력서 및 인쇄 기능을 제공합니다. 고용주와 구직자는 이력서 페이지를 보거나 이력서를 인쇄할 수 있습니다."
+
+msgid "WP Job Portal offers multiple reports by jobs, by companies and by resume. Admin can see overall reports of Employer and Job Seeker."
+msgstr "WP Job Portal은 직업별, 회사별, 이력서별 다양한 보고서를 제공합니다. 관리자는 고용주와 구직자의 전반적인 보고서를 볼 수 있습니다."
+
+msgid "WP Job Portal offers a jobs share feature on various social media sites for Employers and Job Seekers."
+msgstr "WP Job Portal은 고용주와 구직자를 위해 다양한 소셜 미디어 사이트에서 작업 공유 기능을 제공합니다."
+
+msgid "WP Job Portal offers a feature for searching the jobs by tags. Employers will add some tags related to jobs search."
+msgstr "WP Job Portal은 태그로 채용정보를 검색하는 기능을 제공합니다. 고용주는 구직과 관련된 일부 태그를 추가합니다."
+
+msgid "WP Job Portal offers a feature in which Employer and Job Seekers can share and tell their friends about Jobs by sending them an email."
+msgstr "WP Job Portal은 고용주와 구직자가 친구에게 이메일을 보내 채용 정보를 공유하고 알릴 수 있는 기능을 제공합니다."
+
+msgid "Visitor add job add-on offers guests can add job in the system without logged in the system."
+msgstr "방문자 추가 작업 추가 기능은 손님이 시스템에 로그인하지 않고도 시스템에 작업을 추가할 수 있도록 제공합니다."
+
+msgid "WP Job Portal is a trusted open source ticket system. WP Job Portal is a simple, easy to use, web-based customer support system. Users can create a ticket from the front-end. WP Job Portal comes packed with lot features than most of the expensive(and complex) support ticket system on the market. The best part is, It completely free."
+msgstr "WP Job Portal은 신뢰할 수 있는 오픈 소스 티켓 시스템입니다. WP Job Portal은 간단하고 사용하기 쉬운 웹 기반 고객 지원 시스템입니다. 사용자는 프런트 엔드에서 티켓을 만들 수 있습니다. WP Job Portal은 시중에서 판매되는 대부분의 고가(및 복잡한) 지원 티켓 시스템보다 많은 기능을 갖추고 있습니다. 가장 좋은 점은 완전 무료입니다."
+
+msgid "Add ons for WP Job Portal have been installed and activated successfully."
+msgstr "WP Job Portal용 추가 기능이 성공적으로 설치 및 활성화되었습니다."
+
+msgid "WP Job Portal offers 75,000+ world cities database. Employers and job seekers can easily type and select cities."
+msgstr "WP Job Portal은 75,000개 이상의 세계 도시 데이터베이스를 제공합니다. 고용주와 구직자는 쉽게 도시를 입력하고 선택할 수 있습니다."
+
+msgid "WP Job Portal allows logins from social media. Employer and Job Seekers login into WP Jobs Portal by using their social media Logins."
+msgstr "WP Job Portal은 소셜 미디어에서 로그인을 허용합니다. 고용주와 구직자는 소셜 미디어 로그인을 사용하여 WP 채용 포털에 로그인합니다."
+
+msgid "WP Job Portal offers a feature for visitors. No need to create a account, job seeker apply to any available job as a visitor."
+msgstr "WP Job Portal은 방문자를 위한 기능을 제공합니다. 계정을 만들 필요가 없으며 구직자는 방문자로서 사용 가능한 모든 직업에 지원합니다."
+
+msgid "WP Job Portal offers a useful feature for employers to control all his companies in a single account."
+msgstr "WP Job Portal은 고용주가 단일 계정에서 모든 회사를 관리할 수 있는 유용한 기능을 제공합니다."
+
+msgid "WP Job Portal offers an outstanding feature for employers to mark their company as featured. Featured companies shows top of companies list."
+msgstr "WP Job Portal은 고용주가 자신의 회사를 추천 업체로 표시할 수 있는 뛰어난 기능을 제공합니다. 주요 기업은 기업 목록의 상위를 보여줍니다."
+
+msgid "WP Job Portal offers this feature to Employes to add multiple departments to better manage his jobs. Job seeker apply to the desired department jobs."
+msgstr "WP Job Portal은 직원에게 이 기능을 제공하여 작업을 더 잘 관리할 수 있도록 여러 부서를 추가합니다. 구직자는 희망하는 부서 직무에 지원합니다."
+
+msgid "WP Job Portal helps job seekers to make any of his resume as Featured Resume."
+msgstr "WP Job Portal은 구직자가 자신의 이력서를 추천 이력서로 만들 수 있도록 도와줍니다."
+
+msgid "WP Job Portal offers Real Simple Syndication (RSS) to set feeds for the jobs. Everyone can get jobs RSS just by clicking on icon."
+msgstr "WP Job Portal은 RSS(Real Simple Syndication)를 제공하여 작업에 대한 피드를 설정합니다. 아이콘을 클릭하면 누구나 RSS 작업을 얻을 수 있습니다."
+
+msgid "WP Job Portal offers a message system for Employers and Job Seekers. Employers initiate messages on any applied resume."
+msgstr "WP Job Portal은 고용주와 구직자를 위한 메시지 시스템을 제공합니다. 고용주는 적용된 이력서에 메시지를 시작합니다."
+
+msgid "WP Job Portal offers a feature for employers to perform some actions on resumes. Employer mark shortlisted, hired, spam, add a note on the applied resume."
+msgstr "WP Job Portal은 고용주가 이력서에 대해 일부 작업을 수행할 수 있는 기능을 제공합니다. 고용주 표시 최종 후보, 채용, 스팸, 지원 이력서에 메모를 추가하세요."
+
+msgid "WP Job Portal offers a feature for the job seeker to add multiple resumes. Job seeker have a choice on which job which resume to apply."
+msgstr "WP Job Portal은 구직자가 여러 개의 이력서를 추가할 수 있는 기능을 제공합니다. 구직자는 어떤 직업을 재개할지 선택할 수 있습니다."
+
+msgid "This add-on offers to the employer to search the resume in the system with multiple criteria."
+msgstr "이 추가 기능은 고용주에게 여러 기준으로 시스템에서 이력서를 검색할 수 있는 기능을 제공합니다."
+
+msgid "WP Job Portal will help job seekers to shortlist their desired jobs. All shortlisted jobs are available in job seeker dashboard."
+msgstr "WP Job Portal은 구직자가 원하는 직업을 최종 선정하는 데 도움이 됩니다. 모든 최종 후보 채용 공고는 구직자 대시보드에서 확인할 수 있습니다."
+
+msgid "Cron job adon offers to reduce dependencies on WordPress cron job and support Hosting Panel cron job for WP Job Portal tasks."
+msgstr "Cron 작업 adon은 WordPress cron 작업에 대한 종속성을 줄이고 WP Job Portal 작업에 대한 Hosting Panel cron 작업을 지원합니다."
+
+msgid "Widgets in WordPress allow you to add content and features in the widgetized areas of your theme."
+msgstr "WordPress의 위젯을 사용하면 테마의 위젯화된 영역에 콘텐츠와 기능을 추가할 수 있습니다."
+
+msgid "When WordPress language change to ro, WP Job Portal language will auto change to ro"
+msgstr "WordPress 언어가 ro로 변경되면 WP Job Portal 언어가 자동으로 ro로 변경됩니다."
+
+msgid "Data has been uploaded successfully"
+msgstr "데이터가 성공적으로 업로드되었습니다."
+
+msgid "Data has not been uploaded"
+msgstr "데이터가 업로드되지 않았습니다."
+
+msgid "Click here to continue"
+msgstr "계속하려면 여기를 클릭하십시오"
+
+msgid "Address Data Update"
+msgstr "주소 데이터 업데이트"
+
+msgid "LOADING"
+msgstr "로딩 중"
+
+msgid "Backup"
+msgstr "지원"
+
+msgid "Importing New Data"
+msgstr "새 데이터 가져오기"
+
+msgid "help"
+msgstr "돕다"
+
+msgid "Download From Joomsky website"
+msgstr "Joomsky 웹사이트에서 다운로드"
+
+msgid "download"
+msgstr "다운로드"
+
+msgid "Kept Data"
+msgstr "데이터 보관"
+
+msgid "Discard Old Data"
+msgstr "오래된 데이터 폐기"
+
+msgid "File"
+msgstr "파일"
+
+msgid "My File"
+msgstr "내 파일"
+
+msgid "Joomsky File"
+msgstr "줌스키 파일"
+
+msgid "Data Contain"
+msgstr "데이터 포함"
+
+msgid "States and cities"
+msgstr "주와 도시"
+
+msgid "Make sure you did not changed country id or state id in database"
+msgstr "데이터베이스에서 국가 ID 또는 주 ID를 변경하지 않았는지 확인하세요."
+
+msgid "Choose File"
+msgstr "파일을 선택"
+
+msgid "State id greater country id is your responsibility"
+msgstr "주 ID 더 큰 국가 ID는 귀하의 책임입니다"
+
+msgid "Cities have no ids also state id and country id is your responsibility"
+msgstr "도시에는 ID가 없으며 주 ID와 국가 ID도 귀하의 책임입니다"
+
+msgid "Consider old countries were not edit otherwise problem may occur"
+msgstr "이전 국가는 편집되지 않았음을 고려하세요. 그렇지 않으면 문제가 발생할 수 있습니다."
+
+msgid "load address data"
+msgstr "주소 데이터 로드"
+
+msgid "Map Detail"
+msgstr "지도 세부정보"
+
+msgid "Radius"
+msgstr "반지름"
+
+msgid "Radius Length Type"
+msgstr "반경 길이 유형"
+
+msgid "Add Skills"
+msgstr "스킬 추가"
+
+msgid "There was some problem performing action"
+msgstr "작업을 수행하는 중에 문제가 발생했습니다."
+
+msgid "Job has been copied successfully"
+msgstr "작업이 성공적으로 복사되었습니다."
+
+msgid "popup close"
+msgstr "팝업 닫기"
+
+msgid "You do not have any job remaining"
+msgstr "남은 일자리가 없습니다"
+
+msgid "Expiry"
+msgstr "만료"
+
+msgid "Add To Job"
+msgstr "직업에 추가"
+
+msgid "Copy job"
+msgstr "복사 작업"
+
+msgid "PayPal payment agreement"
+msgstr "PayPal 결제 계약"
+
+msgid "User cancelled subscription"
+msgstr "사용자가 구독을 취소했습니다."
+
+msgid "package on"
+msgstr "패키지"
+
+msgid "Invoice Details"
+msgstr "송장 세부정보"
+
+msgid "Amount"
+msgstr "양"
+
+msgid "Property Details"
+msgstr "부동산 세부정보"
+
+msgid "Call for price"
+msgstr "가격 문의"
+
+msgid "Garage Size"
+msgstr "차고 크기"
+
+msgid "by"
+msgstr "~에 의해"
+
+msgid "Package Details"
+msgstr "패키지 세부정보"
+
+msgid "Package Expiry"
+msgstr "패키지 만료"
+
+msgid "No of Agents"
+msgstr "에이전트 수"
+
+msgid "No of Properties"
+msgstr "속성 수"
+
+msgid "Property Expiry"
+msgstr "부동산 만료"
+
+msgid "Property Images"
+msgstr "부동산 이미지"
+
+msgid "No of Featured"
+msgstr "추천 수"
+
+msgid "Featured Expiry"
+msgstr "주요 만료"
+
+msgid "Renewal Discount"
+msgstr "갱신할인"
+
+msgid "Video"
+msgstr "동영상"
+
+msgid "Virtual Tour"
+msgstr "가상 투어"
+
+msgid "Subunits"
+msgstr "하위 단위"
+
+msgid "Floor Plans"
+msgstr "평면도"
+
+msgid "Property"
+msgstr "재산"
+
+msgid "Select Currency"
+msgstr "통화 선택"
+
+msgid "Select Type"
+msgstr "유형 선택"
+
+msgid "user"
+msgstr "사용자"
+
+msgid "Not published"
+msgstr "게시되지 않음"
+
+msgid "You do not have any Department remaining"
+msgstr "남은 부서가 없습니다."
+
+msgid "Add To Featured Company"
+msgstr "주요 회사에 추가"
+
+msgid "Action For"
+msgstr "다음에 대한 조치"
+
+msgid "Cost"
+msgstr "비용"
+
+msgid "both"
+msgstr "둘 다"
+
+msgid "employer MISC."
+msgstr "고용주 기타."
+
+msgid "Misc."
+msgstr "기타"
+
+msgid "Not Published"
+msgstr "게시되지 않음"
+
+msgid "Both"
+msgstr "둘 다"
+
+msgid "You can define expiry date of action. i.e"
+msgstr "작업 만료일을 정의할 수 있습니다. 즉"
+
+msgid "Job will be expire in 30 days"
+msgstr "작업이 30일 후에 만료됩니다."
+
+msgid "Gold job will be expire in 30 days"
+msgstr "골드 작업은 30일 후에 만료됩니다."
+
+msgid "Expire in Days"
+msgstr "일 이내에 만료"
+
+msgid "will be expire"
+msgstr "만료됩니다"
+
+msgid "How much credits required for"
+msgstr "얼마나 많은 크레딧이 필요합니까?"
+
+msgid "Invalid Entry"
+msgstr "부적합한 입력"
+
+msgid "Message History"
+msgstr "메시지 기록"
+
+msgid "Administrator sent"
+msgstr "관리자가 보냈습니다"
+
+msgid "Job seeker sent"
+msgstr "구직자가 보냈습니다."
+
+msgid "Employer sent"
+msgstr "고용주가 보냈습니다"
+
+msgid "You sent"
+msgstr "너가 보냈다"
+
+msgid "read"
+msgstr "읽다"
+
+msgid "Unread"
+msgstr "읽히지 않는"
+
+msgid "Credits Pack"
+msgstr "크레딧 팩"
+
+msgid "off"
+msgstr "끄다"
+
+msgid "Buy with"
+msgstr "구매"
+
+msgid "Buy now"
+msgstr "지금 구매"
+
+msgid "Rate List"
+msgstr "요금 목록"
+
+msgid "Admin sent"
+msgstr "관리자가 보냈습니다"
+
+msgid "Job Seeker Name"
+msgstr "구직자 이름"
+
+msgid "Is Conflicted"
+msgstr "충돌함"
+
+msgid "Message Status"
+msgstr "메시지 상태"
+
+msgid "Message Subject"
+msgstr "메시지 제목"
+
+msgid "Select Plan"
+msgstr "플랜 선택"
+
+msgid "Please select payment method"
+msgstr "결제수단을 선택해주세요"
+
+msgid "paypal"
+msgstr "페이팔"
+
+msgid "woocommerce"
+msgstr "우커머스"
+
+msgid "stripe"
+msgstr "줄무늬"
+
+msgid "Make payment recurring"
+msgstr "반복 결제하기"
+
+msgid "Buy Now"
+msgstr "지금 구매"
+
+msgid "Weeks"
+msgstr "주"
+
+msgid "Months"
+msgstr "개월"
+
+msgid "Package For"
+msgstr "패키지"
+
+msgid "Is Free"
+msgstr "무료"
+
+msgid "Price"
+msgstr "가격"
+
+msgid "Company Section"
+msgstr "회사 부문"
+
+msgid "No of Companies"
+msgstr "회사 수"
+
+msgid "No of Featured Company"
+msgstr "주요 회사 수"
+
+msgid "Feature Company Expiry"
+msgstr "특집 회사 만료"
+
+msgid "No of View Company Contact Detail"
+msgstr "회사 연락처 조회 수"
+
+msgid "Job Section"
+msgstr "직무 부문"
+
+msgid "No of jobs"
+msgstr "일자리 수"
+
+msgid "No of Feauted Jobs"
+msgstr "주요 채용 공고 수"
+
+msgid "Feature Job Expiry"
+msgstr "기능 작업 만료"
+
+msgid "No of Job Search"
+msgstr "구직 횟수"
+
+msgid "No of Job Alert"
+msgstr "채용공고 횟수"
+
+msgid "No of Job Apply"
+msgstr "지원 직무 수"
+
+msgid "No of Resumes"
+msgstr "이력서 수"
+
+msgid "No of Featured Resume"
+msgstr "추천 이력서 ​​수"
+
+msgid "Feature Resume Expiry"
+msgstr "기능 이력서 만료"
+
+msgid "No of Resume Search"
+msgstr "이력서 검색 횟수"
+
+msgid "No of Resume Save Search"
+msgstr "이력서 저장 검색 횟수"
+
+msgid "No of View Resume Contact Detail"
+msgstr "이력서 연락처 조회 횟수"
+
+msgid "Departments Section"
+msgstr "부서 섹션"
+
+msgid "No of Departments"
+msgstr "부서 수"
+
+msgid "Payment Methods Section"
+msgstr "결제 방법 섹션"
+
+msgid "Paypal Subscription"
+msgstr "페이팔 구독"
+
+msgid "Stripe Subscription"
+msgstr "스트라이프 구독"
+
+msgid "Discount"
+msgstr "할인"
+
+msgid "Loading stripe plans"
+msgstr "스트라이프 계획 로드 중"
+
+msgid "Off"
+msgstr "끄다"
+
+msgid "Amount Off"
+msgstr "할인 금액"
+
+msgid "No of Jobs"
+msgstr "채용 수"
+
+msgid "No of Featured Jobs"
+msgstr "주요 채용정보 수"
+
+msgid "No Job Alert"
+msgstr "채용공고 없음"
+
+msgid " No of companies"
+msgstr "회사 수"
+
+msgid " No of Featured company"
+msgstr "주요 회사 수"
+
+msgid " "
+msgstr ""
+
+msgid "No of View Company Contact"
+msgstr "조회된 회사 연락처 수"
+
+msgid "No of Resume"
+msgstr "이력서 수"
+
+msgid "No of Featured Job"
+msgstr "추천 직업 수"
+
+msgid "Featured Job Expiry"
+msgstr "주요 직업 만료"
+
+msgid "Featured Company Expiry"
+msgstr "주요 회사 만료"
+
+msgid "Purchased"
+msgstr "구매 한"
+
+msgid "close"
+msgstr "닫다"
+
+msgid "Package Buy With"
+msgstr "패키지 구매"
+
+msgid "Please select the payment method"
+msgstr "결제수단을 선택해주세요"
+
+msgid "Property Listing"
+msgstr "부동산 목록"
+
+msgid "Stripe"
+msgstr "줄무늬"
+
+msgid "job Expiry"
+msgstr "직업 만료"
+
+msgid "Reusume"
+msgstr "재개하다"
+
+msgid "Featued Resume"
+msgstr "추천 이력서"
+
+msgid "Show No of Resume Contact"
+msgstr "이력서 연락처 표시"
+
+msgid "Show No of Company Contact"
+msgstr "회사 연락처 표시"
+
+msgid "Please Select Package First"
+msgstr "먼저 패키지를 선택하세요"
+
+msgid "Total "
+msgstr "총"
+
+msgid "Remaining "
+msgstr "남은"
+
+msgid "select"
+msgstr "선택하다"
+
+msgid "coin icon"
+msgstr "동전 아이콘"
+
+msgid "No JOb Alert"
+msgstr "일자리 없음 알림"
+
+msgid "Payment Method Configurations"
+msgstr "결제 수단 구성"
+
+msgid "menu"
+msgstr "메뉴"
+
+msgid "Select Configuration"
+msgstr "구성 선택"
+
+msgid "PayPal"
+msgstr "페이팔"
+
+msgid "Woocommerce"
+msgstr "우커머스"
+
+msgid "PayPal Enabled"
+msgstr "페이팔 활성화"
+
+msgid "Signature"
+msgstr "서명"
+
+msgid "Logo URL"
+msgstr "로고 URL"
+
+msgid "Cancel Url"
+msgstr "URL 취소"
+
+msgid "Notify Url"
+msgstr "URL 알림"
+
+msgid "Test Mode"
+msgstr "시험 모드"
+
+msgid "Please enter language code ie: EN"
+msgstr "언어 코드(예: EN)를 입력하세요."
+
+msgid "You must add following url to"
+msgstr "다음 URL을 추가해야 합니다."
+
+msgid "paypal IPN"
+msgstr "페이팔 IPN"
+
+msgid "in order to work with subscriptions"
+msgstr "구독 작업을 하기 위해"
+
+msgid "Stripe Enabled"
+msgstr "스트라이프 활성화"
+
+msgid "Publishable key"
+msgstr "게시 가능한 키"
+
+msgid "Secret key"
+msgstr "비밀 키"
+
+msgid "stripe webhook endpoint"
+msgstr "스트라이프 웹훅 엔드포인트"
+
+msgid "Property has been successfully featured"
+msgstr "속성이 성공적으로 추천되었습니다"
+
+msgid "Company has been successfully published"
+msgstr "회사가 성공적으로 게시되었습니다."
+
+msgid "View Resume Contact Successfully"
+msgstr "이력서 연락처를 성공적으로 확인했습니다."
+
+msgid "Featured Company has been successfully published"
+msgstr "주요 회사가 성공적으로 게시되었습니다."
+
+msgid "Featured Resume has been successfully published"
+msgstr "추천 이력서가 성공적으로 게시되었습니다"
+
+msgid "Featured Job has been successfully published"
+msgstr "추천 채용정보가 성공적으로 게시되었습니다."
+
+msgid "Resume has been successfully published"
+msgstr "이력서가 성공적으로 게시되었습니다"
+
+msgid "You can view Company Contact Detail Now"
+msgstr "지금 회사 연락처 세부정보를 볼 수 있습니다."
+
+msgid "Job Alert Added Successfully"
+msgstr "채용공고 알림이 성공적으로 추가되었습니다."
+
+msgid "Requested page is not available contact system Administrator"
+msgstr "요청한 페이지를 사용할 수 없습니다. 시스템 관리자에게 문의하세요."
+
+msgid "Company has been successfully featured"
+msgstr "회사가 성공적으로 추천되었습니다"
+
+msgid "Payment has not been verified"
+msgstr "결제가 확인되지 않았습니다."
+
+msgid "Feature Job has been successfully featured"
+msgstr "Feature Job이 성공적으로 추천되었습니다"
+
+msgid "Feature Resume has been successfully featured"
+msgstr "기능 이력서가 성공적으로 소개되었습니다."
+
+msgid "Department has been successfully published"
+msgstr "학과가 성공적으로 게시되었습니다."
+
+msgid "job has been successfully Applied"
+msgstr "작업이 성공적으로 적용되었습니다."
+
+msgid "Job Alert has been successfully published"
+msgstr "채용공고 알림이 성공적으로 게시되었습니다."
+
+msgid "Job has been successfully published"
+msgstr "작업이 성공적으로 게시되었습니다."
+
+msgid "Woocommerce product not found, please contact to system Administrator"
+msgstr "WooCommerce 제품을 찾을 수 없습니다. 시스템 관리자에게 문의하세요."
+
+msgid "Subscription has been cancelled"
+msgstr "구독이 취소되었습니다"
+
+msgid "Add New User Package"
+msgstr "새 사용자 패키지 추가"
+
+msgid "Select users"
+msgstr "사용자 선택"
+
+msgid "User Packages"
+msgstr "사용자 패키지"
+
+msgid "User Package"
+msgstr "사용자 패키지"
+
+msgid "add new user package"
+msgstr "새로운 사용자 패키지 추가"
+
+msgid "View Purchase History"
+msgstr "구매 내역 보기"
+
+msgid "Purchase History Details"
+msgstr "구매 내역 세부정보"
+
+msgid "Payer name"
+msgstr "지불인 이름"
+
+msgid "Payer email address"
+msgstr "지불인 이메일 주소"
+
+msgid "Payer address"
+msgstr "지불인 주소"
+
+msgid "Payer contact number"
+msgstr "지급인 연락처"
+
+msgid "Amount paid"
+msgstr "금액 지급"
+
+msgid "Transaction number"
+msgstr "거래 번호"
+
+msgid "Payment gateway"
+msgstr "지불 게이트웨이"
+
+msgid "Transaction Status"
+msgstr "거래현황"
+
+msgid "Purchase date"
+msgstr "구입 날짜"
+
+msgid "Package expiry"
+msgstr "패키지 만료"
+
+msgid "Billing Cycle"
+msgstr "결제주기"
+
+msgid "Next Billing Date"
+msgstr "다음 청구 날짜"
+
+msgid "Are you sure to cancel subscription"
+msgstr "구독을 취소하시겠습니까?"
+
+msgid "Feature Job"
+msgstr "특집 직업"
+
+msgid "Candel Payment"
+msgstr "캔델 지불"
+
+msgid "Remaining Jobs"
+msgstr "남은 일자리"
+
+msgid "Remaining Featured Job"
+msgstr "남은 추천 직업"
+
+msgid "No of  Companies"
+msgstr "회사수"
+
+msgid "Remaining Companies"
+msgstr "나머지 회사"
+
+msgid "Remaining Featured Company"
+msgstr "나머지 주요 회사"
+
+msgid "No Of Resume"
+msgstr "이력서 없음"
+
+msgid "No Of Feature Resume"
+msgstr "기능 이력서 없음"
+
+msgid "Remaining Featured Resume"
+msgstr "남은 추천 이력서"
+
+msgid "No Of Resume Contact View"
+msgstr "이력서 연락처 보기 없음"
+
+msgid "Remaining Resume Contact View"
+msgstr "남은 이력서 연락처 보기"
+
+msgid "No Of Job Apply"
+msgstr "지원 직무 없음"
+
+msgid "Remaining Job Apply"
+msgstr "남은 직무 지원"
+
+msgid "No Of Job Alert"
+msgstr "작업 경고 없음"
+
+msgid "Remaining Job Alert"
+msgstr "남은 작업 알림"
+
+msgid "No Of Department"
+msgstr "부서 번호"
+
+msgid "Remaining Department"
+msgstr "남은 부서"
+
+msgid "renew this package"
+msgstr "이 패키지를 갱신하세요"
+
+msgid "Renew This Package"
+msgstr "이 패키지를 갱신하세요"
+
+msgid "and get discount"
+msgstr "할인도 받고"
+
+msgid "payment methods"
+msgstr "결제 방법"
+
+msgid "Payment Methods"
+msgstr "결제 방법"
+
+msgid "my packages"
+msgstr "내 패키지"
+
+msgid "my subscriptions"
+msgstr "내 구독"
+
+msgid "invoices"
+msgstr "송장"
+
+msgid "Login to view contact detail"
+msgstr "연락처 세부정보를 보려면 로그인하세요."
+
+msgid "Show Resume Contact"
+msgstr "이력서 연락처 표시"
+
+msgid "Show resume contact"
+msgstr "이력서 연락처 표시"
+
+msgid "Cancel payment"
+msgstr "결제 취소"
+
+msgid "Show company contact"
+msgstr "회사 연락처 표시"
+
+msgid "user packages"
+msgstr "사용자 패키지"
+
+msgid "add new user packages"
+msgstr "새로운 사용자 패키지 추가"
+
+msgid "Make Payment"
+msgstr "결제하기"
+
+msgid "You have already applied"
+msgstr "이미 신청하셨습니다."
+
+msgid "Apply on this job"
+msgstr "이 직무에 지원하세요"
+
+msgid "Apply this job"
+msgstr "이 직업에 지원하세요"
+
+msgid "Apply This Job"
+msgstr "이 직무에 지원하세요"
+
+msgid "apply on this job"
+msgstr "이 직업에 지원하세요"
+
+msgid "You do not have any "
+msgstr "당신은 아무것도 없습니다"
+
+msgid "Proceed Without Package"
+msgstr "패키지 없이 진행"
+
+msgid "Proceed With Package"
+msgstr "패키지로 진행"
+
+msgid "proceed without paying"
+msgstr "결제하지 않고 진행"
+
+msgid "proceed with paying"
+msgstr "결제를 진행하세요"
+
+msgid "Webcrown.org"
+msgstr "Webcrown.org"
+
+msgid "Wget"
+msgstr "Wget"
+
+msgid "Curl"
+msgstr "곱슬 곱슬하다"
+
+msgid "Php Script"
+msgstr "PHP 스크립트"
+
+msgid "Recommended run script once a day"
+msgstr "하루에 한 번 권장 실행 스크립트"
+
+msgid "Configuration Of A Backup Job With"
+msgstr "다음을 사용하여 백업 작업 구성"
+
+msgid "Name Of Cronjob"
+msgstr "크론잡 이름"
+
+msgid "Log In To"
+msgstr "로그인"
+
+msgid "In The Cron Area"
+msgstr "크론 지역에서"
+
+msgid "Click On The New Cron Button"
+msgstr "새 크론 버튼을 클릭하세요"
+
+msgid "Below You will Find What You Have To Enter At"
+msgstr "아래에서 입력해야 할 내용을 찾을 수 있습니다."
+
+msgid "Interface"
+msgstr "상호 작용"
+
+msgid "Timeout"
+msgstr "시간 초과"
+
+msgid "180 sec If The Backup Does Not Complete"
+msgstr "백업이 완료되지 않는 경우 180초"
+
+msgid "Increase It"
+msgstr "늘리세요"
+
+msgid "Most Sites Will Work With A Setting Of 180 Or 600 Here"
+msgstr "대부분의 사이트는 여기서 180 또는 600 설정으로 작동합니다."
+
+msgid "As Its Much More Cost-effective."
+msgstr "훨씬 더 비용 효율적입니다."
+
+msgid "Url You Want To Execute"
+msgstr "실행하려는 URL"
+
+msgid "Leave This Blank"
+msgstr "이 항목을 비워두세요"
+
+msgid "Execution Time"
+msgstr "실행 시간"
+
+msgid "Thats The Grid Below The Other Options"
+msgstr "다른 옵션 아래의 그리드입니다."
+
+msgid "Select When And How Often You Want Your Cron Job To Run."
+msgstr "크론 작업을 실행할 시기와 빈도를 선택하세요."
+
+msgid "Alerts"
+msgstr "경고"
+
+msgid "If You Have Already Set Up Alert Methods In"
+msgstr "경고 방법을 이미 설정한 경우"
+
+msgid "Finally Click On The Submit Button To Finish Setting Up Your Cron Job."
+msgstr "마지막으로 제출 버튼을 클릭하여 크론 작업 설정을 완료하세요."
+
+msgid "Cron Scheduling Using Wget most Hosts"
+msgstr "Wget 대부분의 호스트를 사용한 크론 스케줄링"
+
+msgid "Cron Scheduling Using Curl siteground And A Few Other Hosts"
+msgstr "Curl 사이트그라운드와 몇 가지 다른 호스트를 사용한 크론 스케줄링"
+
+msgid "Or"
+msgstr "또는"
+
+msgid "Custom Php Script To Run"
+msgstr "실행할 사용자 정의 PHP 스크립트"
+
+msgid "Sorry"
+msgstr "죄송합니다"
+
+msgid "    The Backup Did Not Work."
+msgstr "백업이 작동하지 않았습니다."
+
+msgid "Url For Use With Your Own Scripts And Third Party Services"
+msgstr "자신의 스크립트 및 제3자 서비스에 사용할 URL"
+
+msgid "pending payment"
+msgstr "결제 대기 중"
+
+msgid "department name"
+msgstr "부서 이름"
+
+msgid "Department Name"
+msgstr "부서 이름"
+
+msgid "Edit department"
+msgstr "부서 편집"
+
+msgid "Edit Department"
+msgstr "부서 편집"
+
+msgid "Delete department"
+msgstr "부서 삭제"
+
+msgid "Delete Department"
+msgstr "부서 삭제"
+
+msgid "Total Department"
+msgstr "전체 부서"
+
+msgid "Add department"
+msgstr "부서 추가"
+
+msgid "Add departments"
+msgstr "부서 추가"
+
+msgid "WP JOB PORTAL resume export"
+msgstr "WP JOB PORTAL 이력서 내보내기"
+
+msgid "export all"
+msgstr "모두 내보내기"
+
+msgid "Export All"
+msgstr "모두 내보내기"
+
+msgid "Company added to featured"
+msgstr "추천에 추가된 회사"
+
+msgid "Waiting"
+msgstr "대기 중"
+
+msgid "You do not have any featured remaining"
+msgstr "남은 추천 항목이 없습니다."
+
+msgid "Select package"
+msgstr "패키지 선택"
+
+msgid "Add To Featured"
+msgstr "추천 항목에 추가"
+
+msgid "Buy Packages"
+msgstr "패키지 구매"
+
+msgid "Featured companies"
+msgstr "주요 기업"
+
+msgid "featured approval waiting"
+msgstr "주요 승인 대기 중"
+
+msgid "Featured Approval Waiting"
+msgstr "주요 승인 대기 중"
+
+msgid "add to featured"
+msgstr "추천에 추가"
+
+msgid "add featured"
+msgstr "추천 추가"
+
+msgid "Add Featured"
+msgstr "추천 추가"
+
+msgid "downhover part"
+msgstr "다운 호버 부분"
+
+msgid "Job added to featured"
+msgstr "추천에 채용정보가 추가되었습니다."
+
+msgid "You do not have any featured Job remaining"
+msgstr "추천 채용정보가 남아 있지 않습니다."
+
+msgid "Add To Featured Job"
+msgstr "추천 직무에 추가"
+
+msgid "Featured jobs"
+msgstr "주요 채용정보"
+
+msgid "Add featured"
+msgstr "추천 추가"
+
+msgid "Resume added to featured"
+msgstr "추천 항목에 이력서가 추가되었습니다."
+
+msgid "Please Select A Package First"
+msgstr "먼저 패키지를 선택하세요"
+
+msgid "Add to featured"
+msgstr "추천에 추가"
+
+msgid "add to Featured"
+msgstr "추천에 추가"
+
+msgid "Saved to Folder Successfully"
+msgstr "폴더에 성공적으로 저장되었습니다"
+
+msgid "Resume already in folder"
+msgstr "이력서가 이미 폴더에 있습니다."
+
+msgid "Salary "
+msgstr "샐러리"
+
+msgid "Contact Email"
+msgstr "이메일 연락처"
+
+msgid "Select one"
+msgstr "하나를 고르세요"
+
+msgid "No folder found"
+msgstr "폴더를 찾을 수 없습니다"
+
+msgid "add folder"
+msgstr "폴더 추가"
+
+msgid "Add Folder"
+msgstr "폴더 추가"
+
+msgid "remove resume from folder"
+msgstr "폴더에서 이력서 제거"
+
+msgid "Remove Resume From Folder"
+msgstr "폴더에서 이력서 제거"
+
+msgid "view resume"
+msgstr "이력서 보기"
+
+msgid "Owner"
+msgstr "소유자"
+
+msgid "Folder Name"
+msgstr "폴더 이름"
+
+msgid "folders"
+msgstr "폴더"
+
+msgid "Remove resume from folder"
+msgstr "폴더에서 이력서 제거"
+
+msgid "copy to folder"
+msgstr "폴더에 복사"
+
+msgid "Copy To Folder"
+msgstr "폴더에 복사"
+
+msgid "Daily"
+msgstr "일일"
+
+msgid "Weekly"
+msgstr "주간"
+
+msgid "Monthly"
+msgstr "월간 간행물"
+
+msgid "Job Category"
+msgstr "직종"
+
+msgid "Job Location"
+msgstr "근무지"
+
+msgid "Job Alert Subscribed Succefully"
+msgstr "채용공고 알림이 성공적으로 구독되었습니다"
+
+msgid "Provided Email Already Registered For Job Alert"
+msgstr "제공된 이메일이 이미 채용 알림에 등록되어 있습니다."
+
+msgid "Error While Subscribing Job Alert"
+msgstr "채용 알림을 구독하는 중 오류가 발생했습니다."
+
+msgid "Zip Code"
+msgstr "우편 번호"
+
+msgid "Keywords"
+msgstr "키워드"
+
+msgid "Alert Type"
+msgstr "경고 유형"
+
+msgid "Unsubscribe"
+msgstr "구독 취소"
+
+msgid "Unsubscribe job alert"
+msgstr "구독 취소 채용 알림"
+
+msgid "Are you sure to Unsubscribe job alert"
+msgstr "채용공고 알림을 구독 취소하시겠습니까?"
+
+msgid "Captcha"
+msgstr "보안 문자"
+
+msgid "Save Job Alert"
+msgstr "채용 알림 저장"
+
+msgid "Total Job Alert"
+msgstr "전체 작업 알림"
+
+msgid "Do not email me"
+msgstr "이메일을 보내지 마세요."
+
+msgid "No job applied notification will be emailed to you"
+msgstr "채용 공고가 이메일로 전송되지 않습니다."
+
+msgid "you can only check your workspace for new applicants"
+msgstr "신규 지원자의 작업공간만 확인할 수 있습니다."
+
+msgid "Email me resume of new applicant"
+msgstr "신규 지원자의 이력서를 이메일로 보내주세요."
+
+msgid "you can also check your workspace"
+msgstr "작업 공간도 확인할 수 있습니다"
+
+msgid "Email me resume and resume attachments of new applicant"
+msgstr "신규 지원자의 이력서 및 이력서 첨부 파일을 이메일로 보내주세요."
+
+msgid "Edit Message"
+msgstr "메시지 편집"
+
+msgid "Reply Message"
+msgstr "답장 메시지"
+
+msgid "message subject"
+msgstr "메시지 제목"
+
+msgid "send message"
+msgstr "문자 보내"
+
+msgid "messages"
+msgstr "메시지"
+
+msgid "You do not have any View Company Contact remaining"
+msgstr "회사 연락처 보기가 남아 있지 않습니다."
+
+msgid "View Company Contact"
+msgstr "회사 연락처 보기"
+
+msgid "Remaining View Company Contact"
+msgstr "남은 보기 회사 연락처"
+
+msgid "Add company"
+msgstr "회사 추가"
+
+msgid "You Are Applying On This Job"
+msgstr "당신은 이 직업에 지원하고 있습니다"
+
+msgid "N/A"
+msgstr "해당 없음"
+
+msgid "Skill"
+msgstr "기술"
+
+msgid "Employer Reports"
+msgstr "고용주 보고서"
+
+msgid "Jobs By Cities"
+msgstr "도시별 일자리"
+
+msgid "Jobs By Companies"
+msgstr "회사 별 채용 정보"
+
+msgid "Job by city"
+msgstr "도시별 직업"
+
+msgid "Jobs by company"
+msgstr "회사별 채용"
+
+msgid "Job by type"
+msgstr "유형별 직업"
+
+msgid "Jobseeker Reports"
+msgstr "구직자 보고서"
+
+msgid "Active Resume"
+msgstr "활성 이력서"
+
+msgid "Resume By Job Types"
+msgstr "직무 유형별 이력서"
+
+msgid "Resume By Cities"
+msgstr "도시별 이력서"
+
+msgid "Resume By Job Salaries"
+msgstr "직업 급여별 이력서"
+
+msgid "Active resume"
+msgstr "활성 이력서"
+
+msgid "Gold resume"
+msgstr "골드 이력서"
+
+msgid "Job by salary"
+msgstr "급여별 직업"
+
+msgid "employer reports"
+msgstr "고용주 보고서"
+
+msgid "job seeker reports"
+msgstr "구직자 보고서"
+
+msgid "Job Seeker Reports"
+msgstr "구직자 보고서"
+
+msgid "My Stats"
+msgstr "내 통계"
+
+msgid "Job copy successfully"
+msgstr "작업 복사가 성공적으로 완료되었습니다."
+
+msgid "Note"
+msgstr "메모"
+
+msgid "Resume has been marked as spam"
+msgstr "이력서가 스팸으로 표시되었습니다."
+
+msgid "Job seeker has been hired"
+msgstr "구직자가 채용되었습니다"
+
+msgid "Resume moved to the inbox"
+msgstr "이력서가 받은편지함으로 이동되었습니다."
+
+msgid "Resume rejected"
+msgstr "이력서가 거부됨"
+
+msgid "Candidate short listed"
+msgstr "후보자 명단에 등재됨"
+
+msgid "mark spam"
+msgstr "스팸으로 표시"
+
+msgid "Mark Spam"
+msgstr "스팸으로 표시"
+
+msgid "not spam"
+msgstr "스팸 아님"
+
+msgid "Not Spam"
+msgstr "스팸 아님"
+
+msgid "hired"
+msgstr "고용된"
+
+msgid "rejected"
+msgstr "거부됨"
+
+msgid "add note"
+msgstr "메모를 추가"
+
+msgid "Add Note"
+msgstr "메모를 추가"
+
+msgid "details"
+msgstr "세부"
+
+msgid "Details"
+msgstr "세부"
+
+msgid "email candidate"
+msgstr "이메일 후보자"
+
+msgid "Email Candidate"
+msgstr "이메일 후보자"
+
+msgid "short list"
+msgstr "짧은 목록"
+
+msgid "Short List"
+msgstr "짧은 목록"
+
+msgid "inbox"
+msgstr "받은편지함"
+
+msgid "advance search"
+msgstr "고급 검색"
+
+msgid "short listed"
+msgstr "짧은 목록"
+
+msgid "Short Listed"
+msgstr "단기 상장"
+
+msgid "spam"
+msgstr "스팸"
+
+msgid "Resume Files Download"
+msgstr "파일 다운로드 재개"
+
+msgid "Select job type"
+msgstr "직무 유형 선택"
+
+msgid "No Resume found"
+msgstr "이력서를 찾을 수 없습니다"
+
+msgid "Go Back To"
+msgstr "다음으로 돌아가기"
+
+msgid "Total Resume Save Search"
+msgstr "전체 이력서 저장 검색"
+
+msgid "Remaining Resume Save Search"
+msgstr "남은 이력서 저장 검색"
+
+msgid "You don't have any save serch remaining "
+msgstr "남아있는 저장 검색이 없습니다."
+
+msgid "Search name"
+msgstr "검색 이름"
+
+msgid "Job RSS"
+msgstr "채용 RSS"
+
+msgid "Job has been Shortlisted"
+msgstr "채용공고가 최종 후보에 올랐습니다."
+
+msgid "Birthday"
+msgstr "생일"
+
+msgid "Apply as facebook"
+msgstr "페이스북으로 신청"
+
+msgid "View facebook profile"
+msgstr "페이스북 프로필 보기"
+
+msgid "Show contact details"
+msgstr "연락처 세부정보 표시"
+
+msgid "Something wrong, contact to system administrator"
+msgstr "문제가 발생했습니다. 시스템 관리자에게 문의하세요."
+
+msgid "Profile link"
+msgstr "프로필 링크"
+
+msgid "School"
+msgstr "학교"
+
+msgid "Headline"
+msgstr "표제"
+
+msgid "Apply with linkedin"
+msgstr "링크드인으로 신청하세요"
+
+msgid "View linkedin profile"
+msgstr "링크드인 프로필 보기"
+
+msgid "Academic title"
+msgstr "학문적 인 명칭"
+
+msgid "Apply with xing"
+msgstr "싱으로 신청하세요"
+
+msgid "View xing profile"
+msgstr "싱 프로필 보기"
+
+msgid "Wants"
+msgstr "원하는"
+
+msgid "Haves"
+msgstr "있음"
+
+msgid "Interests"
+msgstr "이해"
+
+msgid "Organization"
+msgstr "조직"
+
+msgid "Time zone"
+msgstr "시간대"
+
+msgid "Employment status"
+msgstr "고용 상태"
+
+msgid "Degree"
+msgstr "도"
+
+msgid "Begin date"
+msgstr "시작일"
+
+msgid "End date"
+msgstr "종료일"
+
+msgid "Qualifications"
+msgstr "자격"
+
+msgid "Professional experience"
+msgstr "전문적 경험"
+
+msgid "Primary company"
+msgstr "원회사"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Still working"
+msgstr "아직 일 중"
+
+msgid "Discipline"
+msgstr "규율"
+
+msgid "Industry"
+msgstr "산업"
+
+msgid "Company size"
+msgstr "회사 규모"
+
+msgid "Career level"
+msgstr "경력 수준"
+
+msgid "Form of employment"
+msgstr "고용형태"
+
+msgid "Awards"
+msgstr "수상 내역"
+
+msgid "Date awarded"
+msgstr "수여 날짜"
+
+msgid "Private address"
+msgstr "개인 주소"
+
+msgid "Street"
+msgstr "거리"
+
+msgid "Zip code"
+msgstr "우편 번호"
+
+msgid "Province"
+msgstr "주"
+
+msgid "Fax"
+msgstr "팩스"
+
+msgid "Mobile phone"
+msgstr "휴대전화"
+
+msgid "Business address"
+msgstr "사업장 주소"
+
+msgid "Until now"
+msgstr "지금까지"
+
+msgid "Facebook user"
+msgstr "페이스 북 사용자"
+
+msgid "Linkedin user"
+msgstr "링크드인 사용자"
+
+msgid "Xing user"
+msgstr "싱 사용자"
+
+msgid "You are logged in as "
+msgstr "귀하는 다음 계정으로 로그인되어 있습니다:"
+
+msgid "Please select your role to continue"
+msgstr "계속하려면 역할을 선택하세요."
+
+msgid "You are logged out"
+msgstr "로그아웃되었습니다"
+
+msgid "Error applying on job"
+msgstr "직무에 지원하는 중에 오류가 발생했습니다."
+
+msgid "Facebook Comments"
+msgstr "페이스북 댓글"
+
+msgid "Share This Job"
+msgstr "이 직업을 공유하세요"
+
+msgid "Apply With Social"
+msgstr "소셜로 신청하세요"
+
+msgid "Login with social media"
+msgstr "소셜 미디어로 로그인"
+
+msgid "Tag Name"
+msgstr "태그 이름"
+
+msgid "Tag For"
+msgstr "태그 대상"
+
+msgid "tag name"
+msgstr "태그 이름"
+
+msgid "Job Tags"
+msgstr "직업 태그"
+
+msgid "Email has been send to friend[s]"
+msgstr "친구에게 이메일이 전송되었습니다."
+
+msgid "Incorrect Captcha"
+msgstr "잘못된 보안 문자"
+
+msgid "Click Here To View Job"
+msgstr "채용 공고를 보려면 여기를 클릭하세요"
+
+msgid "Your Name"
+msgstr "당신의 이름"
+
+msgid "Your Email"
+msgstr "귀하의 이메일"
+
+msgid "Friend Email"
+msgstr "친구 이메일"
+
+msgid "Send to friends"
+msgstr "친구에게 보내기"
+
+msgid "Job Id not provided "
+msgstr "작업 ID가 제공되지 않았습니다."
+
+msgid "Receiver email not provided"
+msgstr "수신자 이메일이 제공되지 않았습니다."
+
+msgid "Email sent successfully to friend[s]"
+msgstr "친구에게 이메일이 성공적으로 전송되었습니다."
+
+msgid "Start"
+msgstr "시작"
+
+msgid "End"
+msgstr "끝"
+
+msgid "Work Permit"
+msgstr "취업 허가"
+
+msgid "Required Travel"
+msgstr "필수 여행"
+
+msgid "Set Job Apply Redirect Link"
+msgstr "작업 적용 리디렉션 링크 설정"
+
+msgid "Job Apply Alert E-mail Setting"
+msgstr "입사 지원 알림 이메일 설정"
+
+msgid "Email me the daily count of new applicants"
+msgstr "일일 신규 지원자 수를 이메일로 받아보세요."
+
+msgid "These Filters Are Applied On Applied Resume"
+msgstr "이 필터는 적용된 이력서에 적용됩니다"
+
+msgid "WPJOBPORTAL Companies"
+msgstr "WPJOB포털 회사"
+
+msgid "Show Companies"
+msgstr "쇼 회사"
+
+msgid "Type of companies"
+msgstr "회사 유형"
+
+msgid "Gold companies"
+msgstr "금 회사"
+
+msgid "Hide all"
+msgstr "모두 숨기기"
+
+msgid "Show all"
+msgstr "모두 보이기"
+
+msgid "Show desktop and tablet"
+msgstr "데스크톱 및 태블릿 표시"
+
+msgid "Show desktop and mobile"
+msgstr "데스크톱 및 모바일 표시"
+
+msgid "Show tablet and mobile"
+msgstr "태블릿 및 모바일 표시"
+
+msgid "Show desktop"
+msgstr "데스크탑 표시"
+
+msgid "Show tablet"
+msgstr "태블릿 표시"
+
+msgid "Show mobile"
+msgstr "모바일 표시"
+
+msgid "Number of companies"
+msgstr "회사 수"
+
+msgid "Listing style"
+msgstr "목록 스타일"
+
+msgid "List style"
+msgstr "목록 스타일"
+
+msgid "Box style"
+msgstr "박스 스타일"
+
+msgid "Horizontal"
+msgstr "수평의"
+
+msgid "Vertical"
+msgstr "수직의"
+
+msgid "Field column"
+msgstr "필드 열"
+
+msgid "Module height"
+msgstr "모듈 높이"
+
+msgid "Company height"
+msgstr "회사 높이"
+
+msgid "Company logo width"
+msgstr "회사 로고 너비"
+
+msgid "Company logo height"
+msgstr "회사 로고 높이"
+
+msgid "Number of companies per row"
+msgstr "행당 회사 수"
+
+msgid "desktop"
+msgstr "데스크탑"
+
+msgid "tablet"
+msgstr "태블릿"
+
+msgid "Top margin"
+msgstr "위쪽 여백"
+
+msgid "Left margin"
+msgstr "왼쪽 여백"
+
+msgid "Title color"
+msgstr "제목 색상"
+
+msgid "Title border bottom"
+msgstr "제목 테두리 하단"
+
+msgid "Background color"
+msgstr "배경색"
+
+msgid "Border color"
+msgstr "테두리 색상"
+
+msgid "Data label color"
+msgstr "데이터 라벨 색상"
+
+msgid "Data value color"
+msgstr "데이터 값 색상"
+
+msgid "Jobs Widget"
+msgstr "채용정보 위젯"
+
+msgid "Show jobs"
+msgstr "채용공고 보기"
+
+msgid "Top jobs"
+msgstr "상위 직업"
+
+msgid "Gold jobs"
+msgstr "골드 직업"
+
+msgid "Number of jobs"
+msgstr "일자리 수"
+
+msgid "Job height"
+msgstr "직업 높이"
+
+msgid "Number of jobs per row"
+msgstr "행당 작업 수"
+
+msgid "Jobs By Categories Widget"
+msgstr "카테고리별 채용정보 위젯"
+
+msgid "Show jobs by categories form jobs database"
+msgstr "채용정보 데이터베이스를 통해 카테고리별 채용정보 표시"
+
+msgid "Show Maximum records"
+msgstr "최대 기록 표시"
+
+msgid "Show all categories"
+msgstr "모든 카테고리 표시"
+
+msgid "Show only record that have jobs"
+msgstr "직업이 있는 기록만 표시"
+
+msgid "Show jobs by Types form jobs database"
+msgstr "유형별 채용 정보 표시 채용 정보 데이터베이스"
+
+msgid "Show all types"
+msgstr "모든 유형 표시"
+
+msgid "Jobs By Location Widget"
+msgstr "위치 위젯별 채용 정보"
+
+msgid "Job By Location"
+msgstr "위치별 직업"
+
+msgid "Show jobs by"
+msgstr "채용 공고 표시 기준"
+
+msgid "Jobs by states"
+msgstr "주별 일자리"
+
+msgid "Jobs On Map Widget"
+msgstr "지도 위젯의 채용 정보"
+
+msgid "Show jobs by location on google map"
+msgstr "Google 지도에 위치별로 채용 정보 표시"
+
+msgid "Show no of jobs"
+msgstr "채용정보 표시"
+
+msgid "Zoom"
+msgstr "줌"
+
+msgid "Jobs stats"
+msgstr "채용 정보"
+
+msgid "Jobs stats from WP Job Portal database"
+msgstr "WP Job Portal 데이터베이스의 작업 통계"
+
+msgid "Resume Widget"
+msgstr "이력서 위젯"
+
+msgid "Show resumes"
+msgstr "이력서 표시"
+
+msgid "Type of resume"
+msgstr "이력서의 종류"
+
+msgid "Newest resume"
+msgstr "최신 이력서"
+
+msgid "Top resume"
+msgstr "최고의 이력서"
+
+msgid "Number of resumes"
+msgstr "이력서 수"
+
+msgid "Resume height"
+msgstr "이력서 높이"
+
+msgid "Resume logo width"
+msgstr "이력서 로고 너비"
+
+msgid "Resume logo height"
+msgstr "이력서 로고 높이"
+
+msgid "Number of resume per row"
+msgstr "행당 이력서 수"
+
+msgid "Search resume form wpjobportal database"
+msgstr "이력서 양식 검색 wpjobportal 데이터베이스"
+
+msgid "I am available"
+msgstr "나는 시간이 있다"
+
+msgid "Salary range"
+msgstr "급여 범위"
+
+msgid "colors"
+msgstr "그림 물감"
+
+msgid "Colors"
+msgstr "그림 물감"
+
+msgid "Help"
+msgstr "돕다"
+
+msgid "Feature Approve"
+msgstr "기능 승인"
+
+msgid "Feature Reject"
+msgstr "기능 거부"
+
+msgid "general setting"
+msgstr "일반 설정"
+
+msgid "Default Settings"
+msgstr "기본 설정"
+
+msgid "Auto Approve"
+msgstr "자동 승인"
+
+msgid "visitor setting"
+msgstr "방문자 설정"
+
+msgid "Visitor Settings"
+msgstr "방문자 설정"
+
+msgid "Captcha Settings"
+msgstr "보안 문자 설정"
+
+msgid "Employer Links"
+msgstr "고용주 링크"
+
+msgid "Jobseeker Links"
+msgstr "구직자 링크"
+
+msgid "package setting"
+msgstr "패키지 설정"
+
+msgid "Free Packages"
+msgstr "무료 패키지"
+
+msgid "Paid Submissions"
+msgstr "유료 제출"
+
+msgid "social apps"
+msgstr "소셜 앱"
+
+msgid " Social Apps"
+msgstr "소셜 앱"
+
+msgid "rss"
+msgstr "RSS"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Job Settings"
+msgstr "작업 설정"
+
+msgid "login/register"
+msgstr "로그인/등록"
+
+msgid " Login/Register"
+msgstr "로그인/등록"
+
+msgid "payment method"
+msgstr "결제수단"
+
+msgid "WP Job Portal Register Page"
+msgstr "WP 취업 포털 등록 페이지"
+
+msgid "WordPress Default Register Page"
+msgstr "WordPress 기본 등록 페이지"
+
+msgid "WP Job Portal Login Page"
+msgstr "WP 취업 포털 로그인 페이지"
+
+msgid "WordPress Default Login Page"
+msgstr "WordPress 기본 로그인 페이지"
+
+msgid "Offline Message"
+msgstr "오프라인 메시지"
+
+msgid "Captcha Setting"
+msgstr "보안 문자 설정"
+
+msgid "Default Captcha"
+msgstr "기본 보안 문자"
+
+msgid "Google reCaptcha"
+msgstr "구글 리캡차"
+
+msgid "Google reCaptcha Private Key"
+msgstr "Google reCaptcha 개인 키"
+
+msgid "Enter the Google reCaptcha private key from"
+msgstr "Google reCaptcha 개인 키를 입력하세요."
+
+msgid "Google reCaptcha Public Key"
+msgstr "Google reCaptcha 공개 키"
+
+msgid "Enter the Google reCaptcha public key from"
+msgstr "Google reCaptcha 공개 키를 입력하세요."
+
+msgid "Active Jobs Graph"
+msgstr "활성 작업 그래프"
+
+msgid "Client secret here"
+msgstr "여기에 클라이언트 비밀이 있습니다."
+
+msgid "Valid OAuth redirect URI for social login"
+msgstr "소셜 로그인을 위한 유효한 OAuth 리디렉션 URI"
+
+msgid "Valid OAuth redirect URI for social apply"
+msgstr "소셜 적용을 위한 유효한 OAuth 리디렉션 URI"
+
+msgid "App secret here"
+msgstr "여기에 앱 비밀이 있습니다"
+
+msgid "Set Login Link"
+msgstr "로그인 링크 설정"
+
+msgid "Set login redirect Link Default or Custom"
+msgstr "로그인 리디렉션 링크 기본값 또는 사용자 정의 설정"
+
+msgid "Show Log In/Out Button For Employer"
+msgstr "고용주에 대한 로그인/아웃 버튼 표시"
+
+msgid "Show Log In/Out Button For Jobseeker"
+msgstr "구직자에게 로그인/아웃 버튼 표시"
+
+msgid "Set register Link"
+msgstr "등록 링크 설정"
+
+msgid "Set register redirect Link Default or Custom"
+msgstr "등록 리디렉션 링크 기본값 또는 사용자 정의 설정"
+
+msgid "Set Employer After Register link"
+msgstr "등록 후 고용주 설정 링크"
+
+msgid "New Employer Set After Register link redirect page"
+msgstr "등록 후 새 고용주 설정 링크 리디렉션 페이지"
+
+msgid "Employer After Registration Redirect Page "
+msgstr "등록 후 고용주 리디렉션 페이지"
+
+msgid "Employer After Registration Redirect Link"
+msgstr "등록 후 고용주 리디렉션 링크"
+
+msgid "Custome Empolyer After Regitser Link"
+msgstr "등록 링크 후 맞춤 고용주"
+
+msgid "Set Job seeker After Register link"
+msgstr "등록 후 구직자 설정 링크"
+
+msgid "New Job seeker Set After Register link redirect page"
+msgstr "신규 구직자 등록 후 설정 링크 리디렉션 페이지"
+
+msgid "Job seeker After Registration redirect page "
+msgstr "구직자 등록 후 리디렉션 페이지"
+
+msgid "Job Seeker After Registration Redirect Link"
+msgstr "구직자 등록 후 리디렉션 링크"
+
+msgid "Custome Job seeker After Regitser Link"
+msgstr "맞춤형 구직자 등록 후 링크"
+
+msgid "mneu"
+msgstr "메뉴"
+
+msgid "Job Approve"
+msgstr "작업 승인"
+
+msgid "Job Reject"
+msgstr "채용 거부"
+
+msgid "Login to Apply On This Job"
+msgstr "이 직무에 지원하려면 로그인하세요."
+
+msgid "sender email is not of correct formate"
+msgstr "보낸 사람의 이메일 형식이 올바르지 않습니다."
+
+msgid "Select Jobseeker"
+msgstr "구직자를 선택하세요"
+
+msgid "refresh"
+msgstr "새로 고치다"
+
+msgid "Refresh"
+msgstr "새로 고치다"
+
+msgid "create user"
+msgstr "사용자 생성"
+
+msgid "Create user"
+msgstr "사용자 생성"
+
+msgid "Select Employer"
+msgstr "고용주 선택"
+
+msgid "Save big with an exclusive membership plan today!"
+msgstr "오늘 독점 멤버십 플랜으로 큰 비용을 절감하세요!"
+
+msgid "show bundle pack"
+msgstr "번들 팩 표시"
+
+msgid "Advance Custom Fields"
+msgstr "고급 사용자 정의 필드"
+
+msgid "Front-end Widget"
+msgstr "프런트엔드 위젯"
+
+msgid "Tell A Friend"
+msgstr "친구에게 말하세요"
+
+msgid "WP Job Portal Add-Ons Bundle Pack"
+msgstr "WP 취업 포털 애드온 번들 팩"
+
+msgid "Basic"
+msgstr "기초적인"
+
+msgid "year"
+msgstr "년도"
+
+msgid "Multi Departments"
+msgstr "다중 부서"
+
+msgid "Standard"
+msgstr "기준"
+
+msgid "Tell a Friend"
+msgstr "친구에게 말하세요"
+
+msgid "Professional"
+msgstr "전문적인"
+
+msgid "Visitor Can Apply Job"
+msgstr "방문자가 채용에 지원할 수 있습니다."
+
+msgid "Credits System"
+msgstr "학점 시스템"
+
+msgid "Save Colors"
+msgstr "색상 저장"
+
+msgid "preset"
+msgstr "사전 설정"
+
+msgid "Preset"
+msgstr "프리셋"
+
+msgid "Primary Color"
+msgstr "원색"
+
+msgid "Secondary Color"
+msgstr "보조 색상"
+
+msgid "Content Color"
+msgstr "콘텐츠 색상"
+
+msgid "Buruj Solution"
+msgstr "부루즈 솔루션"
+
+msgid "PHP Developer"
+msgstr "PHP 개발자"
+
+msgid "Computer/IT"
+msgstr "컴퓨터/IT"
+
+msgid "Karachi, Pakistan"
+msgstr "카라치, 파키스탄"
+
+msgid "Full-Time"
+msgstr "풀 타임"
+
+msgid "Per Month"
+msgstr "달마다"
+
+msgid "Per Year"
+msgstr "연간"
+
+msgid "Per Day"
+msgstr "하루당"
+
+msgid "Per Week"
+msgstr "한 주에"
+
+msgid "hours Ago"
+msgstr "몇 시간 전"
+
+msgid "Resume (1)"
+msgstr "이력서(1)"
+
+msgid "Android Developer"
+msgstr "안드로이드 개발자"
+
+msgid "Gujranwala, Pakistan"
+msgstr "구지란왈라, 파키스탄"
+
+msgid "Add Featured "
+msgstr "추천 추가"
+
+msgid "Resume (0)"
+msgstr "이력서 (0)"
+
+msgid "Accountant"
+msgstr "회계사"
+
+msgid "Lahore, Pakistan"
+msgstr "라호르, 파키스탄"
+
+msgid "Resume (10)"
+msgstr "이력서 (10)"
+
+msgid "Database Administrator"
+msgstr "데이터베이스 관리자"
+
+msgid "Islamabad, Pakistan"
+msgstr "이슬라마바드, 파키스탄"
+
+msgid "Preset Theme"
+msgstr "프리셋 테마"
+
+msgid "Mint"
+msgstr "민트"
+
+msgid "Red"
+msgstr "빨간색"
+
+msgid "Aqua"
+msgstr "아쿠아"
+
+msgid "Blue Jeans"
+msgstr "청바지"
+
+msgid "Grass"
+msgstr "잔디"
+
+msgid "Grape fruit"
+msgstr "그레이프 프루트"
+
+msgid "Lavender"
+msgstr "라벤더"
+
+msgid "Black"
+msgstr "검은색"
+
+msgid "Help icon"
+msgstr "도움말 아이콘"
+
+msgid "We Are Here to Help You"
+msgstr "우리는 당신을 돕기 위해 여기 있습니다"
+
+msgid "View all videos"
+msgstr "모든 동영상 보기"
+
+msgid "Video icon"
+msgstr "비디오 아이콘"
+
+msgid "View All Videos"
+msgstr "모든 동영상 보기"
+
+msgid "WP JOB PORTAL icon"
+msgstr "WP JOB 포털 아이콘"
+
+msgid "WP Job Portal Support"
+msgstr "WP 취업 포털 지원"
+
+msgid "Submit ticket"
+msgstr "티켓 제출"
+
+msgid "Submit Ticket"
+msgstr "티켓 제출"
+
+msgid "Job Portal"
+msgstr "취업 포털"
+
+msgid "Shortlist Jobs"
+msgstr "최종 후보 채용 정보"
+
+msgid "Visitor Create a Job"
+msgstr "방문자가 일자리를 창출합니다"
+
+msgid "Apply as a Visitor"
+msgstr "방문자로 신청"
+
+msgid "Advance Resume"
+msgstr "사전 이력서"
+
+msgid "Resume Actions"
+msgstr "작업 재개"
+
+msgid "Create Company"
+msgstr "회사 만들기"
+
+msgid "Misc"
+msgstr "기타"
+
+msgid "Widget Settings"
+msgstr "위젯 설정"
+
+msgid "Credit Pack"
+msgstr "크레딧 팩"
+
+msgid "Color Manager"
+msgstr "색상 관리자"
+
+msgid "State id greater and cities have no ids also state id and country id is your responsibility"
+msgstr "주 ID가 더 크고 도시에는 ID가 없습니다. 또한 주 ID와 국가 ID는 귀하의 책임입니다."
+
+msgid "Consider old countries and states were not edit otherwise problem may occur"
+msgstr "이전 국가와 주가 편집되지 않았음을 고려하세요. 그렇지 않으면 문제가 발생할 수 있습니다."
+
+msgid "Configure your credit system. How much credits required for action. if you don't enter any credit. it will be free"
+msgstr "신용 시스템을 구성하십시오. 작업에 필요한 크레딧 수입니다. 크레딧을 입력하지 않으면 그것은 무료일 것이다"
+
+msgid "By agreeing to recurring payment you will be charged with package price at the end of billing cycle and package will be renewed"
+msgstr "반복 결제에 동의하면 청구 주기가 끝날 때 패키지 가격이 청구되며 패키지는 갱신됩니다."
+
+msgid "Contact administrator to delete agreement from his paypal account. Your agreement id is"
+msgstr "페이팔 계정에서 계약을 삭제하려면 관리자에게 문의하세요. 귀하의 계약 ID는 다음과 같습니다."
+
+msgid "You must cancel agreement from your paypal account. Your agreement id is"
+msgstr "PayPal 계정에서 계약을 취소해야 합니다. 귀하의 계약 ID는 다음과 같습니다."
+
+msgid "If You Have A Very Big Site Which Takes More Than 5 Minutes To Back Itself Up"
+msgstr "자체 백업에 5분 이상 걸리는 매우 큰 사이트가 있는 경우"
+
+msgid "You Might Consider Using Akeeba Backup Professional And The Native Cli Cron Job Instead"
+msgstr "대신 Akeeba Backup Professional 및 기본 Cli Cron 작업 사용을 고려할 수 있습니다."
+
+msgid "We Recommend Choosing An Alert Method Here And Not Checking The only On Error So That You Always Get A Notification When The Backup Cron Job Runs"
+msgstr "백업 크론 작업이 실행될 때 항상 알림을 받을 수 있도록 여기에서 경고 방법을 선택하고 오류 시만 확인하지 않는 것이 좋습니다."
+
+msgid "Job applied notification will be emailed to you with resume of the applicant"
+msgstr "지원자의 이력서와 함께 채용공고가 이메일로 발송됩니다."
+
+msgid "Job applied notification will be emailed to you with resume and attachments of the applicant"
+msgstr "입사 지원 알림은 지원자의 이력서와 첨부 파일을 이메일로 보내드립니다."
+
+msgid "No notification will be emailed to you regarding job applications you can also check your workspace for new applicant"
+msgstr "입사 지원과 관련된 알림은 이메일로 전송되지 않습니다. 새 지원자의 작업 공간을 확인할 수도 있습니다."
+
+msgid "The Total number of applicants for each day will be e-mailed to you on a daily basis.you can also check your workspace for new applicant."
+msgstr "일자별 총 지원자 수는 매일 이메일로 안내해 드립니다. 또한 신규 지원자의 업무 공간도 확인하실 수 있습니다."
+
+msgid "Each applicants cv will be emailed directily to you as they apply.you can also check your workspace for new applicant"
+msgstr "각 지원자의 이력서는 지원 시 귀하에게 직접 이메일로 전송됩니다. 또한 새로운 지원자의 작업 공간을 확인할 수도 있습니다."
+
+msgid "Get trusted WordPress add on’s. Guaranteed to work fast, safe to use, beautifully coded, packed with features and easy to use."
+msgstr "신뢰할 수 있는 WordPress 추가 기능을 받으세요. 빠른 작업, 안전한 사용, 아름다운 코딩, 다양한 기능, 사용하기 쉬운 작업을 보장합니다."
+
+msgid "WP Job Portal offers a feature for users to see address data for states, cities or both. Admin will upload that file."
+msgstr "WP Job Portal은 사용자가 주, 도시 또는 두 가지 모두에 대한 주소 데이터를 볼 수 있는 기능을 제공합니다. 관리자가 해당 파일을 업로드합니다."
+
+msgid "WP Job Portal offers an outstanding feature for employers to featured their companies. Employers will be able to featured their desired companies."
+msgstr "WP Job Portal은 고용주가 회사를 추천할 수 있는 뛰어난 기능을 제공합니다. 고용주는 원하는 회사를 소개할 수 있습니다."
+
+msgid "WP Job Portal helps employers to make the resume as Featured Resume. Employers can featured their desired resume from the resume list."
+msgstr "WP Job Portal은 고용주가 이력서를 추천 이력서로 만들 수 있도록 도와줍니다. 고용주는 이력서 목록에서 원하는 이력서를 추천할 수 있습니다."
+
+msgid "WP Job Portal offers a feature for employers to perform some actions on resumes. Employes have some rights to reject or accept the jobseeker resume."
+msgstr "WP Job Portal은 고용주가 이력서에 대해 일부 작업을 수행할 수 있는 기능을 제공합니다. 직원은 구직자 이력서를 거부하거나 수락할 권리가 있습니다."
+
+msgid "WP Job Portal offers a  message feature for Employers and Job Seekers. All the Employers and Job Seekers can message each other."
+msgstr "WP Job Portal은 고용주와 구직자를 위한 메시지 기능을 제공합니다. 모든 고용주와 구직자는 서로 메시지를 보낼 수 있습니다."
+
+msgid "WP job Portal offers a feature for employers to add multi companies. Employers will add their desired multi-companies."
+msgstr "WP 취업 포털은 고용주가 여러 회사를 추가할 수 있는 기능을 제공합니다. 고용주는 원하는 다중 회사를 추가합니다."
+
+msgid "Widgets in WordPress allows you to add content and features in the widgetized areas of your theme which is mostly the sidebar."
+msgstr "WordPress의 위젯을 사용하면 주로 사이드바인 테마의 위젯화된 영역에 콘텐츠와 기능을 추가할 수 있습니다."
+
+msgid "WP Job Portal offers a feature for the jobseeker to add their multi-resume. Jobseeker will be able to create a multiple resume for applying any job."
+msgstr "WP Job Portal은 구직자가 다중 이력서를 추가할 수 있는 기능을 제공합니다. 구직자는 어떤 직업에든 지원하기 위해 여러 개의 이력서를 만들 수 있습니다."
+
+msgid "WP Job Portal offers a feature for Employes to add multi-departments related to jobs. Jobseeker can apply to jobs related to the desired department."
+msgstr "WP Job Portal은 직원이 직무와 관련된 여러 부서를 추가할 수 있는 기능을 제공합니다. 구직자는 희망하는 부서와 관련된 직무에 지원할 수 있습니다."
+
+msgid "WP Job Portal offers Real Simple Syndication (RSS) to set feeds for the jobs. Admin manipulates RSS settings. Employers and Job Seekers can see the Jobs RSS."
+msgstr "WP Job Portal은 RSS(Real Simple Syndication)를 제공하여 작업에 대한 피드를 설정합니다. 관리자가 RSS 설정을 조작합니다. 고용주와 구직자는 채용 RSS를 볼 수 있습니다."
+
+msgid "WP Job Portal will help employers and jobseekers to shortlist their desired jobs. They can see their shortlisted jobs on the list."
+msgstr "WP Job Portal은 고용주와 구직자가 원하는 직업을 최종 선정하는 데 도움이 됩니다. 목록에서 최종 후보 채용 공고를 볼 수 있습니다."
+
+msgid "WP Job Portal allows registration from social logins. Employer and Job Seekers can create a new account for login or they can use their social media Logins."
+msgstr "WP Job Portal은 소셜 로그인을 통한 등록을 허용합니다. 고용주와 구직자는 로그인을 위해 새 계정을 만들거나 소셜 미디어 로그인을 사용할 수 있습니다."
+
+msgid "Get multiple themes with beautiful color scheme to make your site more beautiful and eye-catchy by just one click."
+msgstr "단 한 번의 클릭으로 사이트를 더욱 아름답고 눈길을 끄는 아름다운 색상 구성표로 다양한 테마를 얻을 수 있습니다."
+
+msgid "WP Job Portal offers a feature for visitors. A visitor can apply to any company posted jobs. The visitor will apply for the jobs by their resume."
+msgstr "WP Job Portal은 방문자를 위한 기능을 제공합니다. 방문자는 채용 공고가 게시된 모든 회사에 지원할 수 있습니다. 방문자는 이력서를 통해 해당 일자리에 지원하게 됩니다."
+
+msgid "WP Job Portal is a simple yet powerful job board plugin with a step-by-step YouTube guide to ensure ease of use."
+msgstr "WP Job Portal은 사용 편의성을 보장하는 단계별 YouTube 가이드가 포함된 간단하면서도 강력한 채용 게시판 플러그인입니다."
+
+msgid "WP Job Portal offers timely customer support. If you have any queries, we're here to help you every step of the way."
+msgstr "WP Job Portal은 적시에 고객 지원을 제공합니다. 문의사항이 있으시면 모든 단계에서 도움을 드리겠습니다."
+
+msgid "Unable to open file!"
+msgstr "열 수없는 파일!"
+
+msgid "Effect On Credits System"
+msgstr "학점 시스템에 미치는 영향"
+
+msgid "Are You Sure You Want To Feature this Company?"
+msgstr "이 회사를 추천하고 싶으신가요?"
+
+msgid "Meta Keywords"
+msgstr "메타 키워드"
+
+msgid "Enter Data"
+msgstr "데이터 입력"
+
+msgid "Email Setting"
+msgstr "이메일 설정"
+
+msgid "Meta Description"
+msgstr "메타 설명"
+
+msgid "Are You Sure You Want To Feature this Job?"
+msgstr "이 직업을 추천하고 싶으신가요?"
+
+msgid "Are You Sure You Want To Feature this Resume?"
+msgstr "이 이력서를 소개하시겠습니까?"
+
+msgid "Record per page"
+msgstr "페이지당 기록"
+
+msgid "slug for new in wp job portal page"
+msgstr "wp 직업 포털 페이지의 새로운 슬러그"
+
+msgid "slug for jobseeker control panel"
+msgstr "구직자 제어판의 슬러그"
+
+msgid "slug for employer control panel"
+msgstr "고용주 제어판의 슬러그"
+
+msgid "slug for job seeker my stats page"
+msgstr "구직자 내 통계 페이지에 대한 슬러그"
+
+msgid "slug for employer my stats page"
+msgstr "고용주 내 통계 페이지에 대한 슬러그"
+
+msgid "slug for resume main listing page"
+msgstr "이력서 기본 목록 페이지에 대한 슬러그"
+
+msgid "slug for job main listing page"
+msgstr "작업 기본 목록 페이지의 슬러그"
+
+msgid "slug for my companies page"
+msgstr "내 회사 페이지의 슬러그"
+
+msgid "slug for add company page"
+msgstr "회사 추가 페이지의 슬러그"
+
+msgid "slug for my jobs page"
+msgstr "내 작업 페이지의 슬러그"
+
+msgid "slug for add job page"
+msgstr "작업 추가 페이지의 슬러그"
+
+msgid "slug for my departments page"
+msgstr "내 부서 페이지에 대한 슬러그"
+
+msgid "slug for add department page"
+msgstr "부서 추가 페이지의 슬러그"
+
+msgid "slug for view department page"
+msgstr "부서 페이지 보기용 슬러그"
+
+msgid "slug for view company page"
+msgstr "회사 페이지 보기용 슬러그"
+
+msgid "slug for view resume page"
+msgstr "이력서 페이지 보기용 슬러그"
+
+msgid "slug for view job page"
+msgstr "작업 페이지 보기용 슬러그"
+
+msgid "slug for my folders page"
+msgstr "내 폴더 페이지의 슬러그"
+
+msgid "slug for add folder page"
+msgstr "폴더 추가 페이지의 슬러그"
+
+msgid "slug for view folder page"
+msgstr "보기 폴더 페이지의 슬러그"
+
+msgid "slug for folder resume page"
+msgstr "폴더 이력서 페이지의 슬러그"
+
+msgid "slug for job seeker messages page"
+msgstr "구직자 메시지 페이지의 슬러그"
+
+msgid "slug for employer messages page"
+msgstr "고용주 메시지 페이지의 슬러그"
+
+msgid "slug for send message page"
+msgstr "메시지 보내기 페이지의 슬러그"
+
+msgid "slug for job messages page"
+msgstr "작업 메시지 페이지의 슬러그"
+
+msgid "slug for jobs by types page"
+msgstr "유형별 작업에 대한 슬러그 페이지"
+
+msgid "slug for messages page"
+msgstr "메시지 페이지의 슬러그"
+
+msgid "slug for resume search page"
+msgstr "이력서 검색 페이지의 슬러그"
+
+msgid "slug for resume save search page"
+msgstr "이력서 저장 검색 페이지에 대한 슬러그"
+
+msgid "slug for resume by category page"
+msgstr "카테고리 페이지별 이력서 슬러그"
+
+msgid "slug for resume rss page"
+msgstr "이력서 RSS 페이지에 대한 슬러그"
+
+msgid "slug for employer credits page"
+msgstr "고용주 크레딧 페이지의 슬러그"
+
+msgid "slug for job seeker credits page"
+msgstr "구직자 크레딧 페이지의 슬러그"
+
+msgid "slug for employer purchase history page"
+msgstr "고용주 구매 내역 페이지의 슬러그"
+
+msgid "employer my stats page"
+msgstr "고용주 내 통계 페이지"
+
+msgid "slug for job seeker stats page"
+msgstr "구직자 통계 페이지의 슬러그"
+
+msgid "slug for register as employer page"
+msgstr "고용주 페이지로 등록을 위한 슬러그"
+
+msgid "reg job seeker page"
+msgstr "구직자 등록 페이지"
+
+msgid "slug for user register page"
+msgstr "사용자 등록 페이지의 슬러그"
+
+msgid "slug for add resume page"
+msgstr "이력서 페이지 추가용 슬러그"
+
+msgid "slug for my resumes page"
+msgstr "내 이력서 페이지에 대한 슬러그"
+
+msgid "slug for companies page"
+msgstr "회사 페이지에 대한 슬러그"
+
+msgid "slug for my applied jobs page"
+msgstr "내 지원 작업 페이지에 대한 슬러그"
+
+msgid "slug for job applied resume page"
+msgstr "이력서 페이지에 적용된 작업에 대한 슬러그"
+
+msgid "slug for job search page"
+msgstr "구직 페이지의 슬러그"
+
+msgid "slug for job save search page"
+msgstr "작업 저장 검색 페이지의 슬러그"
+
+msgid "slug for job alert page"
+msgstr "작업 경고 페이지에 대한 슬러그"
+
+msgid "slug for job rss page"
+msgstr "작업 RSS 페이지에 대한 슬러그"
+
+msgid "slug for shortlisted jobs page"
+msgstr "최종 후보 작업 페이지에 대한 슬러그"
+
+msgid "slug for job seeker purchase history page"
+msgstr "구직자 구매 내역 페이지의 슬러그"
+
+msgid "slug for rate list job seeker page"
+msgstr "요율 목록 구직자 페이지에 대한 슬러그"
+
+msgid "slug for rate list employer page"
+msgstr "요율 목록 고용주 페이지의 슬러그"
+
+msgid "slug for job seeker credits log page"
+msgstr "구직자 크레딧 로그 페이지에 대한 슬러그"
+
+msgid "slug for employer credits log page"
+msgstr "고용주 크레딧 로그 페이지에 대한 슬러그"
+
+msgid "slug for jobs by categories page"
+msgstr "카테고리 페이지별 작업에 대한 슬러그"
+
+msgid "slug for newest jobs page"
+msgstr "최신 작업 페이지에 대한 슬러그"
+
+msgid "slug for jobs by cities page"
+msgstr "도시별 일자리 슬러그 페이지"
+
+msgid "slug for employer resume pdf"
+msgstr "고용주 이력서 PDF에 대한 슬러그"
+
+msgid "Slug for edit Profile"
+msgstr "프로필 편집용 슬러그"
+
+msgid "Accounting/Finance"
+msgstr "회계 및 재무"
+
+msgid "Administrative"
+msgstr "행정"
+
+msgid "Advertising"
+msgstr "광고하는"
+
+msgid "Airlines/Avionics/Aerospace"
+msgstr "항공/항공전자공학/항공우주"
+
+msgid "Architectural"
+msgstr "건축"
+
+msgid "Automotive"
+msgstr "자동차"
+
+msgid "Banking/Finance"
+msgstr "은행/금융"
+
+msgid "Biotechnology"
+msgstr "생명공학"
+
+msgid "Civil/Construction"
+msgstr "토목/건축"
+
+msgid "Engineering"
+msgstr "공학"
+
+msgid "Cleared Jobs"
+msgstr "삭제된 작업"
+
+msgid "Communications"
+msgstr "연락"
+
+msgid "Construction"
+msgstr "건설"
+
+msgid "Consultant/Contractual"
+msgstr "컨설턴트/계약자"
+
+msgid "Customer Service"
+msgstr "고객 서비스"
+
+msgid "Defense"
+msgstr "방어"
+
+msgid "Design"
+msgstr "설계"
+
+msgid "Electrical Engineering"
+msgstr "전기 공학"
+
+msgid "Electronics Engineering"
+msgstr "전자공학"
+
+msgid "Energy"
+msgstr "에너지"
+
+msgid "Environmental/Safety"
+msgstr "환경/안전"
+
+msgid "Fundraising"
+msgstr "모금 활동"
+
+msgid "Health/Medicine"
+msgstr "건강/의학"
+
+msgid "Homeland Security"
+msgstr "국토안보부"
+
+msgid "Human Resources"
+msgstr "인적 자원"
+
+msgid "Insurance"
+msgstr "보험"
+
+msgid "Intelligence Jobs"
+msgstr "지능직"
+
+msgid "Internships/Trainees"
+msgstr "인턴십/연수생"
+
+msgid "Legal"
+msgstr "합법적인"
+
+msgid "Logistics/Transportation"
+msgstr "물류/운송"
+
+msgid "Maintenance"
+msgstr "유지"
+
+msgid "Management"
+msgstr "관리"
+
+msgid "Manufacturing/Warehouse"
+msgstr "제조/창고"
+
+msgid "Marketing"
+msgstr "마케팅"
+
+msgid "Materials Management"
+msgstr "자재 관리"
+
+msgid "Mechanical Engineering"
+msgstr "기계공학"
+
+msgid "Mortgage/Real Estate"
+msgstr "모기지/부동산"
+
+msgid "National Security"
+msgstr "국가 안보"
+
+msgid "Part-time/Freelance"
+msgstr "파트타임/프리랜서"
+
+msgid "Printing"
+msgstr "인쇄"
+
+msgid "Product Design"
+msgstr "제품 디자인"
+
+msgid "Public Relations"
+msgstr "섭외"
+
+msgid "Public Safety"
+msgstr "공공 안전"
+
+msgid "Research"
+msgstr "연구"
+
+msgid "Retail"
+msgstr "소매"
+
+msgid "Sales"
+msgstr "매상"
+
+msgid "Scientific"
+msgstr "과학적"
+
+msgid "Shipping/Distribution"
+msgstr "배송/유통"
+
+msgid "Technicians"
+msgstr "기술자"
+
+msgid "Trades"
+msgstr "거래"
+
+msgid "Transportation"
+msgstr "운송"
+
+msgid "Transportation Engineering"
+msgstr "교통공학"
+
+msgid "Web Site Development"
+msgstr "웹사이트 개발"
+
+msgid "Cast Accounting"
+msgstr "캐스트 회계"
+
+msgid "Controllership & Accounting Managment"
+msgstr "통제 및 회계 관리"
+
+msgid "Payroll"
+msgstr "급여"
+
+msgid "Corporate Finance"
+msgstr "기업 금융"
+
+msgid "Administrative Division"
+msgstr "행정과"
+
+msgid "Autonomous Territories"
+msgstr "자치 지역"
+
+msgid "Administrative County"
+msgstr "행정구역"
+
+msgid "Administrative Communes"
+msgstr "행정 공동체"
+
+msgid "Finance Advertising"
+msgstr "금융광고"
+
+msgid "Advertising-Tourism"
+msgstr "광고-관광"
+
+msgid "Advertising Social Net"
+msgstr "광고 소셜 네트워크"
+
+msgid "Distributor Marketing"
+msgstr "대리점 마케팅"
+
+msgid "Facebook Advertising"
+msgstr "페이스북 광고"
+
+msgid "Quality Engineer"
+msgstr "품질 엔지니어"
+
+msgid "Office Assistant"
+msgstr "사무 보조원"
+
+msgid "Air Host/hostess"
+msgstr "에어호스트/안주인"
+
+msgid "Ticketing/reservation"
+msgstr "발권/예약"
+
+msgid "Architectural Drafting"
+msgstr "건축 제도"
+
+msgid "Enterprize Architecture"
+msgstr "엔터프라이즈 아키텍처"
+
+msgid "Architecture Frameworks"
+msgstr "아키텍처 프레임워크"
+
+msgid "Automotive Design"
+msgstr "자동차 디자인"
+
+msgid "Autmotive Paints"
+msgstr "자동차용 도료"
+
+msgid "Automotive Equipment/Parts"
+msgstr "자동차 장비/부품"
+
+msgid "Automotive Search Engine"
+msgstr "자동차 검색 엔진"
+
+msgid "Private Banking"
+msgstr "프라이빗 뱅킹"
+
+msgid "Stock Brocker"
+msgstr "주식 중개인"
+
+msgid "Fractional-reserve Banking"
+msgstr "부분 지급준비금 은행"
+
+msgid "Mobile Banking"
+msgstr "모바일 뱅킹"
+
+msgid "Plant Biotechnology"
+msgstr "식물 생명공학"
+
+msgid "Animal Biotechnology"
+msgstr "동물생명공학"
+
+msgid "Biotechnology & Medicine"
+msgstr "생명공학 및 의학"
+
+msgid "Biotechnology & Society"
+msgstr "생명공학과 사회"
+
+msgid "Industrail & Microbial Biotechnonogy"
+msgstr "산업 및 미생물 생명공학"
+
+msgid "Construction (Design & Managment)"
+msgstr "건설(설계 및 관리)"
+
+msgid "Construction Engineering"
+msgstr "건설공학"
+
+msgid "Composite Construction"
+msgstr "복합 건축"
+
+msgid "Civil Engineering"
+msgstr "토목공학"
+
+msgid "Software Engineering"
+msgstr "소프트웨어 공학"
+
+msgid "Nuclear Engineering"
+msgstr "원자력공학"
+
+msgid "Ocean Engingeering"
+msgstr "해양공학"
+
+msgid "Transpotation Engineering"
+msgstr "교통공학"
+
+msgid "Security Cleared Jobs"
+msgstr "보안이 해제된 채용 정보"
+
+msgid "Security Cleared IT Jobs"
+msgstr "보안이 해제된 IT 채용"
+
+msgid "Confidential & Secret Security Clearance Job"
+msgstr "기밀 및 비밀 보안 정리 작업"
+
+msgid "Verbal"
+msgstr "언어 적"
+
+msgid "E-mail"
+msgstr "이메일"
+
+msgid "Non-verbal"
+msgstr "비언어적"
+
+msgid "Computer Consulting Services"
+msgstr "컴퓨터 컨설팅 서비스"
+
+msgid "Computer Installations Services"
+msgstr "컴퓨터 설치 서비스"
+
+msgid "Software Vendors"
+msgstr "소프트웨어 공급업체"
+
+msgid "Renovaiton"
+msgstr "혁신"
+
+msgid "New Construction"
+msgstr "신조"
+
+msgid "Organization Development"
+msgstr "조직개발"
+
+msgid "Construction Management"
+msgstr "건설관리"
+
+msgid "Managment Consulting"
+msgstr "경영컨설팅"
+
+msgid "High Touch Customer Service"
+msgstr "하이터치 고객 서비스"
+
+msgid "Low Touch Customer Service"
+msgstr "로우 터치 고객 서비스"
+
+msgid "Bad Touch Customer Service"
+msgstr "불량 터치 고객 서비스"
+
+msgid "By Using legal services for the poor"
+msgstr "가난한 사람들을 위한 법률 서비스를 이용함으로써"
+
+msgid "By Using Retained Counsel"
+msgstr "유보된 변호인을 활용함으로써"
+
+msgid "By Self-representation"
+msgstr "자기 표현으로"
+
+msgid "Project Subtype Design"
+msgstr "프로젝트 하위 유형 디자인"
+
+msgid "Graphic Design"
+msgstr "그래픽 디자인"
+
+msgid "Interior Desing"
+msgstr "인테리어 디자인"
+
+msgid "IT or Engineering Education"
+msgstr "IT 또는 엔지니어링 교육"
+
+msgid "Commerce & Managment"
+msgstr "상업 및 경영"
+
+msgid "Medical Education"
+msgstr "의학 교육"
+
+msgid "Power Engineering"
+msgstr "전력공학"
+
+msgid "Instrumentation"
+msgstr "수단"
+
+msgid "Telecommunication"
+msgstr "통신"
+
+msgid "Signal Processing"
+msgstr "신호 처리"
+
+msgid "Electromagnetics"
+msgstr "전자기학"
+
+msgid "Network Analysis"
+msgstr "네트워크 분석"
+
+msgid "Control Systems"
+msgstr "제어 시스템"
+
+msgid "Thermal Energy"
+msgstr "열에너지"
+
+msgid "Chemical Energy"
+msgstr "화학 에너지"
+
+msgid "Electrical Energy"
+msgstr "전기 에너지"
+
+msgid "Nuclear Energy"
+msgstr "원자력 에너지"
+
+msgid "Nuclear Safety"
+msgstr "원자력 안전"
+
+msgid "Agriculture Safety"
+msgstr "농업 안전"
+
+msgid "Occupational Health Safety"
+msgstr "산업 보건 안전"
+
+msgid "Unique Fundraisers"
+msgstr "독특한 모금 행사"
+
+msgid "Sports Fundraiserse"
+msgstr "스포츠 기금 모금 활동"
+
+msgid "Fundraisers"
+msgstr "모금행사"
+
+msgid "Staying Informed"
+msgstr "최신 정보 유지"
+
+msgid "Medical Edcuation"
+msgstr "의학 교육"
+
+msgid "Managing a partucular disease"
+msgstr "특정 질병 관리"
+
+msgid "Customs & Border Protection"
+msgstr "관세 및 국경 보호"
+
+msgid "Federal Law & Enforcement"
+msgstr "연방법 및 집행"
+
+msgid "Nation Protection"
+msgstr "국가 보호"
+
+msgid "Benefits Administrators"
+msgstr "혜택 관리자"
+
+msgid "Executive Compensation Analysts"
+msgstr "임원 보상 분석가"
+
+msgid "Managment Analysts"
+msgstr "경영 분석가"
+
+msgid "Health Insurance"
+msgstr "건강 보험"
+
+msgid "Life Insurance"
+msgstr "생명 보험"
+
+msgid "Vehicle Insurance"
+msgstr "차량 보험"
+
+msgid "Artificial Intelligence"
+msgstr "인공지능"
+
+msgid "Predictive Analytics"
+msgstr "예측 분석"
+
+msgid "Science & Technology"
+msgstr "과학 기술"
+
+msgid "Work Experience internship"
+msgstr "업무 경험 인턴십"
+
+msgid "Research internship"
+msgstr "연구 인턴십"
+
+msgid "Sales & Marketing Intern"
+msgstr "영업 및 마케팅 인턴"
+
+msgid "According To Law"
+msgstr "법에 따르면"
+
+msgid "Defined Rule"
+msgstr "정의된 규칙"
+
+msgid "Shipping"
+msgstr "배송"
+
+msgid "Transpotation Managment"
+msgstr "운송관리"
+
+msgid "Third-party Logistics Provider"
+msgstr "제3자 물류 제공업체"
+
+msgid "General Maintenance"
+msgstr "일반 유지보수"
+
+msgid "Automobile Maintenance"
+msgstr "자동차 정비"
+
+msgid "Equipment Manitenance"
+msgstr "장비 보수"
+
+msgid "Project Managment"
+msgstr "프로젝트 관리"
+
+msgid "Planning"
+msgstr "계획"
+
+msgid "Risk Managment"
+msgstr "위기 관리"
+
+msgid "Quality Assurance"
+msgstr "품질 보증"
+
+msgid "Product Manager"
+msgstr "제품 관리자"
+
+msgid "Planning Supervisor"
+msgstr "기획책임자"
+
+msgid "Networking"
+msgstr "네트워킹"
+
+msgid "Direct Mail Marketing"
+msgstr "다이렉트 메일 마케팅"
+
+msgid "Media Advertising"
+msgstr "미디어 광고"
+
+msgid "Supply Chain"
+msgstr "공급망"
+
+msgid "Hazardous Materials Management"
+msgstr "위험물질 관리"
+
+msgid "Materials Inventory Managment"
+msgstr "자재재고관리"
+
+msgid "Aerospace"
+msgstr "항공우주"
+
+msgid "Biomedical"
+msgstr "생의학"
+
+msgid "Mechanical"
+msgstr "기계"
+
+msgid "Naval"
+msgstr "해군"
+
+msgid "Conventional Mortgage"
+msgstr "기존 모기지"
+
+msgid "Adjustable Rate Mortgage"
+msgstr "조정 금리 모기지"
+
+msgid "Commercial Mortgages"
+msgstr "상업 모기지"
+
+msgid "Economic Security"
+msgstr "경제적 안보"
+
+msgid "Environmental Security"
+msgstr "환경 보안"
+
+msgid "Military Security"
+msgstr "군사 보안"
+
+msgid "Freelance Portfolios"
+msgstr "프리랜서 포트폴리오"
+
+msgid "Freelance Freedom"
+msgstr "프리랜서의 자유"
+
+msgid "Freelance Jobs"
+msgstr "프리랜서 채용"
+
+msgid "Offset Lithographp"
+msgstr "오프셋 석판화p"
+
+msgid "Themography Raised Printing"
+msgstr "열화상 인쇄 인쇄"
+
+msgid "Digital Printing"
+msgstr "디지털 인쇄"
+
+msgid "idea Generation"
+msgstr "아이디어 생성"
+
+msgid "Need Based Generation"
+msgstr "필요 기반 생성"
+
+msgid "Design Solution"
+msgstr "디자인 솔루션"
+
+msgid "Media Relations"
+msgstr "미디어 관계"
+
+msgid "Media Tours"
+msgstr "미디어 투어"
+
+msgid "Newsletters"
+msgstr "뉴스레터"
+
+msgid "Automised Security"
+msgstr "자동화된 보안"
+
+msgid "Environmental & Social Safety"
+msgstr "환경 및 사회 안전"
+
+msgid "Basic Research"
+msgstr "기본 연구"
+
+msgid "Applied Research"
+msgstr "응용연구"
+
+msgid "Methods & Appraches"
+msgstr "방법 및 접근 방식"
+
+msgid "Department Stores"
+msgstr "백화점"
+
+msgid "Discount Stores"
+msgstr "할인점"
+
+msgid "Supermarkets"
+msgstr "슈퍼마켓"
+
+msgid "Sales Contracts"
+msgstr "판매 계약"
+
+msgid "Sales Forecasts"
+msgstr "판매 예측"
+
+msgid "Sales Managment"
+msgstr "영업관리"
+
+msgid "Scientific Managment"
+msgstr "과학적 관리"
+
+msgid "Scientific Research"
+msgstr "과학적 연구"
+
+msgid "Scientific invenctions"
+msgstr "과학적인 발명품"
+
+msgid "Shppping/Distrubution Companies"
+msgstr "쇼핑/유통회사"
+
+msgid "Services"
+msgstr "서비스"
+
+msgid "Channels & Softwares"
+msgstr "채널 및 소프트웨어"
+
+msgid "Medical Technicians"
+msgstr "의료 기술자"
+
+msgid "Electrical Technicians"
+msgstr "전기 기술자"
+
+msgid "Accounting Technicians"
+msgstr "회계 기술자"
+
+msgid "Construction Trade"
+msgstr "건설무역"
+
+msgid "Stock Trade"
+msgstr "주식거래"
+
+msgid "skilled Trade"
+msgstr "숙련된 무역"
+
+msgid "Option Trade"
+msgstr "옵션 거래"
+
+msgid "Transpotation System"
+msgstr "교통 시스템"
+
+msgid "Human-Powered"
+msgstr "인간의 힘으로 움직이는"
+
+msgid "Airline,Train,bus,car"
+msgstr "항공, 기차, 버스, 자동차"
+
+msgid "Subway & Civil"
+msgstr "지하철 및 토목"
+
+msgid "Traffic Highway Transpotation"
+msgstr "교통 고속도로 교통"
+
+msgid "Small Business"
+msgstr "중소기업"
+
+msgid "E-Commerce Sites"
+msgstr "전자상거래 사이트"
+
+msgid "Portals"
+msgstr "포털"
+
+msgid "Search Engines"
+msgstr "검색 엔진"
+
+msgid "Personal,Commercial,Govt"
+msgstr "개인,상업,정부"
+
+msgid "Student (Undergraduate)"
+msgstr "학생(학부)"
+
+msgid "Student (Graduate)"
+msgstr "학생(대학원)"
+
+msgid "Entry Level"
+msgstr "입문 단계"
+
+msgid "Experienced (Non-Manager)"
+msgstr "경력자(비관리자)"
+
+msgid "Manager"
+msgstr "관리자"
+
+msgid "Executive (Department Head, SVP, VP etc)"
+msgstr "임원(부서장, SVP, VP 등)"
+
+msgid "Senior Executive (President, CEO, etc)"
+msgstr "고위 임원(회장, CEO 등)"
+
+msgid "uid"
+msgstr "UID"
+
+msgid "Logo"
+msgstr "심벌 마크"
+
+msgid "Address1"
+msgstr "주소 1"
+
+msgid "Address2"
+msgstr "주소 2"
+
+msgid "Terms And Conditions"
+msgstr "이용 약관"
+
+msgid "Send Email"
+msgstr "이메일을 보내"
+
+msgid "Send me Resume"
+msgstr "이력서를 보내주세요"
+
+msgid "Prefered Skills"
+msgstr "선호하는 기술"
+
+msgid "Agreement"
+msgstr "합의"
+
+msgid "Filter"
+msgstr "필터"
+
+msgid "Redirect on apply"
+msgstr "적용 시 리디렉션"
+
+msgid "First Name"
+msgstr "이름"
+
+msgid "Last Name"
+msgstr "성"
+
+msgid "Files"
+msgstr "파일"
+
+msgid "Add Address"
+msgstr "주소 추가"
+
+msgid "Certificate Name"
+msgstr "인증서 이름"
+
+msgid "Study Area"
+msgstr "학습 영역"
+
+msgid "Supervisor"
+msgstr "감독자"
+
+msgid "Resume Editor"
+msgstr "이력서 편집자"
+
+msgid "Add Language"
+msgstr "언어 추가"
+
+msgid "Date From"
+msgstr "에서 날짜"
+
+msgid "Date to"
+msgstr "종료 날짜"
+
+msgid "Tag Line"
+msgstr "태그라인"
+
+msgid "Desired  Salary"
+msgstr "원하는 급여"
+
+msgid "I currently work there"
+msgstr "나는 현재 그곳에서 일하고 있습니다"
+
+msgid "University"
+msgstr "대학교"
+
+msgid "College"
+msgstr "대학"
+
+msgid "High School"
+msgstr "고등학교"
+
+msgid "No School"
+msgstr "학교 없음"
+
+msgid "Sourcing"
+msgstr "소싱"
+
+msgid "Interviewing"
+msgstr "인터뷰"
+
+msgid "Closed to New Applicants"
+msgstr "신규 지원자 마감"
+
+msgid "Finalists Identified"
+msgstr "최종 후보 확인"
+
+msgid "Pending Approval"
+msgstr "승인 대기 중"
+
+msgid "Hold"
+msgstr "잡고 있다"
+
+msgid "Part-Time"
+msgstr "파트타임"
+
+msgid "Internship"
+msgstr "인턴십"
+
+msgid "United States"
+msgstr "미국"
+
+msgid "Canada"
+msgstr "캐나다"
+
+msgid "Bahamas"
+msgstr "바하마"
+
+msgid "Barbados"
+msgstr "바베이도스"
+
+msgid "Belize"
+msgstr "벨리즈"
+
+msgid "Bermuda"
+msgstr "버뮤다"
+
+msgid "British Virgin Islands"
+msgstr "영국령 버진아일랜드"
+
+msgid "Cayman Islands"
+msgstr "케이맨 제도"
+
+msgid "Costa Rica"
+msgstr "코스타리카"
+
+msgid "Cuba"
+msgstr "쿠바"
+
+msgid "Dominica"
+msgstr "도미니카"
+
+msgid "Dominican Republic"
+msgstr "도미니카 공화국"
+
+msgid "El Salvador"
+msgstr "엘살바도르"
+
+msgid "Greenland"
+msgstr "그린란드"
+
+msgid "Grenada"
+msgstr "그레나다"
+
+msgid "Guadeloupe"
+msgstr "과들루프"
+
+msgid "Guatemala"
+msgstr "과테말라"
+
+msgid "Haiti"
+msgstr "아이티"
+
+msgid "Honduras"
+msgstr "온두라스"
+
+msgid "Jamaica"
+msgstr "자메이카"
+
+msgid "Martinique"
+msgstr "마르티니크"
+
+msgid "Mexico"
+msgstr "멕시코"
+
+msgid "Montserrat"
+msgstr "몬세라트"
+
+msgid "Nicaragua"
+msgstr "니카라과"
+
+msgid "Panama"
+msgstr "파나마"
+
+msgid "Puerto Rico"
+msgstr "푸에르토 리코"
+
+msgid "Trinidad and Tobago"
+msgstr "트리니다드 토바고"
+
+msgid "United States Virgin Islands"
+msgstr "미국령 버진아일랜드"
+
+msgid "Argentina"
+msgstr "아르헨티나"
+
+msgid "Bolivia"
+msgstr "볼리비아"
+
+msgid "Brazil"
+msgstr "브라질"
+
+msgid "Chile"
+msgstr "칠레"
+
+msgid "Colombia"
+msgstr "콜롬비아"
+
+msgid "Ecuador"
+msgstr "에콰도르"
+
+msgid "Falkland Islands"
+msgstr "포클랜드 제도"
+
+msgid "French Guiana"
+msgstr "프랑스령 기아나"
+
+msgid "Guyana"
+msgstr "가이아나"
+
+msgid "Paraguay"
+msgstr "파라과이"
+
+msgid "Peru"
+msgstr "페루"
+
+msgid "Suriname"
+msgstr "수리남"
+
+msgid "Uruguay"
+msgstr "우루과이"
+
+msgid "Venezuela"
+msgstr "베네수엘라"
+
+msgid "Albania"
+msgstr "알바니아"
+
+msgid "Andorra"
+msgstr "안도라"
+
+msgid "Armenia"
+msgstr "아르메니아"
+
+msgid "Austria"
+msgstr "오스트리아"
+
+msgid "Azerbaijan"
+msgstr "아제르바이잔"
+
+msgid "Belarus"
+msgstr "벨라루스"
+
+msgid "Belgium"
+msgstr "벨기에"
+
+msgid "Bosnia and Herzegovina"
+msgstr "보스니아 헤르체고비나"
+
+msgid "Bulgaria"
+msgstr "불가리아"
+
+msgid "Croatia"
+msgstr "크로아티아"
+
+msgid "Cyprus"
+msgstr "키프로스"
+
+msgid "Czech Republic"
+msgstr "체코 공화국"
+
+msgid "Denmark"
+msgstr "덴마크"
+
+msgid "Estonia"
+msgstr "에스토니아"
+
+msgid "Finland"
+msgstr "핀란드"
+
+msgid "France"
+msgstr "프랑스"
+
+msgid "Georgia"
+msgstr "그루지야"
+
+msgid "Germany"
+msgstr "독일"
+
+msgid "Gibraltar"
+msgstr "지브롤터"
+
+msgid "Greece"
+msgstr "그리스"
+
+msgid "Guernsey"
+msgstr "건지"
+
+msgid "Hungary"
+msgstr "헝가리"
+
+msgid "Iceland"
+msgstr "아이슬란드"
+
+msgid "Ireland"
+msgstr "아일랜드"
+
+msgid "Isle of Man"
+msgstr "맨 섬"
+
+msgid "Italy"
+msgstr "이탈리아"
+
+msgid "Jersey"
+msgstr "저지"
+
+msgid "Kosovo"
+msgstr "코소보"
+
+msgid "Latvia"
+msgstr "라트비아"
+
+msgid "Liechtenstein"
+msgstr "리히텐슈타인"
+
+msgid "Lithuania"
+msgstr "리투아니아"
+
+msgid "Luxembourg"
+msgstr "룩셈부르크"
+
+msgid "Macedonia"
+msgstr "마케도니아"
+
+msgid "Malta"
+msgstr "몰타"
+
+msgid "Moldova"
+msgstr "몰도바"
+
+msgid "Monaco"
+msgstr "모나코"
+
+msgid "Montenegro"
+msgstr "몬테네그로"
+
+msgid "Netherlands"
+msgstr "네덜란드"
+
+msgid "Norway"
+msgstr "노르웨이"
+
+msgid "Poland"
+msgstr "폴란드"
+
+msgid "Portugal"
+msgstr "포르투갈"
+
+msgid "Romania"
+msgstr "루마니아"
+
+msgid "Russia"
+msgstr "러시아"
+
+msgid "San Marino"
+msgstr "산 마리노"
+
+msgid "Serbia"
+msgstr "세르비아"
+
+msgid "Slovakia"
+msgstr "슬로바키아"
+
+msgid "Slovenia"
+msgstr "슬로베니아"
+
+msgid "Spain"
+msgstr "스페인"
+
+msgid "Sweden"
+msgstr "스웨덴"
+
+msgid "Switzerland"
+msgstr "스위스"
+
+msgid "Turkey"
+msgstr "칠면조"
+
+msgid "Ukraine"
+msgstr "우크라이나"
+
+msgid "United Kingdom"
+msgstr "영국"
+
+msgid "Vatican City"
+msgstr "바티칸 시국"
+
+msgid "Afghanistan"
+msgstr "아프가니스탄"
+
+msgid "Bahrain"
+msgstr "바레인"
+
+msgid "Bangladesh"
+msgstr "방글라데시"
+
+msgid "Bhutan"
+msgstr "부탄"
+
+msgid "Brunei"
+msgstr "브루나이"
+
+msgid "Cambodia"
+msgstr "캄보디아"
+
+msgid "China"
+msgstr "중국"
+
+msgid "East Timor"
+msgstr "동 티모르"
+
+msgid "Hong Kong"
+msgstr "홍콩"
+
+msgid "India"
+msgstr "인도"
+
+msgid "Indonesia"
+msgstr "인도네시아"
+
+msgid "Iran"
+msgstr "이란"
+
+msgid "Iraq"
+msgstr "이라크"
+
+msgid "Israel"
+msgstr "이스라엘"
+
+msgid "Japan"
+msgstr "일본"
+
+msgid "Jordan"
+msgstr "요르단"
+
+msgid "Kazakhstan"
+msgstr "카자흐스탄"
+
+msgid "Kuwait"
+msgstr "쿠웨이트"
+
+msgid "Kyrgyzstan"
+msgstr "키르기스스탄"
+
+msgid "Laos"
+msgstr "라오스"
+
+msgid "Lebanon"
+msgstr "레바논"
+
+msgid "Macau"
+msgstr "마카오"
+
+msgid "Malaysia"
+msgstr "말레이시아"
+
+msgid "Maldives"
+msgstr "몰디브"
+
+msgid "Mongolia"
+msgstr "몽골리아"
+
+msgid "Myanmar (Burma)"
+msgstr "미얀마(버마)"
+
+msgid "Nepal"
+msgstr "네팔"
+
+msgid "North Korea"
+msgstr "북한"
+
+msgid "Oman"
+msgstr "오만"
+
+msgid "Pakistan"
+msgstr "파키스탄"
+
+msgid "Philippines"
+msgstr "필리핀 제도"
+
+msgid "Qatar"
+msgstr "카타르"
+
+msgid "Saudi Arabia"
+msgstr "사우디 아라비아"
+
+msgid "Singapore"
+msgstr "싱가포르"
+
+msgid "South Korea"
+msgstr "대한민국"
+
+msgid "Sri Lanka"
+msgstr "스리랑카"
+
+msgid "Syria"
+msgstr "시리아"
+
+msgid "Taiwan"
+msgstr "대만"
+
+msgid "Tajikistan"
+msgstr "타지키스탄"
+
+msgid "Thailand"
+msgstr "태국"
+
+msgid "Turkmenistan"
+msgstr "투르크메니스탄"
+
+msgid "United Arab Emirates"
+msgstr "아랍 에미리트"
+
+msgid "Uzbekistan"
+msgstr "우즈베키스탄"
+
+msgid "Vietnam"
+msgstr "베트남"
+
+msgid "Yemen"
+msgstr "예멘"
+
+msgid "Algeria"
+msgstr "알제리"
+
+msgid "Angola"
+msgstr "앙골라"
+
+msgid "Benin"
+msgstr "베냉"
+
+msgid "Botswana"
+msgstr "보츠와나"
+
+msgid "Burkina Faso"
+msgstr "부키 나 파소"
+
+msgid "Burundi"
+msgstr "부룬디"
+
+msgid "Cameroon"
+msgstr "카메룬"
+
+msgid "Cape Verde"
+msgstr "카보베르데"
+
+msgid "Central African Republic"
+msgstr "중앙 아프리카 공화국"
+
+msgid "Chad"
+msgstr "차드"
+
+msgid "Congo"
+msgstr "콩고"
+
+msgid "Democoratic Republic of Congo"
+msgstr "콩고 민주 공화국"
+
+msgid "Djibouti"
+msgstr "지부티"
+
+msgid "Egypt"
+msgstr "이집트"
+
+msgid "Equatorial Guinea"
+msgstr "적도 기니"
+
+msgid "Eritrea"
+msgstr "에리트레아"
+
+msgid "Ethiopia"
+msgstr "에티오피아"
+
+msgid "Gabon"
+msgstr "가봉"
+
+msgid "Gambia"
+msgstr "감비아"
+
+msgid "Ghana"
+msgstr "가나"
+
+msgid "Guinea"
+msgstr "기니"
+
+msgid "Guinea-Bissau"
+msgstr "기니비사우"
+
+msgid "Cote DIvory"
+msgstr "코트디부아르"
+
+msgid "Kenya"
+msgstr "케냐"
+
+msgid "Lesotho"
+msgstr "레소토"
+
+msgid "Liberia"
+msgstr "라이베리아"
+
+msgid "Libya"
+msgstr "리비아"
+
+msgid "Madagascar"
+msgstr "마다가스카르"
+
+msgid "Malawi"
+msgstr "말라위"
+
+msgid "Mali"
+msgstr "말리"
+
+msgid "Mauritania"
+msgstr "모리타니"
+
+msgid "Mauritius"
+msgstr "모리셔스"
+
+msgid "Morocco"
+msgstr "모로코"
+
+msgid "Mozambique"
+msgstr "모잠비크"
+
+msgid "Namibia"
+msgstr "나미비아"
+
+msgid "Niger"
+msgstr "니제르"
+
+msgid "Nigeria"
+msgstr "나이지리아"
+
+msgid "Reunion"
+msgstr "재결합"
+
+msgid "Rwanda"
+msgstr "르완다"
+
+msgid "Sao Tome and Principe"
+msgstr "상투메 프린시페"
+
+msgid "Senegal"
+msgstr "세네갈"
+
+msgid "Seychelles"
+msgstr "세이셸"
+
+msgid "Sierra Leone"
+msgstr "시에라리온"
+
+msgid "Somalia"
+msgstr "소말리아"
+
+msgid "South Africa"
+msgstr "남아프리카"
+
+msgid "Sudan"
+msgstr "수단"
+
+msgid "Swaziland"
+msgstr "스와질란드"
+
+msgid "Tanzania"
+msgstr "탄자니아"
+
+msgid "Togo"
+msgstr "토고"
+
+msgid "Tunisia"
+msgstr "튀니지"
+
+msgid "Uganda"
+msgstr "우간다"
+
+msgid "Western Sahara"
+msgstr "서부 사하라"
+
+msgid "Zambia"
+msgstr "잠비아"
+
+msgid "Zimbabwe"
+msgstr "짐바브웨"
+
+msgid "Australia"
+msgstr "호주"
+
+msgid "New Zealand"
+msgstr "뉴질랜드"
+
+msgid "Fiji"
+msgstr "피지"
+
+msgid "French Polynesia"
+msgstr "프랑스 령 폴리네시아의"
+
+msgid "Guam"
+msgstr "괌"
+
+msgid "Kiribati"
+msgstr "키리바시"
+
+msgid "Marshall Islands"
+msgstr "마샬 군도"
+
+msgid "Micronesia"
+msgstr "미크로네시아"
+
+msgid "Nauru"
+msgstr "나우루"
+
+msgid "New Caledonia"
+msgstr "뉴 칼레도니아"
+
+msgid "Papua New Guinea"
+msgstr "파푸아 뉴기니"
+
+msgid "Samoa"
+msgstr "사모아"
+
+msgid "Solomon Islands"
+msgstr "솔로몬 제도"
+
+msgid "Tonga"
+msgstr "통가"
+
+msgid "Tuvalu"
+msgstr "투발루"
+
+msgid "Vanuatu"
+msgstr "바누아투"
+
+msgid "Wallis and Futuna"
+msgstr "월리스푸투나"
+
+msgid "Comoros"
+msgstr "코모로"
+
+msgid "Cote DIvorie"
+msgstr "코트디부아르"
+
+msgid "Type city:"
+msgstr "도시 유형:"
+
+msgid "Expiry In"
+msgstr "만료 날짜"
+
+msgid "Email is not of correct Format"
+msgstr "이메일의 형식이 올바르지 않습니다."
+
+msgid "Resumefiles"
+msgstr "이력서파일"
+
+msgid "Show number of job types per row on"
+msgstr "행당 작업 유형 수 표시"
+
+msgid "job by type"
+msgstr "종류별 직업"
+
+msgid "page"
+msgstr "페이지"
+
+msgid "Show number of categories per row in"
+msgstr "행당 범주 수 표시"
+
+msgid "job/resume by category"
+msgstr "카테고리별 직업/이력서"
+
+msgid "How many sub categories show in popup on"
+msgstr "팝업에 표시되는 하위 카테고리 수"
+
+msgid "Price per Company submission (only for"
+msgstr "회사 제출당 가격("
+
+msgid "per listing"
+msgstr "목록당"
+
+msgid "mode)"
+msgstr "방법)"
+
+msgid "Price per Job Alert Submission (only for"
+msgstr "채용 공고 알림 제출당 가격("
+
+msgid "Price per Job submission (only for"
+msgstr "작업 제출당 가격(해당"
+
+msgid "Price per Featured Job submission (only for"
+msgstr "추천 작업 제출당 가격("
+
+msgid "Resume submission (only for"
+msgstr "이력서 제출(해당자에 한함)"
+
+msgid "Feature per Resume submission (only for"
+msgstr "이력서 제출별 특징(해당자에 한함)"
+
+msgid "Feature per Company submission (only for"
+msgstr "회사 제출별 기능(해당"
+
+msgid "Resume Save Search  submission (only for"
+msgstr "저장 검색 제출 재개("
+
+msgid "Job Apply  submission (only for"
+msgstr "입사지원서 제출(해당자에 한함)"
+
+msgid "Resume View Contact Detail  submission (only for"
+msgstr "이력서 연락처 정보 보기 제출("
+
+msgid "Company View Contact Detail  submission (only for"
+msgstr "회사 보기 연락처 정보 제출("
+
+msgid "Department  submission (only for"
+msgstr "학과 제출(해당자에 한함)"
+
+msgid "Currencies"
+msgstr "통화"
+
+msgid "Add Job Status"
+msgstr "작업 상태 추가"
+
+msgid "Add Shifts"
+msgstr "교대근무 추가"
+
+msgid "Add Highest Education"
+msgstr "고등교육 추가"
+
+msgid "Add Age"
+msgstr "연령 추가"
+
+msgid "Add Career Level"
+msgstr "경력 레벨 추가"
+
+msgid "Add Experience"
+msgstr "경험 추가"
+
+msgid "Add Currency"
+msgstr "통화 추가"
+
+msgid "Select Language"
+msgstr "언어 선택"
+
+msgid "Show gold jobs in jobs listing page"
+msgstr "채용 정보 페이지에 골드 채용 정보 표시"
+
+msgid "Show featured jobs in jobs listing page"
+msgstr "채용정보 페이지에 추천 채용정보 표시"
+
+msgid "Job Seeker purchase package"
+msgstr "구직자 구매 패키지"
+
+msgid "Desire Salary"
+msgstr "원하는 급여"
+
+msgid "File Upload"
+msgstr "파일 업로드"
+
+msgid "Language Where Learned"
+msgstr "배운 언어"
+
+msgid "Language Understanding"
+msgstr "언어이해"
+
+msgid "Language Writing"
+msgstr "언어 쓰기"
+
+msgid "Language Reading"
+msgstr "언어 읽기"
+
+msgid "Reference Name"
+msgstr "참조 이름"
+
+msgid "Reference City"
+msgstr "참조 도시"
+
+msgid "Reference Zipcode"
+msgstr "참조 우편번호"
+
+msgid "Reference Address"
+msgstr "참조 주소"
+
+msgid "Reference Phone"
+msgstr "참조 전화"
+
+msgid "Reference Relation"
+msgstr "참조관계"
+
+msgid "Reference Years"
+msgstr "참고 연도"
+
+msgid "Leave Reason"
+msgstr "퇴사 사유"
+
+msgid "Institute City"
+msgstr "인스티튜트 시티"
+
+msgid "Driving License"
+msgstr "운전 면허증"
+
+msgid "License No."
+msgstr "라이센스 번호"
+
+msgid "License Country"
+msgstr "라이센스 국가"
+
+msgid "Searchable"
+msgstr "검색 가능"
+
+msgid "Job Salary Range"
+msgstr "직무 급여 범위"
+
+msgid "No Of Jobs"
+msgstr "일자리 수"
+
+msgid "Zipcode"
+msgstr "우편 번호"
+
+msgid "Send Me Resume"
+msgstr "이력서를 보내주세요"
+
+msgid "Visitor Unpublish"
+msgstr "방문자 게시 취소"
+
+msgid "Visitor Publish"
+msgstr "방문자 게시"
+
+msgid "Select Files"
+msgstr "파일 선택"
+
+msgid "You Unsubscribe Job Alert"
+msgstr "구독 취소 채용 알림"
+
+msgid "Add Employer Package"
+msgstr "고용주 패키지 추가"
+
+msgid "Free Package"
+msgstr "무료 패키지"
+
+msgid "Delete Cat And Sub-cat"
+msgstr "고양이 및 하위 고양이 삭제"
+
+msgid "Error in saving message"
+msgstr "메시지를 저장하는 중 오류가 발생했습니다."
+
+msgid "Can not get free package more then once"
+msgstr "무료 패키지를 두 번 이상 받을 수 없습니다."
+
+msgid "Incorrect Email Address"
+msgstr "잘못된 이메일 주소"
+
+msgid "Employer Not Allowed"
+msgstr "고용주는 허용되지 않음"
+
+msgid "You are not allowed to unsubscribe from the job alert"
+msgstr "채용공고를 구독 취소할 수 없습니다."
+
+msgid "Error while assigning package to user"
+msgstr "사용자에게 패키지를 할당하는 중 오류가 발생했습니다."
+
+msgid "Cannot assign free package more than once"
+msgstr "무료 패키지를 두 번 이상 할당할 수 없습니다."
+
+msgid "JS Jobs for any business, industry body or staffing company wishing to establish a presence on the internet where job seekers can come to view the latest jobs and apply to them.JS Jobs allows you to run your own, unique jobs classifieds service where you or employer can advertise their jobs and jobseekers can upload their Resumes."
+msgstr "JS Jobs는 구직자가 최신 채용 정보를 확인하고 지원할 수 있는 인터넷에 입지를 구축하고자 하는 모든 비즈니스, 산업 기관 또는 채용 회사를 위한 것입니다. JS Jobs를 사용하면 귀하 또는 귀하가 원하는 곳에서 자신만의 독특한 직업 분류 서비스를 운영할 수 있습니다. 고용주는 자신의 채용 정보를 광고할 수 있고 구직자는 이력서를 업로드할 수 있습니다."
+
+msgid "Choose Version"
+msgstr "버전 선택"
+
+msgid "Continue"
+msgstr "계속하다"
+
+msgid "JS Support Ticket is a trusted open source ticket system. JS Support Ticket is a simple, easy to use, web-based customer support system. User can create ticket from front-end. JS Support Ticket comes packed with lot features than most of the expensive"
+msgstr "JS 지원 티켓은 신뢰할 수 있는 오픈 소스 티켓 시스템입니다. JS 지원 티켓은 간단하고 사용하기 쉬운 웹 기반 고객 지원 시스템입니다. 사용자는 프런트엔드에서 티켓을 생성할 수 있습니다. JS 지원 티켓에는 대부분의 값비싼 티켓보다 많은 기능이 포함되어 있습니다."
+
+msgid "and complex"
+msgstr "그리고 복잡하다"
+
+msgid "support ticket system on market."
+msgstr "시장에서 티켓 시스템을 지원합니다."
+
+msgid "You Are Not Allowed"
+msgstr "너는 허가받지 않았다"
+
+msgid "Edit Erase Data Request"
+msgstr "데이터 삭제 요청 편집"
+
+msgid "Email template option for employer has been changed"
+msgstr "고용주의 이메일 템플릿 옵션이 변경되었습니다."
+
+msgid "Do you sure to submit the erase data request?"
+msgstr "데이터 삭제 요청을 제출하시겠습니까?"
+
+msgid "Delete Cat"
+msgstr "고양이 삭제"
+
+msgid "Sub-Cat"
+msgstr "하위 고양이"
+
+msgid "Resume files"
+msgstr "이력서 파일"
+
+msgid "Enter Name Here"
+msgstr "여기에 이름을 입력하세요"
+
+msgid "You do not have any companies remaining"
+msgstr "남은 회사가 없습니다."
+
+msgid "You do not have any department remaining"
+msgstr "남은 부서가 없습니다."
+
+msgid "Enter -1 for Unlimited"
+msgstr "무제한의 경우 -1을 입력하세요."
+
+msgid "Less than 1 year"
+msgstr "1 년 미만"
+
+msgid "Fresh"
+msgstr "신선한"
+
+msgid "Register an account"
+msgstr "계정 등록"
+
+msgid "Miscellaneous Tutorials"
+msgstr "기타 튜토리얼"
+
+msgid "Plugin Walkthrough"
+msgstr "플러그인 연습"
+
+msgid "How to Set Up WP Job Portal"
+msgstr "WP 취업 포털을 설정하는 방법"
+
+msgid "Find step-by-step setup instructions and access all tutorial videos to get started quickly."
+msgstr "단계별 설정 지침을 찾아보고 모든 튜토리얼 비디오에 액세스하여 빠르게 시작하세요."
+
+msgid "Explore all shortcodes and watch a video tutorial on how to create pages with them."
+msgstr "모든 단축 코드를 탐색하고 단축 코드로 페이지를 만드는 방법에 대한 비디오 튜토리얼을 시청하세요."
+
+msgid "Manage Addons"
+msgstr "애드온 관리"
+
+msgid "Check the status of your addons and easily install new ones to enhance functionality."
+msgstr "애드온의 상태를 확인하고 새 애드온을 쉽게 설치하여 기능을 향상하세요."
+
+msgid "How to Set Up"
+msgstr "설정 방법"
+
+msgid "Visit Help Page"
+msgstr "도움말 페이지 방문"
+
+msgid "Check Status"
+msgstr "상태 확인"
+
+msgid "Install Guide"
+msgstr "설치 가이드"
+
+msgid "Month"
+msgstr "월"
+
+msgid "Deleting section will delete all its fields."
+msgstr "섹션을 삭제하면 해당 필드가 모두 삭제됩니다."
+
+msgid "more"
+msgstr "더"
+
+msgid "link"
+msgstr "링크"
+
+msgid "Days+"
+msgstr "일수 이상"
+
+msgid "Jobseeker not allowed to perform this action"
+msgstr "구직자는 이 작업을 수행할 수 없습니다."
+
+msgid "No Of Job"
+msgstr "직업 없음"
+
+msgid "No Of Feature"
+msgstr "기능 없음"
+
+msgid "No Of Company Contact View"
+msgstr "회사 연락처 보기 없음"
+
+msgid "Remaining Company Contact View"
+msgstr "남은 회사 연락처 보기"
+
+msgid "Addons Status"
+msgstr "애드온 상태"
+
+msgid "Please enter a Photo"
+msgstr "사진을 입력해주세요"
+
+msgid "Please enter a Last Name"
+msgstr "성을 입력하세요."
+
+msgid "Please enter a First Name"
+msgstr "이름을 입력하세요."
+
+msgid "Invalid User Name"
+msgstr "잘못된 사용자 이름"
+
+msgid "Please enter a User Name"
+msgstr "사용자 이름을 입력 해주세요"
+
+msgid "register an account"
+msgstr "계정을 등록하다"
+
+msgid "Full Time"
+msgstr "풀 타임"
+
+msgid "Parent Category"
+msgstr "상위 카테고리"
+
+msgid "Folders Approval Queue"
+msgstr "폴더 승인 대기열"
+
+msgid "Cover Letter Section"
+msgstr "커버레터 섹션"
+
+msgid "Visitor Published"
+msgstr "게시된 방문자"
+
+msgid "User Published"
+msgstr "사용자 게시됨"
+
+msgid "Meta"
+msgstr "메타"
+
+msgid "Visitor Unpublished"
+msgstr "방문자가 게시되지 않음"
+
+msgid "user unpublish"
+msgstr "사용자 게시 취소"
+
+msgid "User Publish"
+msgstr "사용자 게시"
+
+msgid "Normal"
+msgstr "정상"
+
+msgid "Savings"
+msgstr "저금"
+
+msgid "Credit System"
+msgstr "학점제도"
+
+msgid "on preser theme Aqua"
+msgstr "프리저 테마 Aqua에"
+
+msgid "Reference For column"
+msgstr "칼럼에 대한 참고자료"
+
+msgid "User Id"
+msgstr "사용자 ID"
+
+msgid "slug for companies listing page"
+msgstr "회사 목록 페이지의 슬러그"
+
+msgid "slug for my jobs by cities page"
+msgstr "도시별 내 작업에 대한 슬러그 페이지"
+
+msgid "slug for view coverletter page"
+msgstr "커버레터 페이지 보기용 슬러그"
+
+msgid "slug for add coverletter page"
+msgstr "커버레터 페이지 추가용 슬러그"
+
+msgid "slug for my coverletters page"
+msgstr "내 커버레터 페이지에 대한 슬러그"
+
+msgid "slug for login page"
+msgstr "로그인 페이지용 슬러그"
+
+msgid "added a new Resume"
+msgstr "새로운 이력서를 추가했습니다"
+
+msgid "added a new Job"
+msgstr "새 작업을 추가했습니다"
+
+msgid "Deleted a Job"
+msgstr "작업을 삭제했습니다."
+
+msgid "Deleted a Company"
+msgstr "회사를 삭제했습니다."
+
+msgid "added a new Company"
+msgstr "새로운 회사를 추가했습니다"
+
+msgid "added a new Resume Search"
+msgstr "새로운 이력서 검색을 추가했습니다."
+
+msgid "Resumesearches"
+msgstr "이력서검색"
+
+msgid "slugs on multi places"
+msgstr "여러 곳에 있는 슬러그"
+
+msgid "Sample Page"
+msgstr "샘플 페이지"
+
+msgid "subscriber"
+msgstr "구독자"
+
+msgid "Employer Stat Boxes"
+msgstr "고용주 통계 상자"
+
+msgid "Applied Jobs Box"
+msgstr "적용 직업 상자"
+
+msgid "Enter the Google reCaptcha site key from"
+msgstr "다음에서 Google reCaptcha 사이트 키를 입력하세요."
+
+msgid "Google reCaptcha Version"
+msgstr "구글 reCaptcha 버전"
+
+msgid "Google reCaptcha Site Key"
+msgstr "Google reCaptcha 사이트 키"
+
+msgid "Newsest Jobs Box"
+msgstr "최신 채용 정보 상자"
+
+msgid "Price per"
+msgstr "당 가격"
+
+msgid "submission"
+msgstr "제출"
+
+msgid "only for"
+msgstr "오직"
+
+msgid "No of days untill"
+msgstr "남은 일수"
+
+msgid "Expire"
+msgstr "내쉬다"
+
+msgid "Price per Resume View Contact Detail (only for"
+msgstr "이력서당 가격 연락처 정보 보기("
+
+msgid "this is some desc text for job rss"
+msgstr "이것은 채용 RSS에 대한 설명 텍스트입니다."
+
+msgid "webmaster text"
+msgstr "웹마스터 텍스트"
+
+msgid "copy right text"
+msgstr "저작권 텍스트"
+
+msgid "Redirect Link For WP User after login"
+msgstr "로그인 후 WP 사용자에 대한 링크 리디렉션"
+
+msgid "Link To Redirect WP user who does not have a role in WP Job Portal"
+msgstr "WP Job Portal에 역할이 없는 WP 사용자를 리디렉션하는 링크"
+
+msgid "WP Job Portal is an open-source job board plugin for WordPress that provides advanced features to help you create a successful job board. In addition, we offer trusted WP Job Portal add-ons that can further enhance your job board's functionality in a fast, safe, and easy manner. Our add-ons have been designed to integrate seamlessly with our job board plugin, ensuring you can expand your job board's capabilities without any complications. "
+msgstr "WP Job Portal은 성공적인 채용 게시판을 만드는 데 도움이 되는 고급 기능을 제공하는 WordPress용 오픈 소스 채용 게시판 플러그인입니다. 또한 우리는 빠르고 안전하며 쉬운 방식으로 채용 게시판의 기능을 더욱 향상시킬 수 있는 신뢰할 수 있는 WP Job Portal 추가 기능을 제공합니다. 당사의 추가 기능은 채용 게시판 플러그인과 원활하게 통합되도록 설계되어 복잡한 문제 없이 채용 게시판의 기능을 확장할 수 있습니다."
+
+msgid "Deactivate"
+msgstr "비활성화"
+
+msgid "Updated"
+msgstr "업데이트됨"
+
+msgid "editor text"
+msgstr "편집기 텍스트"
+
+msgid "No of Cover Letters"
+msgstr "자기 소개서 수"
+
+msgid "You have not answered all required fields"
+msgstr "모든 필수 항목에 답변하지 않았습니다."
+
+msgid "January"
+msgstr "1월"
+
+msgid "February"
+msgstr "2월"
+
+msgid "March"
+msgstr "3월"
+
+msgid "April"
+msgstr "4월"
+
+msgid "May"
+msgstr "5월"
+
+msgid "June"
+msgstr "6월"
+
+msgid "July"
+msgstr "칠월"
+
+msgid "August"
+msgstr "팔월"
+
+msgid "September"
+msgstr "구월"
+
+msgid "October"
+msgstr "십월"
+
+msgid "November"
+msgstr "십일월"
+
+msgid "December"
+msgstr "12월"
+
+msgid "Auto approve cover letter for job seeker"
+msgstr "구직자의 자기소개서 자동 승인"
+
+msgid "Job Seeker Stat Boxes"
+msgstr "구직자 통계 상자"
+
+msgid "Job short list setting effects on job detail page"
+msgstr "채용공고 상세페이지에 채용공고 목록 설정 효과"
+
+msgid "Resume View Contact Detail"
+msgstr "이력서 연락처 세부정보 보기"
+
+msgid "Company View Contact Detail"
+msgstr "회사 연락처 세부정보 보기"
+
+msgid "Cover Letters"
+msgstr "자기 소개서"
+
+msgid "Activate"
+msgstr "활성화"
+
+msgid "View Cover Letter"
+msgstr "자기소개서 보기"
+
+msgid "No Cover Letter"
+msgstr "자기 소개서 없음"
+
+msgid "searchable"
+msgstr "검색 가능"
+
+msgid "Cover Letter Title"
+msgstr "커버레터 제목"
+
+msgid "Cover Letter Approval Queue"
+msgstr "커버레터 승인 대기열"
+
+msgid "Cover Letters Approval Queue"
+msgstr "커버레터 승인 대기열"
+
+msgid "Already uploaded"
+msgstr "이미 업로드됨"
+
+msgid "How to Setup"
+msgstr "설정 방법"
+
+msgid "How to setup WP Job Portal"
+msgstr "WP 취업 포털 설정 방법"
+
+msgid "Delete Cover Letter"
+msgstr "커버레터 삭제"
+
+msgid "Cover Letter Detail"
+msgstr "자기 소개서 세부 사항"
+
+msgid "Select Payment"
+msgstr "결제 선택"
+
+msgid "My Department"
+msgstr "내 부서"
+
+msgid "Add To ShortList"
+msgstr "관심 목록에 추가"
+
+msgid "or"
+msgstr "또는"
+
+msgid "company logo"
+msgstr "회사 로고"
+
+msgid "job title"
+msgstr "직위"
+
+msgid "company name"
+msgstr "회사 이름"
+
+msgid "Resume Has Been Feature SuccesFully"
+msgstr "이력서는 성공적으로 등장했습니다"
+
+msgid "My coverletter"
+msgstr "내 커버 레터"
+
+msgid "Add coverletter"
+msgstr "커버 레터를 추가하십시오"
+
+msgid "Total Cover Letter"
+msgstr "총 커버 레터"
+
+msgid "Remaining Cover Letter"
+msgstr "남은 커버 레터"
+
+msgid "Open ChatGPT"
+msgstr "chatgpt를 엽니 다"
+
+msgid "How To Add Cover Letter With ChatGPT"
+msgstr "chatgpt와 함께 커버 레터를 추가하는 방법"
+
+msgid "Edit coverletter"
+msgstr "커버 레터를 편집하십시오"
+
+msgid "Edit Cover Letter"
+msgstr "커버 레터를 편집하십시오"
+
+msgid "Delete coverletter"
+msgstr "커버 레터를 삭제하십시오"
+
+msgid "coverletter title"
+msgstr "표지 제목"
+
+msgid "Add New Cover Letter"
+msgstr "새 커버 레터를 추가하십시오"
+
+msgid "Quote from Hello Dolly song, by Jerry Herman:"
+msgstr "Jerry Herman의 Hello Dolly Song의 인용문 :"
+
+msgid "Select Parent"
+msgstr "부모를 선택하십시오"
+
+msgid "Edit Field"
+msgstr "필드 편집"
+
+msgid "Visitor published"
+msgstr "방문자가 게시되었습니다"
+
+msgid "Show On Listing"
+msgstr "목록에 표시하십시오"
+
+msgid "Advanced"
+msgstr "고급의"
+
+msgid "Equal"
+msgstr "동일한"
+
+msgid "Not Equal"
+msgstr "동일하지 않습니다"
+
+msgid "Multi Select"
+msgstr "멀티 선택"
+
+msgid "Visible"
+msgstr "보이는"
+
+msgid "Select Child"
+msgstr "아이를 선택하십시오"
+
+msgid "Select Condition"
+msgstr "조건을 선택하십시오"
+
+msgid "To use this feature please fill the above three fields."
+msgstr "이 기능을 사용하려면 위의 세 필드를 채우십시오."
+
+msgid "No response found"
+msgstr "응답이 없습니다"
+
+msgid "Quick Apply"
+msgstr "빠른 적용"
+
+msgid "user publish"
+msgstr "사용자 게시"
+
+msgid "User Unpublished"
+msgstr "사용자 미공개"
+
+msgid "visitor publish"
+msgstr "방문자 게시"
+
+msgid "visitor unpublish"
+msgstr "방문자는 게시되지 않습니다"
+
+msgid "Select user status"
+msgstr "사용자 상태를 선택하십시오"
+
+msgid "Un published"
+msgstr "UN 출판"
+
+msgid "File upload fields and text editor fields cannot be made required."
+msgstr "파일 업로드 필드 및 텍스트 편집기 필드는 필요할 수 없습니다."
+
+msgid "Dependent Field"
+msgstr "종속 필드"
+
+msgid "Job Apply settings"
+msgstr "작업은 설정을 적용합니다"
+
+msgid "Quick Apply settings"
+msgstr "빠른 설정 설정"
+
+msgid "Show count in jobs by cities page"
+msgstr "도시별로 작업에 카운트를 표시하십시오"
+
+msgid "Show country in jobs by cities page"
+msgstr "도시로 일자리에서 국가를 보여주십시오"
+
+msgid "Profile Section"
+msgstr "프로필 섹션"
+
+msgid "Recaptcha Version 2"
+msgstr "recaptcha 버전 2"
+
+msgid "Recaptcha Version 3"
+msgstr "Recaptcha 버전 3"
+
+msgid "System slug"
+msgstr "시스템 슬러그"
+
+msgid "Image file size"
+msgstr "이미지 파일 크기"
+
+msgid "System will not upload if image size is greater than the given size"
+msgstr "이미지 크기가 주어진 크기보다 큰 경우 시스템이 업로드되지 않습니다."
+
+msgid "Show page title above wpjobportal breadcrumbs"
+msgstr "WPJOBPORTAL BREAKSCRUMBS 위의 페이지 제목을 표시하십시오"
+
+msgid "Default Image For WP Job Portal"
+msgstr "WP 작업 포털의 기본 이미지"
+
+msgid "This image will shown as default image for entities & users if no other image is provided."
+msgstr "이 이미지는 다른 이미지가 제공되지 않으면 엔터티 및 사용자의 기본 이미지로 표시됩니다."
+
+msgid "Default country"
+msgstr "기본 국가"
+
+msgid "Select default country for user added cities"
+msgstr "사용자 추가 도시의 기본 국가를 선택하십시오"
+
+msgid "Job detail URL options are title, company, category, location, jobtype. eg- [title] [company]"
+msgstr "작업 세부 사항 URL 옵션은 제목, 회사, 카테고리, 위치, JobType입니다. 예 : [제목] [회사]"
+
+msgid "Select the Google reCaptcha Version"
+msgstr "Google Recaptcha 버전을 선택하십시오"
+
+msgid "Recent Resumes Box"
+msgstr "최근 이력서 상자"
+
+msgid "mode"
+msgstr "방법"
+
+msgid "expire"
+msgstr "내쉬다"
+
+msgid "Registration is disabled in WordPress settings, please enable to Membership: anyone can register."
+msgstr "WordPress 설정에서 등록이 비활성화되어 있습니다. 회원 자격을 활성화하십시오. 누구나 등록 할 수 있습니다."
+
+msgid "Quick Apply Now"
+msgstr "지금 빨리 적용하십시오"
+
+msgid "Enable Quick Apply for user"
+msgstr "사용자를 빠르게 적용 할 수 있습니다"
+
+msgid "Enable Quick Apply for visitor"
+msgstr "방문자를 신속하게 신청하십시오"
+
+msgid "Enable captcha for visitor Quick Apply"
+msgstr "방문자를 위해 Captcha를 활성화하십시오"
+
+msgid "Show captcha to visitor on quick apply form."
+msgstr "Quick Apply Form에서 Captcha를 방문자에게 보여줍니다."
+
+msgid "Add ons for WP Job Portal have been installed and activated successfully. "
+msgstr "WP 작업 포털에 대한 추가 기능이 설치되어 활성화되었습니다."
+
+msgid "WP Job Portal is an open-source job board plugin for WordPress that provides advanced features to help you create a successful job board. In addition, we offer trusted WP Job Portal add-ons that can further enhance your job board's functionality in a fast, safe, and easy manner. Our add-ons have been designed to integrate seamlessly with our job board plugin, ensuring you can expand your job board's capabilities without any complications."
+msgstr "WP Job Portal은 성공적인 작업 보드를 만드는 데 도움이되는 고급 기능을 제공하는 WordPress 용 오픈 소스 작업 보드 플러그인입니다. 또한 신뢰할 수있는 WP 작업 포털 애드온을 제공하여 빠르고 안전하며 쉬운 방식으로 작업 보드의 기능을 더욱 향상시킬 수 있습니다. 우리의 애드온은 작업 보드 플러그인과 완벽하게 통합하도록 설계되어 합병증없이 작업 보드의 기능을 확장 할 수 있도록 설계되었습니다."
+
+msgid "Savings*"
+msgstr "저금*"
+
+msgid "Best Deal"
+msgstr "최고의 거래"
+
+msgid "Shortlist Job"
+msgstr "후보자 업무"
+
+msgid "e.g 45000"
+msgstr "예 : 45000"
+
+msgid "e.g 3000"
+msgstr "예 : 3000"
+
+msgid "e.g 6000"
+msgstr "예 : 6000"
+
+msgid "Deactivated"
+msgstr "비활성화"
+
+msgid "Not Installed"
+msgstr "설치되지 않았습니다"
+
+msgid "Addon Installed Successfully"
+msgstr "Addon은 성공적으로 설치했습니다"
+
+msgid "Addon installation failed"
+msgstr "애드온 설치가 실패했습니다"
+
+msgid "Resume Data Management"
+msgstr "데이터 관리를 재개하십시오"
+
+msgid "Export (csv)"
+msgstr "수출 (CSV)"
+
+msgid "Configuration Based Tutorials"
+msgstr "구성 기반 자습서"
+
+msgid "Slugs"
+msgstr "슬러그"
+
+msgid "Theme Installation"
+msgstr "테마 설치"
+
+msgid "WP Job Portal Theme  Installation"
+msgstr "WP 작업 포털 테마 설치"
+
+msgid "System Management"
+msgstr "시스템 관리"
+
+msgid "Activity Log and System Errors"
+msgstr "활동 로그 및 시스템 오류"
+
+msgid "Shortcode"
+msgstr "바로가 코드"
+
+msgid "Job Seeker Control Panel"
+msgstr "구직자 제어판"
+
+msgid "A shortcode designed for jobseeker, providing an easy-to-use controlpanel to manage applications, resume, and preferences directly from their dashboard."
+msgstr "Jobseeker를 위해 설계된 단축 코드로 응용 프로그램, 이력서 및 환경 설정을 대시 보드에서 직접 관리 할 수있는 사용하기 쉬운 ControlPanel을 제공합니다."
+
+msgid "Base Shortcode"
+msgstr "기본 단축 코드"
+
+msgid "Shortcode With All Options"
+msgstr "모든 옵션이있는 단축 코드"
+
+msgid " The Employer Control Panel is a streamlined interface that allows employers to manage job postings, track applications, communicate with candidates, and analyze hiring metrics efficiently."
+msgstr "고용주 제어판은 고용주가 구인 게시를 관리하고, 응용 프로그램을 추적하고, 후보자와 의사 소통하고, 고용 지표를 효율적으로 분석 할 수있는 간소화 된 인터페이스입니다."
+
+msgid "The job search shortcode enables users to easily find job listings based on various criteria."
+msgstr "구직 단축 코드를 통해 사용자는 다양한 기준에 따라 구인 목록을 쉽게 찾을 수 있습니다."
+
+msgid "The jobs shortcode is a feature that displays individual job listings on a website."
+msgstr "Jobs ShortCode는 웹 사이트에 개별 작업 목록을 표시하는 기능입니다."
+
+msgid "The featured job shortcode highlights select job listings on a website, making them stand out to potential applicants."
+msgstr "추천 작업 단축 코드는 웹 사이트에서 작업 목록 선택을 강조하여 잠재적 인 지원자에게 눈에 띄게 만듭니다."
+
+msgid "This Shortcode requires WP Job Portal Featured Jobs Addon"
+msgstr "이 단축 코드에는 WP 작업 포털 특집 작업 애드온이 필요합니다"
+
+msgid "Get Addon"
+msgstr "애드온을 얻으십시오"
+
+msgid "Job Categories"
+msgstr "작업 카테고리"
+
+msgid "The job categories shortcode displays a dynamic list of available categories, enabling users to easily navigate and find relevant job listings."
+msgstr "작업 카테고리 단축 코드는 사용 가능한 카테고리의 동적 목록을 표시하므로 사용자가 쉽게 탐색하고 관련 작업 목록을 찾을 수 있습니다."
+
+msgid "The job types shortcode presents a comprehensive list of available job types, allowing users to quickly explore and find suitable job opportunities."
+msgstr "작업 유형의 단축 코드는 사용 가능한 작업 유형의 포괄적 인 목록을 제공하므로 사용자가 적절한 작업 기회를 빠르게 탐색하고 찾을 수 있습니다."
+
+msgid "My applied jobs shortcode provides users with a personalized list of their job applications, allowing easy access to track application status and details."
+msgstr "My Applied Jobs Shortcode는 사용자에게 개인화 된 작업 애플리케이션 목록을 제공하여 응용 프로그램 상태 및 세부 사항을 쉽게 추적 할 수 있습니다."
+
+msgid "My companies shortcode displays a personalized list of companies users are associated with, facilitating easy access to company information and opportunities."
+msgstr "My Company Satrcode는 사용자가 관련된 개인화 된 회사 목록을 표시하여 회사 정보 및 기회에 쉽게 액세스 할 수 있습니다."
+
+msgid "All companies shortcode offers a curated directory of all companies, allowing users to easily browse and connect with potential employers."
+msgstr "모든 회사의 단축 코드는 모든 회사의 선별 된 디렉토리를 제공하여 사용자가 잠재적 고용주를 쉽게 탐색하고 연결할 수 있습니다."
+
+msgid "This Shortcode requires WP Job Portal All Companies Addon"
+msgstr "이 단축 코드에는 WP 작업 포털이 필요합니다. 모든 회사 Addon이 필요합니다"
+
+msgid "The featured companies shortcode showcases prominent companies within the portal, allowing users to explore exciting job opportunities from industry leaders."
+msgstr "주요 회사 단축 코드는 포털 내에서 저명한 회사를 선보이며 사용자는 업계 리더의 흥미로운 직업 기회를 탐색 할 수 있습니다."
+
+msgid "This Shortcode requires WP Job Portal Featured Companies Addon"
+msgstr "이 단축 코드에는 WP 작업 포털 특집 회사 Addon이 필요합니다"
+
+msgid "My jobs shortcode allows users to view and manage their saved job listings, making it easy to keep track of potential opportunities."
+msgstr "My Jobs ShortCode를 통해 사용자는 저장된 작업 목록을보고 관리 할 수 ​​있으므로 잠재적 인 기회를 쉽게 추적 할 수 있습니다."
+
+msgid "My resume shortcode allows users to view and manage their uploaded resumes, providing a convenient way to keep their job application materials up to date."
+msgstr "내 이력서 단축 코드를 통해 사용자는 업로드 된 이력서를보고 관리 할 수 ​​있으므로 작업 응용 프로그램 자료를 최신 상태로 유지하는 편리한 방법을 제공합니다."
+
+msgid "All Resumes"
+msgstr "모든 이력서"
+
+msgid "All resumes shortcode allows job seekers to view and manage their uploaded resumes, ensuring they have easy access to their application materials."
+msgstr "모든 이력서 단축 코드를 사용하면 구직자가 업로드 된 이력서를보고 관리 할 수 ​​있으므로 응용 프로그램 자료에 쉽게 액세스 할 수 있습니다."
+
+msgid "This Shortcode requires WP Job Portal All Resumes Addon"
+msgstr "이 단축 코드에는 WP 작업 포털이 모든 이력서가 필요합니다"
+
+msgid "The featured resumes shortcode showcases a selection of standout resumes, allowing job seekers to stand out to potential employers."
+msgstr "Featured Resumes Shortcode는 선택한 선정 이력서를 보여 주어 구직자가 잠재적 인 고용주에게 눈에 띄게 할 수 있습니다."
+
+msgid "This Shortcode requires WP Job Portal Featured Resumes Addon"
+msgstr "이 단축 코드에는 WP 작업 포털이 제공되는 이력서가 필요합니다"
+
+msgid "Add company shortcode allows employers to effortlessly register their organization, providing essential details to attract talent and post job openings."
+msgstr "회사 단축 코드 추가를 통해 고용주는 조직을 쉽게 등록하여 재능을 유치하고 구직 포스트 오프닝을 유치 할 수있는 필수 세부 정보를 제공 할 수 있습니다."
+
+msgid "Add department shortcode enables employers to easily create and manage specific departments within their organization, facilitating better job categorization and organization."
+msgstr "부서 추가 단축 코드 추가를 통해 고용주는 조직 내 특정 부서를 쉽게 만들고 관리 할 수있어 더 나은 직무 분류 및 조직을 촉진 할 수 있습니다."
+
+msgid "This Shortcode requires WP Job Portal Multi Departments Addon"
+msgstr "이 단축 코드에는 WP 작업 포털 다중 부서 추가가 필요합니다"
+
+msgid "Add jobs enables organizations to effortlessly publish job postings, helping them connect with potential applicants and fill vacancies more effectively."
+msgstr "일자리 추가를 통해 조직은 구인 게시물을 쉽게 게시하여 잠재적 인 지원자와 연결하고 공석을보다 효과적으로 채울 수 있습니다."
+
+msgid "Add resume shortcode simplifies the process for candidates to submit their resumes, helping them showcase their qualifications and experiences to potential employers."
+msgstr "이력서 추가 단축 코드 추가 후보자가 이력서를 제출할 수있는 프로세스를 단순화하여 잠재적 인 고용주에게 자격과 경험을 보여줍니다."
+
+msgid "Resume search shortcode provides a powerful search tool for employers to explore candidate profiles, making it easier to connect with potential hires."
+msgstr "이력서 검색 단축 코드는 고용주가 후보자 프로필을 탐색 할 수있는 강력한 검색 도구를 제공하여 잠재적 인 직원과 쉽게 연결할 수 있습니다."
+
+msgid "This Shortcode requires WP Job Portal Resume Search Addon"
+msgstr "이 바로 코드에는 WP 작업 포털 이력서 검색 애드온이 필요합니다"
+
+msgid "Registration"
+msgstr "등록"
+
+msgid "Registration shortcode allows individuals to easily create accounts as their selected role"
+msgstr "등록 단축 코드는 개인이 선택한 역할로 계정을 쉽게 만들 수 있습니다."
+
+msgid "Employer registration shortcode streamlines the process for organizations to register, ensuring they can efficiently manage job postings and their company profiles."
+msgstr "고용주 등록 단축 코드는 조직이 등록하는 프로세스를 간소화하여 작업 게시물 및 회사 프로필을 효율적으로 관리 할 수 ​​있도록합니다."
+
+msgid "Job Seeker Registration"
+msgstr "구직자 등록"
+
+msgid "Job seeker registration shortcode allows individuals to easily create accounts, enabling them to apply for jobs and manage their resumes."
+msgstr "구직자 등록 단축 코드를 사용하면 개인이 계정을 쉽게 만들 수있어 작업을 신청하고 이력서를 관리 할 수 ​​있습니다."
+
+msgid "Login Page"
+msgstr "로그인 페이지"
+
+msgid "Login page shortcode offers a user-friendly interface for candidates and employers to securely log in and manage their profiles and postings."
+msgstr "로그인 페이지 바로 코드는 후보자와 고용주가 프로필 및 게시물을 안전하게 로그인하고 관리 할 수있는 사용자 친화적 인 인터페이스를 제공합니다."
+
+msgid "Widget"
+msgstr "위젯"
+
+msgid "Search job widget provides an intuitive interface for candidates to filter and browse openings, connecting them with opportunities that align with their skills."
+msgstr "Search Job Widget은 후보자가 오프닝을 필터링하고 찾아 볼 수있는 직관적 인 인터페이스를 제공하여 기술과 일치하는 기회를 연결합니다."
+
+msgid "This Shortcode requires WP Job Portal Front-end Widgets Addon"
+msgstr "이 바로가 코드에는 WP 작업 포털 프론트 엔드 위젯 애드온이 필요합니다"
+
+msgid "My packages offers a personalized dashboard for users to monitor their subscription details, helping them manage job postings and access features effectively."
+msgstr "내 패키지는 사용자가 구독 세부 정보를 모니터링 할 수있는 맞춤형 대시 보드를 제공하여 작업 게시 및 액세스 기능을 효과적으로 관리 할 수 ​​있도록 도와줍니다."
+
+msgid "This Shortcode requires WP Job Portal Credits Addon"
+msgstr "이 바로 코드에는 WP Job Portal Credits Addon이 필요합니다"
+
+msgid "My subscription provides users with an overview of their active subscriptions, allowing easy management and tracking of their job posting plans.  "
+msgstr "내 구독은 사용자에게 활성 구독에 대한 개요를 제공하여 직무 게시 계획을 쉽게 관리하고 추적 할 수 있습니다."
+
+msgid "All packages showcases a comprehensive list of available subscription plans, allowing users to compare features and select the best options for their job posting needs."
+msgstr "모든 패키지에는 사용 가능한 가입 계획의 포괄적 인 목록이 표시되어 사용자가 기능을 비교하고 작업 게시 요구에 가장 적합한 옵션을 선택할 수 있습니다."
+
+msgid "My invoices provides a convenient way for users to view and manage their invoices, helping them stay organized and up to date with their payments."
+msgstr "내 송장은 사용자가 송장을보고 관리 할 수있는 편리한 방법을 제공하여 결제로 구성되고 최신 상태를 유지할 수 있도록 도와줍니다."
+
+msgid "SEO"
+msgstr "서"
+
+msgid "Document Title Settings"
+msgstr "문서 제목 설정"
+
+msgid "Company detail url options are name, location. eg- [name] [location]"
+msgstr "회사 세부 사항 URL 옵션은 이름, 위치입니다. 예 : [이름] [위치]"
+
+msgid "spinning wheel"
+msgstr "물레"
+
+msgid "New Update Version"
+msgstr "새로운 업데이트 버전"
+
+msgid "is Available"
+msgstr "사용 가능합니다"
+
+msgid "Hey there! We have recently launched a fresh update for the add-ons. Don't forget to update the add-ons to enjoy the greatest features!"
+msgstr "이봐! 우리는 최근에 애드온에 대한 새로운 업데이트를 시작했습니다. 가장 큰 기능을 즐기기 위해 추가 기능을 업데이트하는 것을 잊지 마십시오!"
+
+msgid "View Addone Status"
+msgstr "Addone 상태를보기"
+
+msgid "Active Companies"
+msgstr "활동적인 회사"
+
+msgid "Help Page"
+msgstr "도움말 페이지"
+
+msgid "Watch Tutorial"
+msgstr "튜토리얼을 시청하십시오"
+
+msgid "video"
+msgstr "동영상"
+
+msgid "Apply Now Failed"
+msgstr "지금 신청하지 못했습니다"
+
+msgid "You do not have package required for job apply"
+msgstr "구직에 필요한 패키지가 없습니다"
+
+msgid "You package has expired"
+msgstr "귀하의 패키지가 만료되었습니다"
+
+msgid "You do not any more job apply available"
+msgstr "더 이상 구직을 할 수 없습니다"
+
+msgid "Job Not Found"
+msgstr "직업을 찾을 수 없습니다"
+
+msgid "Job does not exist in the system"
+msgstr "작업은 시스템에 존재하지 않습니다"
+
+msgid "Make Payment To Complete The Job Apply"
+msgstr "구직을 완료하기 위해 지불하십시오"
+
+msgid "Successfully applied on job"
+msgstr "작업에 성공적으로 적용됩니다"
+
+msgid "view coverletter"
+msgstr "커버 레터를보십시오"
+
+msgid "Please Fill out fields"
+msgstr "필드를 작성하십시오"
+
+msgid "sender email is not of correct format"
+msgstr "발신자 이메일은 올바른 형식이 아닙니다"
+
+msgid "Erase Selected Country"
+msgstr "선택된 국가를 지우십시오"
+
+msgid "Erase All Data"
+msgstr "모든 데이터를 지우십시오"
+
+msgid "Click on package to select one"
+msgstr "패키지를 클릭하여 하나를 선택하십시오"
+
+msgid "Apply to the Job"
+msgstr "직업에 신청하십시오"
+
+msgid "No Cover Letter!"
+msgstr "커버 레터가 없습니다!"
+
+msgid "Add Cover Lettter"
+msgstr "커버 레터를 추가하십시오"
+
+msgid "You have already applied on this job."
+msgstr "당신은 이미이 직업에 신청했습니다."
+
+msgid "Unlimited job applies"
+msgstr "무제한 작업이 적용됩니다"
+
+msgid "Job applies remaining"
+msgstr "작업은 나머지 적용됩니다"
+
+msgid "Buy package to apply on job."
+msgstr "직업에 신청할 패키지를 구입하십시오."
+
+msgid "Apply With Package"
+msgstr "패키지로 적용하십시오"
+
+msgid "Payment of"
+msgstr "지불"
+
+msgid "is required to complete the job apply process"
+msgstr "작업 적용 프로세스를 완료하려면 필요합니다"
+
+msgid "You are logged in as employer."
+msgstr "당신은 고용주로 로그인됩니다."
+
+msgid "You are not a logged in member."
+msgstr "당신은 로그인 한 멤버가 아닙니다."
+
+msgid "You do not have any role."
+msgstr "당신은 어떤 역할도 없습니다."
+
+msgid "Proceed to payment"
+msgstr "지불을 진행하십시오"
+
+msgid "Views"
+msgstr "보기"
+
+msgid "Save As Draft"
+msgstr "드래프트로 저장하십시오"
+
+msgid "Job Has Been Feature SuccesFully"
+msgstr "작업은 성공적으로 등장했습니다"
+
+msgid "You are Not Allowed To Add More than One"
+msgstr "당신은 둘 이상을 추가 할 수 없습니다"
+
+msgid "Contact TO Adminstrator"
+msgstr "관리자에게 연락하십시오"
+
+msgid "This Is Meta Description"
+msgstr "이것은 메타 설명입니다"
+
+msgid "jobs by cities"
+msgstr "도시에 의한 직업"
+
+msgid "Show Info"
+msgstr "정보 표시"
+
+msgid "Changing a user's role will not remove its entites from the system !"
+msgstr "사용자의 역할을 변경하면 시스템에서 엔터테이션이 제거되지 않습니다!"
+
+msgid "company reject"
+msgstr "회사 거부"
+
+msgid "all reject"
+msgstr "모두 거부"
+
+msgid "Missing user(s) added successfully!"
+msgstr "누락 된 사용자가 성공적으로 추가되었습니다!"
+
+msgid "No missing user found!"
+msgstr "누락 된 사용자가 없습니다!"
+
+msgid "Jobs Listing Menu"
+msgstr "작업 목록 메뉴"
+
+msgid "Visitor"
+msgstr "방문객"
+
+msgid "new message alert"
+msgstr "새로운 메시지 경보"
+
+msgid "New Message Alert"
+msgstr "새로운 메시지 경보"
+
+msgid "Recipient Name"
+msgstr "수신자 이름"
+
+msgid "Sender Name"
+msgstr "발신자 이름"
+
+msgid "Sender Role"
+msgstr "발신자 역할"
+
+msgid "Message Text"
+msgstr "메시지 텍스트"
+
+msgid "Job/Resume Info"
+msgstr "작업/이력서 정보"
+
+msgid "Upload Resume"
+msgstr "이력서를 업로드하십시오"
+
+msgid "Profile Status"
+msgstr "프로필 상태"
+
+msgid "Profile Completed"
+msgstr "프로필이 완료되었습니다"
+
+msgid "feature approve"
+msgstr "기능 승인"
+
+msgid "feature reject"
+msgstr "기능 거부"
+
+msgid "Type city"
+msgstr "타입 도시"
+
+msgid "New Message"
+msgstr "새로운 메시지"
+
+msgid "Employer is disabled by admin"
+msgstr "고용주는 관리자에 의해 비활성화됩니다"
+
+msgid "You are not allowed to add more than one"
+msgstr "당신은 둘 이상을 추가 할 수 없습니다"
+
+msgid "contact adminstrator"
+msgstr "연락 관리자"
+
+msgid "Payment is not made against this job contact adminstrator"
+msgstr "이 작업 담당자에 대한 지불은 이루어지지 않습니다"
+
+msgid "Addon Page Not Found"
+msgstr "애드온 페이지를 찾을 수 없습니다"
+
+msgid "User Role"
+msgstr "사용자 역할"
+
+msgid "Jobs Role"
+msgstr "직업 역할"
+
+msgid "User has been successfully created"
+msgstr "사용자가 성공적으로 생성되었습니다"
+
+msgid "Pay For Department"
+msgstr "부서를 지불하십시오"
+
+msgid "Pay For Job Apply"
+msgstr "구직 비용을 지불하십시오"
+
+msgid "Pay For Company"
+msgstr "회사에 대한 지불"
+
+msgid "Pay For Featured Company"
+msgstr "추천 회사에 대한 지불"
+
+msgid "Pay For Job"
+msgstr "직업을 지불하십시오"
+
+msgid "Pay For Featured Job"
+msgstr "추천 직업을 지불하십시오"
+
+msgid "Pay For Resume Search"
+msgstr "이력서 검색 비용을 지불하십시오"
+
+msgid "Pay For Resume "
+msgstr "이력서를 지불하십시오"
+
+msgid "Pay For Featured Resume "
+msgstr "특집 이력서를 지불하십시오"
+
+msgid "Job Saved Searches"
+msgstr "작업 저장 검색"
+
+msgid "Job Apply Configurations"
+msgstr "작업은 구성을 적용합니다"
+
+msgid "Quick Apply Fields"
+msgstr "빠른 필드를 적용하십시오"
+
+msgid "addons status"
+msgstr "애드온 상태"
+
+msgid "coverletters"
+msgstr "표지"
+
+msgid "coverletter"
+msgstr "표지"
+
+msgid "add new cover letter"
+msgstr "새 커버 레터를 추가하십시오"
+
+msgid "Loaction Name settings"
+msgstr "위치 이름 설정"
+
+msgid "Loaction Name Settings"
+msgstr "위치 이름 설정"
+
+msgid "shifts"
+msgstr "변화"
+
+msgid "ages"
+msgstr "나이"
+
+msgid "Error file size too large"
+msgstr "오류 파일 크기가 너무 큽니다"
+
+msgid "Maximum Size"
+msgstr "최대 크기"
+
+msgid "is in use"
+msgstr "사용 중입니다"
+
+msgid "can not deleted it"
+msgstr "삭제할 수 없습니다"
+
+msgid "Address data"
+msgstr "주소 데이터"
+
+msgid "themes"
+msgstr "테마"
+
+msgid "Color Schemes"
+msgstr "색 구성표"
+
+msgid "Color Chooser"
+msgstr "컬러 선택기"
+
+msgid "Color 1"
+msgstr "색상 1"
+
+msgid "Color 2"
+msgstr "색상 2"
+
+msgid "Color 3"
+msgstr "컬러 3"
+
+msgid "Add User Fields"
+msgstr "사용자 필드를 추가하십시오"
+
+msgid "cannot unpublished"
+msgstr "미공개가 없습니다"
+
+msgid "Search Name"
+msgstr "검색 이름"
+
+msgid "start"
+msgstr "시작"
+
+msgid "Total Resume Search"
+msgstr "총 이력서 검색"
+
+msgid "Remaining Resume Search"
+msgstr "나머지 이력서 검색"
+
+msgid "Reference"
+msgstr "참조"
+
+msgid "cancel payment"
+msgstr "지불을 취소합니다"
+
+msgid "Apply now"
+msgstr "지금 신청하십시오"
+
+msgid " Listing"
+msgstr "목록"
+
+msgid "Credits log"
+msgstr "크레딧 로그"
+
+msgid "Rate list"
+msgstr "요금 목록"
+
+msgid "Purchase history"
+msgstr "구매 기록"
+
+msgid " remaining"
+msgstr "남아 있습니다"
+
+msgid "Cover Letter has been successfully published"
+msgstr "커버 레터가 성공적으로 출판되었습니다"
+
+msgid "cover Letter has been successfully published"
+msgstr "커버 레터가 성공적으로 출판되었습니다"
+
+msgid "Resume files download"
+msgstr "파일 다운로드를 재개하십시오"
+
+msgid "apply with facebook"
+msgstr "Facebook과 함께 신청하십시오"
+
+msgid "apply with linkedin"
+msgstr "LinkedIn에 신청하십시오"
+
+msgid "apply with xing"
+msgstr "Xing과 함께 적용하십시오"
+
+msgid "Resume removed from featured"
+msgstr "이력서에서 추천에서 제거되었습니다"
+
+msgid "share blog"
+msgstr "블로그 공유"
+
+msgid "share digg"
+msgstr "Digg를 공유하십시오"
+
+msgid "share fb"
+msgstr "FB를 공유하십시오"
+
+msgid "share ff"
+msgstr "공유 ff"
+
+msgid "share google"
+msgstr "Google을 공유하십시오"
+
+msgid "share linkedin"
+msgstr "LinkedIn을 공유하십시오"
+
+msgid "share myspace"
+msgstr "MySpace를 공유하십시오"
+
+msgid "share twitter"
+msgstr "트위터를 공유하십시오"
+
+msgid "share yahoo"
+msgstr "야후를 공유하십시오"
+
+msgid "Mark As Shortlist Job"
+msgstr "선정 직무로 표시하십시오"
+
+msgid "Keep this job on your list! Mark it as shortlisted and find it easily whenever you need."
+msgstr "이 작업을 목록에 유지하십시오! 후보자로 표시하고 필요할 때마다 쉽게 찾으십시오."
+
+msgid "Search job title, company name, keywords"
+msgstr "검색 작업 제목, 회사 이름, 키워드"
+
+msgid "Loction"
+msgstr "위치"
+
+msgid "Applied Resume Title"
+msgstr "응용 이력서 제목"
+
+msgid "Arrow"
+msgstr "화살"
+
+msgid "Already Applied"
+msgstr "이미 적용되었습니다"
+
+msgid "Ready to take the next step? Simply fill out the form and submit your application. It only takes a few minutes!"
+msgstr "다음 단계를 수행 할 준비가 되셨습니까? 양식을 작성하고 신청서를 제출하십시오. 몇 분 밖에 걸리지 않습니다!"
+
+msgid "Waiting for Payment"
+msgstr "지불을 기다리고 있습니다"
+
+msgid "Salery"
+msgstr "살리"
+
+msgid "Buy"
+msgstr "구입하다"
+
+msgid "Employer can add companies and jobs while searching for potential candidate to hire"
+msgstr "고용주는 잠재적 인 후보자를 찾는 동안 회사와 일자리를 추가 할 수 있습니다."
+
+msgid "Selected"
+msgstr "선택된"
+
+msgid "Jobseeker can add resume, cover letters, search jobs and apply to multiple jobs easily"
+msgstr "Jobseeker는 이력서, 표지, 검색 작업을 추가하고 여러 작업에 쉽게 신청할 수 있습니다."
+
+msgid "Hello, again!..."
+msgstr "안녕하세요, 다시! ..."
+
+msgid "View All Applied Jobs"
+msgstr "적용된 모든 작업을보십시오"
+
+msgid "View All Newest Jobs"
+msgstr "모든 최신 작업을보십시오"
+
+msgid "Hello, again!…"
+msgstr "안녕하세요, 다시!…"
+
+msgid "Submit job"
+msgstr "직업을 제출하십시오"
+
+msgid "Submit Job"
+msgstr "직업을 제출하십시오"
+
+msgid "View detail"
+msgstr "세부 사항을보십시오"
+
+msgid "Recently Applied Resume"
+msgstr "최근에 이력서를 적용했습니다"
+
+msgid "Messages By Resume"
+msgstr "이력서에 의한 메시지"
+
+msgid "Reply"
+msgstr "회신하다"
+
+msgid "View jobs"
+msgstr "작업을보십시오"
+
+msgid "Other Info"
+msgstr "다른 정보"
+
+msgid "Link"
+msgstr "링크"
+
+msgid "Mail"
+msgstr "우편"
+
+msgid "Site"
+msgstr "대지"
+
+msgid "View Company Details"
+msgstr "회사 세부 사항을 봅니다"
+
+msgid "Completed"
+msgstr "완전한"
+
+msgid "Categoty"
+msgstr "범주"
+
+msgid "tell a friend"
+msgstr "친구에게 말하십시오"
+
+msgid "Tell friend"
+msgstr "친구에게 말하십시오"
+
+msgid "Know someone perfect for this job? Share it with them!"
+msgstr "이 직업에 완벽한 사람을 알고 있습니까? 그들과 공유하십시오!"
+
+msgid "Your name"
+msgstr "당신의 이름"
+
+msgid "Your email"
+msgstr "귀하의 이메일"
+
+msgid "Show the"
+msgstr "표시"
+
+msgid "form to logged-in users on the job detail page. If this is on,"
+msgstr "작업 세부 사항 페이지에서 로그인 사용자에게 양식. 이것이 켜져 있으면"
+
+msgid "will be turned off."
+msgstr "꺼집니다."
+
+msgid "form to visitor on the job detail page. If this is on,"
+msgstr "작업 세부 사항 페이지에서 방문자에게 양식. 이것이 켜져 있으면"
+
+msgid "You do not have any save serch remaining"
+msgstr "당신은 저장 세르치가 남아 있지 않습니다"
+
+msgid "We would love to hear from You."
+msgstr "우리는 당신의 의견을 듣고 싶습니다."

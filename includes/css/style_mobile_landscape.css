@@ -1,0 +1,121 @@
+/**********************
+	employer cp
+**********************/
+div#wjportal-emp-cp-wrp div.wjportal-cp-left {width: 100%;}
+div#wjportal-emp-cp-wrp div.wjportal-cp-right {width: 100%;padding-left: 0;padding-top: 20px;}
+
+/**********************
+	jobseeker cp 
+**********************/
+div#wjportal-job-cp-wrp div.wjportal-cp-left {width: 100%;}
+div#wjportal-job-cp-wrp div.wjportal-cp-right {width: 100%;padding-left: 0;padding-top: 20px;}
+
+/**********************
+	all forms layout
+**********************/
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-title {width: 100%;padding-left: 0;padding-right: 0;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value {width: 100%;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-4-fields div.wjportal-form-inner-fields {width: 100%;padding-left: 0;padding-bottom: 10px;}
+
+/**********************
+	login form
+**********************/
+div.wjportal-form-wrp form p.login-username label, 
+div.wjportal-form-wrp form p.login-password label, 
+div.wjportal-form-wrp form p.login-remember label {width: 100%;padding-left: 0;padding-right: 0;}
+div.wjportal-form-wrp form p.login-username input, 
+div.wjportal-form-wrp form p.login-password input {width: 100%;}
+div.wjportal-social-login-wrp div.wjportal-social-login div.wjportal-social-login-items .wjportal-social-login-btn {margin: 5px 5px 5px 0;}
+
+/**********************
+	filter search
+**********************/
+div.wjportal-filter-search-main-wrp div.wjportal-filter-search-wrp div.wjportal-filter-search-field-wrp {width: calc(50% - 5px);}
+div.wjportal-filter-search-main-wrp div.wjportal-filter-search-wrp div.wjportal-filter-search-btn-wrp {width: 50%;margin-top: 7px;}
+
+/**********************
+	job list
+**********************/
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp {width: 100%;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-right-wrp {width: 100%;text-align: left;padding-top: 10px;}
+
+/**********************
+ 	view job detail
+**********************/
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-btn-wrp .wjportal-job-company-btn {margin: 5px 5px 5px 0;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-job-data {width: 100%;margin: 0;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-job-data:nth-child(odd),
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-job-data:nth-child(even) {margin: 0;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-custom-field:nth-child(odd),
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-custom-field:nth-child(even) {margin: 0;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-custom-field {width: 100%; margin: 0;}
+
+/**********************
+	resume list
+**********************/
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-middle-wrp {width: 100%;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp {width: 100%;text-align: left;padding-top: 10px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-status-wrp {width: auto;float: left;margin-top: 0;}
+
+/**********************
+	resume detail
+**********************/
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-sec-row div.wjportal-resume-sec-data {width: 100%;margin: 0;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-sec-row div.wjportal-resume-sec-data:nth-child(odd),
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-sec-row div.wjportal-resume-sec-data:nth-child(even) {margin: 0;}
+
+/**********************
+ 	company list
+**********************/
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-middle-wrp {width: 100%;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-right-wrp {width: 100%;text-align: left;padding-top: 10px;}
+
+/**********************
+ 	company detail
+**********************/
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-company-data {width: 100%;margin: 0;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-company-data:nth-child(2n),
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-company-data:nth-child(2n+1) {margin: 0;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-custom-field:nth-child(odd),
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-custom-field:nth-child(even) {margin: 0;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-custom-field {width: 100%;margin: 0;}
+
+
+/**********************
+	jobs by catagory
+	resume by catagory
+**********************/
+div.wjportal-by-categories-main-wrp div.wjportal-by-category-wrp {width: calc(100% / 2) !important;}
+div.wjportal-by-categories-main-wrp div.wjportal-by-category-wrp div.wjportal-by-sub-catagory  div.wjportal-by-category-wrp {width: 100% !important;}
+
+
+/**********************
+	save search
+**********************/
+div.wjportal-save-search-list div.wjportal-save-search-title {width: 70%;}
+div.wjportal-save-search-list div.wjportal-save-search-created {width: 30%;}
+div.wjportal-save-search-list div.wjportal-save-search-action-wrp {width: 100%;text-align: left;padding-top: 10px;}
+
+/**********************
+	folder list
+**********************/
+div.wjportal-folder-list div.wjportal-folder-title {width: 70%;}
+div.wjportal-folder-list div.wjportal-folder-status {width: 30%;text-align: right;}
+div.wjportal-folder-list div.wjportal-folder-action-wrp {width: 100%;text-align: left;padding-top: 10px;}
+
+/**********************
+	packages list
+**********************/
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-title {width: 100%;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-price {width: 100%;text-align: left;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-price span.wjportal-pkg-list-item-price-discount {width: 46%;text-align: center;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-price span.wjportal-pkg-list-item-price-txt {width: 50%;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-mid div.wjportal-pkg-list-item-data div.wjportal-pkg-list-item-row {width: 100%;margin: 0;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-btm div.wjportal-pkg-list-item-action-wrp {width: 50%;}
+
+/**********************
+	department list
+**********************/
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-middle-wrp {width: 100%;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-right-wrp {width: 100%;padding-top: 15px;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-right-wrp div.wjportal-department-info span.wjportal-department-status {margin-top: 0;}

@@ -1,0 +1,7 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Cork", "Cork", "Cork", NULL, 66, 0, 1, NULL, "51.897077", "-8.4654674"),
+("Limerick", "Limerick", "Limerick", NULL, 66, 0, 1, NULL, "52.66833065", "-8.6645106224247"),
+("Cathair na Gaillimhe", "Cathair na Gaillimhe", "Galway", NULL, 66, 0, 1, NULL, "53.2744122", "-9.0490601"),
+("Waterford", "Waterford", "Waterford", NULL, 66, 0, 1, NULL, "52.2609997", "-7.1119081"),
+("Dublin", "Dublin", "Dublin", NULL, 66, 0, 1, NULL, "53.3498006", "-6.2602964");

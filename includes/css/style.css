@@ -1,0 +1,1257 @@
+/*----------------------------------------------
+ 			WP Job Portal New CSS 
+------------------------------------------------*/
+
+/**********************
+	bootstrap
+**********************/
+@font-face{font-family:'Glyphicons Halflings';src:url('../fonts/glyphicons-halflings-regular.eot');src:url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),url('../fonts/glyphicons-halflings-regular.woff') format('woff'),url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'),url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg')}
+.js-glyphicon{position:relative;top:1px;display:inline-block;font-family:'Glyphicons Halflings';font-style:normal;font-weight:normal;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.js-glyphicon-asterisk:before{content:"\2a"}.js-glyphicon-plus:before{content:"\2b"}.js-glyphicon-euro:before{content:"\20ac"}.js-glyphicon-minus:before{content:"\2212"}.js-glyphicon-cloud:before{content:"\2601"}.js-glyphicon-envelope:before{content:"\2709"}.js-glyphicon-pencil:before{content:"\270f"}.js-glyphicon-glass:before{content:"\e001"}.js-glyphicon-music:before{content:"\e002"}.js-glyphicon-search:before{content:"\e003"}.js-glyphicon-heart:before{content:"\e005"}.js-glyphicon-star:before{content:"\e006"}.js-glyphicon-star-empty:before{content:"\e007"}.js-glyphicon-user:before{content:"\e008"}.js-glyphicon-film:before{content:"\e009"}.js-glyphicon-th-large:before{content:"\e010"}.js-glyphicon-th:before{content:"\e011"}.js-glyphicon-th-list:before{content:"\e012"}.js-glyphicon-ok:before{content:"\e013"}.js-glyphicon-remove:before{content:"\e014"}.js-glyphicon-zoom-in:before{content:"\e015"}.js-glyphicon-zoom-out:before{content:"\e016"}.js-glyphicon-off:before{content:"\e017"}.js-glyphicon-signal:before{content:"\e018"}.js-glyphicon-cog:before{content:"\e019"}.js-glyphicon-trash:before{content:"\e020"}.js-glyphicon-home:before{content:"\e021"}.js-glyphicon-file:before{content:"\e022"}.js-glyphicon-time:before{content:"\e023"}.js-glyphicon-road:before{content:"\e024"}.js-glyphicon-download-alt:before{content:"\e025"}.js-glyphicon-download:before{content:"\e026"}.js-glyphicon-upload:before{content:"\e027"}.js-glyphicon-inbox:before{content:"\e028"}.js-glyphicon-play-circle:before{content:"\e029"}.js-glyphicon-repeat:before{content:"\e030"}.js-glyphicon-refresh:before{content:"\e031"}.js-glyphicon-list-alt:before{content:"\e032"}.js-glyphicon-lock:before{content:"\e033"}.js-glyphicon-flag:before{content:"\e034"}.js-glyphicon-headphones:before{content:"\e035"}.js-glyphicon-volume-off:before{content:"\e036"}.js-glyphicon-volume-down:before{content:"\e037"}.js-glyphicon-volume-up:before{content:"\e038"}.js-glyphicon-qrcode:before{content:"\e039"}.js-glyphicon-barcode:before{content:"\e040"}.js-glyphicon-tag:before{content:"\e041"}.js-glyphicon-tags:before{content:"\e042"}.js-glyphicon-book:before{content:"\e043"}.js-glyphicon-bookmark:before{content:"\e044"}.js-glyphicon-print:before{content:"\e045"}.js-glyphicon-camera:before{content:"\e046"}.js-glyphicon-font:before{content:"\e047"}.js-glyphicon-bold:before{content:"\e048"}.js-glyphicon-italic:before{content:"\e049"}.js-glyphicon-text-height:before{content:"\e050"}.js-glyphicon-text-width:before{content:"\e051"}.js-glyphicon-align-left:before{content:"\e052"}.js-glyphicon-align-center:before{content:"\e053"}.js-glyphicon-align-right:before{content:"\e054"}.js-glyphicon-align-justify:before{content:"\e055"}.js-glyphicon-list:before{content:"\e056"}.js-glyphicon-indent-left:before{content:"\e057"}.js-glyphicon-indent-right:before{content:"\e058"}.js-glyphicon-facetime-video:before{content:"\e059"}.js-glyphicon-picture:before{content:"\e060"}.js-glyphicon-map-marker:before{content:"\e062"}.js-glyphicon-adjust:before{content:"\e063"}.js-glyphicon-tint:before{content:"\e064"}.js-glyphicon-edit:before{content:"\e065"}.js-glyphicon-share:before{content:"\e066"}.js-glyphicon-check:before{content:"\e067"}.js-glyphicon-move:before{content:"\e068"}.js-glyphicon-step-backward:before{content:"\e069"}.js-glyphicon-fast-backward:before{content:"\e070"}.js-glyphicon-backward:before{content:"\e071"}.js-glyphicon-play:before{content:"\e072"}.js-glyphicon-pause:before{content:"\e073"}.js-glyphicon-stop:before{content:"\e074"}.js-glyphicon-forward:before{content:"\e075"}.js-glyphicon-fast-forward:before{content:"\e076"}.js-glyphicon-step-forward:before{content:"\e077"}.js-glyphicon-eject:before{content:"\e078"}.js-glyphicon-chevron-left:before{content:"\e079"}.js-glyphicon-chevron-right:before{content:"\e080"}.js-glyphicon-plus-sign:before{content:"\e081"}.js-glyphicon-minus-sign:before{content:"\e082"}.js-glyphicon-remove-sign:before{content:"\e083"}.js-glyphicon-ok-sign:before{content:"\e084"}.js-glyphicon-question-sign:before{content:"\e085"}.js-glyphicon-info-sign:before{content:"\e086"}.js-glyphicon-screenshot:before{content:"\e087"}.js-glyphicon-remove-circle:before{content:"\e088"}.js-glyphicon-ok-circle:before{content:"\e089"}.js-glyphicon-ban-circle:before{content:"\e090"}.js-glyphicon-arrow-left:before{content:"\e091"}.js-glyphicon-arrow-right:before{content:"\e092"}.js-glyphicon-arrow-up:before{content:"\e093"}.js-glyphicon-arrow-down:before{content:"\e094"}.js-glyphicon-share-alt:before{content:"\e095"}.js-glyphicon-resize-full:before{content:"\e096"}.js-glyphicon-resize-small:before{content:"\e097"}.js-glyphicon-exclamation-sign:before{content:"\e101"}.js-glyphicon-gift:before{content:"\e102"}.js-glyphicon-leaf:before{content:"\e103"}.js-glyphicon-fire:before{content:"\e104"}.js-glyphicon-eye-open:before{content:"\e105"}.js-glyphicon-eye-close:before{content:"\e106"}.js-glyphicon-warning-sign:before{content:"\e107"}.js-glyphicon-plane:before{content:"\e108"}.js-glyphicon-calendar:before{content:"\e109"}.js-glyphicon-random:before{content:"\e110"}.js-glyphicon-comment:before{content:"\e111"}.js-glyphicon-magnet:before{content:"\e112"}.js-glyphicon-chevron-up:before{content:"\e113"}.js-glyphicon-chevron-down:before{content:"\e114"}.js-glyphicon-retweet:before{content:"\e115"}.js-glyphicon-shopping-cart:before{content:"\e116"}.js-glyphicon-folder-close:before{content:"\e117"}.js-glyphicon-folder-open:before{content:"\e118"}.js-glyphicon-resize-vertical:before{content:"\e119"}.js-glyphicon-resize-horizontal:before{content:"\e120"}.js-glyphicon-hdd:before{content:"\e121"}.js-glyphicon-bullhorn:before{content:"\e122"}.js-glyphicon-bell:before{content:"\e123"}.js-glyphicon-certificate:before{content:"\e124"}.js-glyphicon-thumbs-up:before{content:"\e125"}.js-glyphicon-thumbs-down:before{content:"\e126"}.js-glyphicon-hand-right:before{content:"\e127"}.js-glyphicon-hand-left:before{content:"\e128"}.js-glyphicon-hand-up:before{content:"\e129"}.js-glyphicon-hand-down:before{content:"\e130"}.js-glyphicon-circle-arrow-right:before{content:"\e131"}.js-glyphicon-circle-arrow-left:before{content:"\e132"}.js-glyphicon-circle-arrow-up:before{content:"\e133"}.js-glyphicon-circle-arrow-down:before{content:"\e134"}.js-glyphicon-globe:before{content:"\e135"}.js-glyphicon-wrench:before{content:"\e136"}.js-glyphicon-tasks:before{content:"\e137"}.js-glyphicon-filter:before{content:"\e138"}.js-glyphicon-briefcase:before{content:"\e139"}.js-glyphicon-fullscreen:before{content:"\e140"}.js-glyphicon-dashboard:before{content:"\e141"}.js-glyphicon-paperclip:before{content:"\e142"}.js-glyphicon-heart-empty:before{content:"\e143"}.js-glyphicon-link:before{content:"\e144"}.js-glyphicon-phone:before{content:"\e145"}.js-glyphicon-pushpin:before{content:"\e146"}.js-glyphicon-usd:before{content:"\e148"}.js-glyphicon-gbp:before{content:"\e149"}.js-glyphicon-sort:before{content:"\e150"}.js-glyphicon-sort-by-alphabet:before{content:"\e151"}.js-glyphicon-sort-by-alphabet-alt:before{content:"\e152"}.js-glyphicon-sort-by-order:before{content:"\e153"}.js-glyphicon-sort-by-order-alt:before{content:"\e154"}.js-glyphicon-sort-by-attributes:before{content:"\e155"}.js-glyphicon-sort-by-attributes-alt:before{content:"\e156"}.js-glyphicon-unchecked:before{content:"\e157"}.js-glyphicon-expand:before{content:"\e158"}.js-glyphicon-collapse-down:before{content:"\e159"}.js-glyphicon-collapse-up:before{content:"\e160"}.js-glyphicon-log-in:before{content:"\e161"}.js-glyphicon-flash:before{content:"\e162"}.js-glyphicon-log-out:before{content:"\e163"}.js-glyphicon-new-window:before{content:"\e164"}.js-glyphicon-record:before{content:"\e165"}.js-glyphicon-save:before{content:"\e166"}.js-glyphicon-open:before{content:"\e167"}.js-glyphicon-saved:before{content:"\e168"}.js-glyphicon-import:before{content:"\e169"}.js-glyphicon-export:before{content:"\e170"}.js-glyphicon-send:before{content:"\e171"}.js-glyphicon-floppy-disk:before{content:"\e172"}.js-glyphicon-floppy-saved:before{content:"\e173"}.js-glyphicon-floppy-remove:before{content:"\e174"}.js-glyphicon-floppy-save:before{content:"\e175"}.js-glyphicon-floppy-open:before{content:"\e176"}.js-glyphicon-credit-card:before{content:"\e177"}.js-glyphicon-transfer:before{content:"\e178"}.js-glyphicon-cutlery:before{content:"\e179"}.js-glyphicon-header:before{content:"\e180"}.js-glyphicon-compressed:before{content:"\e181"}.js-glyphicon-earphone:before{content:"\e182"}.js-glyphicon-phone-alt:before{content:"\e183"}.js-glyphicon-tower:before{content:"\e184"}.js-glyphicon-stats:before{content:"\e185"}.js-glyphicon-sd-video:before{content:"\e186"}.js-glyphicon-hd-video:before{content:"\e187"}.js-glyphicon-subtitles:before{content:"\e188"}.js-glyphicon-sound-stereo:before{content:"\e189"}.js-glyphicon-sound-dolby:before{content:"\e190"}.js-glyphicon-sound-5-1:before{content:"\e191"}.js-glyphicon-sound-6-1:before{content:"\e192"}.js-glyphicon-sound-7-1:before{content:"\e193"}.js-glyphicon-copyright-mark:before{content:"\e194"}.js-glyphicon-registration-mark:before{content:"\e195"}.js-glyphicon-cloud-download:before{content:"\e197"}.js-glyphicon-cloud-upload:before{content:"\e198"}.js-glyphicon-tree-conifer:before{content:"\e199"}.js-glyphicon-tree-deciduous:before{content:"\e200"}
+*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+*:before,
+*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+img{vertical-align: middle;}
+.js-img-responsive,.js-thumbnail>img,.js-thumbnail a>img{display:block;width:100% \9;max-width:100%;height:auto}.js-img-rounded{border-radius:6px}.js-img-thumbnail{padding:4px;line-height:1.42857143;background-color:#fff;border:1px solid #ddd;border-radius:4px;-webkit-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out;display:inline-block;width:100% \9;max-width:100%;height:auto}.js-img-circle{border-radius:50%}hr{margin-top:20px;margin-bottom:20px;border:0;border-top:1px solid #eee}.js-sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);border:0}.js-sr-only-focusable:active,.js-sr-only-focusable:focus{position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto}.js-container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}
+.js-container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}
+.js-row{margin-left:-15px;margin-right:-15px}
+.js-col-xs-1, .js-col-sm-1, .js-col-md-1, .js-col-lg-1, .js-col-xs-2, .js-col-sm-2, .js-col-md-2, .js-col-lg-2, .js-col-xs-3, .js-col-sm-3, .js-col-md-3, .js-col-lg-3, .js-col-xs-4, .js-col-sm-4, .js-col-md-4, .js-col-lg-4, .js-col-xs-5, .js-col-sm-5, .js-col-md-5, .js-col-lg-5, .js-col-xs-6, .js-col-sm-6, .js-col-md-6, .js-col-lg-6, .js-col-xs-7, .js-col-sm-7, .js-col-md-7, .js-col-lg-7, .js-col-xs-8, .js-col-sm-8, .js-col-md-8, .js-col-lg-8, .js-col-xs-9, .js-col-sm-9, .js-col-md-9, .js-col-lg-9, .js-col-xs-10, .js-col-sm-10, .js-col-md-10, .js-col-lg-10, .js-col-xs-11, .js-col-sm-11, .js-col-md-11, .js-col-lg-11, .js-col-xs-12, .js-col-sm-12, .js-col-md-12, .js-col-lg-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.js-col-xs-1, .js-col-xs-2, .js-col-xs-3, .js-col-xs-4, .js-col-xs-5, .js-col-xs-6, .js-col-xs-7, .js-col-xs-8, .js-col-xs-9, .js-col-xs-10, .js-col-xs-11, .js-col-xs-12{float:left}.js-col-xs-12{width:100%}.js-col-xs-11{width:91.66666667%}.js-col-xs-10{width:83.33333333%}.js-col-xs-9{width:75%}.js-col-xs-8{width:66.66666667%}.js-col-xs-7{width:58.33333333%}.js-col-xs-6{width:50%}.js-col-xs-5{width:41.66666667%}.js-col-xs-4{width:33.33333333%}.js-col-xs-3{width:25%}.js-col-xs-2{width:16.66666667%}.js-col-xs-1{width:8.33333333%}.js-col-xs-pull-12{right:100%}.js-col-xs-pull-11{right:91.66666667%}.js-col-xs-pull-10{right:83.33333333%}.js-col-xs-pull-9{right:75%}.js-col-xs-pull-8{right:66.66666667%}.js-col-xs-pull-7{right:58.33333333%}.js-col-xs-pull-6{right:50%}.js-col-xs-pull-5{right:41.66666667%}.js-col-xs-pull-4{right:33.33333333%}.js-col-xs-pull-3{right:25%}.js-col-xs-pull-2{right:16.66666667%}.js-col-xs-pull-1{right:8.33333333%}.js-col-xs-pull-0{right:auto}.js-col-xs-push-12{left:100%}.js-col-xs-push-11{left:91.66666667%}.js-col-xs-push-10{left:83.33333333%}.js-col-xs-push-9{left:75%}.js-col-xs-push-8{left:66.66666667%}.js-col-xs-push-7{left:58.33333333%}.js-col-xs-push-6{left:50%}.js-col-xs-push-5{left:41.66666667%}.js-col-xs-push-4{left:33.33333333%}.js-col-xs-push-3{left:25%}.js-col-xs-push-2{left:16.66666667%}.js-col-xs-push-1{left:8.33333333%}.js-col-xs-push-0{left:auto}.js-col-xs-offset-12{margin-left:100%}.js-col-xs-offset-11{margin-left:91.66666667%}.js-col-xs-offset-10{margin-left:83.33333333%}.js-col-xs-offset-9{margin-left:75%}.js-col-xs-offset-8{margin-left:66.66666667%}.js-col-xs-offset-7{margin-left:58.33333333%}.js-col-xs-offset-6{margin-left:50%}.js-col-xs-offset-5{margin-left:41.66666667%}.js-col-xs-offset-4{margin-left:33.33333333%}.js-col-xs-offset-3{margin-left:25%}.js-col-xs-offset-2{margin-left:16.66666667%}.js-col-xs-offset-1{margin-left:8.33333333%}.js-col-xs-offset-0{margin-left:0}
+.js-clearfix:before,.js-clearfix:after,.js-container:before,.js-container:after,.js-container-fluid:before,.js-container-fluid:after,.js-row:before,.js-row:after,.js-form-horizontal .js-form-group:before,.js-form-horizontal .js-form-group:after{content:" ";display:table}
+.js-clearfix:after,.js-container:after,.js-container-fluid:after,.js-row:after,.js-form-horizontal .js-form-group:after{clear:both}
+.js-visible-xs,.js-visible-sm,.js-visible-md,.js-visible-lg{display:none !important}
+.js-visible-xs-block,.js-visible-xs-inline,.js-visible-xs-inline-block,.js-visible-sm-block,.js-visible-sm-inline,.js-visible-sm-inline-block,.js-visible-md-block,.js-visible-md-inline,.js-visible-md-inline-block,.js-visible-lg-block,.js-visible-lg-inline,.js-visible-lg-inline-block{display:none !important}
+.js-visible-print{display:none !important}
+.js-visible-print-block{display:none !important}
+.js-visible-print-inline{display:none !important}
+.js-visible-print-inline-block{display:none !important}
+@-ms-viewport{width:device-width}
+@-webkit-keyframes progress-bar-stripes{from{background-position:40px 0}to{background-position:0 0}}
+@keyframes progress-bar-stripes{from{background-position:40px 0}to{background-position:0 0}}
+@media (min-width:768px){.js-container{width:750px}.js-col-sm-1, .js-col-sm-2, .js-col-sm-3, .js-col-sm-4, .js-col-sm-5, .js-col-sm-6, .js-col-sm-7, .js-col-sm-8, .js-col-sm-9, 	.js-col-sm-10, .js-col-sm-11, .js-col-sm-12{float:left}	.js-col-sm-12{width:100%}	.js-col-sm-11{width:91.66666667%}	.js-col-sm-10{width:83.33333333%}	.js-col-sm-9{width:75%}	.js-col-sm-8{width:66.66666667%}	.js-col-sm-7{width:58.33333333%}	.js-col-sm-6{width:50%}	.js-col-sm-5{width:41.66666667%}	.js-col-sm-4{width:33.33333333%}	.js-col-sm-3{width:25%}	.js-col-sm-2{width:16.66666667%}	.js-col-sm-1{width:8.33333333%}	.js-col-sm-pull-12{right:100%}	.js-col-sm-pull-11{right:91.66666667%}	.js-col-sm-pull-10{right:83.33333333%}	.js-col-sm-pull-9{right:75%}	.js-col-sm-pull-8{right:66.66666667%}	.js-col-sm-pull-7{right:58.33333333%}	.js-col-sm-pull-6{right:50%}	.js-col-sm-pull-5{right:41.66666667%}	.js-col-sm-pull-4{right:33.33333333%}	.js-col-sm-pull-3{right:25%}	.js-col-sm-pull-2{right:16.66666667%}	.js-col-sm-pull-1{right:8.33333333%}	.js-col-sm-pull-0{right:auto}	.js-col-sm-push-12{left:100%}	.js-col-sm-push-11{left:91.66666667%}	.js-col-sm-push-10{left:83.33333333%}	.js-col-sm-push-9{left:75%}	.js-col-sm-push-8{left:66.66666667%}	.js-col-sm-push-7{left:58.33333333%}	.js-col-sm-push-6{left:50%}	.js-col-sm-push-5{left:41.66666667%}	.js-col-sm-push-4{left:33.33333333%}	.js-col-sm-push-3{left:25%}	.js-col-sm-push-2{left:16.66666667%}	.js-col-sm-push-1{left:8.33333333%}	.js-col-sm-push-0{left:auto}	.js-col-sm-offset-12{margin-left:100%}	.js-col-sm-offset-11{margin-left:91.66666667%}	.js-col-sm-offset-10{margin-left:83.33333333%}	.js-col-sm-offset-9{margin-left:75%}	.js-col-sm-offset-8{margin-left:66.66666667%}	.js-col-sm-offset-7{margin-left:58.33333333%}	.js-col-sm-offset-6{margin-left:50%}	.js-col-sm-offset-5{margin-left:41.66666667%}	.js-col-sm-offset-4{margin-left:33.33333333%}	.js-col-sm-offset-3{margin-left:25%}	.js-col-sm-offset-2{margin-left:16.66666667%}	.js-col-sm-offset-1{margin-left:8.33333333%}.js-col-sm-offset-0{margin-left:0}}
+@media (min-width:992px){.js-container{width:970px}.js-col-md-1, .js-col-md-2, .js-col-md-3, .js-col-md-4, .js-col-md-5, .js-col-md-6, .js-col-md-7, .js-col-md-8, .js-col-md-9, 	.js-col-md-10, .js-col-md-11, .js-col-md-12{float:left}	.js-col-md-12{width:100%}	.js-col-md-11{width:91.66666667%}	.js-col-md-10{width:83.33333333%}	.js-col-md-9{width:75%}	.js-col-md-8{width:66.66666667%}	.js-col-md-7{width:58.33333333%}	.js-col-md-6{width:50%}	.js-col-md-5{width:41.66666667%}	.js-col-md-4{width:33.33333333%}	.js-col-md-3{width:25%}	.js-col-md-2{width:16.66666667%}	.js-col-md-1{width:8.33333333%}	.js-col-md-pull-12{right:100%}	.js-col-md-pull-11{right:91.66666667%}	.js-col-md-pull-10{right:83.33333333%}	.js-col-md-pull-9{right:75%}	.js-col-md-pull-8{right:66.66666667%}	.js-col-md-pull-7{right:58.33333333%}	.js-col-md-pull-6{right:50%}	.js-col-md-pull-5{right:41.66666667%}	.js-col-md-pull-4{right:33.33333333%}	.js-col-md-pull-3{right:25%}	.js-col-md-pull-2{right:16.66666667%}	.js-col-md-pull-1{right:8.33333333%}	.js-col-md-pull-0{right:auto}	.js-col-md-push-12{left:100%}	.js-col-md-push-11{left:91.66666667%}	.js-col-md-push-10{left:83.33333333%}	.js-col-md-push-9{left:75%}	.js-col-md-push-8{left:66.66666667%}	.js-col-md-push-7{left:58.33333333%}	.js-col-md-push-6{left:50%}	.js-col-md-push-5{left:41.66666667%}	.js-col-md-push-4{left:33.33333333%}	.js-col-md-push-3{left:25%}	.js-col-md-push-2{left:16.66666667%}	.js-col-md-push-1{left:8.33333333%}	.js-col-md-push-0{left:auto}	.js-col-md-offset-12{margin-left:100%}	.js-col-md-offset-11{margin-left:91.66666667%}	.js-col-md-offset-10{margin-left:83.33333333%}	.js-col-md-offset-9{margin-left:75%}	.js-col-md-offset-8{margin-left:66.66666667%}	.js-col-md-offset-7{margin-left:58.33333333%}	.js-col-md-offset-6{margin-left:50%}	.js-col-md-offset-5{margin-left:41.66666667%}	.js-col-md-offset-4{margin-left:33.33333333%}	.js-col-md-offset-3{margin-left:25%}	.js-col-md-offset-2{margin-left:16.66666667%}	.js-col-md-offset-1{margin-left:8.33333333%}.js-col-md-offset-0{margin-left:0}}
+@media (min-width:1200px){.js-container{width:1170px}.js-col-lg-1, .js-col-lg-2, .js-col-lg-3, .js-col-lg-4, .js-col-lg-5, .js-col-lg-6, .js-col-lg-7, .js-col-lg-8, 	.js-col-lg-9, .js-col-lg-10, .js-col-lg-11, .js-col-lg-12{float:left}	.js-col-lg-12{width:100%}	.js-col-lg-11{width:91.66666667%}	.js-col-lg-10{width:83.33333333%}	.js-col-lg-9{width:75%}	.js-col-lg-8{width:66.66666667%}	.js-col-lg-7{width:58.33333333%}	.js-col-lg-6{width:50%}	.js-col-lg-5{width:41.66666667%}	.js-col-lg-4{width:33.33333333%}	.js-col-lg-3{width:25%}	.js-col-lg-2{width:16.66666667%}	.js-col-lg-1{width:8.33333333%}	.js-col-lg-pull-12{right:100%}	.js-col-lg-pull-11{right:91.66666667%}	.js-col-lg-pull-10{right:83.33333333%}	.js-col-lg-pull-9{right:75%}	.js-col-lg-pull-8{right:66.66666667%}	.js-col-lg-pull-7{right:58.33333333%}	.js-col-lg-pull-6{right:50%}	.js-col-lg-pull-5{right:41.66666667%}	.js-col-lg-pull-4{right:33.33333333%}	.js-col-lg-pull-3{right:25%}	.js-col-lg-pull-2{right:16.66666667%}	.js-col-lg-pull-1{right:8.33333333%}	.js-col-lg-pull-0{right:auto}	.js-col-lg-push-12{left:100%}	.js-col-lg-push-11{left:91.66666667%}	.js-col-lg-push-10{left:83.33333333%}	.js-col-lg-push-9{left:75%}	.js-col-lg-push-8{left:66.66666667%}	.js-col-lg-push-7{left:58.33333333%}	.js-col-lg-push-6{left:50%}	.js-col-lg-push-5{left:41.66666667%}	.js-col-lg-push-4{left:33.33333333%}	.js-col-lg-push-3{left:25%}	.js-col-lg-push-2{left:16.66666667%}	.js-col-lg-push-1{left:8.33333333%}	.js-col-lg-push-0{left:auto}	.js-col-lg-offset-12{margin-left:100%}	.js-col-lg-offset-11{margin-left:91.66666667%}	.js-col-lg-offset-10{margin-left:83.33333333%}	.js-col-lg-offset-9{margin-left:75%}	.js-col-lg-offset-8{margin-left:66.66666667%}	.js-col-lg-offset-7{margin-left:58.33333333%}	.js-col-lg-offset-6{margin-left:50%}	.js-col-lg-offset-5{margin-left:41.66666667%}	.js-col-lg-offset-4{margin-left:33.33333333%}	.js-col-lg-offset-3{margin-left:25%}	.js-col-lg-offset-2{margin-left:16.66666667%}	.js-col-lg-offset-1{margin-left:8.33333333%}.js-col-lg-offset-0{margin-left:0}}
+@media (max-width:767px){.js-hidden-xs{display:none !important}.js-visible-xs-inline-block{display:inline-block !important}.js-visible-xs-inline{display:inline !important}.js-visible-xs-block{display:block !important}.js-visible-xs{display:block !important}}
+@media (min-width:768px) and (max-width:991px){.js-hidden-sm{display:none !important}.js-visible-sm-inline-block{display:inline-block !important}.js-visible-sm-inline{display:inline !important}.js-visible-sm-block{display:block !important}.js-visible-sm{display:block !important}}
+@media (min-width:992px) and (max-width:1199px){.js-hidden-md{display:none !important}.js-visible-md-inline-block{display:inline-block !important}.js-visible-md-inline{display:inline !important}.js-visible-md-block{display:block !important}.js-visible-md{display:block !important}}
+@media (min-width:1200px){.js-hidden-lg{display:none !important}.js-visible-lg-inline-block{display:inline-block !important}.js-visible-lg-inline{display:inline !important}.js-visible-lg-block{display:block !important}.js-visible-lg{display:block !important}}
+@media print{.js-hidden-print{display:none !important}.js-visible-print-inline-block{display:inline-block !important}.js-visible-print-inline{display:inline !important}.js-visible-print-block{display:block !important}.js-visible-print{display:block !important}}
+/**********************
+	general
+**********************/
+div.wjportal-main-up-wrapper {width: 98% !important;max-width: 1080px !important;margin: 0 auto;}
+div.wjportal-main-wrapper {position: relative;}
+.wjportal-clearfix::before,
+.wjportal-clearfix::after {content: '';display: block;clear: both;}
+div#wjportal-popup-background {display: none;position: fixed;top: 0px;left: 0px;width: 100%;height: 100%;z-index: 9998;}
+div.wjportal-main-wrapper div.wjportal-cp-header {float: left;width: 100%;padding-bottom: 15px;}
+div.wjportal-main-wrapper div.wjportal-cp-header span.wjportal-cp-header-txt {font-size: 25px;font-weight: bold;}
+div.frontend {width: 100%;display: inline-block;padding: 10px;font-size: 14px;margin-top: 20px;}
+div.frontend p {margin: 0px;padding-left: 30px;}
+div.error {background-image: url('../images/user-unpublish.png');background-repeat: no-repeat;background-position: left;background-origin: content-box;padding-left: 8px;}
+div.updated {background-image: url('../images/user-publish.png');background-repeat: no-repeat;background-position: left;background-origin: content-box;padding-left: 8px;}
+span.wjportal-featured-tag-icon-wrp {display: inline-block;}
+span.wjportal-featured-tag-icon-wrp span.wjportal-featured-tag-icon {display: inline-block;position: absolute;top: -45px;left: -20px;z-index: 1;transform: rotate(45deg);height: 100px;width: 50px;}
+span.wjportal-featured-tag-icon-wrp span.wjportal-featured-tag-icon i {position: absolute;bottom: 41px;right: 5px;font-size: 16px;}
+span.wjportal-featured-tag-icon-wrp span.wjportal-featured-hover-wrp {position: absolute;top: 3px;left: 28px;width: 170px;padding: 10px;text-align: center;font-size: 12px;transform: rotate(0deg);z-index: 1;}
+span.wjportal-featured-tag-icon-wrp span.wjportal-featured-hover-wrp::before {content: '';display: inline-block;position: absolute;top: 7px;left: -7px;}
+span.wjportal-featured-tag-wrp {display: inline-block;font-size: 14px;}
+span.wjportal-featured-tag-wrp span.wjportal-featured-waiting {display: inline-block;margin-left: 5px;}
+.wjportal-payment-act-btn {float: left;margin-right: 5px;padding: 9px 18px;text-decoration: underline;font-size: 14px;line-height: unset;border-radius: 0;font-weight: normal;}
+.wjportal-payment-act-btn.wjportal-resumesearch-act-btn {float: unset;padding: 6px 15px;}
+.wjportal-show-contact-det-btn {float: left;margin-bottom: 20px;padding: 9px 18px;text-decoration: underline;font-size: 14px;}
+.wjportal-resume-adv-act-c-detail-btn {margin-bottom: 20px;padding: 9px 18px;}
+div.wjportal-payment-action-wrp {float: left;width: 100%;padding: 15px;}
+div.wjportal-visitor-apply-job-message {float: left;width: 100%;margin-bottom: 10px;padding: 10px;font-size: 14px;}
+div.wjportal-visitor-apply-job-message img {display: inline-block;margin-right: 5px;}
+iframe#jobseekermessage_ifr {height: 100px !important;}
+div.wjportal-container-small label {float: left;width: 100%;margin-bottom: 7px;font-weight: normal;font-size: 14px;}
+div.wjportal-container-small span#shortlist-stars {float: left;position: relative;padding: 12px 10px;}
+.wjportal-item-status {padding: 3px 10px;display: inline-block;font-size: 12px;border-radius: 3px;margin: 0 5px;}
+.wjportal-search-job-form #map {display: inline;}
+.wjportal-applied-job-resume-status {float: right;padding: 3px 10px;font-size: 13px;border-radius: 3px;}
+.wjportal-item-act-status {float: right;padding: 10px;font-size: 13px;}
+.wjportal-form-value #wp-description-wrap button{background: #f6f7f7 !important;color: #50575e !important;background-color: #f6f7f7 !important;}
+
+/**********************
+	pagination
+ **********************/
+div.wjportal-pagination-wrp {display: inline-block;width: 100%;text-align: center;font-size: 14px;padding: 20px;}
+div.wjportal-pagination-wrp span.page-numbers {display: inline-block;padding: 10px 20px;border-radius: 0;font-size: 16px;}
+div.wjportal-pagination-wrp a.page-numbers {display: inline-block;padding: 10px 20px;border-radius: 0;font-size: 16px;}
+
+/**********************
+	header
+**********************/
+div.wjportal-cp-header {padding-bottom: 15px;}
+div.wjportal-cp-header span.wjportal-cp-header-txt {display: inline-block;font-size: 25px;font-weight: bold;}
+div.wjportal-page-header {float: left;width: 100%;margin-bottom: 50px;}
+div.wjportal-page-header div.wjportal-page-header-cnt {float: left;width: 50%;}
+div.wjportal-page-header div.wjportal-page-heading {display: inline-block;font-weight: bold;width: 100%;font-size: 30px;position: relative;}
+div.wjportal-page-header div.wjportal-page-heading span.wjportal-company-salogon {display: inline-block;font-size: 15px;margin-left: 10px;font-weight: normal;}
+div.wjportal-page-header div.wjportal-header-actions {float: left;width: 50%;padding-top: 20px;}
+div.wjportal-page-header div.wjportal-header-actions div.wjportal-filter-wrp {float: right;}
+div.wjportal-page-header div.wjportal-header-actions div.wjportal-filter-wrp div.wjportal-filter {float: left;width: 180px;}
+div.wjportal-page-header div.wjportal-header-actions div.wjportal-filter-wrp div.wjportal-filter select {display: inline-block;width: 100%;height: 50px;padding: 10px;background-image: url('../../includes/images/selecticonb.png');background-repeat: no-repeat;background-size: 12px;background-position: calc(100% - 15px);-webkit-appearance: none;-moz-appearance: none;appearance: none;}
+div.wjportal-page-header div.wjportal-header-actions div.wjportal-filter-wrp div.wjportal-filter-image {float: left;height: 50px;}
+div.wjportal-page-header div.wjportal-header-actions div.wjportal-filter-wrp div.wjportal-filter-image a {display: inline-block;padding: 12px 8px;}
+div.wjportal-page-header div.wjportal-header-actions div.wjportal-filter-wrp div.wjportal-filter-image a img {display: inline-block;}
+div.wjportal-page-header div.wjportal-header-actions div.wjportal-act-btn-wrp {float: right;margin-right: 10px;}
+div.wjportal-page-header div.wjportal-header-actions div.wjportal-act-btn-wrp .wjportal-act-btn {display: inline-block;padding: 12px 15px;font-size: 14px;text-decoration: underline;height: 50px;}
+div.wjportal-page-header div.wjportal-header-actions div.wjportal-act-btn-wrp .wjportal-act-btn i {margin-right: 5px;}
+div.wjportal-page-header div.wjportal-header-actions div.wjportal-view-job-count {float: right;margin-right: 10px;}
+div.wjportal-page-header div.wjportal-header-actions div.wjportal-view-job-count span.wjportal-view-job-txt {display: inline-block;padding: 12px 15px;height: 50px;text-align: center;}
+
+/**********************
+	breadcrums
+**********************/
+div.wjportal-breadcrumbs-wrp {width: 100%;float: left;margin-top: 10px;}
+div.wjportal-breadcrumbs-wrp div.wjportal-breadcrumbs-home {width: 34px;height: 34px;padding: 0px;display: inline-block;}
+div.wjportal-breadcrumbs-wrp div.wjportal-breadcrumbs-home a {display: inline-block;}
+div.wjportal-breadcrumbs-wrp div.wjportal-breadcrumbs-home img.wjportal-breadcrumbs-homeicon {height: 30px;width: auto;margin: 2px 0 0 2px;}
+div.wjportal-breadcrumbs-wrp div.wjportal-breadcrumbs-links::after {content: '\002F';display: inline-block;padding: 0 7px;}
+div.wjportal-breadcrumbs-wrp div.wjportal-breadcrumbs-links:last-child::after {display: none;}
+div.wjportal-breadcrumbs-wrp div.wjportal-breadcrumbs-links {display: inline-block;font-size: 14px;}
+div.wjportal-breadcrumbs-wrp div.wjportal-breadcrumbs-firstlinks a.wjportal-breadcrumbs-link {text-decoration: none;box-shadow: none;}
+div.wjportal-breadcrumbs-wrp div.border-fix {display: inline-block;margin: 0 5px;}
+div.wjportal-breadcrumbs-wrp div.border-fix img.img-fix {}
+
+/***********************
+	error messages
+************************/
+div.wjportal-error-messages-wrp {display: inline-block;width: 100%;margin-bottom: 20px;text-align: center;}
+div.wjportal-error-messages-wrp div.wjportal-error-msg-image-wrp {display: inline-block;width: 100%;margin-bottom: 10px;}
+div.wjportal-error-messages-wrp div.wjportal-error-msg-image-wrp img.wjportal-error-msg-image {display: inline-block;max-width: 100%;height: auto;}
+div.wjportal-error-messages-wrp div.wjportal-error-msg-txt {display: inline-block;width: 100%;font-size: 20px;font-weight: bold;}
+div.wjportal-error-messages-wrp div.wjportal-error-msg-txt2 {display: inline-block;width: 100%;font-size: 16px;font-weight: normal;margin-top: 20px;}
+div.wjportal-error-messages-wrp div.wjportal-error-msg-actions-wrp {display: inline-block;width: 100%;}
+div.wjportal-error-messages-wrp div.wjportal-error-msg-actions-wrp .wjportal-error-msg-act-btn {padding: 10px 30px;margin: 30px 10px 0 0;display: inline-block;text-decoration: none;font-size: 14px;}
+div.wjportal-error-messages-wrp.wjportal-error-messages-style2 {text-align: center;}
+
+/**********************
+	jobs list
+**********************/
+div.wjportal-jobs-list-wrapper {float: left;width: 100%;}
+div.wjportal-jobs-list {float: left;;width: 100%;margin-bottom: 20px;position: relative;overflow: hidden;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp {float: left;width: 100%;padding: 20px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-logo {display: inline-block;width: 100px;height: 100px;float: left;text-align: center;position: relative;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-logo img {max-height: 100%;max-width: 100%;margin: auto;left: 0;top: 0;right: 0;bottom: 0;position: absolute;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp {display: inline-block;width: calc(100% - 100px);padding-left: 30px;}
+div.js_effect_preview div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp {margin-top: 15px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp {float: left;width: 70%;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp div.wjportal-jobs-data {padding-bottom: 5px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp div.wjportal-jobs-data:last-child {padding-bottom: 0;}
+div.js_effect_preview div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp div.wjportal-jobs-data {padding-bottom: 7px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp div.wjportal-jobs-data a.wjportal-companyname {font-size: 16px;text-decoration: underline;display: inline-block;} 
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp div.wjportal-jobs-data span.wjportal-job-title {font-size: 18px;font-weight: bold;display: inline-block;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp div.wjportal-jobs-data span.wjportal-jobs-data-text {display: inline-block;font-size: 14px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp div.wjportal-jobs-data span.wjportal-jobs-data-text::after {content:'\007C';padding: 0 10px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp div.wjportal-jobs-data span.wjportal-jobs-data-text:last-child::after {display: none;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp div.wjportal-shortlist-job-comments {float: left;width: 100%;font-size: 14px;padding-bottom: 5px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp div.wjportal-shortlist-job-comments span.wjportal-shortlist-job-comment-tit {display: inline-block;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-middle-wrp div.wjportal-shortlist-job-comments span.wjportal-shortlist-job-comment-val {display: inline-block;margin-left: 5px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-right-wrp {float: left;width: 30%;text-align: right;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-right-wrp div.wjportal-jobs-info {padding-bottom: 5px;font-size: 14px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-right-wrp div.wjportal-jobs-info:last-child {padding-bottom: 0;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-right-wrp div.wjportal-jobs-info span.wjportal-job-type {padding: 3px 10px;display: inline-block;font-size: 13px;border-radius: 3px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-right-wrp div.wjportal-jobs-info div.wjportal-jobs-salary {font-size: 16px;font-weight: bold;display: inline-block;}
+div.wjportal-jobs-list div.wjportal-jobs-list-top-wrp div.wjportal-jobs-cnt-wrp div.wjportal-jobs-right-wrp div.wjportal-jobs-info div.wjportal-jobs-salary span.wjportal-salary-type {font-size: 12px;font-weight: normal;display: inline-block;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp {float: left;width: 100%;padding: 20px;font-size: 14px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-jobs-list-resume-wrp {float: left;width: 100%;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-jobs-list-resume-wrp div.wjportal-jobs-list-resume-data {float: left;margin-right: 20px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-jobs-list-resume-wrp div.wjportal-jobs-list-resume-data span.wjportal-jobs-list-resume-tit {display: inline-block;margin-right: 5px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-jobs-list-resume-wrp .wjportal-payment-act-btn {margin: 0;float: none;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-jobs-action-wrp {float: left;width: 100%;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-jobs-action-wrp a.wjportal-jobs-act-btn {float: left;margin-right: 5px;padding: 9px 18px;text-decoration: underline;font-size: 14px;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-jobs-action-wrp a.wjportal-jobs-apply-res {text-decoration: none;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-shortlist-stars {float: right;}
+
+/**********************
+ 	view job detail
+**********************/
+div.wjportal-jobdetail-wrapper {float: left;width: 100%;}
+div.wjportal-jobdetail-wrapper div.wjportal-jobinfo-wrp {float: left;width: 100%;margin-bottom: 40px;}
+div.wjportal-jobdetail-wrapper div.wjportal-jobinfo-wrp div.wjportal-jobinfo {float: left;margin: 5px 15px 5px 0;font-size: 14px;}
+div.wjportal-jobdetail-wrapper div.wjportal-jobinfo-wrp div.wjportal-jobinfo img {display: inline-block;margin-right: 3px;}
+div.wjportal-jobdetail-wrapper div.wjportal-jobinfo-wrp div.wjportal-jobinfo span.wjportal-jobinfo-data {display: inline-block;vertical-align: middle;}
+div.wjportal-jobdetail-wrapper div.wjportal-jobinfo-wrp div.wjportal-jobinfo span.wjportal-jobtype {display: inline-block;padding: 3px 15px;vertical-align: middle;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp {float: left;width: 100%;margin-bottom: 40px;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-logo {float: left;position: relative;width: 150px;height: 150px;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-logo img.wjportal-job-company-logo-image {max-width: 90%;max-height: 90%;position: absolute;top: 0;left: 0;right: 0;bottom: 0;margin: auto;display: inline-block;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-cnt {float: left;width: calc(100% - 150px);padding: 0 0 0 20px;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-cnt div.wjportal-job-company-info {padding-bottom: 10px;font-size: 14px;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-cnt div.wjportal-job-company-info a.wjportal-job-company-name {display: inline-block;font-size: 18px;text-decoration: underline;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-cnt div.wjportal-job-company-info span.wjportal-job-company-info-tit {margin-right: 3px;display: inline-block;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-cnt div.wjportal-job-company-info span.wjportal-job-company-info-val {display: inline-block;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-btn-wrp {}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-btn-wrp .wjportal-job-company-apply-status {display: inline-block;padding: 7px 20px;font-size: 14px;cursor: pointer;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-btn-wrp .wjportal-job-company-btn {display: inline-block;padding: 7px 20px;margin-right: 5px;font-size: 14px;cursor: pointer;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp div.wjportal-job-company-btn-wrp .wjportal-job-jobapply-btn {display: inline-block;padding: 7px 20px;margin-right: 5px;font-size: 14px;cursor: pointer;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-company-wrp .wjportal-job-act-btn {display: inline-block;padding: 7px 20px;margin-left: 5px;font-size: 14px;cursor: pointer;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-sec-title {float: left;width: 100%;margin-bottom: 15px;font-size: 16px;font-weight: bold;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-desc {float: left;width: 100%;font-size: 14px;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp {float: left;width: 100%;margin-bottom: 40px;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp:last-child {margin-bottom: 0;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-job-data {float: left;width: calc(100% / 2 - 20px);padding: 15px;font-size: 14px;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-job-data:nth-child(even) {margin-right: 10px;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-job-data:nth-child(odd) {margin-left: 10px;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-job-data span.wjportal-job-data-tit {display: inline-block;margin-right: 3px;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-job-data span.wjportal-job-data-val {display: inline-block;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-map {float: left;width: 100%;margin: 20px 0;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-btn-wrp {float: left;width: 100%;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-btn-wrp .wjportal-job-act-btn {display: inline-block;width: 100%;padding: 10px;height: 45px;font-size: 14px;text-align: center;cursor: pointer;}
+
+/* job detail custom fields */
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-custom-field {float: left;width: calc(100% / 2 - 20px);padding: 15px;font-size: 14px;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-custom-field:nth-child(even) {margin-right: 10px;}
+div.wjportal-jobdetail-wrapper div.wjportal-job-data-wrp div.wjportal-custom-field:nth-child(odd) {margin-left: 10px;}
+
+/************************
+	popup action overlay
+***********************/
+div.wjportal-popup-wrp div.transparentbg {background: rgba(250,250,250,0.4);position: absolute;height: 100%;top: 0;left: 0px;width: 100%;z-index:998;}
+div.wjportal-popup-wrp div.transparentbg.loading {background-image: url(../images/load.gif);background-position: center;background-repeat: no-repeat;}
+div.wjportal-popup-wrp div#notification-ok .wjportal-job-act-btn {display: inline-block;margin-left: 5px;font-weight: bold;font-size: 16px;}
+
+/**********************
+ 	social share
+**********************/
+div.wjportal-social-share-wrp {float: left;width: 100%;margin: 20px 0;}
+div.wjportal-social-share-wrp div.wjportal-social-share-sec-title {float: left;width: 100%;margin-bottom: 10px;font-size: 16px;font-weight: bold;}
+div.wjportal-social-share-wrp div.wjportal-social-share {float: left;width: 100%;margin-bottom: 10px;}
+div.wjportal-social-share-wrp div.wjportal-social-share .wjportal-social-share-link {float: left;margin-right: 5px;}
+div.wjportal-social-share-wrp div.wjportal-social-share-footer {float: left;width: 100%;}
+div.wjportal-social-share-wrp div.wjportal-social-share-footer div.wjportal-social-share-panel {float: left;width: 100%;}
+div.wjportal-social-share-wrp div.wjportal-social-share-footer div.wjportal-social-share-panel div.jportal-social-share-content {float: left;width: 100%;margin-bottom: 10px;}
+
+/********************
+	google recaptcha
+********************/
+
+.g-recaptcha{
+   float: left;
+   width: 100%;
+   padding: 15px 0px;
+   border-top: 1px solid #d1d1d1;
+}
+.recaptcha-wrp{
+   float: left;
+   width: 100%;
+   padding: 15px 0px;
+   border-top: 1px solid #d1d1d1;
+}
+
+/**********************
+ 	tags
+**********************/
+div.wjportal-tags-wrp {float: left;width: 100%;margin: 20px 0;}
+div.wjportal-tags-wrp div.wjportal-tags-sec-title {float: left;width: 100%;margin-bottom: 10px;font-size: 16px;font-weight: bold;}
+div.wjportal-tags-wrp .wjportal-tags-item {float: left;margin: 5px 5px 5px 0;padding: 10px 25px;font-size: 14px;}
+div.wjportal-tags-wrp .wpjobportal_tags_a.wjportal-tags {float: left;margin: 5px;padding: 10px 20px;font-size: 14px;}
+
+/**********************
+ 	facebook comment
+**********************/
+div.wjportal-fb-comments-wrp {float: left;width: 100%;margin: 20px 0;}
+div.wjportal-fb-comments-wrp div.wjportal-fb-comments-heading {float: left;width: 100%;margin-bottom: 10px;font-size: 16px;font-weight: bold;}
+div.wjportal-fb-comments-wrp div.wjportal-fb-comments-parent {float: left;width: 100%;margin-bottom: 10px;}
+div.wjportal-fb-comments-wrp div.wjportal-fb-comments-parent div.wjportal-fb-commentsheading {float: left;width: 100%;margin-bottom: 10px;font-size: 14px;}
+
+/**********************
+ 	company list
+**********************/
+div.wjportal-company-list-wrapper {float: left;width: 100%;}
+div.wjportal-company-list {display: inline-block;width: 100%;margin-bottom: 20px;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp {float: left;width: 100%;padding: 20px;position: relative;overflow: hidden;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-logo {display: inline-block;width: 100px;height: 100px;float: left;text-align: center;position: relative;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-logo img {max-height: 100%;max-width: 100%;margin: auto;left: 0;top: 0;right: 0;bottom: 0;position: absolute;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp {display: inline-block;width: calc(100% - 100px);padding-left: 30px;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-middle-wrp {float: left;width: 70%;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-middle-wrp div.wjportal-company-data {padding-bottom: 5px;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-middle-wrp div.wjportal-company-data:last-child {padding-bottom: 0;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-middle-wrp div.wjportal-company-data span.wjportal-companyname {font-size: 16px;text-decoration: underline;display: inline-block;} 
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-middle-wrp div.wjportal-company-data span.wjportal-company-title {font-size: 18px;font-weight: bold;display: inline-block;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-middle-wrp div.wjportal-company-data div.wjportal-company-data-text {display: inline-block;font-size: 14px;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-middle-wrp div.wjportal-company-data div.wjportal-company-data-text::after {content:'\007C';padding: 0 10px;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-middle-wrp div.wjportal-company-data div.wjportal-company-data-text:last-child::after {display: none;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-middle-wrp div.wjportal-company-data div.wjportal-company-data-text span.wjportal-company-data-title {display: inline-block;margin-right: 3px;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-middle-wrp div.wjportal-company-data div.wjportal-company-data-text span.wjportal-company-data-value {display: inline-block;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-right-wrp {float: left;width: 30%;text-align: right;padding-top: 30px;}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-right-wrp div.wjportal-company-action {}
+div.wjportal-company-list div.wjportal-company-list-top-wrp div.wjportal-company-cnt-wrp div.wjportal-company-right-wrp div.wjportal-company-action .wjportal-company-act-btn {display: inline-block;min-width: 100px;text-align: center;padding: 9px 18px;font-size: 14px;}
+div.wjportal-company-list div.wjportal-company-list-btm-wrp {float: left;width: 100%;padding: 20px;font-size: 14px;}
+div.wjportal-company-list div.wjportal-company-list-btm-wrp div.wjportal-company-action-wrp {float: left;width: 100%;}
+div.wjportal-company-list div.wjportal-company-list-btm-wrp div.wjportal-company-action-wrp .wjportal-company-act-btn {float: left;margin-right: 5px;padding: 9px 18px;text-decoration: underline;font-size: 14px;}
+
+/**********************
+ 	company detail
+**********************/
+div.wjportal-companydetail-wrapper {float: left;width: 100%;}
+div.wjportal-companydetail-wrapper div.wjportal-company-desc {float: left;width: 100%;font-size: 14px;margin-bottom: 10px;}
+div.wjportal-companydetail-wrapper div.wjportal-companyinfo-wrp {float: left;width: 100%;margin-bottom: 40px;}
+div.wjportal-companydetail-wrapper div.wjportal-companyinfo-wrp div.wjportal-companyinfo {float: left;margin: 5px 15px 5px 0;font-size: 14px;}
+div.wjportal-companydetail-wrapper div.wjportal-companyinfo-wrp div.wjportal-companyinfo img {display: inline-block;margin-right: 3px;}
+div.wjportal-companydetail-wrapper div.wjportal-companyinfo-wrp div.wjportal-companyinfo span.wjportal-companyinfo-data {display: inline-block;vertical-align: middle;}
+div.wjportal-companydetail-wrapper div.wjportal-companyinfo-wrp div.wjportal-companyinfo span.wjportal-comp-status {display: inline-block;padding: 3px 15px;vertical-align: middle;}
+div.wjportal-companydetail-wrapper div.wjportal-company-wrp {float: left;width: 100%;margin-bottom: 40px;}
+div.wjportal-companydetail-wrapper div.wjportal-company-wrp div.wjportal-company-logo {float: left;position: relative;width: 150px;height: 150px;}
+div.wjportal-companydetail-wrapper div.wjportal-company-wrp div.wjportal-company-logo img.wjportal-company-logo-image {max-width: 90%;max-height: 90%;position: absolute;top: 0;left: 0;right: 0;bottom: 0;margin: auto;display: inline-block;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp {float: left;width: 100%;margin-bottom: 40px;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-company-sec-title {float: left;width: 100%;margin-bottom: 15px;font-size: 16px;font-weight: bold;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-company-two_column {float: left;width: 100%;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-company-data {float: left;width: calc(100% / 2 - 20px);padding: 15px;font-size: 14px;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-company-data:nth-child(even) {margin-right: 10px;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-company-data:nth-child(odd) {margin-left: 10px;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-company-data span.wjportal-company-data-tit {display: inline-block;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-company-data span.wjportal-company-data-val {display: inline-block;margin-left: 5px;}
+div.wjportal-companydetail-wrapper div.wjportal-company-btn-wrp {float: left;width: 100%;}
+div.wjportal-companydetail-wrapper div.wjportal-company-btn-wrp .wjportal-company-act-btn {display: inline-block;width: 100%;padding: 10px;height: 45px;font-size: 14px;text-align: center;cursor: pointer;}
+
+/* company detail custom fields */
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-custom-field {float: left;width: calc(100% / 2 - 20px);padding: 15px;font-size: 14px;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-custom-field:nth-child(even) {margin-right: 10px;}
+div.wjportal-companydetail-wrapper div.wjportal-company-data-wrp div.wjportal-custom-field:nth-child(odd) {margin-left: 10px;}
+
+
+/**********************
+	department list
+**********************/
+div.wjportal-department-list-wrapper {float: left;width: 100%;}
+div.wjportal-department-list {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp {float: left;width: 100%;padding: 20px;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp {float: left;width: 100%;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-middle-wrp {float: left;width: 85%;font-size: 14px;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-middle-wrp div.wjportal-department-data {padding-bottom: 5px;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-middle-wrp div.wjportal-department-data:last-child {padding-bottom: 0;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-middle-wrp div.wjportal-department-data div.wjportal-department-title {font-size: 16px;font-weight: bold;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-middle-wrp div.wjportal-department-data div.wjportal-department-info-data {display: inline-block;margin-right: 15px;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-middle-wrp div.wjportal-department-data div.wjportal-department-info-data a.wjportal-companyname {text-decoration: underline;display: inline-block;} 
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-middle-wrp div.wjportal-department-data div.wjportal-department-info-data span.wjportal-department-info-tit {display: inline-block;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-middle-wrp div.wjportal-department-data div.wjportal-department-info-data span.wjportal-department-info-val {display: inline-block;margin-left: 5px;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-middle-wrp div.wjportal-department-data div.wjportal-department-desc {padding: 5px 0;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 97%;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-middle-wrp div.wjportal-department-data div.wjportal-department-desc p {overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 97%;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-right-wrp {float: right;width: 15%;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-right-wrp div.wjportal-department-info {padding-bottom: 5px;font-size: 14px;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-right-wrp div.wjportal-department-info:last-child {padding-bottom: 0;}
+div.wjportal-department-list div.wjportal-department-list-top-wrp div.wjportal-department-cnt-wrp div.wjportal-department-right-wrp div.wjportal-department-info span.wjportal-department-status {padding: 5px 15px;display: inline-block;font-size: 13px;margin: 30px 0 0;}
+div.wjportal-department-list div.wjportal-department-list-btm-wrp {float: left;width: 100%;padding: 20px;font-size: 14px;}
+div.wjportal-department-list div.wjportal-department-list-btm-wrp div.wjportal-department-action-wrp {float: left;width: 100%;}
+div.wjportal-department-list div.wjportal-department-list-btm-wrp div.wjportal-department-action-wrp a.wjportal-department-act-btn {float: left;margin-right: 5px;padding: 9px 18px;text-decoration: underline;font-size: 14px;}
+
+/**********************
+	department detail
+**********************/
+div.wjportal-departmentdetail-wrapper {float: left;width: 100%;}
+div.wjportal-departmentdetail-wrapper div.wjportal-department-data-wrp {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-departmentdetail-wrapper div.wjportal-department-data-wrp div.wjportal-department-sec-title {float: left;width: 100%;font-size: 16px;font-weight: bold;}
+div.wjportal-departmentdetail-wrapper div.wjportal-department-data-wrp div.wjportal-department-data {float: left;margin-right: 15px;font-size: 14px;}
+div.wjportal-departmentdetail-wrapper div.wjportal-department-data-wrp div.wjportal-department-data a.wjportal-companyname {display: inline-block;}
+div.wjportal-departmentdetail-wrapper div.wjportal-department-data-wrp div.wjportal-department-data span.wjportal-department-data-tit {display: inline-block;}
+div.wjportal-departmentdetail-wrapper div.wjportal-department-data-wrp div.wjportal-department-data span.wjportal-department-data-val {display: inline-block;margin-left: 5px;}
+div.wjportal-departmentdetail-wrapper div.wjportal-department-data-wrp div.wjportal-department-desc {float: left;width: 100%;}
+div.wjportal-departmentdetail-wrapper div.wjportal-department-btn-wrp {float: left;width: 100%;}
+div.wjportal-departmentdetail-wrapper div.wjportal-department-btn-wrp .wjportal-department-act-btn {display: inline-block;width: 100%;padding: 10px;height: 45px;font-size: 14px;text-align: center;cursor: pointer;}
+
+/**********************
+	folder list
+**********************/
+div.wjportal-folder-list-wrapper {float: left;width: 100%;}
+div.wjportal-folder-list {float: left;width: 100%;padding: 15px;margin-bottom: 20px;}
+div.wjportal-folder-list div.wjportal-folder-title {float: left;width: 45%;padding: 6px 0;font-weight: bold;font-size: 16px;}
+div.wjportal-folder-list div.wjportal-folder-status {float: left;width: 15%;}
+div.wjportal-folder-list div.wjportal-folder-status span.wjportal-folder-status-text {display: inline-block;font-size: 14px;padding: 7px 10px;}
+div.wjportal-folder-list div.wjportal-folder-action-wrp {float: left;width: 40%;text-align: right;}
+div.wjportal-folder-list div.wjportal-folder-action-wrp .wjportal-folder-act-btn {display: inline-block;font-size: 14px;padding: 6px 15px;margin: 0 1px;text-decoration: underline;}
+
+/**********************
+	folder detail
+**********************/
+div.wjportal-folderdetail-wrapper {float: left;width: 100%;}
+div.wjportal-folderdetail-wrapper div.wjportal-folder-data-wrp {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-folderdetail-wrapper div.wjportal-folder-data-wrp div.wjportal-folder-sec-title {float: left;width: 100%;font-size: 16px;font-weight: bold;}
+div.wjportal-folderdetail-wrapper div.wjportal-folder-data-wrp div.wjportal-folder-data {float: left;margin-right: 15px;font-size: 14px;}
+div.wjportal-folderdetail-wrapper div.wjportal-folder-data-wrp div.wjportal-folder-desc {float: left;width: 100%;font-size: 14px;}
+
+/**********************
+	messages list
+**********************/
+div.wjportal-messages-list-wrapper {float: left;width: 100%;}
+div.wjportal-messages-list-wrapper div.wjportal-messages-list {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-messages-list-wrapper div.wjportal-messages-list div.wjportal-msg-list-top {float: left;width: 100%;padding: 15px;}
+div.wjportal-messages-list-wrapper div.wjportal-messages-list div.wjportal-msg-list-top div.wjportal-msg-name {float: left;font-size: 16px;font-weight: bold;}
+div.wjportal-messages-list-wrapper div.wjportal-messages-list div.wjportal-msg-list-btm {float: left;width: 100%;padding: 10px;}
+div.wjportal-messages-list-wrapper div.wjportal-messages-list div.wjportal-msg-list-btm div.wjportal-msg-info {float: left;width: 70%;}
+div.wjportal-messages-list-wrapper div.wjportal-messages-list div.wjportal-msg-list-btm div.wjportal-msg-info div.wjportal-msg-info-data {float: left;margin-right: 10px;font-size: 14px;padding: 6px 5px;}
+div.wjportal-messages-list-wrapper div.wjportal-messages-list div.wjportal-msg-list-btm div.wjportal-msg-info div.wjportal-msg-info-data span.wjportal-msg-info-data-tit {display: inline-block;}
+div.wjportal-messages-list-wrapper div.wjportal-messages-list div.wjportal-msg-list-btm div.wjportal-msg-info div.wjportal-msg-info-data span.wjportal-msg-info-data-val {display: inline-block;margin-left: 5px;}
+div.wjportal-messages-list-wrapper div.wjportal-messages-list div.wjportal-msg-list-btm div.wjportal-msg-action-wrp {float: left;width: 30%;text-align: right;}
+div.wjportal-messages-list-wrapper div.wjportal-messages-list div.wjportal-msg-list-btm div.wjportal-msg-action-wrp .wjportal-msg-act-btn {display: inline-block;padding: 5px 10px;font-size: 14px;text-decoration: underline;}
+
+/**********************
+	send messages
+**********************/
+div.wjportal-send-message-wrapper {float: left;width: 100%;}
+div.wjportal-send-message-wrapper div.wjportal-send-message {float: left;width: 100%;margin-bottom: 20px;font-size: 14px;}
+div.wjportal-send-message-wrapper div.wjportal-send-message div.wjportal-send-msg-subject {float: left;width: 100%;padding: 15px;font-weight: bold;}
+div.wjportal-send-message-wrapper div.wjportal-send-message div.wjportal-send-msg-text {float: left;width: 100%;padding: 15px;}
+div.wjportal-send-message-wrapper div.wjportal-send-message-form {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-send-message-wrapper div.wjportal-send-message-form div.wjportal-form-row {float: left;width: 100%;margin-bottom: 20px;font-size: 14px;}
+div.wjportal-send-message-wrapper div.wjportal-send-message-form div.wjportal-form-row div.wjportal-form-title {float: left;width: 100%;margin-bottom: 10px;font-weight: bold;}
+div.wjportal-send-message-wrapper div.wjportal-send-message-form div.wjportal-form-row div.wjportal-form-value {float: left;width: 100%;}
+div.wjportal-send-message-wrapper div.wjportal-send-message-form div.wjportal-form-btn-wrp {float: left;width: 100%;}
+div.wjportal-send-message-wrapper div.wjportal-send-message-form div.wjportal-form-btn-wrp .wjportal-form-btn {display: inline-block;padding: 10px 20px;text-decoration: underline;font-size: 14px;}
+div.wjportal-send-message-wrapper div.wjportal-message-history-wrp {float: left;width: 100%;}
+div.wjportal-send-message-wrapper div.wjportal-message-history-wrp div.wjportal-msg-history-title {float: left;width: 100%;font-size: 16px;font-weight: bold;margin-bottom: 10px;}
+div.wjportal-send-message-wrapper div.wjportal-message-history-wrp div.wjportal-msg-history {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-send-message-wrapper div.wjportal-message-history-wrp div.wjportal-msg-history div.wjportal-msg-history-image {float: left;height: 80px;width: 80px;position: relative;}
+div.wjportal-send-message-wrapper div.wjportal-message-history-wrp div.wjportal-msg-history div.wjportal-msg-history-image img {display: inline-block;max-width: 100%;max-height: 100%;}
+div.wjportal-send-message-wrapper div.wjportal-message-history-wrp div.wjportal-msg-history div.wjportal-msg-history-cnt {float: left;width: calc(100% - 80px);padding: 15px;}
+div.wjportal-send-message-wrapper div.wjportal-message-history-wrp div.wjportal-msg-history div.wjportal-msg-history-cnt div.wjportal-msg-history-top {float: left;width: 100%;font-size: 14px;padding-bottom: 10px;}
+div.wjportal-send-message-wrapper div.wjportal-message-history-wrp div.wjportal-msg-history div.wjportal-msg-history-cnt div.wjportal-msg-history-top span.wjportal-msg-history-name {float: left;font-size: 15px;font-weight: bold;text-decoration: underline;}
+div.wjportal-send-message-wrapper div.wjportal-message-history-wrp div.wjportal-msg-history div.wjportal-msg-history-cnt div.wjportal-msg-history-top span.wjportal-msg-history-created {float: left;margin-left: 10px;}
+div.wjportal-send-message-wrapper div.wjportal-message-history-wrp div.wjportal-msg-history div.wjportal-msg-history-cnt div.wjportal-msg-history-top span.wjportal-msg-history-status {float: right;display: inline-block;text-align: center;padding: 0px 5px;font-size: 12px;border-radius: 5px;}
+div.wjportal-send-message-wrapper div.wjportal-message-history-wrp div.wjportal-msg-history div.wjportal-msg-history-cnt div.wjportal-msg-history-text {float: left;width: 100%;font-size: 14px;}
+
+/**********************
+	jobs by catagory
+	resume by catagory
+**********************/
+div.wjportal-by-categories-main-wrp {float: left;width: 100%;}
+div.wjportal-by-categories-main-wrp div.wjportal-by-categories-row-wrp {float: left;width: 100%;}
+div.wjportal-by-categories-main-wrp div.wjportal-by-category-wrp {float: left;padding: 10px;font-size: 14px;position: relative;width: 100%;}
+div.wjportal-by-categories-main-wrp div.wjportal-by-category-wrp a {float: left;width: 100%;}
+div.wjportal-by-categories-main-wrp div.wjportal-by-category-wrp div.wjportal-by-category-item {float: left;width: 100%;padding: 15px;}
+div.wjportal-by-categories-main-wrp div.wjportal-by-category-wrp div.wjportal-by-category-item span.wjportal-by-category-item-title {display: inline-block;max-width: 80%;overflow: hidden;text-overflow: ellipsis;}
+div.wjportal-by-categories-main-wrp div.wjportal-by-category-wrp div.wjportal-by-category-item span.wjportal-by-category-item-number {float: right;}
+div.wjportal-by-categories-main-wrp div.wjportal-by-category-wrp div.wjportal-by-sub-catagory {position: absolute;top: 80%;left: 10px;right: 10px;height: auto;z-index: 9999;padding: 10px;float: none;width: auto;}
+div.wjportal-by-categories-main-wrp div.wjportal-by-category-wrp div.wjportal-by-category-item-btn-wrp {float: left;width: 100%;padding: 10px;}
+div.wjportal-by-categories-main-wrp div.wjportal-by-category-wrp div.wjportal-by-category-item-btn-wrp a.wjportal-by-category-item-btn {display: inline-block;width: 100%;padding: 10px;text-align: center;}
+
+/**********************
+	all popups
+**********************/
+div.wjportal-popup-wrp {display: none;box-sizing: border-box;position: fixed;top: 50%;left: 50%;width: 50%;z-index: 9999;transform: translate(-50%,-50%);-ms-transform: translate(-50%,-50%);}
+div.wjportal-popup-wrp div.wjportal-popup-cnt {float: left;width: 100%;padding: 15px;max-height: 450px;overflow-x: hidden;overflow-y: auto;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt img#wjportal-popup-close-btn {display: inline-block;position: absolute;top: -40px;right: -5px;cursor: pointer;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-title {float: left;width: 100%;font-size: 36px;padding: 0 0 20px;text-transform: capitalize;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-title span.wjportal-popup-title2 {display: inline-block;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-title div.wjportal-popup-title3 {font-size: 14px;font-weight: normal;padding-top: 5px;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-contentarea {float: left;width: 100%;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-contentarea div.wjportal-by-sub-catagory {float: left;width: 100%;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-contentarea div.wjportal-by-sub-catagory div.wjportal-by-category-wrp {float: left;padding: 10px;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-contentarea div.wjportal-by-sub-catagory div.wjportal-by-category-wrp a {float: left;width: 100%;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-contentarea div.wjportal-by-sub-catagory div.wjportal-by-category-wrp div.wjportal-by-category-item {float: left;width: 100%;padding: 15px;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-contentarea div.wjportal-by-sub-catagory div.wjportal-by-category-wrp div.wjportal-by-category-item span.wjportal-by-category-item-title {display: inline-block;max-width: 80%;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-contentarea div.wjportal-by-sub-catagory div.wjportal-by-category-wrp div.wjportal-by-category-item span.wjportal-by-category-item-number {float: right;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-contentarea ul.wjportal-popup-navigation {float: left;width: 100%;margin: 0;padding: 15px;list-style: none;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-contentarea ul.wjportal-popup-navigation li {margin: 0;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-field-wrp {float: left;width: 100%;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-field-wrp div.wjportal-popup-field {float: left;width: calc(50% - 10px);margin-bottom: 10px;font-size: 14px;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-field-wrp div.wjportal-popup-field:nth-child(even) {margin-left: 5px;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-field-wrp div.wjportal-popup-field:nth-child(odd) {margin-right: 5px;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-field-wrp div.wjportal-popup-fullwidth {width: 100%;margin-right: 0 !important;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-field-wrp div.wjportal-popup-field label {display: inline-block;width: 100%;margin-bottom: 7px;font-weight: normal;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-field-wrp div.wjportal-popup-field select {display: inline-block;width: 100%;height: 45px;padding: 10px;font-weight: normal;background-image: url('../../includes/images/selecticonb.png');background-repeat: no-repeat;background-size: 12px;background-position: calc(100% - 15px);-webkit-appearance: none;-moz-appearance: none;appearance: none;font-size: 14px;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-field-wrp div.wjportal-popup-field input[type="text"] {display: inline-block;width: 100%;height: 45px;padding: 10px;font-weight: normal;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-popup-field-wrp div.wjportal-popup-field textarea {display: inline-block;width: 100%;height: 100px;padding: 10px;font-weight: normal;}
+div.wjportal-popup-wrp div.wjportal-visitor-msg-wrp {float: left;width: 100%;padding: 10px 15px;font-size: 14px;}
+div.wjportal-popup-wrp div.wjportal-visitor-msg-wrp span.wjportal-visitor-msg {display: inline-block;width: 100%;}
+div.wjportal-popup-wrp div.wjportal-visitor-msg-wrp span.wjportal-visitor-msg img {display: inline-block;margin-right: 10px;vertical-align: middle;}
+div.wjportal-popup-wrp div.wjportal-visitor-msg-btn-wrp {float: left;width: 100%;margin: 10px 0;text-align: center;}
+div.wjportal-popup-wrp div.wjportal-visitor-msg-btn-wrp .wjportal-visitor-msg-btn {display: inline-block;width: 100%;cursor: pointer;height: 50px;padding: 10px;text-align: center;font-size: 14px;}
+div.wjportal-popup-wrp div.wjportal-visitor-msg-btn-wrp .wjportal-visitor-msg-btn.login {margin: 10px 0;}
+#notification-ok {float: left;width: 100%;text-align: left;padding: 10px 15px;font-size: 14px;z-index: 999;position: relative;}
+#notification-ok #popup_message {float: left;margin: 0;font-weight: normal;}
+#notification-ok #popup_message img {display: inline-block;margin-right: 5px;}
+#notification-ok button {float: right;}
+#notification-ok button img {display: inline-block;margin-right: 3px;}
+#notification-not-ok {float: left;width: 100%;text-align: left;padding: 10px 15px;font-size: 14px;}
+#notification-not-ok #popup_message {float: left;margin: 0;font-weight: normal;}
+#notification-not-ok #popup_message img {display: inline-block;margin-right: 5px;}
+#notification-not-ok button {float: right;}
+#notification-not-ok button img {display: inline-block;margin-right: 3px;}
+
+
+/**********************
+	payemet methods popup
+**********************/
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp {float: left;width: 100%;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp span.wjportal-payemt-method-item {float: left;width: calc(100% / 3);text-align: center;padding: 30px 10px;margin: 20px 0;position: relative;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp span.wjportal-payemt-method-item a {}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp span.wjportal-payemt-method-item img {cursor: pointer;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp span.wjportal-payemt-method-stripe {}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp span.wjportal-payemt-method-stripe form button {position: absolute;top: 0;left: 0;height: 100%;width: 100%;opacity: 0;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp div.wjportal-payemt-method-desc {float: left;width: 100%;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp div.wjportal-payemt-method-desc div.wjportal-payemt-method-desc-data {float: left;width: 100%;font-weight: normal;font-size: 14px;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp div.wjportal-payemt-method-desc div.wjportal-payemt-method-desc-data label {}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp div.wjportal-payemt-method-desc div.wjportal-payemt-method-desc-data span.wjportal-payemt-method-desc-txt {display: inline-block;width: 100%;padding-bottom: 15px;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp div.wjportal-payemt-method-desc form {display: inline-block;width: 100%;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp div.wjportal-payemt-method-desc form button.stripe-button-el {display: inline-block;width: 100%;border-radius: 0;box-shadow: unset;font-weight: normal;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp div.wjportal-payemt-method-desc form button span {display: inline-block;width: 100%;cursor: pointer;height: 50px;padding: 10px;text-align: center;border-radius: 0;background-image: none;box-shadow: unset;font-weight: normal;font-size: 14px;}
+div.wjportal-popup-wrp div.wjportal-popup-cnt div.wjportal-payemt-methods-wrp div.wjportal-payemt-method-desc .wjportal-payemt-method-desc-btn {display: inline-block;width: 100%;cursor: pointer;height: 50px;padding: 10px;text-align: center;border-radius: 0;background-image: none;box-shadow: unset;font-weight: normal;font-size: 14px;}
+
+/**********************
+	select packages popup
+**********************/
+div.wjportal-popup-wrp {padding-right: 0 !important;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp {float: left;width: 100%;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp div.wjportal-pkg-item {float: left;width: calc(100% / 2 - 10px);margin: 0 5px 20px;text-align: center;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp div.wjportal-pkg-item div.wjportal-pkg-item-top {float: left;width: 100%;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp div.wjportal-pkg-item div.wjportal-pkg-item-top div.wjportal-pkg-item-title {font-size: 16px;padding: 10px;font-weight: bold;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp div.wjportal-pkg-item div.wjportal-pkg-item-btm {float: left;width: 100%;font-size: 14px;padding: 10px 50px 20px;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp div.wjportal-pkg-item div.wjportal-pkg-item-btm div.wjportal-pkg-item-row {float: left;width: 100%;padding: 10px;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp div.wjportal-pkg-item div.wjportal-pkg-item-btm div.wjportal-pkg-item-row:last-child {padding-bottom: 0px;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp div.wjportal-pkg-item div.wjportal-pkg-item-btm div.wjportal-pkg-item-row span.wjportal-pkg-item-tit {display: inline-block;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp div.wjportal-pkg-item div.wjportal-pkg-item-btm div.wjportal-pkg-item-row span.wjportal-pkg-item-val {display: inline-block;margin-left: 5px;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp div.wjportal-pkg-item div.wjportal-pkg-item-btm div.wjportal-pkg-item-btn-row {float: left;width: 100%;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp div.wjportal-pkg-item div.wjportal-pkg-item-btm div.wjportal-pkg-item-btn-row .wjportal-pkg-item-btn {display: inline-block;width: 100%;font-size: 14px;padding: 7px 10px;}
+div.wjportal-popup-wrp div.wjportal-packages-wrp div.wjportal-pkg-help-txt {float: left;width: 100%;font-size: 14px;}
+
+/**********************
+	filter search
+**********************/
+div.wjportal-filter-search-main-wrp {float: left;width: 100%;padding: 15px 10px;margin-bottom: 30px;}
+div.wjportal-filter-search-main-wrp div.wjportal-filter-search-wrp {float: left;width: 100%;}
+div.wjportal-filter-search-main-wrp div.wjportal-filter-search-wrp div.wjportal-filter-search-field-wrp {float: left;width: calc(44.5% - 5px);margin-right: 5px;}
+div.wjportal-filter-search-main-wrp div.wjportal-filter-search-wrp div.wjportal-filter-search-field-wrp .wjportal-filter-search-input-field {display: inline-block;width: 100%;height: 50px;padding: 10px;}
+div.wjportal-filter-search-main-wrp div.wjportal-filter-search-wrp div.wjportal-filter-search-field-wrp ul.wpjobportal-input-list-wpjobportal {padding: 0;height: 50px !important;font-size: 14px;overflow-y: scroll;}
+div.wjportal-filter-search-main-wrp div.wjportal-filter-search-wrp div.wjportal-filter-search-field-wrp ul.wpjobportal-input-list-wpjobportal li.wpjobportal-input-token-wpjobportal {padding: 6px 10px;border-radius: 0;margin: 5px 0 5px 5px;}
+div.wjportal-filter-search-main-wrp div.wjportal-filter-search-wrp div.wjportal-filter-search-btn-wrp {float: left;width: 11%;}
+div.wjportal-filter-search-main-wrp div.wjportal-filter-search-wrp div.wjportal-filter-search-btn-wrp .wjportal-filter-search-btn {display: inline-block;padding: 0 10px;font-size: 36px;line-height: initial;height: 50px;}
+div.wjportal-filter-search-main-wrp div.wjportal-filter-search-wrp div.wjportal-filter-search-btn-wrp .wjportal-filter-reset-btn {display: inline-block;padding: 0 10px;font-size: 36px;line-height: initial;height: 50px;}
+
+/**********************
+	resume list
+**********************/
+div.wjportal-resume-list-wrp {float: left;width: 100%;}
+div.wjportal-resume-list-wrp div.wjportal-resume-app-title {float: left;width: 100%;margin: 10px 0 15px;font-size: 16px;font-weight: bold;}
+div.wjportal-resume-list {float: left;width: 100%;margin-bottom: 20px;position: relative;overflow: hidden;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp {float: left;width: 100%;padding: 20px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-logo {display: inline-block;width: 100px;height: 100px;float: left;text-align: center;position: relative;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-logo img {max-height: 100%;max-width: 100%;margin: auto;left: 0;top: 0;right: 0;bottom: 0;position: absolute;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp {display: inline-block;width: calc(100% - 100px);padding-left: 30px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-middle-wrp {float: left;width: 70%;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-middle-wrp div.wjportal-resume-data {padding-bottom: 5px;font-size: 14px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-middle-wrp div.wjportal-resume-data:last-child {padding-bottom: 0;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-middle-wrp div.wjportal-resume-data span.wjportal-resume-job-type {padding: 3px 10px;display: inline-block;font-size: 13px;border-radius: 3px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-middle-wrp div.wjportal-resume-data span.wjportal-resume-name {display: inline-block;font-size: 16px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-middle-wrp div.wjportal-resume-data span.wjportal-resume-title {display: inline-block;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-middle-wrp div.wjportal-resume-data div.wjportal-resume-data-text {display: inline-block;font-size: 14px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-middle-wrp div.wjportal-resume-data div.wjportal-resume-data-text::after {content: '\007C';padding: 0 10px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-middle-wrp div.wjportal-resume-data div.wjportal-resume-data-text:last-child::after {display: none;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-middle-wrp div.wjportal-resume-data div.wjportal-resume-data-text span.wjportal-resume-data-title {display: inline-block;margin-right: 3px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-middle-wrp div.wjportal-resume-data div.wjportal-resume-data-text span.wjportal-resume-data-value {display: inline-block;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp {float: left;width: 30%;text-align: right;padding-top: 30px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-action {}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-action .wjportal-resume-act-btn {display: inline-block;min-width: 100px;text-align: center;padding: 9px 18px;font-size: 14px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-status-wrp {float: right;width: 85%;font-size: 14px;padding: 10px;text-align: left;margin-top: -18px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-status-wrp span.wjportal-resume-status-heading {float: left;padding: 24px 15px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-status-wrp span.wjportal-resume-status-title {float: left;width: 100%;text-align: center;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-status-wrp div.wjportal-resume-status-counter {float: right;overflow: hidden;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-status-wrp div.wjportal-resume-status-counter div.js-mr-rp {float: none;display: inline-block;height: 70px;width: 70px;overflow: hidden;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-status-wrp div.wjportal-resume-status-counter div.js-mr-rp .circle .mask {clip: rect(0px, 70px, 70px, 35px);}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-status-wrp div.wjportal-resume-status-counter div.js-mr-rp .circle .mask .fill {clip: rect(0px, 35px, 70px, 0px);}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-status-wrp div.wjportal-resume-status-counter div.js-mr-rp .circle .mask, 
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-status-wrp div.wjportal-resume-status-counter div.js-mr-rp .circle .fill, 
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-status-wrp div.wjportal-resume-status-counter div.js-mr-rp .circle .shadow {height: 70px;width: 70px;}
+div.wjportal-resume-list div.wjportal-resume-list-top-wrp div.wjportal-resume-cnt-wrp div.wjportal-resume-right-wrp div.wjportal-resume-status-wrp div.wjportal-resume-status-counter div.js-mr-rp .inset {margin: 5px 0 0 5px;}
+div.wjportal-resume-list div.wjportal-resume-list-btm-wrp {float: left;width: 100%;padding: 20px;font-size: 14px;}
+div.wjportal-resume-list div.wjportal-resume-list-btm-wrp div.wjportal-resume-action-wrp {float: left;width: 100%;}
+div.wjportal-resume-list div.wjportal-resume-list-btm-wrp div.wjportal-resume-action-wrp .wjportal-resume-act-btn {float: left;margin: 3px;padding: 9px 18px;text-decoration: underline;font-size: 14px;}
+div.wjportal-resume-list div.wjportal-resume-list-btm-wrp div.wjportal-resume-action-wrp .wjportal-payment-act-btn {float: left;margin: 3px;padding: 9px 18px;text-decoration: underline;font-size: 14px;}
+
+/**********************
+	resume detail
+**********************/
+div.wjportal-resume-detail-wrapper {float: left;width: 100%;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-top-section {float: left;width: 100%;margin-bottom: 40px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-top-section div.wjportal-resume-image {float: left;position: relative;width: 150px;height: 150px;margin-bottom: 30px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-top-section div.wjportal-resume-image img {max-width: 100%;max-height: 100%;position: absolute;top: 0;left: 0;right: 0;bottom: 0;margin: auto;display: inline-block;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-top-section div.wjportal-resume-adv-act-wrp {float: right;margin-top: 50px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-top-section div.wjportal-resume-adv-act-wrp .wjportal-resume-adv-act-btn {display: inline-block;padding: 9px 18px;text-decoration: underline;font-size: 14px;border-radius: 0;line-height: normal;margin: 0 3px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-top-section div.wjportal-personal-data {float: left;width: 100%;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-top-section div.wjportal-personal-data div.wjportal-resume-title {float: left;width: 100%;font-size: 14px;margin-bottom: 10px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-top-section div.wjportal-personal-data div.wjportal-resume-info {float: left;margin: 5px 15px 5px 0;font-size: 14px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-top-section div.wjportal-personal-data div.wjportal-resume-info img {display: inline-block;margin-right: 7px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-top-section div.wjportal-personal-data div.wjportal-resume-info span.wjportal-jobtype {display: inline-block;padding: 3px 15px;vertical-align: middle;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-top-section div.wjportal-personal-data div.wjportal-resume-info .wjportal-resume-download-all-btn {padding: 9px 18px;text-decoration: underline;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-title {float: left;width: 100%;font-size: 20px;font-weight: bold;margin-bottom: 20px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper {float: left;width: 100%;margin-bottom: 40px;padding: 0 20px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper:last-child {margin-bottom: 0px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-sec-row {float: left;width: 100%;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-sec-row div.wjportal-resume-sec-data {float: left;width: calc(100% / 2 - 20px);padding: 15px 0;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-sec-row div.wjportal-resume-sec-data:nth-child(even) {margin-left: 10px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-sec-row div.wjportal-resume-sec-data:nth-child(odd) {margin-right: 10px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-sec-row div.wjportal-resume-sec-data div.wjportal-resume-sec-data-title {float: left;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-sec-row div.wjportal-resume-sec-data div.wjportal-resume-sec-data-value {float: left;margin-left: 8px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-inner-sec-heading {float: left;width: 100%;font-weight: 600;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-attachments-wrp div.wjportal-resume-sec-data.wjportal-resume-row-full-width {width: 100%;margin: 0;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-attachments-wrp div.wjportal-resume-sec-data div.wjportal-resume-sec-data-title {padding: 10px 0;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-attachments-wrp div.wjportal-resume-sec-data div.wjportal-resume-sec-data-value a {display: inline-block;margin: 5px 5px 5px 0px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-attachments-wrp div.wjportal-resume-sec-data div.wjportal-resume-sec-data-value a span.wjportal-resume-attachment-filename {display: inline-block;padding: 2px 10px;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-attachments-wrp div.wjportal-resume-sec-data div.wjportal-resume-sec-data-value a span.wjportal-resume-attachment-file-ext {}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-attachments-wrp div.wjportal-resume-sec-data div.wjportal-resume-sec-data-value a img.wjportal-resume-attachment-file-download {display: inline-block;padding: 5px;}
+/* apply message on view resume css */
+.wjportal-resume-row-full-width-row{width: 100%;margin: 0;}
+div.wjportal-resume-detail-wrapper div.wjportal-resume-section-wrapper div.wjportal-resume-sec-row div.wjportal-resume-sec-data.wjportal-resume-row-full-width{width: 100%;margin: 0;}
+/**********************
+	save search
+**********************/
+div.wjportal-save-search-list-wrapper {float: left;width: 100%;}
+div.wjportal-save-search-list {float: left;width: 100%;padding: 15px;margin-bottom: 20px;}
+div.wjportal-save-search-list div.wjportal-save-search-title {float: left;width: 45%;padding: 6px 0;font-weight: bold;font-size: 16px;}
+div.wjportal-save-search-list div.wjportal-save-search-created {float: left;width: 15%;}
+div.wjportal-save-search-list div.wjportal-save-search-created span.wjportal-save-search-created-text {display: inline-block;font-size: 14px;padding: 7px 10px;}
+div.wjportal-save-search-list div.wjportal-save-search-action-wrp {float: left;width: 40%;text-align: right;}
+div.wjportal-save-search-list div.wjportal-save-search-action-wrp .wjportal-save-search-act-btn {display: inline-block;font-size: 14px;padding: 6px 15px;margin: 0 1px;text-decoration: underline;border-radius: 0;font-weight: normal;line-height: normal;vertical-align: middle;}
+
+/**********************
+	all forms layout
+**********************/
+div.wjportal-main-wrapper div.wjportal-job-sec-heading {float: left;width: 100%;margin: 50px 0 15px;font-weight: bold;font-size: 16px;}
+div.wjportal-main-wrapper div.wjportal-job-sec-heading:not(:first-child) {margin-top: 0px;}
+div.wjportal-form-wrp {float: left;width: 100%;}
+div.wjportal-form-wrp div.wjportal-form-sec-heading {float: left;width: 100%;font-size: 18px;font-weight: bold;margin-bottom: 20px;}
+div.wjportal-form-wrp div.wjportal-form-row {width: 100%;float: left;padding: 15px 0;font-size: 14px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-title {float: left;width: 30%;padding: 10px;height: 45px;font-weight: normal;text-transform: capitalize;font-size: 17px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-title label {display: inline-block;width: 100%;margin: 0;font-weight: normal;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value {float: left;width: 70%;}
+div.wjportal-main-up-wrapper div.wp-core-ui.wp-editor-wrap textarea.wp-editor-area {border:unset;}
+div.wjportal-main-up-wrapper div.wp-core-ui.wp-editor-wrap div.wp-editor-container input.ed_button ,
+div.wjportal-main-up-wrapper div.wp-core-ui.wp-editor-wrap div.wp-editor-container div.mce-container-body div.mce-btn-group button ,
+div.wjportal-main-up-wrapper div.wp-core-ui.wp-editor-wrap div.wp-editor-tools div.wp-editor-tabs button.wp-switch-editor {background-color: unset;color: inherit;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value input.wjportal-form-input-field {display: inline-block;width: 100%;height: 45px;padding: 10px;font-weight: normal;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value select.wjportal-form-select-field {display: inline-block;width: 100%;height: 45px;padding: 10px;font-weight: normal;background-image: url('../../includes/images/selecticonb.png');background-repeat: no-repeat;background-size: 12px;background-position: calc(100% - 15px);-webkit-appearance: none;-moz-appearance: none;appearance: none;font-size: 14px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value textarea {display: inline-block;width: 100%;min-height: 100px;padding: 10px;font-weight: normal;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-upload {float: left;width: 100%;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-upload div.wjportal-form-upload-btn-wrp {display: inline-block;width: 100%;min-height: 45px;padding: 10px 150px 10px 10px;position: relative;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-upload div.wjportal-form-upload-btn-wrp .wjportal-form-upload-btn {min-width: 140px;padding: 0 15px;text-align: center;cursor: pointer;position: absolute;height: 44px;line-height: 45px;top: 0;right: 0;z-index: 1;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-upload div.wjportal-form-upload-btn-wrp .wjportal-form-upload-btn input {opacity: 0;position: absolute;top: 0;left: 0;height: 100%;width: 100%;cursor: pointer;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-upload div.wjportal-form-upload-btn-wrp .wjportal-form-upload-files {display: inline-block;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-upload div.wjportal-form-upload-btn-wrp .wjportal-form-upload-files a {display: inline-block;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-upload div.wjportal-form-upload-btn-wrp .wjportal-form-upload-files a:not(last-child) {margin-right: 15px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-upload div.wjportal-form-upload-btn-wrp .wjportal-form-upload-files a .filename {display: inline-block;margin-right: 5px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-upload input.wjportal-form-upload-field {display: inline-block;width: 100%;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-upload div.wjportal-form-image-wrp {display: inline-block;height: 100px;width: 100px;border-radius: 100%;position: relative;margin-top: 10px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-upload div.wjportal-form-image-wrp img.wjportal-form-image {display: inline-block;position: absolute;top: 0;right: 0;bottom: 0;left: 0;margin: auto;max-width: 100%;max-height: 100%;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-upload div.wjportal-form-image-wrp img#wjportal-form-delete-image {position: absolute;top: 0;right: -10px;cursor: pointer;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-map {float: left;width: 100%;margin-bottom: 20px;overflow: hidden;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-map .map_container {width: 100%;height: 400px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-map .wjportal-form-map-close {float: right;font-size: 25px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value .wjportal-form-map-link {display: inline-block;padding: 10px;height: 45px;text-align: center;width: 130px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value .wjportal-form-add-comp {display: inline-block;cursor: pointer;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-2-fields {float: left;width: 100%;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-2-fields div.wjportal-form-inner-fields {float: left;width: calc(100% / 2);padding-left: 10px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-2-fields div.wjportal-form-inner-fields:first-child {padding-left: 0px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-3-fields {float: left;width: 100%;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-3-fields div.wjportal-form-inner-fields {float: left;width: calc(100% / 3);padding-left: 10px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-3-fields div.wjportal-form-inner-fields:first-child {padding-left: 0px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-4-fields {float: left;width: 100%;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-4-fields div.wjportal-form-inner-fields {float: left;width: calc(100% / 4);padding-left: 10px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-4-fields div.wjportal-form-inner-fields:first-child {padding-left: 0px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-5-fields {float: left;width: 100%;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-5-fields div.wjportal-form-inner-fields {float: left;width: 23.2%;padding-left: 10px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-5-fields div.wjportal-form-inner-fields:first-child {padding-left: 0px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-5-fields div.wjportal-form-symbol-fields {float: left;width: 7%;padding-left: 10px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-5-fields div.wjportal-form-symbol-fields span.wjportal-form-symbol {display: inline-block;padding: 10px;height: 45px;width: 100%;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value input.wjportal-form-date-field {display: inline-block;width: 50%;height: 45px;padding: 10px;font-weight: normal;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-help-txt {padding-top: 5px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-text {float: left;width: 100%;height: 45px;padding: 10px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value ul.wpjobportal-input-list-wpjobportal {display: inline-block;width: 100%;padding: 5px;margin: 0;font-weight: normal;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value ul.wpjobportal-input-list-wpjobportal li.wpjobportal-input-token-wpjobportal {margin: 5px;border-radius: 0;padding: 6px 10px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value ul.wpjobportal-input-list-wpjobportal li.wpjobportal-input-token-wpjobportal .wpjobportal-input-delete-token-wpjobportal {margin-left: 10px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value ul.wpjobportal-input-list-wpjobportal li.wpjobportal-input-input-token-wpjobportal {}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value ul.wpjobportal-input-list-wpjobportal li.wpjobportal-input-input-token-wpjobportal input {margin: 0;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value .chosen-container {font-family: inherit !important;height: 45px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value .chosen-container .chosen-choices {display: inline-block;width: 100%;height: 45px !important;padding: 10px;border-radius: unset;font-size: 14px;background-image: none;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value .chosen-container .chosen-drop .chosen-results .active-result {padding: 10px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value .chosen-container.chosen-container-single .chosen-single {display: inline-block;width: 100%;height: 55px !important;padding: 10px;border-radius: unset;font-size: 14px;background-image: none;line-height: 32px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value .chosen-container.chosen-container-single .chosen-single div {display: none;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value .chosen-container .chosen-single {display: inline-block;width: 100%;height: 45px;padding: 10px;font-weight: normal;background-image: url(../../includes/images/selecticonb.png);background-repeat: no-repeat;background-size: 12px;background-position: calc(100% - 15px);-webkit-appearance: none;-moz-appearance: none;appearance: none;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-email-field-wrp {float: left;width: 100%;margin-bottom: 15px;font-size: 14px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-email-field-wrp:last-child {margin-bottom: 0px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-email-field-wrp div.wjportal-form-email-field {float: left;width: 100%;margin-bottom: 5px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-email-field-wrp div.wjportal-form-email-field label {font-weight: bold;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-email-field-wrp div.wjportal-form-email-field input {}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-form-email-field-wrp div.wjportal-form-email-field-txt {float: left;width: 100%;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value input[type="checkbox"],
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value input[type="radio"] {margin: 15px 0 0 0 !important;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value input[type="checkbox"] + label,
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value input[type="radio"] + label {font-weight: normal;margin: 15px 20px 0 5px;display: inline-block;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value label.wjportal-input-box-switch {position: relative;display: inline-block;width: 50px;height: 25px;margin-bottom: 0;margin-top: 10px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value label.wjportal-input-box-switch input { opacity: 0;width: 0;height: 0;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value label.wjportal-input-box-switch span.wjportal-input-box-slider {position: absolute;cursor: pointer;top: 0;left: 0;right: 0;bottom: 0;-webkit-transition: .4s;transition: .4s;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value label.wjportal-input-box-switch span.wjportal-input-box-slider:before {position: absolute;content: "";height: 17px;width: 17px;left: 4px;bottom: 4px;-webkit-transition: .4s;transition: .4s;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value label.wjportal-input-box-switch input:checked + span.wjportal-input-box-slider:before {-webkit-transform: translateX(25px);-ms-transform: translateX(25px);transform: translateX(25px);}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value label.wjportal-input-box-switch span.wjportal-input-box-slider.wjportal-input-box-round {border-radius: 25px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value label.wjportal-input-box-switch span.wjportal-input-box-slider.wjportal-input-box-round:before {border-radius: 50%;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value span.uf_checkbox_wrp {display: inline-block;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value span.uf_radiobtn_wrp {display: inline-block;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-searchable-wrp {display: inline-block;border: 1px solid #d4d4d5;padding: 0 15px;height: 45px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-searchable-wrp input {margin-top: 12px !important;float: left;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value div.wjportal-searchable-wrp label {margin-top: 7px !important;float: left;}
+div.wjportal-form-wrp div.wjportal-form-row .has-error .help-block.form-error {color: #ff0000;}
+div.wjportal-form-wrp div.wpjobportal-terms-and-conditions-wrap {float: left;width: 100%;padding: 20px 10px 0;border-top: 1px solid #d4d4d5;}
+div.wjportal-form-wrp div.wpjobportal-terms-and-conditions-wrap span.wpjobportal-form-chkbox-field {margin-right: 5px;}
+div.wjportal-form-wrp div.wpjobportal-terms-and-conditions-wrap span.wpjobportal-form-chkbox-field label {margin: 0;font-weight: normal;margin-bottom: 20px;font-size: 14px;}
+div.wjportal-form-wrp div.wpjobportal-terms-and-conditions-wrap a img {margin-bottom: 15px;}
+div.wjportal-form-wrp div.wjportal-terms-and-conditions-wrap {float: left;width: 100%;padding: 20px 10px 0;border-top: 1px solid #d4d4d5;}
+div.wjportal-form-wrp div.wjportal-terms-and-conditions-wrap span.wpjobportal-form-chkbox-field {margin-right: 5px;}
+div.wjportal-form-wrp div.wjportal-terms-and-conditions-wrap span.wpjobportal-form-chkbox-field label {margin: 0;font-weight: normal;margin-bottom: 20px;font-size: 14px;}
+div.wjportal-form-wrp div.wjportal-terms-and-conditions-wrap a img {margin-bottom: 15px;}
+div.wjportal-form-wrp div.wjportal-form-btn-wrp {float: left;width: 100%;padding-top: 15px;text-align: center;}
+div.wjportal-form-wrp div.wjportal-form-btn-wrp .wjportal-form-btn {display: inline-block;width: 100%;padding: 10px;font-size: 14px;height: 45px;text-align: center;}
+
+/**********************
+	resume form
+**********************/
+div.wjportal-form-wrp div.wjportal-resume-section-title {float: left;width: 100%;font-size: 16px;font-weight: bold;padding-bottom: 25px;margin-top: 10px;padding-top: 40px;}
+div.wjportal-form-wrp div#jsresume_sectionid1.wjportal-resume-section-title {margin-top: 0;padding-top: 0;}
+div.wjportal-form-wrp div.wjportal-resume-section-wrp {float: left;width: 100%;}
+div.wjportal-form-wrp div.wjportal-resume-section-wrp div.wjportal-resume-section {float: left;width: 100%;position: relative;margin-bottom: 20px;}
+div.wjportal-form-wrp div.wjportal-resume-section-wrp div.wjportal-resume-section div.wjportal-resume-section-head {float: left;width: 100%;padding: 20px 10px;font-size: 14px;font-weight: bold;}
+div.wjportal-form-wrp div.wjportal-resume-section-wrp div.wjportal-resume-section div.wjportal-resume-section-undo {position: absolute;top: 0;right: 0;bottom: 0;left: 0;margin: auto;z-index: 1;display: none;}
+div.wjportal-form-wrp div.wjportal-resume-section-wrp div.wjportal-resume-section div.wjportal-resume-section-undo img.wjportal-resume-section-undo-image {cursor: pointer;position: absolute;top: 0px;left: 0px;right: 0px;bottom: 0px;margin: auto;}
+div.wjportal-form-wrp div.wjportal-resume-section-wrp div.wjportal-resume-section img.wjportal-resume-section-delete {position: absolute;top: 13px;right: 15px;cursor: pointer;}
+div.wjportal-form-wrp div.wjportal-resume-section-wrp .jssection_hide {display: none;}
+div.wjportal-form-wrp div.wjportal-resume-add-new-section-btn {float: left;min-width: 120px;margin-bottom: 30px;cursor: pointer;padding: 10px;text-align: center;font-size: 14px;}
+div.wjportal-form-wrp div.wjportal-resume-add-new-section-btn i {margin-right: 10px;}
+div.wjportal-form-wrp div.wjportal-form-btn-wrp div.wjportal-form-2-btn {display: inline-block;width: 200px;text-align: center;margin: 0 10px;}
+
+/**********************
+	login form
+**********************/
+div.wjportal-form-wrp form p.login-username,
+div.wjportal-form-wrp form p.login-password,
+div.wjportal-form-wrp form p.login-remember {float: left;width: 100%;padding: 15px 0;margin: 0;}
+div.wjportal-form-wrp form p.login-username label,
+div.wjportal-form-wrp form p.login-password label,
+div.wjportal-form-wrp form p.login-remember label {float: left;width: 30%;height: 45px;padding: 10px;font-weight: normal;font-size: 14px;margin: 0;}
+div.wjportal-form-wrp form p.login-username input,
+div.wjportal-form-wrp form p.login-password input {float: left;width: 70%;height: 45px;padding: 10px;}
+div.wjportal-form-wrp form p.login-remember label {padding: 0 10px;height: auto;}
+div.wjportal-form-wrp form p.login-remember label input {}
+div.wjportal-form-wrp form p.login-submit {float: left;width: 100%;}
+div.wjportal-form-wrp form p.login-submit #wp-submit {display: inline-block;width: 100%;padding: 10px;font-size: 14px;height: 45px;}
+div.wjportal-form-wrp form a.wjportal-form-lost-password {display: inline-block;font-size: 14px;}
+div.wjportal-form-wrp a.wjportal-form-reg-btn {display: inline-block;font-size: 14px;margin-top: 15px;}
+
+/**********************
+	save search form
+**********************/
+div.wjportal-save-search-form-wrp {float: left;width: 100%;margin-bottom: 30px;padding: 20px;}
+div.wjportal-save-search-form-wrp form {float: left;width: 100%;font-size: 14px;margin: 0;}
+div.wjportal-save-search-form-wrp form label.wjportal-save-search-label {float: left;font-weight: normal;margin: 0;padding: 11px 11px 11px 0;width: 130px;}
+div.wjportal-save-search-form-wrp form input.wjportal-save-search-input-field {float: left;height: 45px;padding: 10px;width: calc(100% - 295px);}
+div.wjportal-save-search-form-wrp form .wjportal-save-search-btn {float: left;padding: 5px 20px;height: 45px;margin-left: 10px;width: 150px;background-color: unset !important;}
+
+/**********************
+	social login form
+**********************/
+div.wjportal-social-login-wrp {float: left;width: 100%;}
+div.wjportal-social-login-wrp div.wjportal-sec-seprator {float: left;width: 100%;padding: 50px 0;}
+div.wjportal-social-login-wrp div.wjportal-sec-seprator div.wjportal-sec-seprator-text {float: left;width: 100%;position: relative;text-align: center;font-size: 16px;text-transform: uppercase;font-weight: bold;z-index: 1;}
+div.wjportal-social-login-wrp div.wjportal-sec-seprator div.wjportal-sec-seprator-text::before {content: '';display: block;height: 1px;width: 100%;position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);margin: auto;z-index: -2;}
+div.wjportal-social-login-wrp div.wjportal-sec-seprator div.wjportal-sec-seprator-text::after {content: '';display: inline-block;height: 100px;width: 100px;position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);margin: auto;z-index: -1;border-radius: 50%;}
+div.wjportal-social-login-wrp div.wjportal-social-login {float: left;width: 100%;padding: 20px 0;}
+div.wjportal-social-login-wrp div.wjportal-social-login div.wjportal-social-login-title {float: left;width: 100%;margin-bottom: 15px;font-size: 24px;}
+div.wjportal-social-login-wrp div.wjportal-social-login div.wjportal-social-login-items {float: left;width: 100%;}
+div.wjportal-social-login-wrp div.wjportal-social-login div.wjportal-social-login-items .wjportal-social-login-btn {float: left;font-size: 14px;padding: 8px 10px 9px 50px;margin-right: 5px;position: relative;}
+div.wjportal-social-login-wrp div.wjportal-social-login div.wjportal-social-login-items .wjportal-social-login-btn img {display: inline-block;position: absolute;top: 0;left: 0;}
+
+/* popup social login */
+div.wjportal-popup-wrp div.wjportal-social-login-wrp div.wjportal-sec-seprator {padding: 15px 0 0;}
+div.wjportal-popup-wrp div.wjportal-social-login-wrp div.wjportal-sec-seprator div.wjportal-sec-seprator-text {text-align: left;}
+div.wjportal-popup-wrp div.wjportal-social-login-wrp div.wjportal-sec-seprator div.wjportal-sec-seprator-text::before,
+div.wjportal-popup-wrp div.wjportal-social-login-wrp div.wjportal-sec-seprator div.wjportal-sec-seprator-text::after {display: none;}
+div.wjportal-popup-wrp div.wjportal-social-login-wrp div.wjportal-social-login div.wjportal-social-login-title {width: auto;margin: 0;}
+div.wjportal-popup-wrp div.wjportal-social-login-wrp div.wjportal-social-login div.wjportal-social-login-items {float: right;width: auto;}
+div.wjportal-popup-wrp div.wjportal-social-login-wrp div.wjportal-social-login div.wjportal-social-login-items .wjportal-social-login-btn {padding: 0px;margin: 0 3px;border: 0;}
+div.wjportal-popup-wrp div.wjportal-social-login-wrp div.wjportal-social-login div.wjportal-social-login-items .wjportal-social-login-btn img {position: unset;margin: 0;padding: 0;}
+
+/**********************
+	job apllied resume
+**********************/
+div.wjportal-job-applied-resume {float: left;width: 100%;}
+div.wjportal-job-applied-resume div.wjportal-section-heading {float: left;width: 100%;margin-bottom: 15px;font-size: 16px;font-weight: bold;}
+div.wjportal-job-applied-resume div.wjportal-job-applied-resume-list {float: left;width: 100%;}
+div.wjportal-job-applied-resume-actions {float: left;width: 100%;margin: 30px 0;font-size: 14px;}
+div.wjportal-job-applied-resume-actions ul {float: left;width: 100%;margin: 0;padding: 0;list-style: none;}
+div.wjportal-job-applied-resume-actions ul li {float: left;margin: 0 5px 0 0;}
+div.wjportal-job-applied-resume-actions ul li a {display: inline-block;padding: 9px 18px;}
+div.wjportal-job-applied-resume-actions .wjportal-export-all-btn {display: inline-block;padding: 9px 18px;}
+div.wjportal-applied-job-adv-search-wrp {float: left;width: 100%;font-size: 14px;margin-bottom: 30px;}
+div.wjportal-applied-job-adv-search-wrp div.wjportal-applied-job-adv-search-field {float: left;width: calc(100% / 2);padding: 20px;}
+div.wjportal-applied-job-adv-search-wrp div.wjportal-applied-job-adv-search-field input.wjportal-applied-job-adv-search-input-field {display: inline-block;width: 100%;height: 45px;padding: 10px;font-weight: normal;}
+div.wjportal-applied-job-adv-search-wrp div.wjportal-applied-job-adv-search-field select.wjportal-applied-job-adv-search-select-field {display: inline-block;width: 100%;height: 45px;padding: 10px;font-weight: normal;background-image: url(../../includes/images/selecticonb.png);background-repeat: no-repeat;background-size: 12px;background-position: calc(100% - 15px);-webkit-appearance: none;-moz-appearance: none;appearance: none;}
+div.wjportal-applied-job-adv-search-wrp div.wjportal-applied-job-adv-search-action-wrp {float: left;width: 100%;padding: 0 20px 20px;}
+div.wjportal-applied-job-adv-search-wrp div.wjportal-applied-job-adv-search-action-wrp .wjportal-applied-job-adv-search-btn {display: inline-block;padding: 12px 40px;}
+div.wjportal-applied-job-actions-popup {float: left;width: 100%;padding: 0px !important;margin: 0 !important;position: relative;font-size: 14px;}
+div.wjportal-applied-job-actions-popup img#close-section {position: absolute;top: 20px;right: 30px;cursor: pointer;}
+div.wjportal-applied-job-actions-popup div.wjportal-applied-job-actions-wrp {float: left;width: 100%;padding: 30px;margin-top: 30px;}
+div.wjportal-applied-job-actions-popup div.wjportal-applied-job-actions-wrp div.wjportal-applied-job-actions-row {float: left;width: calc(100% / 2);padding: 10px;}
+div.wjportal-applied-job-actions-popup div.wjportal-applied-job-actions-wrp div.wjportal-applied-job-actions-row label {display: inline-block;width: 100%;font-weight: normal;margin-bottom: 7px;}
+div.wjportal-applied-job-actions-popup div.wjportal-applied-job-actions-wrp div.wjportal-applied-job-actions-row input {display: inline-block;width: 100%;height: 45px;padding: 10px;}
+div.wjportal-applied-job-actions-popup div.wjportal-applied-job-actions-wrp div.wjportal-applied-job-actions-row textarea {display: inline-block;width: 100%;height: 100px;padding: 10px !important;margin: 0 !important;}
+div.wjportal-applied-job-actions-popup div.wjportal-applied-job-actions-wrp div.wjportal-applied-job-actions-row select {display: inline-block;width: 100%;height: 45px;padding: 10px;font-weight: normal;background-image: url(../../includes/images/selecticonb.png);background-repeat: no-repeat;background-size: 12px;background-position: calc(100% - 15px);-webkit-appearance: none;-moz-appearance: none;appearance: none;}
+div.wjportal-applied-job-actions-popup div.wjportal-job-applied-actions-btn-wrp {float: left;width: 100%;padding: 10px;}
+div.wjportal-applied-job-actions-popup div.wjportal-job-applied-actions-btn-wrp .wjportal-job-applied-actions-btn {display: inline-block;padding: 10px 50px;text-decoration: underline;}
+div.wjportal-applied-job-actions-popup div.wjportal-note-actions-wrp div.wjportal-applied-job-actions-row {width: 100%;}
+div.wjportal-applied-job-actions-popup div.wjportal-folder-actions-wrp div.wjportal-applied-job-actions-row {width: 100%;}
+div.wjportal-applied-job-actions-popup div.wjportal-job-actions-detail-wrp {}
+div.wjportal-applied-job-actions-popup div.wjportal-job-actions-detail-wrp div.wjportal-job-actions-detail-row {float: left;width: calc(100% / 3);padding: 10px;}
+div.wjportal-applied-job-actions-popup div.wjportal-job-actions-detail-wrp div.wjportal-job-actions-detail-row span.wjportal-job-actions-detail-tit {float: left;}
+div.wjportal-applied-job-actions-popup div.wjportal-job-actions-detail-wrp div.wjportal-job-actions-detail-row span.wjportal-job-actions-detail-val {float: left;margin-left: 5px;}
+div.wjportal-applied-job-actions-popup span.wjportal-applied-job-actions-popup-norec {float: left;width: 100%;text-align: left;padding: 10px 15px;margin: 50px 0 30px;font-size: 14px;}
+div.wjportal-applied-job-actions-popup span.wjportal-applied-job-actions-popup-norec .wjportal-applied-job-actions-popup-norec-link {display: inline-block;margin-left: 15px;font-size: 14px;text-decoration: underline;}
+
+/**********************
+	custom fields
+**********************/
+div.wjportal-custom-field-wrp {float: left;width: 100%;}
+div.wjportal-custom-field {float: left;width: 100%;padding-bottom: 5px;font-size: 14px;}
+div.wjportal-custom-field:last-child {margin-bottom: 0px;}
+div.wjportal-custom-field span.wjportal-custom-field-tit {float: left;}
+div.wjportal-custom-field span.wjportal-custom-field-val {float: left;margin-left: 5px;}
+
+/**********************
+	tables
+**********************/
+table#wjportal-table {width: 100%;}
+table#wjportal-table tr th {padding: 15px;font-size: 16px;font-weight: bold;text-align: center;}
+table#wjportal-table tr td {padding: 15px;font-size: 14px;text-align: center;}
+table#wjportal-table tr th:first-child,
+table#wjportal-table tr td:first-child {text-align: left;}
+table#wjportal-table tr th.wjportal-table-w50,
+table#wjportal-table tr td.wjportal-table-w50 {width: 50%;}
+table#wjportal-table tr td.wjportal-my-invoices-list-payment-method-type {display: inline-block;}
+table#wjportal-table tbody tr td a {display: inline-block;text-decoration: underline;font-weight: normal;}
+
+/**********************
+	my invoices
+**********************/
+div.wjportal-my-invoices-wrapper {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-my-invoices-wrapper div.wjportal-my-invoices-sec-tit {float: left;width: 100%;padding: 15px;}
+div.wjportal-my-invoices-wrapper div.wjportal-my-invoices-sec-tit div.wjportal-my-invoices-sec-tit-txt {float: left;width: 70%;font-weight: bold;font-size: 18px;padding: 7px 0;}
+div.wjportal-my-invoices-wrapper div.wjportal-my-invoices-sec-action-wrp {float: right;width: 30%;text-align: right;}
+div.wjportal-my-invoices-wrapper div.wjportal-my-invoices-sec-action-wrp .wjportal-my-invoices-sec-act-btn {display: inline-block;padding: 9px 25px;text-align: center;font-size: 14px;}
+div.wjportal-my-invoices-wrapper div.wjportal-my-invoices-list-wrapper {float: left;width: 100%;}
+
+/**********************
+	packages list
+**********************/
+div.wjportal-packages-list-wrp {float: left;width: 100%;}
+div.wjportal-packages-list {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-packages-list div.wjportal-packages-list-title {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-packages-list div.wjportal-packages-list-title div.wjportal-packages-list-title-txt {float: left;width: 100%;font-size: 30px;font-weight: bold;}
+div.wjportal-packages-list div.wjportal-pkg-list-row {float: left;width: 100%;}
+div.wjportal-packages-list div.wjportal-pkg-list-item {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-packages-list div.wjportal-pkg-list-item:last-child {margin-bottom: 0px;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top {float: left;width: 100%;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-title {float: left;width: 70%;padding: 15px;position: relative;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-title div.wjportal-pkg-list-item-title-txt {float: left;font-size: 16px;font-weight: bold;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-crt-date {float: left;margin-left: 5px;font-size: 14px;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top span.wjportal-pkg-list-item-disc {display: inline-block;position: absolute;top: 0;right: 0;font-size: 12px;font-weight: bold;padding: 4px 12px;border-radius: 0 0 10px 10px;text-align: center;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-price {float: left;width: 30%;text-align: right;padding: 10px 10px 0;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-price span.wjportal-pkg-list-item-price-txt {display: inline-block;padding: 10px;min-width: 80px;text-align: center;font-size: 16px;font-weight: bold;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-price span.wjportal-pkg-list-item-price-discount {display: inline-block;padding: 9px 10px;vertical-align: middle;position: relative;margin-right: 15px;font-size: 16px;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-price span.wjportal-pkg-list-item-price-discount::before {content: '';display: inline-block;height: 1px;width: 100%;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-mid {float: left;width: 100%;padding: 15px;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-mid div.wjportal-pkg-list-item-data {float: left;width: 100%;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-mid div.wjportal-pkg-list-item-data div.wjportal-pkg-list-item-row {float: left;width: calc(100% / 3 - 20px);margin: 0 10px;padding: 15px;font-size: 14px;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-mid div.wjportal-pkg-list-item-data div.wjportal-pkg-list-item-row span.wjportal-pkg-list-item-row-tit {display: inline-block;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-mid div.wjportal-pkg-list-item-data div.wjportal-pkg-list-item-row span.wjportal-pkg-list-item-row-val {display: inline-block;margin-left: 5px;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-btm {float: left;width: 100%;padding: 15px;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-btm div.wjportal-pkg-list-item-action-wrp {float: left;width: 80%;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-btm div.wjportal-pkg-list-item-action-wrp .wjportal-pkg-list-item-act-btn {float: left;margin-right: 5px;padding: 9px 18px;text-decoration: underline;font-size: 14px;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-btm div.wjportal-pkg-list-item-action-wrp div.wjportal-pkg-list-renew-discount {float: left;font-size: 14px;padding: 10px;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-btm div.wjportal-pkg-list-item-action-wrp div.wjportal-pkg-list-purchased-text {float: left;font-size: 14px;padding: 10px;}
+div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-btm div.wjportal-pkg-list-item-exp-date {float: right;font-size: 14px;padding: 10px 0;}
+
+/**********************
+	select packages list
+**********************/
+div.wjportal-select-packages-list div.wjportal-packages-list div.wjportal-pkg-list-item {float: left;width: calc(100% / 2 - 10px );margin: 0 5px 20px;}
+div.wjportal-select-packages-list div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-title {width: 100%;}
+div.wjportal-select-packages-list div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-top div.wjportal-pkg-list-item-title div.wjportal-pkg-list-item-title-txt {width: 100%;text-align: center;}
+div.wjportal-select-packages-list div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-mid div.wjportal-pkg-list-item-data div.wjportal-pkg-list-item-row {margin: 0;width: 100%;text-align: center;}
+div.wjportal-select-packages-list div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-btm div.wjportal-pkg-list-item-action-wrp {width: 100%;text-align: center;}
+div.wjportal-select-packages-list div.wjportal-packages-list div.wjportal-pkg-list-item div.wjportal-pkg-list-item-btm div.wjportal-pkg-list-item-action-wrp .wjportal-pkg-list-item-act-btn {float: none;display: inline-block;margin: 0;width: 100%;}
+
+/**********************
+	by type
+**********************/
+div.wjportal-by-type-wrp {float: left;width: 100%;}
+div.wjportal-by-type-wrp div.wjportal-type-row-wrapper {float: left;width: 100%;}
+div.wjportal-by-type-wrp div.wjportal-type-wrapper {float: left;font-size: 14px;}
+div.wjportal-by-type-wrp div.wjportal-type-wrapper a {float: left;width: calc(100% - 10px);padding: 11px 15px;margin: 0 5px 10px;}
+div.wjportal-by-type-wrp div.wjportal-type-wrapper span.wjportal-type-title {float: left;}
+div.wjportal-by-type-wrp div.wjportal-type-wrapper span.wjportal-type-num {float: right;}
+
+/**********************
+	purchase history
+**********************/
+div.wjportal-purchase-hist-wrp {float: left;width: 100%;}
+div.wjportal-purchase-hist {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-purchase-hist div.wjportal-purchase-hist-title {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-purchase-hist div.wjportal-purchase-hist-title div.wjportal-purchase-hist-title-txt {float: left;width: 100%;font-size: 30px;font-weight: bold;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-row {float: left;width: 100%;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item:last-child {margin-bottom: 0px;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-top {float: left;width: 100%;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-top div.wjportal-purch-hist-item-title {float: left;width: 70%;padding: 15px;position: relative;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-top div.wjportal-purch-hist-item-title div.wjportal-purch-hist-item-title-txt {float: left;font-size: 16px;font-weight: bold;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-top div.wjportal-purch-hist-item-crt-date {float: left;margin-left: 5px;font-size: 14px;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-top span.wjportal-purch-hist-item-disc {display: inline-block;position: absolute;top: 0;right: 0;font-size: 12px;font-weight: bold;padding: 4px 12px;border-radius: 0 0 10px 10px;text-align: center;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-top div.wjportal-purch-hist-item-price {float: left;width: 30%;text-align: right;padding: 10px 10px 0;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-top div.wjportal-purch-hist-item-price span.wjportal-purch-hist-item-price-txt {display: inline-block;padding: 10px;min-width: 80px;text-align: center;font-size: 16px;font-weight: bold;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-top div.wjportal-purch-hist-item-price span.wjportal-purch-hist-item-price-discount {display: inline-block;padding: 9px 10px;vertical-align: middle;position: relative;margin-right: 15px;font-size: 16px;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-top div.wjportal-purch-hist-item-price span.wjportal-purch-hist-item-price-discount::before {content: '';display: inline-block;height: 1px;width: 100%;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-mid {float: left;width: 100%;padding: 15px;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-mid div.wjportal-purch-hist-item-data {float: left;width: 100%;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-mid div.wjportal-purch-hist-item-data div.wjportal-purch-hist-item-row {float: left;width: calc(100% / 4 - 20px);margin: 0 10px;padding: 10px;font-size: 14px;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-mid div.wjportal-purch-hist-item-data div.wjportal-purch-hist-item-row span.wjportal-purch-hist-item-row-tit {display: inline-block;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-mid div.wjportal-purch-hist-item-data div.wjportal-purch-hist-item-row span.wjportal-purch-hist-item-row-val {display: inline-block;margin-left: 5px;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-btm {float: left;width: 100%;padding: 15px;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-btm div.wjportal-purch-hist-item-action-wrp {float: left;width: 80%;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-btm div.wjportal-purch-hist-item-action-wrp .wjportal-purch-hist-item-act-btn {float: left;margin-right: 5px;padding: 9px 18px;text-decoration: underline;font-size: 14px;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-btm div.wjportal-purch-hist-item-action-wrp div.wjportal-purch-hist-renew-discount {float: left;font-size: 14px;padding: 10px;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-btm div.wjportal-purch-hist-item-action-wrp div.wjportal-purch-hist-purchased-text {float: left;font-size: 14px;padding: 10px;}
+div.wjportal-purchase-hist div.wjportal-purch-hist-item div.wjportal-purch-hist-item-btm div.wjportal-purch-hist-item-exp-date {float: right;font-size: 14px;padding: 10px 0;}
+
+
+/**********************
+	widgets
+**********************/
+
+.wjportal-mod-heading {float: left;width: 100%;font-size: 18px;font-weight: 600;margin-bottom: 20px;}
+#wpjobportal_module_wrapper {display: inline-block;width: 100%;}
+#wpjobportal_module_wrapper #tp_heading {margin-bottom: 20px;}
+#wpjobportal_module_wrapper #tp_heading span#tp_headingtext {display: inline-block;width: 100%;font-size: 26px;font-weight: bold;}
+
+
+/* jobs on map */
+div.wjportal-jobs-list-map {float: left;width: 240px !important;max-height: unset !important;position: relative;}
+div.wjportal-jobs-list-map::after {content: '';display: inline-block;position: absolute;bottom: -9px;left: 40px;}
+div.wjportal-jobs-list-map div.wjportal-jobs-list {float: left;width: 100%;margin-bottom: 0;padding: 15px;}
+div.wjportal-jobs-list-map div.wjportal-jobs-list div.wjportal-jobs-logo {float: left;width: 80px;height: 80px;position: relative;}
+div.wjportal-jobs-list-map div.wjportal-jobs-list div.wjportal-jobs-logo img {max-height: 100%;max-width: 100%;margin: auto;left: 0;top: 0;right: 0;bottom: 0;position: absolute;}
+div.wjportal-jobs-list-map div.wjportal-jobs-list div.wjportal-jobs-cnt {float: left;width: 100%;padding: 10px;}
+div.wjportal-jobs-list-map div.wjportal-jobs-list div.wjportal-jobs-cnt div.wjportal-jobs-data {padding-bottom: 5px;}
+div.wjportal-jobs-list-map div.wjportal-jobs-list div.wjportal-jobs-cnt div.wjportal-jobs-data:last-child {padding-bottom: 0px;}
+div.wjportal-jobs-list-map div.wjportal-jobs-list div.wjportal-jobs-cnt div.wjportal-jobs-data .wjportal-companyname {font-size: 14px;text-decoration: underline;display: inline-block;max-width: 85%;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+div.wjportal-jobs-list-map div.wjportal-jobs-list div.wjportal-jobs-cnt div.wjportal-jobs-data .wjportal-job-title {font-size: 16px;font-weight: bold;display: inline-block;max-width: 85%;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+div.wjportal-jobs-list-map div.wjportal-jobs-list div.wjportal-jobs-cnt div.wjportal-jobs-data .wjportal-jobs-data-txt {display: inline-block;font-size: 13px;}
+
+/* company widget */
+div.wjportal-comp-mod {display: inline-block;width: 100%;padding-bottom: 10px;margin-bottom: 15px;}
+div.wjportal-comp-mod:last-child {padding-bottom: 0;margin-bottom: 0;}
+div.wjportal-comp-mod div.wjportal-comp-logo {float: left;width: 100px;height: 100px;position: relative;}
+div.wjportal-comp-mod div.wjportal-comp-logo img {max-height: 100%;max-width: 100%;margin: auto;left: 0;top: 0;right: 0;bottom: 0;position: absolute;}
+div.wjportal-comp-mod div.wjportal-comp-cont {float: left;width: 100%;padding: 10px;}
+div.wjportal-comp-mod div.wjportal-comp-cont div.wjportal-company-data {padding-bottom: 5px;}
+div.wjportal-comp-mod div.wjportal-comp-cont div.wjportal-company-data:last-child {padding-bottom: 0px;}
+div.wjportal-comp-mod div.wjportal-comp-cont div.wjportal-company-title .wjportal-companyname {display: inline-block;text-decoration: underline;font-size: 16px;}
+div.wjportal-comp-mod div.wjportal-comp-cont div.wjportal-company-data span.wjportal-company-data-tit {display: inline-block;}
+div.wjportal-comp-mod div.wjportal-comp-cont div.wjportal-company-data span.wjportal-company-data-val {display: inline-block;margin-left: 5px;}
+
+/* job widget */
+div.wjportal-job-mod {display: inline-block;width: 100%;padding-bottom: 10px;margin-bottom: 15px;}
+div.wjportal-job-mod:last-child {padding-bottom: 0;margin-bottom: 0;}
+div.wjportal-job-mod div.wjportal-job-logo {float: left;width: 100px;height: 100px;position: relative;}
+div.wjportal-job-mod div.wjportal-job-logo img {max-height: 100%;max-width: 100%;margin: auto;left: 0;top: 0;right: 0;bottom: 0;position: absolute;}
+div.wjportal-job-mod div.wjportal-job-cont {float: left;width: 100%;padding: 10px;}
+div.wjportal-job-mod div.wjportal-job-cont div.wjportal-job-data {padding-bottom: 5px;}
+div.wjportal-job-mod div.wjportal-job-cont div.wjportal-job-data:last-child {padding-bottom: 0px;}
+div.wjportal-job-mod div.wjportal-job-cont div.wjportal-job-title .wjportal-jobname {display: inline-block;text-decoration: underline;font-size: 16px;}
+div.wjportal-job-mod div.wjportal-job-cont div.wjportal-job-data span.wjportal-job-data-tit {display: inline-block;}
+div.wjportal-job-mod div.wjportal-job-cont div.wjportal-job-data span.wjportal-job-data-val {display: inline-block;margin-left: 5px;}
+div.wjportal-job-mod div.wjportal-job-cont div.wjportal-job-data span.wjportal-job-data-val .wjportal-compname {display: inline-block;text-decoration: underline;}
+
+/* resume widget */
+div.wjportal-resume-mod {display: inline-block;width: 100%;padding-bottom: 10px;margin-bottom: 15px;}
+div.wjportal-resume-mod:last-child {padding-bottom: 0;margin-bottom: 0;}
+div.wjportal-resume-mod div.wjportal-res-logo {float: left;width: 100px;height: 100px;position: relative;}
+div.wjportal-resume-mod div.wjportal-res-logo img {max-height: 100%;max-width: 100%;margin: auto;left: 0;top: 0;right: 0;bottom: 0;position: absolute;}
+div.wjportal-resume-mod div.wjportal-res-cont {float: left;width: 100%;padding: 10px;}
+div.wjportal-resume-mod div.wjportal-res-cont div.wjportal-res-data {padding-bottom: 5px;}
+div.wjportal-resume-mod div.wjportal-res-cont div.wjportal-res-data:last-child {padding-bottom: 0px;}
+div.wjportal-resume-mod div.wjportal-res-cont div.wjportal-res-title .wjportal-resname {display: inline-block;text-decoration: underline;font-size: 16px;}
+div.wjportal-resume-mod div.wjportal-res-cont div.wjportal-res-data span.wjportal-res-data-tit {display: inline-block;}
+div.wjportal-resume-mod div.wjportal-res-cont div.wjportal-res-data span.wjportal-res-data-val {display: inline-block;margin-left: 5px;}
+div.wjportal-resume-mod div.wjportal-res-cont div.wjportal-res-data span.wjportal-res-data-val .wjportal-compname {display: inline-block;text-decoration: underline;}
+
+/* job by category / type widget */
+div.wjportal-job-by-mod {display: inline-block;width: 100%;}
+div.wjportal-job-by-mod div.wjportal-job-by {float: left;width: 100%;}
+div.wjportal-job-by-mod div.wjportal-job-by div.wjportal-job-by-item {float: left;width: 100% !important;padding: 15px 0;}
+div.wjportal-job-by-mod div.wjportal-job-by div.wjportal-job-by-item .wjportal-job-by-item-cnt {float: left;width: 100%;}
+div.wjportal-job-by-mod div.wjportal-job-by div.wjportal-job-by-item .wjportal-job-by-item-cnt span.wjportal-job-by-item-num {float: right;}
+
+/* job by locations widget */
+div.wjportal-job-by-location-mod {display: inline-block;width: 100%;}
+div.wjportal-job-by-location-mod div.wjportal-job-by-loc {float: left;width: 100%;}
+div.wjportal-job-by-location-mod div.wjportal-job-by-loc div.wjportal-job-by-loc-item {float: left;width: 100% !important;padding: 15px 0;}
+div.wjportal-job-by-location-mod div.wjportal-job-by-loc div.wjportal-job-by-loc-item .wjportal-job-by-loc-item-cnt {float: left;width: 100%;}
+div.wjportal-job-by-location-mod div.wjportal-job-by-loc div.wjportal-job-by-loc-item .wjportal-job-by-loc-item-cnt span.wjportal-job-by-item-num {float: right;}
+
+
+/* job by stats widget */
+div.wjportal-stats-mod {display: inline-block;width: 100%;}
+div.wjportal-stats-mod div.wjportal-stats {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-stats-mod div.wjportal-stats:last-child {margin-bottom: 0px;}
+div.wjportal-stats-mod div.wjportal-stats div.wjportal-stats-data {float: left;width: 100%;padding: 15px 0;}
+div.wjportal-stats-mod div.wjportal-stats div.wjportal-stats-data span.wjportal-stats-num {float: right;}
+
+/* search job / resume widget */
+div.wjportal-form-mod {display: inline-block;width: 100%;}
+div.wjportal-search-mod form.wjportal-form {float: left;width: 100%;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-row {float: left;width: 100%;margin-bottom: 15px;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-tit {float: left;width: 100%;margin-bottom: 7px;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-val {float: left;width: 100%;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-val input[type="text"] {float: left;width: 100%;height: 40px;padding: 10px;font-size: 14px;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-val select {float: left;width: 100%;height: 40px;padding: 10px;font-size: 14px;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-val textarea {float: left;width: 100%;min-height: 100px;padding: 10px;font-size: 14px;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-val .wpjobportal-input-list-wpjobportal {padding: 5px;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-val .wpjobportal-input-list-wpjobportal li {margin-bottom: 0;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-val .wpjobportal-input-list-wpjobportal li.wpjobportal-input-token-wpjobportal {padding: 5px;border-radius: 0;margin: 3px;font-size: 14px;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-val .wpjobportal-input-list-wpjobportal li.wpjobportal-input-token-wpjobportal span {margin-left: 10px;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-val .wpjobportal-input-list-wpjobportal li input[type="text"] {height: auto;margin: 0;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-btn-row {float: left;width: 100%;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-btn-row .wjportal-form-btn {float: left;padding: 10px;text-align: center;width: calc(50% - 3px);}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-btn-row .wjportal-form-srch-btn {margin-right: 3px;}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-btn-row .wjportal-form-adv-srch-btn {margin-left: 3px;}
+
+/* themes */
+div#theme_heading {display: inline-block;width: calc(100% - 40px);padding: 20px 0px 30px;margin: 0 20px 20px;}
+div#theme_heading span.js_theme_heading {display:block;padding:10px;font-size:16px;margin-bottom: 10px;}
+div#theme_heading div.color_portion {width: calc(100% / 3 - 30px);margin: 5px 15px;float: left;}
+div#theme_heading div.color_portion span.color_title {display:block;padding: 5px 0px 7px;font-weight: bold;font-size:15px;}
+div#theme_heading div.color_portion span.color_wrp {float: left;width: 100%;position: relative;}
+div#theme_heading div.color_portion span.color_wrp_img{width: 50px;position: absolute;height: 40px;padding: 5px;background: #424041;text-align: center;top: 0;right: 0;}
+div#theme_heading div.color_portion span.color_wrp_img img{position: absolute;top: 0;left: 0;bottom: 0;right: 0;margin: auto;width: 30px;}
+div#theme_heading div.color_portion input[type="text"] {width: calc(100% - 0px);padding: 10px;border-radius: 0;float: left;position: relative;}
+div#theme_heading div.color_submit_button {display: inline-block;width: 100%; margin: 10px 0px;text-align: center;}
+div.js_effect_preview div.wjportal-page-header div.wjportal-header-actions {padding-top: 0;}
+div.js_effect_preview {width:100%;float:left; padding: 20px 30px;}
+div.js_effect_preview span.js_effect_preview_heading {display: block;font-size:16px;font-weight: bold;padding:10px;}
+div.js_effect_preview div#jsst_breadcrumbs_parent {width:100%;float:left;padding:2px;margin-bottom:10px;}
+div.js_effect_preview div#jsst_breadcrumbs_parent div{float: left;padding:5px;margin-left:5px;padding-left: 5px;font-size:15px;}
+div.js_effect_preview div#jsst_breadcrumbs_parent div.home {width: 34px;height: 34px; padding:0px; display: inline-block;}
+div.js_effect_preview div#jsst_breadcrumbs_parent div.home a {display: inline-block;}
+div.js_effect_preview div#jsst_breadcrumbs_parent div.home img.homeicon {height: 30px;width: auto;margin-bottom: 0px;margin-top:2px;margin-left:2px;}
+div.js_effect_preview div#jsst_breadcrumbs_parent div.links {display: inline-block;}
+div.js_effect_preview div#jsst_breadcrumbs_parent div.links a.links {text-decoration: none;}
+div.js_effect_preview div#jsst_breadcrumbs_parent div.border-fix {display: inline-block;margin-left: 5px;margin-right: 5px;}
+div.js_effect_preview div#jsst_breadcrumbs_parent div.border-fix img.img-fix {}
+div.js_effect_preview div#jsst_breadcrumbs_parent div.lastlink {display: inline-block;}
+div.js_effect_preview div#wpjobportal-header-main-wrapper {float:left;width:100%;}
+div.js_effect_preview div#wpjobportal-header-main-wrapper a.headerlinks {text-decoration: none;float:left;padding:15px 20px;display:block;font-size:15px;}
+div.js_effect_preview div#wpjobportal-wrapper * {box-sizing: border-box;}
+div.js_effect_preview div#wpjobportal-wrapper {display: inline-block;width: 100%;box-sizing: border-box;position: relative;padding-top: 10px;font-size: 14px;}
+
+/* themes preset */
+div#black_wrapper_jobapply{position:fixed;width:100%;height:100%;top:0px;right:0px;z-index: 9998;}
+div#js_jobapply_main_wrapper {position: fixed;top: 50px !important;left: 25% !important;width: 46%;z-index: 9999;border-radius: 5px;padding: 2%;}
+div#js_job_wrapper span.js_job_controlpanelheading {line-height: 38px;font-weight: bold;width: 100%;display: inline-block;padding: 5px 10px;font-size: 16px;}
+div#js_job_wrapper span.js_job_controlpanelheading img.closepp {float: right;cursor: pointer;}
+div#js_job_wrapper div.js_theme_wrapper{padding:10px;margin-bottom: 10px;max-height: 400px;overflow-y: auto;}
+div#js_job_wrapper div.js_theme_wrapper div.theme_platte{display:inline-block;width:100%;overflow: visible;}
+div#js_job_wrapper div.js_theme_wrapper div.theme_platte div.color_wrapper{display:inline-block;width:100%;margin:10px 0px;position:relative;}
+div#js_job_wrapper div.js_theme_wrapper div.theme_platte div.color_wrapper img.preview{display:none;position:absolute;right:17%;top:54px;z-index: 9999;}
+div#js_job_wrapper div.js_theme_wrapper div.theme_platte div.color_wrapper span.theme_name{display:inline-block;padding:10px 25px;width:50%;float:left;}
+div#js_job_wrapper div.js_theme_wrapper div.theme_platte div.color_wrapper a.preview{display:inline-block;width:25px;height:25px;background:url(../images/themes/previewicon.png) no-repeat;margin-right: 20px;margin-top:10px;}
+div#js_job_wrapper div.js_theme_wrapper div.theme_platte div.color_wrapper a.set_theme{display:inline-block;width:25px;height:25px;background:url(../images/themes/themeicon.png) no-repeat;background-size: 100% 100%;margin-top:10px;}
+div#js_job_wrapper div.js_theme_wrapper div.theme_platte div.color_wrapper div.color{display:inline-block;height:50px;width:12.5%;float:left;}
+
+
+/**********************
+	coverletter list
+**********************/
+div.wjportal-coverletter-list-wrapper {float: left;width: 100%;}
+div.wjportal-coverletter-list {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp {float: left;width: 100%;padding: 20px;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp {float: left;width: 100%;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-middle-wrp {float: left;width: 85%;font-size: 14px;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-middle-wrp div.wjportal-coverletter-data {padding-bottom: 5px;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-middle-wrp div.wjportal-coverletter-data:last-child {padding-bottom: 0;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-middle-wrp div.wjportal-coverletter-data div.wjportal-coverletter-title {font-size: 16px;font-weight: bold;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-middle-wrp div.wjportal-coverletter-data div.wjportal-coverletter-info-data {display: inline-block;margin-right: 15px;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-middle-wrp div.wjportal-coverletter-data div.wjportal-coverletter-info-data a.wjportal-companyname {text-decoration: underline;display: inline-block;} 
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-middle-wrp div.wjportal-coverletter-data div.wjportal-coverletter-info-data span.wjportal-coverletter-info-tit {display: inline-block;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-middle-wrp div.wjportal-coverletter-data div.wjportal-coverletter-info-data span.wjportal-coverletter-info-val {display: inline-block;margin-left: 5px;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-middle-wrp div.wjportal-coverletter-data div.wjportal-coverletter-desc {padding: 5px 0;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 97%;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-middle-wrp div.wjportal-coverletter-data div.wjportal-coverletter-desc p {overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 97%;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-right-wrp {float: right;width: 15%;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-right-wrp div.wjportal-coverletter-info {padding-bottom: 5px;font-size: 14px;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-right-wrp div.wjportal-coverletter-info:last-child {padding-bottom: 0;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-top-wrp div.wjportal-coverletter-cnt-wrp div.wjportal-coverletter-right-wrp div.wjportal-coverletter-info span.wjportal-coverletter-status {padding: 5px 15px;display: inline-block;font-size: 13px;margin: 30px 0 0;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-btm-wrp {float: left;width: 100%;padding: 20px;font-size: 14px;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-btm-wrp div.wjportal-coverletter-action-wrp {float: left;width: 100%;}
+div.wjportal-coverletter-list div.wjportal-coverletter-list-btm-wrp div.wjportal-coverletter-action-wrp a.wjportal-coverletter-act-btn {float: left;margin-right: 5px;padding: 9px 18px;text-decoration: underline;font-size: 14px;}
+
+/**********************
+	coverletter detail
+**********************/
+div.wjportal-coverletterdetail-wrapper {float: left;width: 100%;}
+div.wjportal-coverletterdetail-wrapper div.wjportal-coverletter-data-wrp {float: left;width: 100%;margin-bottom: 20px;}
+div.wjportal-coverletterdetail-wrapper div.wjportal-coverletter-data-wrp div.wjportal-coverletter-sec-title {float: left;width: 100%;font-size: 16px;font-weight: bold;}
+div.wjportal-coverletterdetail-wrapper div.wjportal-coverletter-data-wrp div.wjportal-coverletter-data {float: left;margin-right: 15px;font-size: 14px;}
+div.wjportal-coverletterdetail-wrapper div.wjportal-coverletter-data-wrp div.wjportal-coverletter-data a.wjportal-companyname {display: inline-block;}
+div.wjportal-coverletterdetail-wrapper div.wjportal-coverletter-data-wrp div.wjportal-coverletter-data span.wjportal-coverletter-data-tit {display: inline-block;}
+div.wjportal-coverletterdetail-wrapper div.wjportal-coverletter-data-wrp div.wjportal-coverletter-data span.wjportal-coverletter-data-val {display: inline-block;margin-left: 5px;}
+div.wjportal-coverletterdetail-wrapper div.wjportal-coverletter-data-wrp div.wjportal-coverletter-desc {float: left;width: 100%;}
+div.wjportal-coverletterdetail-wrapper div.wjportal-coverletter-btn-wrp {float: left;width: 100%;}
+div.wjportal-coverletterdetail-wrapper div.wjportal-coverletter-btn-wrp .wjportal-coverletter-act-btn {display: inline-block;width: 100%;padding: 10px;height: 45px;font-size: 14px;text-align: center;cursor: pointer;}
+
+
+div.wjportal-resume-list .wjportal-coverletter-act-btn {margin: 3px;padding: 9px 18px;text-decoration: underline;font-size: 14px;margin-top: 10px;display: inline-block;}
+
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value .wpjobportal-form-coverletter-gpt-button{display: inline-block;width: 100%;padding: 10px 15px;text-align: center;color:#fff;background: #10A37F;margin-top: 10px;text-decoration: none;border:1px solid #0C7A5E ;line-height: 24px;}
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value .wpjobportal-form-coverletter-gpt-button img{width: 35px;margin-left: 5px;}
+
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value .wpjobportal-form-coverletter-youtube-button{display: inline-block;width: 100%;padding: 10px 15px;color:#666;background: #C8EAFB;margin-top: 10px;text-decoration: none;border:1px solid #8DD3F4 ;}
+
+div.wjportal-form-wrp div.wjportal-form-row div.wjportal-form-value .wpjobportal-form-coverletter-youtube-button img{height: 24px;width: 24px;margin-right: 5px;}
+div.wjportal-resume-list .wjportal-no-coverletter-btn {color: #666;font-size: 14px;}
+
+.visitor-apply-job-jobinforamtion-message{
+	width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+/* below css handles the myapplied jobs layout break  */
+div.wjportal-jobs-list{
+	float: none !important;
+}
+div.wjportal-jobs-list-wrapper{
+	float: none !important;
+}
+
+div.error_msg {padding: 5px;margin-top: 5px;color: red}
+
+.wpj-jp-list-wrp.wpj-jp-shortlist-jobs-wrp  .wpj-jp-featured-waiting{display: none;}
+
+
+.wjportal-form-row.visible.js-form-custm-flds-wrp{
+	display: none;
+}
+
+
+.wjportal-companyinfo-social-links-wrapper{
+	display: inline-block;
+	width: 100%;
+	margin-top: 10px;
+}
+.wjportal-companyinfo-social-links-wrapper .wjportal-companyinfo-social-link{
+	display: inline-block;
+	padding: 10px 15px;
+	margin-right: 5px;
+	border:1px solid #ddd;
+}
+#input-text-joblink{
+	display: none;
+}
+
+#input-text-joblink input{
+	margin-top: 10px;
+}
+
+div.wjportal-error-messages-wrp div.wjportal-error-msg-txt.wpjobportal-off-config-text{
+	font-weight: unset;
+	display: inline-block;
+}
+
+.wjportal-view-job-page-wrapper{
+	display: inline-block;
+	width: 100%;
+}
+
+.wjportal-view-job-page-wrapper .wjportal-view-job-page-job-info-wraper{display: inline-block;width: 100%;}
+
+/* Apply job */
+.wjportal-view-job-page-wrapper .wjportal-view-job-page-job-info-wraper.wjportal-view-job-page-job-info-wraper-with-apply-form .wjportal-company-job-applyfrm-wrp{float: left;width: 100%;}
+.wjportal-view-job-page-wrapper .wjportal-view-job-page-job-info-wraper.wjportal-view-job-page-job-info-wraper-with-apply-form .wjportal-company-job-applyfrm-leftwrp{display: inline-block;width: 70%;float: left;}
+.wjportal-view-job-page-wrapper .wjportal-view-job-page-job-info-wraper .wjportal-view-job-page-job-apply-form-wraper {display: inline-block;width: 30%;float: left;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form {border:1px solid #ddd;background: #f7f7f7;padding: 10px 10px;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form div.wjportal-form-row div.wjportal-form-title{width: 100%;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form div.wjportal-form-row div.wjportal-form-value{width: 100%;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form div.wjportal-form-row div.wjportal-form-title {padding-left: 0px;padding-right: 0px;}
+div.wjportal-view-job-page-job-apply-form-wraper div.wjportal-form-wrp.wpjobportal-quickapply-form div.wjportal-job-desc{font-size: 14px;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form div.wjportal-form-row div.wjportal-form-title{font-size: 15px !important;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form div.wjportal-form-row{padding-bottom: 0;border: none;padding-top: 5px;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form div.wjportal-form-row div.wjportal-form-value textarea{max-width: 100%;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form div.wjportal-form-row.wjportal-form-pckge-row div.wjportal-form-title{font-weight: bold;font-size: 16px !important;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form div.wjportal-form-row.wjportal-form-pckge-row{padding-top: 20px;}
+div.wjportal-view-job-page-job-apply-form-wraper div.wjportal-form-wrp.wpjobportal-quickapply-form div.wjportal-job-sec-title{font-size: 16px;border: unset;}
+div.wjportal-view-job-page-job-apply-form-wraper div.wjportal-form-wrp.wpjobportal-quickapply-form .wjportal-login-to-apply-btn{display: inline-block;width: 100%;padding: 10px;font-size: 14px;height: 45px;text-align: center;}
+div.wjportal-view-job-page-job-apply-form-wraper div.wjportal-form-wrp.wpjobportal-quickapply-form .job-detail-jobapply-message-wrap .job-detail-jobapply-message-msg{padding: 10px;border: 1px solid #f79133;background-color: #f8f2ec;}
+div.wjportal-view-job-page-job-apply-form-wraper div.wjportal-form-wrp.wpjobportal-quickapply-form .job-detail-jobapply-message-wrap .job-detail-jobapply-message-msg img{padding-right: 10px;}
+div.wjportal-view-job-page-job-apply-form-wraper div.wjportal-form-wrp.wpjobportal-quickapply-form .job-detail-jobapply-message-wrap .job-detail-jobapply-message-link{display: inline-block;padding: 10px 20px;font-size: 14px;cursor: pointer;width: 100%;text-align: center;margin: 10px 0;}
+div.wjportal-view-job-page-job-apply-form-wraper div.wjportal-form-wrp.wpjobportal-quickapply-form .wjportal-form-btn.wjportal-save-btn{margin-right: 0;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form .wjportal-job-apply-or-visitor{display: flex;align-items: center;justify-content: center;font-family: sans-serif;color: #666;width: 100%;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form .wjportal-job-apply-or-visitor span{background-color: #fff;font-weight: bold;display: inline-block;margin-top: 15px;font-size: 17px;color: #000;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form .wjportal-job-apply-or-visitor::after,div.wjportal-form-wrp.wpjobportal-quickapply-form .wjportal-job-apply-or-visitor::before{content: "";flex: 1;border-bottom: 1px solid #ccc;margin-top: 15px;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form .wjportal-job-apply-or-visitor:not(:empty)::before {margin-right: 1em;}
+div.wjportal-form-wrp.wpjobportal-quickapply-form .wjportal-job-apply-or-visitor:not(:empty)::after {margin-left: 1em;}
+div.wjportal-view-job-page-job-apply-form-wraper div.wjportal-form-wrp.wpjobportal-quickapply-form .wjportal-apply-as-visitor-btn{padding: 10px;min-height: 45px;}
+div.wjportal-view-job-page-job-apply-form-wraper div.wjportal-form-wrp.wpjobportal-quickapply-form .recaptcha-wrp{border-top: unset;}
+/* Apply job */
+div.wjportal-view-job-page-job-apply-form-wraper {float: left;width: 100%;font-size: 15px;padding-bottom: 10px;}
+div.wjportal-view-job-page-job-apply-form-wraper div.wjportal-job-sec-title {float: left;width: 100%;margin-bottom: 10px;font-size: 18px;font-weight: bold;padding: 5px 0px;}
+div.wjportal-view-job-page-job-apply-form-wraper div.wjportal-job-desc {float: left;width: 100%;font-size: 15px;margin-bottom: 15px;}
+div.wjportal-view-job-page-job-apply-form-wraper .wjportal-form-btn.wjportal-save-btn {display: inline-block;padding: 7px 20px;margin-right: 5px;font-size: 15px;cursor: pointer;width: 100%;font-weight: bold;}
+div.wjportal-view-job-page-job-apply-form-wraper .wjportal-login-to-apply-btn {display: inline-block;padding: 7px 20px;margin-right: 5px;font-size: 15px;cursor: pointer;text-decoration: none;width: 100%;font-weight: bold;}
+div.wjportal-view-job-page-job-apply-form-wraper .wjportal-apply-as-visitor-btn {display: inline-block;padding: 7px 20px;margin-right: 5px;font-size: 15px;cursor: pointer;text-decoration: none;width: 100%;font-weight: bold;}
+div.wjportal-view-job-page-job-apply-form-wraper .job-detail-jobapply-message-wrap{ display:inline-block;width:100%; }
+div.wjportal-view-job-page-job-apply-form-wraper .job-detail-jobapply-message-wrap .job-detail-jobapply-message-msg{ display:inline-block;width:100%; font-size: 15px;padding: 5px;}
+div.wjportal-view-job-page-job-apply-form-wraper .job-detail-jobapply-message-wrap .job-detail-jobapply-message-msg img{ display:inline-block;height: 20px;}
+.wjportal-job-apply-price-msg{display: inline-block; width: 100%;padding: 5px 10px;margin-top: 10px;border:1px solid #ddd;background: #fff;}
+.wjportal-form-value.wjportal-job-apply-payment-method{display: inline-block; width: 100%;}
+.wjportal-form-value.wjportal-job-apply-payment-method .wpjobportal-form-radio-field{display: inline-block; width: 100%;    padding: 0 5px;margin-bottom: 5px;border:1px solid #ddd;background: #fff;}
+.wjportal-form-value.wjportal-job-apply-payment-method .wpjobportal-form-radio-field img{display: inline-block;height: 40px;}
+div.wjportal-form-wrp div.wjportal-form-row .wjportal-form-value.wjportal-job-apply-payment-method .wpjobportal-form-radio-field label{display: inline-block;margin: 0px;cursor: pointer;}
+
+
+ /* ai form search */
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp{display: flex;align-items:flex-start;margin-bottom: 40px;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp input{width:calc(100% - 2px);min-height: 57px;border: unset;padding:0 10px;font-size: 14px;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-field-wrp{flex: 1 1 30%; min-width: 30%; position: relative;border: 1px solid;border-right-width: 0px;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-field-wrp{flex: 1 1 40%;margin-right: 0;position: relative;border: 1px solid;border-right-width:0px;display: flex;align-items: center;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-btn-wrp button{min-height: 45px;height: 45px !important; min-width: 120px;font-weight: bold;border-radius: 4px;border: unset;cursor: pointer;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-btn-wrp {height:59px;display: flex;align-items: center;border: 1px solid;border-left-width: 0px;padding-right: 10px;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-field-icon{position: absolute;top: 17px;left: 10px;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp ul.wpjobportal-input-list-wpjobportal li.wpjobportal-input-selected-token-wpjobportal p{color: #fff;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp ul.wpjobportal-input-list-wpjobportal{height: 57px !important;width: 100%;overflow-x: auto;position: relative;display: flex;padding: 0;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp ul.wpjobportal-input-list-wpjobportal li input{min-height: 50px;min-width: fit-content;position: relative;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp ul.wpjobportal-input-list-wpjobportal li{display: flex;align-items: center;min-width: fit-content;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp ul.wpjobportal-input-list-wpjobportal::before{content: url('../images/location.png');padding-left:10px;padding-top: 17px;float: left;} 
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-field-wrp ul.wpjobportal-input-list-wpjobportal .wpjobportal-job-listing-city-field{height: 50px;overflow-y: scroll;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-field-wrp ul.wpjobportal-input-list-wpjobportal {border: unset;}
+ div.wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp{display: flex;align-items: center;flex-wrap: wrap;margin-bottom: 40px;padding: 10px 20px;border: 1px solid;}
+ div.wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-ai-searchfrm-logo-wrp{width: 125px;height: 125px;position: relative;margin-right: 20px;border-radius: 4px;}
+ div.wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-ai-searchfrm-logo-wrp img{position: absolute;top: 0;left: 0;right: 0;bottom: 0;max-width: 70%;max-height:70%;text-align: center;margin: auto;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp{flex: 1 1 70%;margin-bottom: 0;flex-wrap: wrap;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-ai-searchfrm-title{display: flex;align-items: center;flex: 1 1 100%;font-weight: bold;padding-bottom: 10px;font-size: 18px;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-ai-searchfrm-discription{display: flex;align-items: center;flex: 1 1 100%;padding-top: 12px;font-size: 14px;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-field-wrp input{min-height: 50px;border-width: 0px !important;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-btn-wrp .wjportal-filter-search-btn{padding: 0 10px;display: inline-block;padding: 0 10px;font-size: 14px;line-height: initial;height: 50px;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-btn-wrp .wjportal-filter-search-btn img{position: unset;}
+ .wjportal-main-up-wrapper .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-btn-wrp {background-color: #fafafa;height: 52px;min-width: fit-content;}
+ .wjportal-main-up-wrapper .wjportal-aifilter-search-wrp .wjportal-filter-search-btn-wrp button{min-height: 45px;}
+ div.wjportal-filter-search-main-wrp.wjportal-filter-aisearch-main-wrp{border: unset;padding: 0;margin-bottom: 0;}
+ /* ai search form */
+ div.wjportal-main-up-wrapper .wjportal-aisearch-form .wjportal-filter-ai-searchfrm-wrp{flex-direction: column;padding: 40px 20px;}
+ div.wjportal-main-up-wrapper .wjportal-aisearch-form .wjportal-filter-ai-searchfrm-wrp .wjportal-ai-searchfrm-logo-wrp{margin-right: 0;margin-bottom: 20px;}
+ .wjportal-main-up-wrapper .wjportal-aisearch-form .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp{flex: 1 1 100%;width: 100%;}
+ .wjportal-main-up-wrapper .wjportal-aisearch-form .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-field-wrp input{text-align: center;}
+ .wjportal-main-up-wrapper .wjportal-aisearch-form .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-field-wrp input::placeholder {color: #a09f9f !important;}
+ div.wjportal-main-up-wrapper .wjportal-aisearch-form .wjportal-filter-ai-searchfrm-wrp .wjportal-filter-search-btn-wrp{background-color:unset;}
+ .wjportal-main-up-wrapper .wjportal-aisearch-form .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-field-wrp input:focus::placeholder {color: transparent !important;}
+ .wjportal-main-up-wrapper .wjportal-aisearch-form .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-ai-searchfrm-title{justify-content: center;text-align: center;padding-bottom: 20px;}
+ .wjportal-main-up-wrapper .wjportal-aisearch-form .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-ai-searchfrm-discription{justify-content: center;text-align: center;padding-bottom: 20px;padding-top: 0;}
+ .wjportal-main-up-wrapper .wjportal-aisearch-form .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-field-wrp{width: 65%;flex:unset;border-right-width:1px;margin:0 auto 20px;}
+ .wjportal-main-up-wrapper .wjportal-aisearch-form .wjportal-filter-ai-searchfrm-wrp .wjportal-aifilter-search-wrp .wjportal-filter-search-btn-wrp{justify-content: center;border: unset;width: 100%;padding-right: 0;}
+
+
+div.wjportal-resume-list div.wjportal-resume-list-btm-wrp div.wjportal-resume-action-wrp .wjportal-resume-act-btn.wjportal-resume-act-btn-ai-suggested-jobs{float: right;text-decoration: none;}
+div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-jobs-action-wrp a.wjportal-jobs-act-btn.wjportal-jobs-act-btn-ai-suggested-resumes{float: right;text-decoration: none;}

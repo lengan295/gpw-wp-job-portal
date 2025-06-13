@@ -1,0 +1,17 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Village de Timor", "Village de Timor", "Village de Timor", NULL, 49, 0, 1, NULL, "50.5825401", "3.8857274777778"),
+("Village Tamberma", "Village Tamberma", "Village Tamberma", NULL, 49, 0, 1, NULL, "50.58276665", "3.890147163625"),
+("Tournai", "Tournai", "Tournai", NULL, 49, 0, 1, NULL, "50.6056458", "3.3878179"),
+("Mons", "Mons", "Mons", NULL, 49, 0, 1, NULL, "50.4549568", "3.951958"),
+("Charleroi", "Charleroi", "Charleroi", NULL, 49, 0, 1, NULL, "50.4116459", "4.4445264"),
+("Namur", "Namur", "Namur", NULL, 49, 0, 1, NULL, "50.4665284", "4.8661892"),
+("Kortrijk", "Kortrijk", "Kortrijk", NULL, 49, 0, 1, NULL, "50.8276429", "3.2659884"),
+("Oostende", "Oostende", "Ostend", NULL, 49, 0, 1, NULL, "51.2258565", "2.919496"),
+("Brugge", "Brugge", "Bruges", NULL, 49, 0, 1, NULL, "51.2085526", "3.226772"),
+("Gent", "Gent", "Ghent", NULL, 49, 0, 1, NULL, "51.0538286", "3.7250121"),
+("Bruxelles - Brussel", "Bruxelles - Brussel", "Brussels", NULL, 49, 0, 1, NULL, "50.8465573", "4.351697"),
+("Leuven", "Leuven", "Leuven", NULL, 49, 0, 1, NULL, "50.879202", "4.7011675"),
+("Mechelen", "Mechelen", "Mechelen", NULL, 49, 0, 1, NULL, "51.0281381", "4.4803453"),
+("Antwerpen", "Antwerpen", "Antwerp", NULL, 49, 0, 1, NULL, "51.2211097", "4.3997081"),
+("Liège", "Liège", "Liège", NULL, 49, 0, 1, NULL, "50.6450944", "5.5736112");

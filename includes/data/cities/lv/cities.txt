@@ -1,0 +1,12 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Liepāja", "Liepāja", "Liepaja", NULL, 71, 0, 1, NULL, "56.5048435", "21.0070903"),
+("Ventspils", "Ventspils", "Ventspils", NULL, 71, 0, 1, NULL, "57.3903918", "21.5635991"),
+("Daugavpils", "Daugavpils", "Daugavpils", NULL, 71, 0, 1, NULL, "55.8712267", "26.5159337"),
+("Jelgava", "Jelgava", "Jelgava", NULL, 71, 0, 1, NULL, "56.6514394", "23.7339143"),
+("Jūrmala", "Jūrmala", "Jūrmala", NULL, 71, 0, 1, NULL, "56.9727164", "23.7886979"),
+("Rīga", "Rīga", "Riga", NULL, 71, 0, 1, NULL, "56.9493977", "24.1051846"),
+("Ogre", "Ogre", "Ogre", NULL, 71, 0, 1, NULL, "56.8192045", "24.6074393"),
+("Jēkabpils", "Jēkabpils", "Jēkabpils", NULL, 71, 0, 1, NULL, "56.4958638", "25.8687747"),
+("Valmiera", "Valmiera", "Valmiera", NULL, 71, 0, 1, NULL, "57.5389148", "25.4261688"),
+("Rēzekne", "Rēzekne", "Rezekne", NULL, 71, 0, 1, NULL, "56.506281", "27.3306623");

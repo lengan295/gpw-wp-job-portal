@@ -1,0 +1,3 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Monaco", "Monaco", "Monaco", NULL, 78, 0, 1, NULL, "43.7309898", "7.4209708");

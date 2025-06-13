@@ -1,0 +1,15 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Sekondi-Takoradi", "Sekondi-Takoradi", "Sekondi-Takoradi", NULL, 161, 0, 1, NULL, "4.927456", "-1.7490216"),
+("Cape Coast", "Cape Coast", "Cape Coast", NULL, 161, 0, 1, NULL, "5.107467", "-1.2430793"),
+("Accra", "Accra", "Accra", NULL, 161, 0, 1, NULL, "5.5571096", "-0.2012376"),
+("Obuasi", "Obuasi", "Obuasi", NULL, 161, 0, 1, NULL, "6.211542", "-1.6894045"),
+("Kumasi", "Kumasi", "Kumasi", NULL, 161, 0, 1, NULL, "6.6985605", "-1.6233086"),
+("Tema", "Tema", "Tema", NULL, 161, 0, 1, NULL, "5.6596441", "-0.0096592"),
+("Koforidua", "Koforidua", "Koforidua", NULL, 161, 0, 1, NULL, "6.100334", "-0.2614572"),
+("Sunyani", "Sunyani", "Sunyani", NULL, 161, 0, 1, NULL, "7.3384389", "-2.3309226"),
+("Techiman", "Techiman", "Techiman", NULL, 161, 0, 1, NULL, "7.584971", "-1.936401"),
+("Tamale", "Tamale", "Tamale", NULL, 161, 0, 1, NULL, "9.4051992", "-0.8423986"),
+("Wa", "Wa", "Wa", NULL, 161, 0, 1, NULL, "10.0623261", "-2.5054273"),
+("Bolgatanga", "Bolgatanga", "Bolgatanga", NULL, 161, 0, 1, NULL, "10.7853963", "-0.8487322"),
+("Ho", "Ho", "Ho", NULL, 161, 0, 1, NULL, "6.6126598", "0.4688932");

@@ -1,0 +1,5 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Mount Hagen", "Mount Hagen", "Mount Hagen", NULL, 206, 0, 1, NULL, "-5.858784", "144.2316365"),
+("Port Moresby", "Port Moresby", "Port Moresby", NULL, 206, 0, 1, NULL, "-9.4743301", "147.1599504"),
+("Lae", "Lae", "Lae", NULL, 206, 0, 1, NULL, "-6.7301976", "147.0008109");

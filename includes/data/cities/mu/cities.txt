@@ -1,0 +1,7 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Quatre Bornes", "Quatre Bornes", "Quatre Bornes", NULL, 173, 0, 1, NULL, "-20.2643015", "57.4800061"),
+("Beau Bassin-Rose Hill", "Beau Bassin-Rose Hill", "Beau Bassin-Rose Hill", NULL, 173, 0, 1, NULL, "-20.234269", "57.4693447"),
+("Curepipe", "Curepipe", "Curepipe", NULL, 173, 0, 1, NULL, "-20.3150516", "57.5211497"),
+("Vacoas-Phoenix", "Vacoas-Phoenix", "Vacoas-Phoenix", NULL, 173, 0, 1, NULL, "-20.2933761", "57.4978036"),
+("Port Louis", "Port Louis", "Port Louis", NULL, 173, 0, 1, NULL, "-20.1624522", "57.5028044");

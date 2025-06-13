@@ -1,0 +1,7 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Nassau", "Nassau", "Nassau", NULL, 3, 0, 1, NULL, "25.0782266", "-77.3383438"),
+("Tarpum Head", "Tarpum Head", "Tarpum Head", NULL, 3, 0, 1, NULL, "24.9078435", "-76.1824162"),
+("Tarpum Bay", "Tarpum Bay", "Tarpum Bay", NULL, 3, 0, 1, NULL, "24.9716817", "-76.1825135"),
+("Governor's Harbour", "Governor's Harbour", "Governor's Harbour", NULL, 3, 0, 1, NULL, "25.1934774", "-76.245336"),
+("Freeport", "Freeport", "Freeport", NULL, 3, 0, 1, NULL, "26.535681", "-78.6953623");

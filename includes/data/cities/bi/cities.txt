@@ -1,0 +1,19 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Rumonge", "Rumonge", "Rumonge", NULL, 147, 0, 1, NULL, "-3.9745473", "29.439294"),
+("Bujumbura", "Bujumbura", "Bujumbura", NULL, 147, 0, 1, NULL, "-3.3638125", "29.3675028"),
+("Cibitoke", "Cibitoke", "Cibitoke", NULL, 147, 0, 1, NULL, "-2.8919231", "29.1244074"),
+("Bubanza", "Bubanza", "Bubanza", NULL, 147, 0, 1, NULL, "-3.0845915", "29.3948368"),
+("Makamba", "Makamba", "Makamba", NULL, 147, 0, 1, NULL, "-4.1347916", "29.8046322"),
+("Bururi", "Bururi", "Bururi", NULL, 147, 0, 1, NULL, "-3.9453227", "29.6192469"),
+("Rutana", "Rutana", "Rutana", NULL, 147, 0, 1, NULL, "-3.9263608", "29.990574"),
+("Mwaro", "Mwaro", "Mwaro", NULL, 147, 0, 1, NULL, "-3.5116676", "29.7050017"),
+("Muramvya", "Muramvya", "Muramvya", NULL, 147, 0, 1, NULL, "-3.2663248", "29.6167289"),
+("Gitega", "Gitega", "Gitega", NULL, 147, 0, 1, NULL, "-3.4284953", "29.9249718"),
+("Kayanza", "Kayanza", "Kayanza", NULL, 147, 0, 1, NULL, "-2.9297133", "29.6321188"),
+("Ngozi", "Ngozi", "Ngozi", NULL, 147, 0, 1, NULL, "-2.909091", "29.8230442"),
+("Karuzi", "Karuzi", "Karuzi", NULL, 147, 0, 1, NULL, "-3.1011687", "30.1647524"),
+("Ruyigi", "Ruyigi", "Ruyigi", NULL, 147, 0, 1, NULL, "-3.4733471", "30.2501278"),
+("Cankuzo", "Cankuzo", "Cankuzo", NULL, 147, 0, 1, NULL, "-3.2204922", "30.5495774"),
+("Muyinga", "Muyinga", "Muyinga", NULL, 147, 0, 1, NULL, "-2.8453256", "30.3393883"),
+("Kirundo", "Kirundo", "Kirundo", NULL, 147, 0, 1, NULL, "-2.5853872", "30.0933449");

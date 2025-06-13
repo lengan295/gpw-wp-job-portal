@@ -1,0 +1,9 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Бохтар", "Бохтар", "Bokhtar", NULL, 135, 0, 1, NULL, "37.8357217", "68.7820957"),
+("Кӯлоб", "Кӯлоб", "Kulob", NULL, 135, 0, 1, NULL, "37.90670435", "69.776165268239"),
+("Душанбе", "Душанбе", "Dushanbe", NULL, 135, 0, 1, NULL, "38.5856947", "68.760374675189"),
+("Sari Khosor - Shahidon", "Sari Khosor - Shahidon", "Sari Khosor - Shahidon", NULL, 135, 0, 1, NULL, "38.53484825", "69.833588791313"),
+("Хуҷанд", "Хуҷанд", "Khujand", NULL, 135, 0, 1, NULL, "40.284862", "69.633763604404"),
+("Хоруғ", "Хоруғ", "Khorugh", NULL, 135, 0, 1, NULL, "37.4903687", "71.5493236"),
+("Панҷакент", "Панҷакент", "Panjakent", NULL, 135, 0, 1, NULL, "39.4961693", "67.6141456");

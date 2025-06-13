@@ -1,0 +1,6 @@
+div#resume-wrapper div.resume-row-wrapper.form div.row-value div#resumefileswrapper span.resume-selectfiles{
+	display:none;
+}
+.wpjobportal-browser-hidden-element{
+    display: inline-block !important;
+}

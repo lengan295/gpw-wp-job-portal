@@ -1,0 +1,22 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Christchurch", "Christchurch", "Christchurch", NULL, 197, 0, 1, NULL, "-43.530955", "172.6366455"),
+("Invercargill", "Invercargill", "Invercargill", NULL, 197, 0, 1, NULL, "-46.4118465", "168.3470632"),
+("Dunedin", "Dunedin", "Dunedin", NULL, 197, 0, 1, NULL, "-45.8740984", "170.5035755"),
+("Nelson", "Nelson", "Nelson", NULL, 197, 0, 1, NULL, "-41.2710849", "173.2836756"),
+("Wellington", "Wellington", "Wellington", NULL, 197, 0, 1, NULL, "-41.2887953", "174.7772114"),
+("Porirua", "Porirua", "Porirua", NULL, 197, 0, 1, NULL, "-41.1354696", "174.8398067"),
+("Lower Hutt", "Lower Hutt", "Lower Hutt", NULL, 197, 0, 1, NULL, "-41.2125751", "174.9057626"),
+("Upper Hutt", "Upper Hutt", "Upper Hutt", NULL, 197, 0, 1, NULL, "-41.1240674", "175.0699589"),
+("Palmerston North", "Palmerston North", "Palmerston North", NULL, 197, 0, 1, NULL, "-40.356317", "175.6112388"),
+("Whanganui", "Whanganui", "Whanganui", NULL, 197, 0, 1, NULL, "-39.9324904", "175.0519306"),
+("Hastings", "Hastings", "Hastings", NULL, 197, 0, 1, NULL, "-39.6417678", "176.8430781"),
+("Napier", "Napier", "Napier", NULL, 197, 0, 1, NULL, "-39.4902099", "176.917839"),
+("New Plymouth", "New Plymouth", "New Plymouth", NULL, 197, 0, 1, NULL, "-39.0579941", "174.0806474"),
+("Whangārei", "Whangārei", "Whangarei", NULL, 197, 0, 1, NULL, "-35.7275268", "174.3194202"),
+("Rotorua", "Rotorua", "Rotorua", NULL, 197, 0, 1, NULL, "-38.1381493", "176.252922"),
+("Hamilton", "Hamilton", "Hamilton", NULL, 197, 0, 1, NULL, "-37.7878809", "175.281788"),
+("Auckland", "Auckland", "Auckland", NULL, 197, 0, 1, NULL, "-36.852095", "174.7631803"),
+("Hibiscus Coast", "Hibiscus Coast", "Hibiscus Coast", NULL, 197, 0, 1, NULL, "-36.6095336", "174.7086237"),
+("Tauranga", "Tauranga", "Tauranga", NULL, 197, 0, 1, NULL, "-37.6859006", "176.167505"),
+("Gisborne", "Gisborne", "Gisborne", NULL, 197, 0, 1, NULL, "-38.661326", "178.0206487");

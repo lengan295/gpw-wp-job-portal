@@ -1,0 +1,23 @@
+
+INSERT INTO `#__wj_portal_cities` ( `name`, `localname`, `internationalname`, `stateid`, `countryid`, `isedit`, `enabled`, `serverid`, `latitude`, `longitude`) VALUES 
+("Igombe", "Igombe", "Igombe", NULL, 189, 0, 1, NULL, "-2.3961481", "32.964906"),
+("Dodoma", "Dodoma", "Dodoma", NULL, 189, 0, 1, NULL, "-6.1791181", "35.7468174"),
+("Dar es Salaam", "Dar es Salaam", "Dar es Salaam", NULL, 189, 0, 1, NULL, "-6.8160837", "39.2803583"),
+("Mbeya", "Mbeya", "Mbeya", NULL, 189, 0, 1, NULL, "-8.906508", "33.468672"),
+("Sumbawanga", "Sumbawanga", "Sumbawanga", NULL, 189, 0, 1, NULL, "-7.9523861", "31.6231898"),
+("Kigoma", "Kigoma", "Kigoma", NULL, 189, 0, 1, NULL, "-4.8770915", "29.649101"),
+("Kasulu", "Kasulu", "Kasulu", NULL, 189, 0, 1, NULL, "-4.5773996", "30.099234"),
+("Tabora", "Tabora", "Tabora", NULL, 189, 0, 1, NULL, "-5.0202431", "32.8097724"),
+("Shinyanga", "Shinyanga", "Shinyanga", NULL, 189, 0, 1, NULL, "-3.6562049", "33.4271153"),
+("Mwanza", "Mwanza", "Mwanza", NULL, 189, 0, 1, NULL, "-2.5196915", "32.9014417"),
+("Bukoba", "Bukoba", "Bukoba", NULL, 189, 0, 1, NULL, "-1.3311508", "31.8125605"),
+("Songea", "Songea", "Songea", NULL, 189, 0, 1, NULL, "-10.6787282", "35.6483576"),
+("Iringa", "Iringa", "Iringa", NULL, 189, 0, 1, NULL, "-7.7790973", "35.6970528"),
+("Morogoro", "Morogoro", "Morogoro", NULL, 189, 0, 1, NULL, "-6.8161626", "37.6693891"),
+("Dar es-Salaam", "Dar es-Salaam", "Dar es-Salaam", NULL, 189, 0, 1, NULL, "-6.8160837", "39.2803583"),
+("Zanzibar City مدينة زنجبار", "Zanzibar City مدينة زنجبار", "Zanzibar City", NULL, 189, 0, 1, NULL, "-6.1664908", "39.2074312"),
+("Mtwara", "Mtwara", "Mtwara", NULL, 189, 0, 1, NULL, "-10.2838146", "40.1789136"),
+("Tanga", "Tanga", "Tanga", NULL, 189, 0, 1, NULL, "-5.0721976", "39.0993457"),
+("Arusha", "Arusha", "Arusha", NULL, 189, 0, 1, NULL, "-3.3696827", "36.6880794"),
+("Moshi", "Moshi", "Moshi", NULL, 189, 0, 1, NULL, "-3.3486456", "37.3435249"),
+("Musoma", "Musoma", "Musoma", NULL, 189, 0, 1, NULL, "-1.4998186", "33.8083018");
