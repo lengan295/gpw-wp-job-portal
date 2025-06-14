@@ -575,3643 +575,3643 @@ msgid "My Folders"
 msgstr "Thư mục của tôi"
 
 msgid "Invalid captcha"
-msgstr ""
+msgstr "Mã captcha không hợp lệ"
 
 msgid "Incorrect Captcha code"
-msgstr ""
+msgstr "Mã Captcha không chính xác"
 
 msgid "Type In A Search Term"
-msgstr ""
+msgstr "Nhập từ khóa tìm kiếm"
 
 msgid "No Results"
-msgstr ""
+msgstr "Không có kết quả"
 
 msgid "Searching"
-msgstr ""
+msgstr "Đang tìm kiếm"
 
 msgid "Add New Job Alert"
-msgstr ""
+msgstr "Thêm Cảnh Báo Công Việc Mới"
 
 msgid "Categories"
-msgstr ""
+msgstr "Danh mục"
 
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 msgid "name"
-msgstr ""
+msgstr "tên"
 
 msgid "job alert"
-msgstr ""
+msgstr "cảnh báo công việc"
 
 msgid "add new job alert"
-msgstr ""
+msgstr "thêm cảnh báo công việc mới"
 
 msgid "Please fill the message"
-msgstr ""
+msgstr "Vui lòng điền tin nhắn"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "Bạn có chắc không?"
 
 msgid "Messages Approval Queue"
-msgstr ""
+msgstr "Hàng Chờ Phê Duyệt Tin Nhắn"
 
 msgid "force delete"
-msgstr ""
+msgstr "xóa bắt buộc"
 
 msgid "Error Deleting Logo"
-msgstr ""
+msgstr "Lỗi khi xóa logo"
 
 msgid "Enter Correct Company Site"
-msgstr ""
+msgstr "Nhập đúng trang web công ty"
 
 msgid "File size is greater then allowed file size"
-msgstr ""
+msgstr "Kích thước tệp lớn hơn kích thước cho phép"
 
 msgid "File ext. is mismatched"
-msgstr ""
+msgstr "Phần mở rộng tệp không khớp"
 
 msgid "Something got wrong"
-msgstr ""
+msgstr "Có lỗi xảy ra"
 
 msgid "Terms and Conditions"
-msgstr ""
+msgstr "Điều khoản và Điều kiện"
 
 msgid "Company Has Been Feature SuccesFully"
-msgstr ""
+msgstr "Công ty đã được đánh dấu nổi bật thành công"
 
 msgid "Error While Adding Feature job"
-msgstr ""
+msgstr "Lỗi khi thêm công việc nổi bật"
 
 msgid "Total Company"
-msgstr ""
+msgstr "Tổng số công ty"
 
 msgid "Remaining Company"
-msgstr ""
+msgstr "Công ty còn lại"
 
 msgid "change package"
-msgstr ""
+msgstr "thay đổi gói"
 
 msgid "Add Company"
-msgstr ""
+msgstr "Thêm công ty"
 
 msgid "My companies"
-msgstr ""
+msgstr "Công ty của tôi"
 
 msgid "My Companies"
-msgstr ""
+msgstr "Công ty của tôi"
 
 msgid "Are you sure to cancel job apply"
-msgstr ""
+msgstr "Bạn có chắc chắn hủy ứng tuyển công việc không"
 
 msgid "Please first save the resume then apply"
-msgstr ""
+msgstr "Vui lòng lưu hồ sơ trước rồi mới ứng tuyển"
 
 msgid "Remove"
-msgstr ""
+msgstr "Xóa"
 
 msgid "Error"
-msgstr ""
+msgstr "Lỗi"
 
 msgid "File extension mismatch"
-msgstr ""
+msgstr "Phần mở rộng tệp không khớp"
 
 msgid "File size exceeds limit"
-msgstr ""
+msgstr "Kích thước tệp vượt quá giới hạn"
 
 msgid "Maximum files selected"
-msgstr ""
+msgstr "Đã chọn số tệp tối đa"
 
 msgid "Confirm to delete resume file"
-msgstr ""
+msgstr "Xác nhận xóa tệp hồ sơ"
 
 msgid "Please first save resume personal section then add any other section"
-msgstr ""
+msgstr "Vui lòng lưu phần thông tin cá nhân của hồ sơ trước rồi mới thêm các phần khác"
 
 msgid "Geocode was not successful for the following reason"
-msgstr ""
+msgstr "Mã hóa địa lý không thành công vì lý do sau"
 
 msgid "Resume Files"
-msgstr ""
+msgstr "Tệp hồ sơ"
 
 msgid "Select files"
-msgstr ""
+msgstr "Chọn tệp"
 
 msgid "Selected files"
-msgstr ""
+msgstr "Tệp đã chọn"
 
 msgid "No file selected"
-msgstr ""
+msgstr "Chưa chọn tệp"
 
 msgid "Files allowed"
-msgstr ""
+msgstr "Tệp cho phép"
 
 msgid "Maximum file size"
-msgstr ""
+msgstr "Kích thước tệp tối đa"
 
 msgid "Edit Resume"
-msgstr ""
+msgstr "Chỉnh sửa hồ sơ"
 
 msgid "Add New Resume"
-msgstr ""
+msgstr "Thêm hồ sơ mới"
 
 msgid "Resume Has Been Feature SuccessFully"
-msgstr ""
+msgstr "Hồ sơ đã được đánh dấu nổi bật thành công"
 
 msgid "Application title"
-msgstr ""
+msgstr "Tiêu đề ứng tuyển"
 
 msgid "First name"
-msgstr ""
+msgstr "Tên"
 
 msgid "Job type"
-msgstr ""
+msgstr "Loại công việc"
 
 msgid "Total Resume"
-msgstr ""
+msgstr "Tổng số hồ sơ"
 
 msgid "Add Resume"
-msgstr ""
+msgstr "Thêm hồ sơ"
 
 msgid "My Resumes"
-msgstr ""
+msgstr "Hồ sơ của tôi"
 
 msgid "Personal Information"
-msgstr ""
+msgstr "Thông tin cá nhân"
 
 msgid "Institutes"
-msgstr ""
+msgstr "Học viện"
 
 msgid "Employers"
-msgstr ""
+msgstr "Nhà tuyển dụng"
 
 msgid "Skills"
-msgstr ""
+msgstr "Kỹ năng"
 
 msgid "pdf"
-msgstr ""
+msgstr "pdf"
 
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 msgid "print"
-msgstr ""
+msgstr "in"
 
 msgid "Print"
-msgstr ""
+msgstr "In"
 
 msgid "Jobs"
-msgstr ""
+msgstr "Công việc"
 
 msgid "Active Jobs"
-msgstr ""
+msgstr "Công việc đang hoạt động"
 
 msgid "Applied Jobs"
-msgstr ""
+msgstr "Công việc đã ứng tuyển"
 
 msgid "Featured Jobs"
-msgstr ""
+msgstr "Công việc nổi bật"
 
 msgid "Overall Statistics"
-msgstr ""
+msgstr "Thống kê tổng thể"
 
 msgid "Jobs By Categories"
-msgstr ""
+msgstr "Công việc theo danh mục"
 
 msgid "Jobs By Types"
-msgstr ""
+msgstr "Công việc theo loại"
 
 msgid "Dates"
-msgstr ""
+msgstr "Ngày"
 
 msgid "Featured Resume"
-msgstr ""
+msgstr "Hồ sơ nổi bật"
 
 msgid "Resume By Categories"
-msgstr ""
+msgstr "Hồ sơ theo danh mục"
 
 msgid "Applied jobs"
-msgstr ""
+msgstr "Công việc đã ứng tuyển"
 
 msgid "Featured resume"
-msgstr ""
+msgstr "Hồ sơ nổi bật"
 
 msgid "Stats"
-msgstr ""
+msgstr "Thống kê"
 
 msgid "Total"
-msgstr ""
+msgstr "Tổng"
 
 msgid "Companies"
-msgstr ""
+msgstr "Công ty"
 
 msgid "Active"
-msgstr ""
+msgstr "Hoạt động"
 
 msgid "Publish"
-msgstr ""
+msgstr "Xuất bản"
 
 msgid "Expired"
-msgstr ""
+msgstr "Hết hạn"
 
 msgid "Type here"
-msgstr ""
+msgstr "Nhập vào đây"
 
 msgid "Inbox"
-msgstr ""
+msgstr "Hộp thư đến"
 
 msgid "Spam"
-msgstr ""
+msgstr "Thư rác"
 
 msgid "Hired"
-msgstr ""
+msgstr "Đã tuyển"
 
 msgid "Short listed"
-msgstr ""
+msgstr "Đã chọn"
 
 msgid "Advance Search"
-msgstr ""
+msgstr "Tìm kiếm nâng cao"
 
 msgid "Nationality"
-msgstr ""
+msgstr "Quốc tịch"
 
 msgid "Gender"
-msgstr ""
+msgstr "Giới tính"
 
 msgid "Application Title"
-msgstr ""
+msgstr "Tiêu đề ứng tuyển"
 
 msgid "Highest Education"
-msgstr ""
+msgstr "Trình độ học vấn cao nhất"
 
 msgid "Resumes By Tag"
-msgstr ""
+msgstr "Hồ sơ theo thẻ"
 
 msgid "Resumes"
-msgstr ""
+msgstr "Hồ sơ"
 
 msgid "save searches"
-msgstr ""
+msgstr "lưu tìm kiếm"
 
 msgid "Saved Searches"
-msgstr ""
+msgstr "Tìm kiếm đã lưu"
 
 msgid "Resume RSS"
-msgstr ""
+msgstr "RSS hồ sơ"
 
 msgid "Short List Job"
-msgstr ""
+msgstr "Danh sách công việc ngắn"
 
 msgid "Comments"
-msgstr ""
+msgstr "Bình luận"
 
 msgid "Rate"
-msgstr ""
+msgstr "Đánh giá"
 
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 msgid "shortlisted jobs"
-msgstr ""
+msgstr "công việc đã chọn"
 
 msgid "Shotlisted Jobs"
-msgstr ""
+msgstr "Công việc đã chọn"
 
 msgid "Short Listed Jobs"
-msgstr ""
+msgstr "Công việc đã chọn"
 
 msgid "Last name"
-msgstr ""
+msgstr "Họ"
 
 msgid "Notes"
-msgstr ""
+msgstr "Ghi chú"
 
 msgid "Profile"
-msgstr ""
+msgstr "Hồ sơ"
 
 msgid "Personal information"
-msgstr ""
+msgstr "Thông tin cá nhân"
 
 msgid "Education"
-msgstr ""
+msgstr "Học vấn"
 
 msgid "Email address"
-msgstr ""
+msgstr "Địa chỉ email"
 
 msgid "Tag"
-msgstr ""
+msgstr "Thẻ"
 
 msgid "Country"
-msgstr ""
+msgstr "Quốc gia"
 
 msgid "Phone"
-msgstr ""
+msgstr "Điện thoại"
 
 msgid "Addresses"
-msgstr ""
+msgstr "Địa chỉ"
 
 msgid "Job has been applied"
-msgstr ""
+msgstr "Công việc đã được ứng tuyển"
 
 msgid "Login with facebook"
-msgstr ""
+msgstr "Đăng nhập bằng Facebook"
 
 msgid "Login with linkedin"
-msgstr ""
+msgstr "Đăng nhập bằng LinkedIn"
 
 msgid "Login with xing"
-msgstr ""
+msgstr "Đăng nhập bằng Xing"
 
 msgid "Error in saving records please try again"
-msgstr ""
+msgstr "Lỗi khi lưu bản ghi, vui lòng thử lại"
 
 msgid "Tags"
-msgstr ""
+msgstr "Thẻ"
 
 msgid "Add New Tag"
-msgstr ""
+msgstr "Thêm thẻ mới"
 
 msgid "Unpublish"
-msgstr ""
+msgstr "Hủy xuất bản"
 
 msgid "tags"
-msgstr ""
+msgstr "thẻ"
 
 msgid "add new tag"
-msgstr ""
+msgstr "thêm thẻ mới"
 
 msgid "Tell a friend"
-msgstr ""
+msgstr "Giới thiệu cho bạn bè"
 
 msgid "Send"
-msgstr ""
+msgstr "Gửi"
 
 msgid "Age"
-msgstr ""
+msgstr "Tuổi"
 
 msgid "Minimum"
-msgstr ""
+msgstr "Tối thiểu"
 
 msgid "Maximum"
-msgstr ""
+msgstr "Tối đa"
 
 msgid "Specify range"
-msgstr ""
+msgstr "Chỉ định khoảng"
 
 msgid "Cancel range"
-msgstr ""
+msgstr "Hủy khoảng"
 
 msgid "Experience"
-msgstr ""
+msgstr "Kinh nghiệm"
 
 msgid "Total Experience"
-msgstr ""
+msgstr "Tổng kinh nghiệm"
 
 msgid "Job Status"
-msgstr ""
+msgstr "Trạng thái công việc"
 
 msgid "Shift"
-msgstr ""
+msgstr "Ca làm việc"
 
 msgid "Please enter the coordinate radius"
-msgstr ""
+msgstr "Vui lòng nhập bán kính tọa độ"
 
 msgid "Company Info"
-msgstr ""
+msgstr "Thông tin công ty"
 
 msgid "Job Info"
-msgstr ""
+msgstr "Thông tin công việc"
 
 msgid "Select widget"
-msgstr ""
+msgstr "Chọn widget"
 
 msgid "Show Title"
-msgstr ""
+msgstr "Hiển thị tiêu đề"
 
 msgid "Hide"
-msgstr ""
+msgstr "Ẩn"
 
 msgid "Show"
-msgstr ""
+msgstr "Hiển thị"
 
 msgid "Company logo"
-msgstr ""
+msgstr "Logo công ty"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "Type of jobs"
-msgstr ""
+msgstr "Loại công việc"
 
 msgid "Newest jobs"
-msgstr ""
+msgstr "Công việc mới nhất"
 
 msgid "Hot jobs"
-msgstr ""
+msgstr "Công việc hot"
 
 msgid "Column per row"
-msgstr ""
+msgstr "Cột trên mỗi hàng"
 
 msgid "Jobs by cities"
-msgstr ""
+msgstr "Công việc theo thành phố"
 
 msgid "Jobs by countries"
-msgstr ""
+msgstr "Công việc theo quốc gia"
 
 msgid "Today"
-msgstr ""
+msgstr "Hôm nay"
 
 msgid "Photo"
-msgstr ""
+msgstr "Ảnh"
 
 msgid "Available"
-msgstr ""
+msgstr "Có sẵn"
 
 msgid "Search Resume"
-msgstr ""
+msgstr "Tìm kiếm hồ sơ"
 
 msgid "Highest education"
-msgstr ""
+msgstr "Trình độ học vấn cao nhất"
 
 msgid "Transaction Key"
-msgstr ""
+msgstr "Khóa giao dịch"
 
 msgid "Please select "
-msgstr ""
+msgstr "Vui lòng chọn "
 
 msgid "Hide notice"
-msgstr ""
+msgstr "Ẩn thông báo"
 
 msgid "Something went wrong"
-msgstr ""
+msgstr "Có lỗi xảy ra"
 
 msgid "Control Panel"
-msgstr ""
+msgstr "Bảng điều khiển"
 
 msgid "Company Information"
-msgstr ""
+msgstr "Thông tin công ty"
 
 msgid "My Jobs"
-msgstr ""
+msgstr "Công việc của tôi"
 
 msgid "View Job"
-msgstr ""
+msgstr "Xem công việc"
 
 msgid "Newest Jobs"
-msgstr ""
+msgstr "Công việc mới nhất"
 
 msgid "Job Seeker Messages"
-msgstr ""
+msgstr "Tin nhắn của người tìm việc"
 
 msgid "Resume List"
-msgstr ""
+msgstr "Danh sách hồ sơ"
 
 msgid "Purchase History"
-msgstr ""
+msgstr "Lịch sử mua hàng"
 
 msgid "My Subscription"
-msgstr ""
+msgstr "Đăng ký của tôi"
 
 msgid "My  Packages"
-msgstr ""
+msgstr "Gói của tôi"
 
 msgid "View Folder"
-msgstr ""
+msgstr "Xem thư mục"
 
 msgid "Folder Resumes"
-msgstr ""
+msgstr "Hồ sơ trong thư mục"
 
 msgid "My Resume"
-msgstr ""
+msgstr "Hồ sơ của tôi"
 
 msgid "My Applied Jobs"
-msgstr ""
+msgstr "Công việc đã ứng tuyển của tôi"
 
 msgid "Job Applied Resume"
-msgstr ""
+msgstr "Hồ sơ ứng tuyển công việc"
 
 msgid "Job Search"
-msgstr ""
+msgstr "Tìm kiếm công việc"
 
 msgid "Log In"
-msgstr ""
+msgstr "Đăng nhập"
 
 msgid "Register"
-msgstr ""
+msgstr "Đăng ký"
 
 msgid "Edit Profile"
-msgstr ""
+msgstr "Chỉnh sửa hồ sơ"
 
 msgid "Plus"
-msgstr ""
+msgstr "Cộng"
 
 msgid "Equals"
-msgstr ""
+msgstr "Bằng"
 
 msgid "Minus"
-msgstr ""
+msgstr "Trừ"
 
 msgid "Proceed Without Paying"
-msgstr ""
+msgstr "Tiếp tục mà không thanh toán"
 
 msgid "Proceed"
-msgstr ""
+msgstr "Tiếp tục"
 
 msgid "Total Credits"
-msgstr ""
+msgstr "Tổng tín dụng"
 
 msgid "Credit for action"
-msgstr ""
+msgstr "Tín dụng cho hành động"
 
 msgid "Life time alerts"
-msgstr ""
+msgstr "Cảnh báo trọn đời"
 
 msgid "Credits remaining after proceed"
-msgstr ""
+msgstr "Tín dụng còn lại sau khi tiếp tục"
 
 msgid "Insufficient Credits"
-msgstr ""
+msgstr "Tín dụng không đủ"
 
 msgid "Can Not Proceed"
-msgstr ""
+msgstr "Không thể tiếp tục"
 
 msgid "Add to"
-msgstr ""
+msgstr "Thêm vào"
 
 msgid "featured"
-msgstr ""
+msgstr "nổi bật"
 
 msgid "company"
-msgstr ""
+msgstr "công ty"
 
 msgid "Company name"
-msgstr ""
+msgstr "Tên công ty"
 
 msgid "job"
-msgstr ""
+msgstr "công việc"
 
 msgid "Job title"
-msgstr ""
+msgstr "Tiêu đề công việc"
 
 msgid "resume"
-msgstr ""
+msgstr "hồ sơ"
 
 msgid "Resume title"
-msgstr ""
+msgstr "Tiêu đề hồ sơ"
 
 msgid "Alert"
-msgstr ""
+msgstr "Cảnh báo"
 
 msgid "View company contact detail"
-msgstr ""
+msgstr "Xem chi tiết liên hệ công ty"
 
 msgid "View resume contact detail"
-msgstr ""
+msgstr "Xem chi tiết liên hệ hồ sơ"
 
 msgid "search"
-msgstr ""
+msgstr "tìm kiếm"
 
 msgid "Apply On Job"
-msgstr ""
+msgstr "Ứng tuyển công việc"
 
 msgid "language"
-msgstr ""
+msgstr "ngôn ngữ"
 
 msgid "Upload Image"
-msgstr ""
+msgstr "Tải lên hình ảnh"
 
 msgid "Resume image"
-msgstr ""
+msgstr "Hình ảnh hồ sơ"
 
 msgid "Max logo size allowed"
-msgstr ""
+msgstr "Kích thước logo tối đa cho phép"
 
 msgid "Select Multiple Files"
-msgstr ""
+msgstr "Chọn nhiều tệp"
 
 msgid "Save Resume"
-msgstr ""
+msgstr "Lưu hồ sơ"
 
 msgid "Cancel Resume"
-msgstr ""
+msgstr "Hủy hồ sơ"
 
 msgid "Attachment"
-msgstr ""
+msgstr "Đính kèm"
 
 msgid "email"
-msgstr ""
+msgstr "email"
 
 msgid "salary"
-msgstr ""
+msgstr "lương"
 
 msgid "number"
-msgstr ""
+msgstr "số"
 
 msgid "location"
-msgstr ""
+msgstr "vị trí"
 
 msgid "activity log"
-msgstr ""
+msgstr "nhật ký hoạt động"
 
 msgid "Activity Log"
-msgstr ""
+msgstr "Nhật ký hoạt động"
 
 msgid "stats"
-msgstr ""
+msgstr "thống kê"
 
 msgid "translations"
-msgstr ""
+msgstr "bản dịch"
 
 msgid "Translations"
-msgstr ""
+msgstr "Bản dịch"
 
 msgid "system errors"
-msgstr ""
+msgstr "lỗi hệ thống"
 
 msgid "System Errors"
-msgstr ""
+msgstr "Lỗi hệ thống"
 
 msgid "slug"
-msgstr ""
+msgstr "đường dẫn"
 
 msgid "Slug"
-msgstr ""
+msgstr "Đường dẫn"
 
 msgid "ad ons"
-msgstr ""
+msgstr "bổ sung"
 
 msgid "Install Addons"
-msgstr ""
+msgstr "Cài đặt bổ sung"
 
 msgid "install addons"
-msgstr ""
+msgstr "cài đặt bổ sung"
 
 msgid "addons list"
-msgstr ""
+msgstr "danh sách bổ sung"
 
 msgid "Addons List"
-msgstr ""
+msgstr "Danh sách bổ sung"
 
 msgid "companies"
-msgstr ""
+msgstr "công ty"
 
 msgid "add new company"
-msgstr ""
+msgstr "thêm công ty mới"
 
 msgid "Add New Company"
-msgstr ""
+msgstr "Thêm công ty mới"
 
 msgid "fields"
-msgstr ""
+msgstr "trường"
 
 msgid "Fields"
-msgstr ""
+msgstr "Trường"
 
 msgid "departments"
-msgstr ""
+msgstr "phòng ban"
 
 msgid "add new department"
-msgstr ""
+msgstr "thêm phòng ban mới"
 
 msgid "jobs"
-msgstr ""
+msgstr "công việc"
 
 msgid "add new job"
-msgstr ""
+msgstr "thêm công việc mới"
 
 msgid "Add New Job"
-msgstr ""
+msgstr "Thêm công việc mới"
 
 msgid "search fields"
-msgstr ""
+msgstr "trường tìm kiếm"
 
 msgid "Search Fields"
-msgstr ""
+msgstr "Trường tìm kiếm"
 
 msgid "credits"
-msgstr ""
+msgstr "tín dụng"
 
 msgid "folder"
-msgstr ""
+msgstr "thư mục"
 
 msgid "job types"
-msgstr ""
+msgstr "loại công việc"
 
 msgid "Job Types"
-msgstr ""
+msgstr "Loại công việc"
 
 msgid "add new job type"
-msgstr ""
+msgstr "thêm loại công việc mới"
 
 msgid "Add New Job Type"
-msgstr ""
+msgstr "Thêm loại công việc mới"
 
 msgid "job status"
-msgstr ""
+msgstr "trạng thái công việc"
 
 msgid "add new job status"
-msgstr ""
+msgstr "thêm trạng thái công việc mới"
 
 msgid "Add New Job Status"
-msgstr ""
+msgstr "Thêm trạng thái công việc mới"
 
 msgid "highest educations"
-msgstr ""
+msgstr "trình độ học vấn cao nhất"
 
 msgid "Highest Educations"
-msgstr ""
+msgstr "Trình độ học vấn cao nhất"
 
 msgid "add new highest education"
-msgstr ""
+msgstr "thêm trình độ học vấn cao nhất mới"
 
 msgid "Add New Highest Education"
-msgstr ""
+msgstr "Thêm trình độ học vấn cao nhất mới"
 
 msgid "career levels"
-msgstr ""
+msgstr "cấp độ nghề nghiệp"
 
 msgid "Career Levels"
-msgstr ""
+msgstr "Cấp độ nghề nghiệp"
 
 msgid "add new career level"
-msgstr ""
+msgstr "thêm cấp độ nghề nghiệp mới"
 
 msgid "Add New Career Level"
-msgstr ""
+msgstr "Thêm cấp độ nghề nghiệp mới"
 
 msgid "currency"
-msgstr ""
+msgstr "tiền tệ"
 
 msgid "add new currency"
-msgstr ""
+msgstr "thêm tiền tệ mới"
 
 msgid "Add New Currency"
-msgstr ""
+msgstr "Thêm tiền tệ mới"
 
 msgid "categories"
-msgstr ""
+msgstr "danh mục"
 
 msgid "add new category"
-msgstr ""
+msgstr "thêm danh mục mới"
 
 msgid "Add New Category"
-msgstr ""
+msgstr "Thêm danh mục mới"
 
 msgid "salary range"
-msgstr ""
+msgstr "khoảng lương"
 
 msgid "salary range type"
-msgstr ""
+msgstr "loại khoảng lương"
 
 msgid "Salary Range Type"
-msgstr ""
+msgstr "Loại khoảng lương"
 
 msgid "add new salary range type"
-msgstr ""
+msgstr "thêm loại khoảng lương mới"
 
 msgid "Add New Salary Range Type"
-msgstr ""
+msgstr "Thêm loại khoảng lương mới"
 
 msgid "users"
-msgstr ""
+msgstr "người dùng"
 
 msgid "Users"
-msgstr ""
+msgstr "Người dùng"
 
 msgid "assign role"
-msgstr ""
+msgstr "gán vai trò"
 
 msgid "Assign Role"
-msgstr ""
+msgstr "Gán vai trò"
 
 msgid "short codes"
-msgstr ""
+msgstr "mã ngắn"
 
 msgid "Short Codes"
-msgstr ""
+msgstr "Mã ngắn"
 
 msgid "reports"
-msgstr ""
+msgstr "báo cáo"
 
 msgid "Reports"
-msgstr ""
+msgstr "Báo cáo"
 
 msgid "overall reports"
-msgstr ""
+msgstr "báo cáo tổng thể"
 
 msgid "Overall Reports"
-msgstr ""
+msgstr "Báo cáo tổng thể"
 
 msgid "Employer / Job Seeker Report"
-msgstr ""
+msgstr "Báo cáo Nhà tuyển dụng / Người tìm việc"
 
 msgid "email templates"
-msgstr ""
+msgstr "mẫu email"
 
 msgid "Email Templates"
-msgstr ""
+msgstr "Mẫu email"
 
 msgid "options"
-msgstr ""
+msgstr "tùy chọn"
 
 msgid "Options"
-msgstr ""
+msgstr "Tùy chọn"
 
 msgid "new company"
-msgstr ""
+msgstr "công ty mới"
 
 msgid "New Company"
-msgstr ""
+msgstr "Công ty mới"
 
 msgid "delete company"
-msgstr ""
+msgstr "xóa công ty"
 
 msgid "Delete Company"
-msgstr ""
+msgstr "Xóa công ty"
 
 msgid "company status"
-msgstr ""
+msgstr "trạng thái công ty"
 
 msgid "Company Status"
-msgstr ""
+msgstr "Trạng thái công ty"
 
 msgid "new job"
-msgstr ""
+msgstr "công việc mới"
 
 msgid "New Job"
-msgstr ""
+msgstr "Công việc mới"
 
 msgid "new visitor job"
-msgstr ""
+msgstr "công việc của khách"
 
 msgid "New Visitor Job"
-msgstr ""
+msgstr "Công việc của khách mới"
 
 msgid "job delete"
-msgstr ""
+msgstr "xóa công việc"
 
 msgid "Job Delete"
-msgstr ""
+msgstr "Xóa công việc"
 
 msgid "new resume"
-msgstr ""
+msgstr "hồ sơ mới"
 
 msgid "New Resume"
-msgstr ""
+msgstr "Hồ sơ mới"
 
 msgid "new visitor resume"
-msgstr ""
+msgstr "hồ sơ của khách"
 
 msgid "New Visitor Resume"
-msgstr ""
+msgstr "Hồ sơ của khách mới"
 
 msgid "resume status"
-msgstr ""
+msgstr "trạng thái hồ sơ"
 
 msgid "Resume Status"
-msgstr ""
+msgstr "Trạng thái hồ sơ"
 
 msgid "delete resume"
-msgstr ""
+msgstr "xóa hồ sơ"
 
 msgid "Delete Resume"
-msgstr ""
+msgstr "Xóa hồ sơ"
 
 msgid "new employer"
-msgstr ""
+msgstr "nhà tuyển dụng mới"
 
 msgid "New Employer"
-msgstr ""
+msgstr "Nhà tuyển dụng mới"
 
 msgid "new job seeker"
-msgstr ""
+msgstr "người tìm việc mới"
 
 msgid "New Job Seeker"
-msgstr ""
+msgstr "Người tìm việc mới"
 
 msgid "job apply admin"
-msgstr ""
+msgstr "quản trị ứng tuyển công việc"
 
 msgid "Job Apply Admin"
-msgstr ""
+msgstr "Quản trị ứng tuyển công việc"
 
 msgid "job apply employer"
-msgstr ""
+msgstr "nhà tuyển dụng ứng tuyển công việc"
 
 msgid "Job Apply Employer"
-msgstr ""
+msgstr "Nhà tuyển dụng ứng tuyển công việc"
 
 msgid "job apply job seeker"
-msgstr ""
+msgstr "người tìm việc ứng tuyển công việc"
 
 msgid "Job Apply Job Seeker"
-msgstr ""
+msgstr "Người tìm việc ứng tuyển công việc"
 
 msgid "applied resume status change"
-msgstr ""
+msgstr "thay đổi trạng thái hồ sơ ứng tuyển"
 
 msgid "Applied Resume Status Change"
-msgstr ""
+msgstr "Thay đổi trạng thái hồ sơ ứng tuyển"
 
 msgid "tell to friend"
-msgstr ""
+msgstr "giới thiệu cho bạn bè"
 
 msgid "Tell To Friend"
-msgstr ""
+msgstr "Giới thiệu cho bạn bè"
 
 msgid "Purchase Package Admin"
-msgstr ""
+msgstr "Quản trị mua gói"
 
 msgid "Purchase Status"
-msgstr ""
+msgstr "Trạng thái mua"
 
 msgid "countries"
-msgstr ""
+msgstr "quốc gia"
 
 msgid "Countries"
-msgstr ""
+msgstr "Quốc gia"
 
 msgid "add new country"
-msgstr ""
+msgstr "thêm quốc gia mới"
 
 msgid "Add New Country"
-msgstr ""
+msgstr "Thêm quốc gia mới"
 
 msgid "Total Stats"
-msgstr ""
+msgstr "Thống kê tổng"
 
 msgid "Company Type"
-msgstr ""
+msgstr "Loại công ty"
 
 msgid "Featured Companies"
-msgstr ""
+msgstr "Công ty nổi bật"
 
 msgid "Columns"
-msgstr ""
+msgstr "Cột"
 
 msgid "No. of Companies"
-msgstr ""
+msgstr "Số công ty"
 
 msgid "Top Jobs"
-msgstr ""
+msgstr "Công việc hàng đầu"
 
 msgid "Hot Jobs"
-msgstr ""
+msgstr "Công việc hot"
 
 msgid "No. of jobs"
-msgstr ""
+msgstr "Số công việc"
 
 msgid "Duration"
-msgstr ""
+msgstr "Thời gian"
 
 msgid "Start Publishing"
-msgstr ""
+msgstr "Bắt đầu xuất bản"
 
 msgid "Stop Publishing"
-msgstr ""
+msgstr "Dừng xuất bản"
 
 msgid "Column rer row"
-msgstr ""
+msgstr "Cột trên mỗi hàng"
 
 msgid "Resume Type"
-msgstr ""
+msgstr "Loại hồ sơ"
 
 msgid "Newest Resumes"
-msgstr ""
+msgstr "Hồ sơ mới nhất"
 
 msgid "Top Resumes"
-msgstr ""
+msgstr "Hồ sơ hàng đầu"
 
 msgid "Featured Resumes"
-msgstr ""
+msgstr "Hồ sơ nổi bật"
 
 msgid "No. of Resumes"
-msgstr ""
+msgstr "Số hồ sơ"
 
 msgid "Could not find any matching results"
-msgstr ""
+msgstr "Không tìm thấy kết quả phù hợp"
 
 msgid "no record"
-msgstr ""
+msgstr "không có bản ghi"
 
 msgid "No record found !..."
-msgstr ""
+msgstr "Không tìm thấy bản ghi nào !..."
 
 msgid "system offline"
-msgstr ""
+msgstr "hệ thống offline"
 
 msgid "user ban"
-msgstr ""
+msgstr "cấm người dùng"
 
 msgid "Your account is disabled, please contact system administrator !..."
-msgstr ""
+msgstr "Tài khoản của bạn đã bị vô hiệu hóa, vui lòng liên hệ quản trị viên hệ thống !..."
 
 msgid "login"
-msgstr ""
+msgstr "đăng nhập"
 
 msgid "To Access This Page Please Login !..."
-msgstr ""
+msgstr "Để truy cập trang này, vui lòng đăng nhập !..."
 
 msgid "Back to control panel"
-msgstr ""
+msgstr "Quay lại bảng điều khiển"
 
 msgid "register banned"
-msgstr ""
+msgstr "đăng ký bị cấm"
 
 msgid "You are not logged in"
-msgstr ""
+msgstr "Bạn chưa đăng nhập"
 
 msgid "Job seeker not allowed to perform this action"
-msgstr ""
+msgstr "Người tìm việc không được phép thực hiện hành động này"
 
 msgid "Employer not allowed to perform this action"
-msgstr ""
+msgstr "Nhà tuyển dụng không được phép thực hiện hành động này"
 
 msgid "You do not have enough credits"
-msgstr ""
+msgstr "Bạn không có đủ tín dụng"
 
 msgid "Employer Is Disabled By Admin"
-msgstr ""
+msgstr "Nhà tuyển dụng bị vô hiệu hóa bởi quản trị viên"
 
 msgid "Employer not allowed in job seeker area"
-msgstr ""
+msgstr "Nhà tuyển dụng không được phép vào khu vực người tìm việc"
 
 msgid "You are already logged in"
-msgstr ""
+msgstr "Bạn đã đăng nhập rồi"
 
 msgid "Please select your role"
-msgstr ""
+msgstr "Vui lòng chọn vai trò của bạn"
 
 msgid "You are not allowed"
-msgstr ""
+msgstr "Bạn không được phép"
 
 msgid "Buy New Package"
-msgstr ""
+msgstr "Mua gói mới"
 
 msgid "You are Not Allowed To add More than One "
-msgstr ""
+msgstr "Bạn không được phép thêm nhiều hơn một "
 
 msgid "Payment is Not Made Against This Job  Contact Adminstrator"
-msgstr ""
+msgstr "Thanh toán chưa được thực hiện cho công việc này, liên hệ quản trị viên"
 
 msgid "not allowed"
-msgstr ""
+msgstr "không được phép"
 
 msgid "You are already logged in !..."
-msgstr ""
+msgstr "Bạn đã đăng nhập rồi !..."
 
 msgid "Logout"
-msgstr ""
+msgstr "Đăng xuất"
 
 msgid "Please first make a selection from the list"
-msgstr ""
+msgstr "Vui lòng chọn từ danh sách trước"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Không xác định"
 
 msgid "Invalid request"
-msgstr ""
+msgstr "Yêu cầu không hợp lệ"
 
 msgid "has been successfully saved"
-msgstr ""
+msgstr "đã được lưu thành công"
 
 msgid "has not been saved"
-msgstr ""
+msgstr "chưa được lưu"
 
 msgid "has been successfully deleted"
-msgstr ""
+msgstr "đã được xóa thành công"
 
 msgid "Record not exist"
-msgstr ""
+msgstr "Bản ghi không tồn tại"
 
 msgid "has not been deleted"
-msgstr ""
+msgstr "chưa được xóa"
 
 msgid "has been successfully published"
-msgstr ""
+msgstr "đã được xuất bản thành công"
 
 msgid "transaction has been successfully verified"
-msgstr ""
+msgstr "giao dịch đã được xác minh thành công"
 
 msgid "transaction has been successfully un-verified"
-msgstr ""
+msgstr "giao dịch đã được hủy xác minh thành công"
 
 msgid "transaction has not been successfully verified"
-msgstr ""
+msgstr "giao dịch chưa được xác minh thành công"
 
 msgid "transaction has not been successfully un-verified"
-msgstr ""
+msgstr "giao dịch chưa được hủy xác minh thành công"
 
 msgid "has not been published"
-msgstr ""
+msgstr "chưa được xuất bản"
 
 msgid "has been successfully unpublished"
-msgstr ""
+msgstr "đã được hủy xuất bản thành công"
 
 msgid "has not been unpublished"
-msgstr ""
+msgstr "chưa được hủy xuất bản"
 
 msgid "Fields has been successfully required"
-msgstr ""
+msgstr "Các trường đã được yêu cầu thành công"
 
 msgid "Field has not been required"
-msgstr ""
+msgstr "Trường chưa được yêu cầu"
 
 msgid "Fields has not been required"
-msgstr ""
+msgstr "Các trường chưa được yêu cầu"
 
 msgid "Fields has been successfully not required"
-msgstr ""
+msgstr "Các trường đã được không yêu cầu thành công"
 
 msgid "Field has not been not required"
-msgstr ""
+msgstr "Trường chưa được không yêu cầu"
 
 msgid "Fields has not been not required"
-msgstr ""
+msgstr "Các trường chưa được không yêu cầu"
 
 msgid "Field order up successfully"
-msgstr ""
+msgstr "Thứ tự trường đã được tăng thành công"
 
 msgid "Field order up error"
-msgstr ""
+msgstr "Lỗi khi tăng thứ tự trường"
 
 msgid "Field order down successfully"
-msgstr ""
+msgstr "Thứ tự trường đã được giảm thành công"
 
 msgid "has been rejected"
-msgstr ""
+msgstr "đã bị từ chối"
 
 msgid "Job applied successfully"
-msgstr ""
+msgstr "Ứng tuyển công việc thành công"
 
 msgid "Error in applying job"
-msgstr ""
+msgstr "Lỗi khi ứng tuyển công việc"
 
 msgid "has not been rejected"
-msgstr ""
+msgstr "chưa bị từ chối"
 
 msgid "has been approved"
-msgstr ""
+msgstr "đã được phê duyệt"
 
 msgid "has not been approved"
-msgstr ""
+msgstr "chưa được phê duyệt"
 
 msgid "has been set as default"
-msgstr ""
+msgstr "đã được đặt làm mặc định"
 
 msgid "Unpublished field cannot set default"
-msgstr ""
+msgstr "Trường chưa xuất bản không thể đặt làm mặc định"
 
 msgid "has not been set as default"
-msgstr ""
+msgstr "chưa được đặt làm mặc định"
 
 msgid "status has been updated"
-msgstr ""
+msgstr "trạng thái đã được cập nhật"
 
 msgid "has not been updated"
-msgstr ""
+msgstr "chưa được cập nhật"
 
 msgid "in use cannot deleted"
-msgstr ""
+msgstr "đang sử dụng không thể xóa"
 
 msgid "already exist"
-msgstr ""
+msgstr "đã tồn tại"
 
 msgid "File type error"
-msgstr ""
+msgstr "Lỗi loại tệp"
 
 msgid "File size error"
-msgstr ""
+msgstr "Lỗi kích thước tệp"
 
 msgid "has been enabled"
-msgstr ""
+msgstr "đã được bật"
 
 msgid "Can not buy free package more than once"
-msgstr ""
+msgstr "Không thể mua gói miễn phí nhiều hơn một lần"
 
 msgid "has been disabled"
-msgstr ""
+msgstr "đã được tắt"
 
 msgid "no active package"
-msgstr ""
+msgstr "không có gói hoạt động"
 
 msgid "You don't have enough credits"
-msgstr ""
+msgstr "Bạn không có đủ tín dụng"
 
 msgid "buy packages"
-msgstr ""
+msgstr "mua gói"
 
 msgid "Address Data"
-msgstr ""
+msgstr "Dữ liệu địa chỉ"
 
 msgid "Featured company"
-msgstr ""
+msgstr "Công ty nổi bật"
 
 msgid "Field"
-msgstr ""
+msgstr "Trường"
 
 msgid "Employer package"
-msgstr ""
+msgstr "Gói nhà tuyển dụng"
 
 msgid "Featured job"
-msgstr ""
+msgstr "Công việc nổi bật"
 
 msgid "Job alert"
-msgstr ""
+msgstr "Cảnh báo công việc"
 
 msgid "State"
-msgstr ""
+msgstr "Bang"
 
 msgid "User role"
-msgstr ""
+msgstr "Vai trò người dùng"
 
 msgid "Email Template"
-msgstr ""
+msgstr "Mẫu email"
 
 msgid "record"
-msgstr ""
+msgstr "bản ghi"
 
 msgid "s"
-msgstr ""
+msgstr "s"
 
 msgid "Prefix"
-msgstr ""
+msgstr "Tiền tố"
 
 msgid "Career Level"
-msgstr ""
+msgstr "Cấp độ nghề nghiệp"
 
 msgid "Jobseeker"
-msgstr ""
+msgstr "Người tìm việc"
 
 msgid "Previous"
-msgstr ""
+msgstr "Trước"
 
 msgid "Next"
-msgstr ""
+msgstr "Tiếp"
 
 msgid "Search job"
-msgstr ""
+msgstr "Tìm kiếm công việc"
 
 msgid "Jobs by state"
-msgstr ""
+msgstr "Công việc theo bang"
 
 msgid "Latest Resumes"
-msgstr ""
+msgstr "Hồ sơ mới nhất"
 
 msgid "Search jobs form WP Job Portal database"
-msgstr ""
+msgstr "Tìm kiếm công việc từ cơ sở dữ liệu WP Job Portal"
 
 msgid "Search Job"
-msgstr ""
+msgstr "Tìm kiếm công việc"
 
 msgid "Username / password is incorrect"
-msgstr ""
+msgstr "Tên người dùng / mật khẩu không chính xác"
 
 msgid "Jobs role"
-msgstr ""
+msgstr "Vai trò công việc"
 
 msgid "Select job role"
-msgstr ""
+msgstr "Chọn vai trò công việc"
 
 msgid "You must set jobs user role"
-msgstr ""
+msgstr "Bạn phải đặt vai trò người dùng cho công việc"
 
 msgid "Username already taken"
-msgstr ""
+msgstr "Tên người dùng đã được sử dụng"
 
 msgid "Invalid username"
-msgstr ""
+msgstr "Tên người dùng không hợp lệ"
 
 msgid "Please enter a username"
-msgstr ""
+msgstr "Vui lòng nhập tên người dùng"
 
 msgid "Invalid email"
-msgstr ""
+msgstr "Email không hợp lệ"
 
 msgid "Email already registered"
-msgstr ""
+msgstr "Email đã được đăng ký"
 
 msgid "Please enter a password"
-msgstr ""
+msgstr "Vui lòng nhập mật khẩu"
 
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Mật khẩu không khớp"
 
 msgid "Error Updating User"
-msgstr ""
+msgstr "Lỗi khi cập nhật người dùng"
 
 msgid "User Added Successfully"
-msgstr ""
+msgstr "Thêm người dùng thành công"
 
 msgid "Employer Control Panel"
-msgstr ""
+msgstr "Bảng điều khiển nhà tuyển dụng"
 
 msgid "WP JOB PORTAL Pages"
-msgstr ""
+msgstr "Trang WP JOB PORTAL"
 
 msgid "Jobseeker Control Panel"
-msgstr ""
+msgstr "Bảng điều khiển người tìm việc"
 
 msgid "Job Listing"
-msgstr ""
+msgstr "Danh sách công việc"
 
 msgid "Jobs By Catergories"
-msgstr ""
+msgstr "Công việc theo danh mục"
 
 msgid "Add Job"
-msgstr ""
+msgstr "Thêm công việc"
 
 msgid "Employer Registration"
-msgstr ""
+msgstr "Đăng ký nhà tuyển dụng"
 
 msgid "Jobseeker Registration"
-msgstr ""
+msgstr "Đăng ký người tìm việc"
 
 msgid "All Companies"
-msgstr ""
+msgstr "Tất cả công ty"
 
 msgid "My Cover Letters"
-msgstr ""
+msgstr "Thư xin việc của tôi"
 
 msgid "Add Cover Letter"
-msgstr ""
+msgstr "Thêm thư xin việc"
 
 msgid "Employer My Stats"
-msgstr ""
+msgstr "Thống kê của tôi (Nhà tuyển dụng)"
 
 msgid "Jobseeker My Stats"
-msgstr ""
+msgstr "Thống kê của tôi (Người tìm việc)"
 
 msgid "WP JOB PORTAL Package"
-msgstr ""
+msgstr "Gói WP JOB PORTAL"
 
 msgid "WP JOB PORTAL Perlisting"
-msgstr ""
+msgstr "WP JOB PORTAL Perlisting"
 
 msgid "Package combo"
-msgstr ""
+msgstr "Gói kết hợp"
 
 msgid "Select packages pack so that user can purchase them."
-msgstr ""
+msgstr "Chọn gói để người dùng có thể mua."
 
 msgid "Feature Company"
-msgstr ""
+msgstr "Công ty nổi bật"
 
 msgid "Featuer Job"
-msgstr ""
+msgstr "Công việc nổi bật"
 
 msgid "Feature Resume"
-msgstr ""
+msgstr "Hồ sơ nổi bật"
 
 msgid "Add  Department"
-msgstr ""
+msgstr "Thêm phòng ban"
 
 msgid "Resume Save Search"
-msgstr ""
+msgstr "Lưu tìm kiếm hồ sơ"
 
 msgid "Job Alert Time "
-msgstr ""
+msgstr "Thời gian cảnh báo công việc "
 
 msgid "View Company Contact Detail "
-msgstr ""
+msgstr "Xem chi tiết liên hệ công ty "
 
 msgid "View Resume Contact Detail"
-msgstr ""
+msgstr "Xem chi tiết liên hệ hồ sơ"
 
 msgid "WP Job Portal"
-msgstr ""
+msgstr "WP Job Portal"
 
 msgid "Theme"
-msgstr ""
+msgstr "Chủ đề"
 
 msgid "Configurations"
-msgstr ""
+msgstr "Cấu hình"
 
 msgid "Jobseeker/Employer Reports"
-msgstr ""
+msgstr "Báo cáo Người tìm việc/Nhà tuyển dụng"
 
 msgid "Pro Installer"
-msgstr ""
+msgstr "Trình cài đặt Pro"
 
 msgid "Email Templates Options"
-msgstr ""
+msgstr "Tùy chọn mẫu email"
 
 msgid "Custom Fields"
-msgstr ""
+msgstr "Trường tùy chỉnh"
 
 msgid "Employer Packages"
-msgstr ""
+msgstr "Gói nhà tuyển dụng"
 
 msgid "Field Ordering"
-msgstr ""
+msgstr "Thứ tự trường"
 
 msgid "Job Seeker Packages"
-msgstr ""
+msgstr "Gói người tìm việc"
 
 msgid "WP Job Alert"
-msgstr ""
+msgstr "Cảnh báo công việc WP"
 
 msgid "Payment History"
-msgstr ""
+msgstr "Lịch sử thanh toán"
 
 msgid "Payment Method Configuration"
-msgstr ""
+msgstr "Cấu hình phương thức thanh toán"
 
 msgid "Salary Range Types"
-msgstr ""
+msgstr "Loại khoảng lương"
 
 msgid "Cover letter"
-msgstr ""
+msgstr "Thư xin việc"
 
 msgid "Shortcodes"
-msgstr ""
+msgstr "Mã ngắn"
 
 msgid "WP Job Portal Settings"
-msgstr ""
+msgstr "Cài đặt WP Job Portal"
 
 msgid "WP Job Portal Slug"
-msgstr ""
+msgstr "Đường dẫn WP Job Portal"
 
 msgid "Premium Plugin"
-msgstr ""
+msgstr "Plugin cao cấp"
 
 msgid "Premium Addon"
-msgstr ""
+msgstr "Bổ sung cao cấp"
 
 msgid "Cover Letter"
-msgstr ""
+msgstr "Thư xin việc"
 
 msgid "Applied for job"
-msgstr ""
+msgstr "Đã ứng tuyển công việc"
 
 msgid "With Resume"
-msgstr ""
+msgstr "Với hồ sơ"
 
 msgid "Administrator"
-msgstr ""
+msgstr "Quản trị viên"
 
 msgid "added a new"
-msgstr ""
+msgstr "đã thêm mới"
 
 msgid "Edited a existing"
-msgstr ""
+msgstr "Đã chỉnh sửa một"
 
 msgid "Deleted a"
-msgstr ""
+msgstr "Đã xóa một"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Reference For"
-msgstr ""
+msgstr "Tham chiếu cho"
 
 msgid "Settings"
-msgstr ""
+msgstr "Cài đặt"
 
 msgid "Ages"
-msgstr ""
+msgstr "Tuổi"
 
 msgid "Custom Field"
-msgstr ""
+msgstr "Trường tùy chỉnh"
 
 msgid "submit"
-msgstr ""
+msgstr "gửi"
 
 msgid "Submit"
-msgstr ""
+msgstr "Gửi"
 
 msgid "Sort by"
-msgstr ""
+msgstr "Sắp xếp theo"
 
 msgid "Ordering updated"
-msgstr ""
+msgstr "Thứ tự đã cập nhật"
 
 msgid "Ordering"
-msgstr ""
+msgstr "Thứ tự"
 
 msgid "Save Ordering"
-msgstr ""
+msgstr "Lưu thứ tự"
 
 msgid "Add New Career Levels"
-msgstr ""
+msgstr "Thêm cấp độ nghề nghiệp mới"
 
 msgid "grab"
-msgstr ""
+msgstr "kéo"
 
 msgid "title"
-msgstr ""
+msgstr "tiêu đề"
 
 msgid "default"
-msgstr ""
+msgstr "mặc định"
 
 msgid "not default"
-msgstr ""
+msgstr "không mặc định"
 
 msgid "Records per page"
-msgstr ""
+msgstr "Bản ghi trên mỗi trang"
 
 msgid "Show More"
-msgstr ""
+msgstr "Hiển thị thêm"
 
 msgid "Category Title"
-msgstr ""
+msgstr "Tiêu đề danh mục"
 
 msgid "category name"
-msgstr ""
+msgstr "tên danh mục"
 
 msgid "Error while saving new state"
-msgstr ""
+msgstr "Lỗi khi lưu bang mới"
 
 msgid "Country not found"
-msgstr ""
+msgstr "Không tìm thấy quốc gia"
 
 msgid "Add New City"
-msgstr ""
+msgstr "Thêm thành phố mới"
 
 msgid "Not Required"
-msgstr ""
+msgstr "Không bắt buộc"
 
 msgid "25 Per"
-msgstr ""
+msgstr "25%"
 
 msgid "50 Per"
-msgstr ""
+msgstr "50%"
 
 msgid "75 Per"
-msgstr ""
+msgstr "75%"
 
 msgid "100 Per"
-msgstr ""
+msgstr "100%"
 
 msgid "New company"
-msgstr ""
+msgstr "Công ty mới"
 
 msgid "New department"
-msgstr ""
+msgstr "Phòng ban mới"
 
 msgid "New job"
-msgstr ""
+msgstr "Công việc mới"
 
 msgid "Searched and saved resume"
-msgstr ""
+msgstr "Đã tìm kiếm và lưu hồ sơ"
 
 msgid "Viewed resume contact details"
-msgstr ""
+msgstr "Đã xem chi tiết liên hệ hồ sơ"
 
 msgid "Featured company for time period"
-msgstr ""
+msgstr "Công ty nổi bật trong khoảng thời gian"
 
 msgid "New resume"
-msgstr ""
+msgstr "Hồ sơ mới"
 
 msgid "New cover letter"
-msgstr ""
+msgstr "Thư xin việc mới"
 
 msgid "Life time job alert"
-msgstr ""
+msgstr "Cảnh báo công việc trọn đời"
 
 msgid "Job alert for time"
-msgstr ""
+msgstr "Cảnh báo công việc trong thời gian"
 
 msgid "Saved a job search"
-msgstr ""
+msgstr "Đã lưu tìm kiếm công việc"
 
 msgid "Job short listed"
-msgstr ""
+msgstr "Công việc được chọn"
 
 msgid "Viewed job status"
-msgstr ""
+msgstr "Đã xem trạng thái công việc"
 
 msgid "Viewed company contact detail"
-msgstr ""
+msgstr "Đã xem chi tiết liên hệ công ty"
 
 msgid "Told a friend"
-msgstr ""
+msgstr "Đã giới thiệu cho bạn bè"
 
 msgid "Saved a job filter"
-msgstr ""
+msgstr "Đã lưu bộ lọc công việc"
 
 msgid "Shared on social media"
-msgstr ""
+msgstr "Đã chia sẻ trên mạng xã hội"
 
 msgid "Unpublished"
-msgstr ""
+msgstr "Chưa xuất bản"
 
 msgid "Subscribed"
-msgstr ""
+msgstr "Đã đăng ký"
 
 msgid "Unsubscribed"
-msgstr ""
+msgstr "Đã hủy đăng ký"
 
 msgid "Text Field"
-msgstr ""
+msgstr "Trường văn bản"
 
 msgid "Text Area"
-msgstr ""
+msgstr "Khu vực văn bản"
 
 msgid "Check Box"
-msgstr ""
+msgstr "Hộp kiểm"
 
 msgid "Drop Down"
-msgstr ""
+msgstr "Danh sách thả xuống"
 
 msgid "Negotiable"
-msgstr ""
+msgstr "Có thể thương lượng"
 
 msgid "You are Not Allowed To Add More than One "
-msgstr ""
+msgstr "Bạn không được phép thêm nhiều hơn một "
 
 msgid "Are you new in"
-msgstr ""
+msgstr "Bạn có mới trong"
 
 msgid "Select Role"
-msgstr ""
+msgstr "Chọn vai trò"
 
 msgid "Companies Approval Queue"
-msgstr ""
+msgstr "Hàng chờ phê duyệt công ty"
 
 msgid "cross"
-msgstr ""
+msgstr "đóng"
 
 msgid "enforce delete"
-msgstr ""
+msgstr "xóa bắt buộc"
 
 msgid "Enforce Delete"
-msgstr ""
+msgstr "Xóa bắt buộc"
 
 msgid "Company Approve"
-msgstr ""
+msgstr "Phê duyệt công ty"
 
 msgid "Company Reject"
-msgstr ""
+msgstr "Từ chối công ty"
 
 msgid "sort"
-msgstr ""
+msgstr "sắp xếp"
 
 msgid "Date Start"
-msgstr ""
+msgstr "Ngày bắt đầu"
 
 msgid "Date End"
-msgstr ""
+msgstr "Ngày kết thúc"
 
 msgid "View all jobs"
-msgstr ""
+msgstr "Xem tất cả công việc"
 
 msgid "View All Jobs"
-msgstr ""
+msgstr "Xem tất cả công việc"
 
 msgid "Edit company"
-msgstr ""
+msgstr "Chỉnh sửa công ty"
 
 msgid "Edit Company"
-msgstr ""
+msgstr "Chỉnh sửa công ty"
 
 msgid "Delete company"
-msgstr ""
+msgstr "Xóa công ty"
 
 msgid "Waiting For Approval"
-msgstr ""
+msgstr "Chờ phê duyệt"
 
 msgid "Pending For Approval of Payment"
-msgstr ""
+msgstr "Chờ phê duyệt thanh toán"
 
 msgid "View company"
-msgstr ""
+msgstr "Xem công ty"
 
 msgid "View Company"
-msgstr ""
+msgstr "Xem công ty"
 
 msgid "website"
-msgstr ""
+msgstr "trang web"
 
 msgid "Data directory can not empty."
-msgstr ""
+msgstr "Thư mục dữ liệu không thể trống."
 
 msgid "Data directory is not proper."
-msgstr ""
+msgstr "Thư mục dữ liệu không hợp lệ."
 
 msgid "Data directory is not writable."
-msgstr ""
+msgstr "Thư mục dữ liệu không thể ghi."
 
 msgid "General Settings"
-msgstr ""
+msgstr "Cài đặt chung"
 
 msgid "Site Settings"
-msgstr ""
+msgstr "Cài đặt trang web"
 
 msgid "Offline"
-msgstr ""
+msgstr "Ngoại tuyến"
 
 msgid "Term And Conditions"
-msgstr ""
+msgstr "Điều khoản và Điều kiện"
 
 msgid "employer"
-msgstr ""
+msgstr "nhà tuyển dụng"
 
 msgid "Members Links"
-msgstr ""
+msgstr "Liên kết thành viên"
 
 msgid "job seeker"
-msgstr ""
+msgstr "người tìm việc"
 
 msgid "Resume Settings"
-msgstr ""
+msgstr "Cài đặt hồ sơ"
 
 msgid "Employer Settings"
-msgstr ""
+msgstr "Cài đặt nhà tuyển dụng"
 
 msgid "Jobseeker Settings"
-msgstr ""
+msgstr "Cài đặt người tìm việc"
 
 msgid "Package Settings"
-msgstr ""
+msgstr "Cài đặt gói"
 
 msgid "Social Links"
-msgstr ""
+msgstr "Liên kết xã hội"
 
 msgid "Social Share"
-msgstr ""
+msgstr "Chia sẻ xã hội"
 
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgid "Linkedin"
-msgstr ""
+msgstr "LinkedIn"
 
 msgid "Xing"
-msgstr ""
+msgstr "Xing"
 
 msgid "Social Login"
-msgstr ""
+msgstr "Đăng nhập xã hội"
 
 msgid "dd-mm-yyyy"
-msgstr ""
+msgstr "ngày-tháng-năm"
 
 msgid "mm/dd/yyyy"
-msgstr ""
+msgstr "tháng/ngày/năm"
 
 msgid "yyyy-mm-dd"
-msgstr ""
+msgstr "năm-tháng-ngày"
 
 msgid "Top left"
-msgstr ""
+msgstr "Trên cùng bên trái"
 
 msgid "Top right"
-msgstr ""
+msgstr "Trên cùng bên phải"
 
 msgid "Middle left"
-msgstr ""
+msgstr "Giữa bên trái"
 
 msgid "Middle right"
-msgstr ""
+msgstr "Giữa bên phải"
 
 msgid "Bottom left"
-msgstr ""
+msgstr "Dưới cùng bên trái"
 
 msgid "Bottom right"
-msgstr ""
+msgstr "Dưới cùng bên phải"
 
 msgid "Google Captcha"
-msgstr ""
+msgstr "Google Captcha"
 
 msgid "WP JOB PORTAL Captcha"
-msgstr ""
+msgstr "Captcha WP JOB PORTAL"
 
 msgid "Any"
-msgstr ""
+msgstr "Bất kỳ"
 
 msgid "Addition"
-msgstr ""
+msgstr "Cộng"
 
 msgid "Subtraction"
-msgstr ""
+msgstr "Trừ"
 
 msgid "Left align"
-msgstr ""
+msgstr "Căn trái"
 
 msgid "Right align"
-msgstr ""
+msgstr "Căn phải"
 
 msgid "Per Listing"
-msgstr ""
+msgstr "Mỗi danh sách"
 
 msgid "Membership"
-msgstr ""
+msgstr "Thành viên"
 
 msgid "Google Map"
-msgstr ""
+msgstr "Bản đồ Google"
 
 msgid "Open Street Map"
-msgstr ""
+msgstr "Bản đồ Open Street"
 
 msgid "Custom"
-msgstr ""
+msgstr "Tùy chỉnh"
 
 msgid "Data directory"
-msgstr ""
+msgstr "Thư mục dữ liệu"
 
 msgid "System will upload all user files in this folder"
-msgstr ""
+msgstr "Hệ thống sẽ tải lên tất cả tệp người dùng trong thư mục này"
 
 msgid "Show breadcrumbs"
-msgstr ""
+msgstr "Hiển thị breadcrumbs"
 
 msgid "Show navigation in breadcrumbs"
-msgstr ""
+msgstr "Hiển thị điều hướng trong breadcrumbs"
 
 msgid "Date format"
-msgstr ""
+msgstr "Định dạng ngày"
 
 msgid "Date format for plugin"
-msgstr ""
+msgstr "Định dạng ngày cho plugin"
 
 msgid "Mark Job New"
-msgstr ""
+msgstr "Đánh dấu công việc mới"
 
 msgid "How many days system show New tag"
-msgstr ""
+msgstr "Hệ thống hiển thị thẻ Mới trong bao nhiêu ngày"
 
 msgid "Image file extensions"
-msgstr ""
+msgstr "Phần mở rộng tệp hình ảnh"
 
 msgid "Add image allowed extensions"
-msgstr ""
+msgstr "Thêm phần mở rộng hình ảnh cho phép"
 
 msgid "Must be comma separated"
-msgstr ""
+msgstr "Phải được phân cách bằng dấu phẩy"
 
 msgid "User can add city in database"
-msgstr ""
+msgstr "Người dùng có thể thêm thành phố vào cơ sở dữ liệu"
 
 msgid "User can add new city in the system"
-msgstr ""
+msgstr "Người dùng có thể thêm thành phố mới vào hệ thống"
 
 msgid "Maximum record for city field"
-msgstr ""
+msgstr "Số bản ghi tối đa cho trường thành phố"
 
 msgid "Set number of cities to show in result of the location input box"
-msgstr ""
+msgstr "Đặt số lượng thành phố hiển thị trong kết quả của hộp nhập vị trí"
 
 msgid "User can add tag in database"
-msgstr ""
+msgstr "Người dùng có thể thêm thẻ vào cơ sở dữ liệu"
 
 msgid "User can add new tags in the system"
-msgstr ""
+msgstr "Người dùng có thể thêm thẻ mới vào hệ thống"
 
 msgid "Maximum record for tag field"
-msgstr ""
+msgstr "Số bản ghi tối đa cho trường thẻ"
 
 msgid "Set number of tags to show in result of the tag input box"
-msgstr ""
+msgstr "Đặt số lượng thẻ hiển thị trong kết quả của hộp nhập thẻ"
 
 msgid "Currency symbol position"
-msgstr ""
+msgstr "Vị trí ký hiệu tiền tệ"
 
 msgid "Show currency symbol left or right to the amount"
-msgstr ""
+msgstr "Hiển thị ký hiệu tiền tệ bên trái hoặc bên phải số tiền"
 
 msgid "Job types per row"
-msgstr ""
+msgstr "Loại công việc trên mỗi hàng"
 
 msgid "Show number of job types per row on 'job by type' page"
-msgstr ""
+msgstr "Hiển thị số lượng loại công việc trên mỗi hàng trên trang 'công việc theo loại'"
 
 msgid "Message auto approve"
-msgstr ""
+msgstr "Tự động phê duyệt tin nhắn"
 
 msgid "Auto approve messages for job seeker and employer"
-msgstr ""
+msgstr "Tự động phê duyệt tin nhắn cho người tìm việc và nhà tuyển dụng"
 
 msgid "Conflict message auto approve"
-msgstr ""
+msgstr "Tự động phê duyệt tin nhắn xung đột"
 
 msgid "Auto approve conflicted messages for job seeker and employer"
-msgstr ""
+msgstr "Tự động phê duyệt tin nhắn xung đột cho người tìm việc và nhà tuyển dụng"
 
 msgid "Default page"
-msgstr ""
+msgstr "Trang mặc định"
 
 msgid "Default address display style"
-msgstr ""
+msgstr "Kiểu hiển thị địa chỉ mặc định"
 
 msgid "Employer default role"
-msgstr ""
+msgstr "Vai trò mặc định của nhà tuyển dụng"
 
 msgid "This role will auto assign to new employer"
-msgstr ""
+msgstr "Vai trò này sẽ tự động gán cho nhà tuyển dụng mới"
 
 msgid "Job Seeker default role"
-msgstr ""
+msgstr "Vai trò mặc định của người tìm việc"
 
 msgid "This role will auto assign to new job seeker"
-msgstr ""
+msgstr "Vai trò này sẽ tự động gán cho người tìm việc mới"
 
 msgid "Default Pagination size"
-msgstr ""
+msgstr "Kích thước phân trang mặc định"
 
 msgid "Maximum number of records per page"
-msgstr ""
+msgstr "Số bản ghi tối đa trên mỗi trang"
 
 msgid "Show All Categories"
-msgstr ""
+msgstr "Hiển thị tất cả danh mục"
 
 msgid "Categories per row"
-msgstr ""
+msgstr "Danh mục trên mỗi hàng"
 
 msgid "Sub-categories limit"
-msgstr ""
+msgstr "Giới hạn danh mục con"
 
 msgid "Sender email address"
-msgstr ""
+msgstr "Địa chỉ email người gửi"
 
 msgid "Email address that will be used to send emails"
-msgstr ""
+msgstr "Địa chỉ email sẽ được sử dụng để gửi email"
 
 msgid "Sender name"
-msgstr ""
+msgstr "Tên người gửi"
 
 msgid "Sender name that will be used in emails"
-msgstr ""
+msgstr "Tên người gửi sẽ được sử dụng trong email"
 
 msgid "Admin email address"
-msgstr ""
+msgstr "Địa chỉ email quản trị viên"
 
 msgid "Admin will receive email notifications on this address"
-msgstr ""
+msgstr "Quản trị viên sẽ nhận thông báo email qua địa chỉ này"
 
 msgid "Map height"
-msgstr ""
+msgstr "Chiều cao bản đồ"
 
 msgid "Set map height for plugin"
-msgstr ""
+msgstr "Đặt chiều cao bản đồ cho plugin"
 
 msgid "Show Map"
-msgstr ""
+msgstr "Hiển thị bản đồ"
 
 msgid "Google Map API key"
-msgstr ""
+msgstr "Khóa API bản đồ Google"
 
 msgid "Get API key from"
-msgstr ""
+msgstr "Lấy khóa API từ"
 
 msgid "here"
-msgstr ""
+msgstr "đây"
 
 msgid "Mapping Service"
-msgstr ""
+msgstr "Dịch vụ bản đồ"
 
 msgid "Default longitude"
-msgstr ""
+msgstr "Kinh độ mặc định"
 
 msgid "Default latitude"
-msgstr ""
+msgstr "Vĩ độ mặc định"
 
 msgid "Default map radius type"
-msgstr ""
+msgstr "Loại bán kính bản đồ mặc định"
 
 msgid "Company terms and conditions page"
-msgstr ""
+msgstr "Trang điều khoản và điều kiện của công ty"
 
 msgid "Select terms and conditions page for company"
-msgstr ""
+msgstr "Chọn trang điều khoản và điều kiện cho công ty"
 
 msgid "Job terms and conditions page"
-msgstr ""
+msgstr "Trang điều khoản và điều kiện cho công việc"
 
 msgid "Select terms and conditions page for job"
-msgstr ""
+msgstr "Chọn trang điều khoản và điều kiện cho công việc"
 
 msgid "Resume terms and conditions page"
-msgstr ""
+msgstr "Trang điều khoản và điều kiện cho hồ sơ"
 
 msgid "Select terms and conditions page for Resume"
-msgstr ""
+msgstr "Chọn trang điều khoản và điều kiện cho hồ sơ"
 
 msgid "Show captcha on registration form"
-msgstr ""
+msgstr "Hiển thị captcha trên biểu mẫu đăng ký"
 
 msgid "Show captcha on WP JOB PORTAL registration form"
-msgstr ""
+msgstr "Hiển thị captcha trên biểu mẫu đăng ký WP JOB PORTAL"
 
 msgid "default captcha"
-msgstr ""
+msgstr "captcha mặc định"
 
 msgid "Select captcha for plugin"
-msgstr ""
+msgstr "Chọn captcha cho plugin"
 
 msgid "WP JOB PORTAL captcha calculation type"
-msgstr ""
+msgstr "Loại tính toán captcha WP JOB PORTAL"
 
 msgid "Select calculation type (addition, subtraction)"
-msgstr ""
+msgstr "Chọn loại tính toán (cộng, trừ)"
 
 msgid "WP JOB PORTAL captcha answer always positive"
-msgstr ""
+msgstr "Câu trả lời captcha WP JOB PORTAL luôn dương"
 
 msgid "Subtraction answer should be positive"
-msgstr ""
+msgstr "Câu trả lời phép trừ phải là số dương"
 
 msgid "Number of operands for WP JOB PORTAL captcha"
-msgstr ""
+msgstr "Số toán hạng cho captcha WP JOB PORTAL"
 
 msgid "Number of operands for captcha"
-msgstr ""
+msgstr "Số toán hạng cho captcha"
 
 msgid "Job Posting Options"
-msgstr ""
+msgstr "Tùy chọn đăng công việc"
 
 msgid "Visitor can post job"
-msgstr ""
+msgstr "Khách có thể đăng công việc"
 
 msgid "Visitor can post a job"
-msgstr ""
+msgstr "Khách có thể đăng một công việc"
 
 msgid "Allow edit job"
-msgstr ""
+msgstr "Cho phép chỉnh sửa công việc"
 
 msgid "Visitor can edit his posted job"
-msgstr ""
+msgstr "Khách có thể chỉnh sửa công việc đã đăng"
 
 msgid "Show captcha"
-msgstr ""
+msgstr "Hiển thị captcha"
 
 msgid "Show captcha on visitor form job"
-msgstr ""
+msgstr "Hiển thị captcha trên biểu mẫu công việc của khách"
 
 msgid "Visitor post job redirect page "
-msgstr ""
+msgstr "Trang chuyển hướng sau khi khách đăng công việc "
 
 msgid "whenever any visitor posts a job, he will be redirected to this page"
-msgstr ""
+msgstr "khi khách đăng công việc, họ sẽ được chuyển hướng đến trang này"
 
 msgid "Visitors Can View Employer"
-msgstr ""
+msgstr "Khách có thể xem nhà tuyển dụng"
 
 msgid "Resume Categories"
-msgstr ""
+msgstr "Danh mục hồ sơ"
 
 msgid "Visitor can apply to job"
-msgstr ""
+msgstr "Khách có thể ứng tuyển công việc"
 
 msgid "Visitor can add resume"
-msgstr ""
+msgstr "Khách có thể thêm hồ sơ"
 
 msgid "Show login message to visitor"
-msgstr ""
+msgstr "Hiển thị thông báo đăng nhập cho khách"
 
 msgid "Show login option to visitor on job apply"
-msgstr ""
+msgstr "Hiển thị tùy chọn đăng nhập cho khách khi ứng tuyển công việc"
 
 msgid "Visitor post resume redirect page "
-msgstr ""
+msgstr "Trang chuyển hướng sau khi khách đăng hồ sơ "
 
 msgid "whenever any visitor posts a resume, he will be redirected to this page"
-msgstr ""
+msgstr "khi khách đăng hồ sơ, họ sẽ được chuyển hướng đến trang này"
 
 msgid "Show captcha on resume form"
-msgstr ""
+msgstr "Hiển thị captcha trên biểu mẫu hồ sơ"
 
 msgid "Show captcha on visitor form resume"
-msgstr ""
+msgstr "Hiển thị captcha trên biểu mẫu hồ sơ của khách"
 
 msgid "Show captcha on Job alert form"
-msgstr ""
+msgstr "Hiển thị captcha trên biểu mẫu cảnh báo công việc"
 
 msgid "Show captcha visitor job alert form"
-msgstr ""
+msgstr "Hiển thị captcha trên biểu mẫu cảnh báo công việc của khách"
 
 msgid "Show captcha on tell a friend popup"
-msgstr ""
+msgstr "Hiển thị captcha trên popup giới thiệu cho bạn bè"
 
 msgid "Show captcha on visitor tell a friend popup"
-msgstr ""
+msgstr "Hiển thị captcha trên popup giới thiệu cho bạn bè của khách"
 
 msgid "Visitors Can View Job seeker"
-msgstr ""
+msgstr "Khách có thể xem người tìm việc"
 
 msgid "Job search result"
-msgstr ""
+msgstr "Kết quả tìm kiếm công việc"
 
 msgid "Enable disable control panel for visitor"
-msgstr ""
+msgstr "Bật/tắt bảng điều khiển cho khách"
 
 msgid "Employer Dashboard"
-msgstr ""
+msgstr "Bảng điều khiển nhà tuyển dụng"
 
 msgid "Stats Graph"
-msgstr ""
+msgstr "Biểu đồ thống kê"
 
 msgid "Useful Links"
-msgstr ""
+msgstr "Liên kết hữu ích"
 
 msgid "Saved Search"
-msgstr ""
+msgstr "Tìm kiếm đã lưu"
 
 msgid "Invoice"
-msgstr ""
+msgstr "Hóa đơn"
 
 msgid "Newest Resume"
-msgstr ""
+msgstr "Hồ sơ mới nhất"
 
 msgid "Employer Control Panel Links"
-msgstr ""
+msgstr "Liên kết bảng điều khiển nhà tuyển dụng"
 
 msgid "Jobs Graph"
-msgstr ""
+msgstr "Biểu đồ công việc"
 
 msgid "Job Seeker Dashboard"
-msgstr ""
+msgstr "Bảng điều khiển người tìm việc"
 
 msgid "Shortlisted Jobs"
-msgstr ""
+msgstr "Công việc đã chọn"
 
 msgid "Job Seeker Control Panel Links"
-msgstr ""
+msgstr "Liên kết bảng điều khiển người tìm việc"
 
 msgid "Jobs RSS"
-msgstr ""
+msgstr "RSS công việc"
 
 msgid "Applied Resume Alert"
-msgstr ""
+msgstr "Cảnh báo hồ sơ đã ứng tuyển"
 
 msgid "Applied resume notification"
-msgstr ""
+msgstr "Thông báo hồ sơ đã ứng tuyển"
 
 msgid "Applied resume status change mail to jobseeker"
-msgstr ""
+msgstr "Thư thay đổi trạng thái hồ sơ đã ứng tuyển gửi đến người tìm việc"
 
 msgid "Paid Submission"
-msgstr ""
+msgstr "Nộp phí"
 
 msgid "Auto Assign Free package to new user"
-msgstr ""
+msgstr "Tự động gán gói miễn phí cho người dùng mới"
 
 msgid "free package purchase"
-msgstr ""
+msgstr "mua gói miễn phí"
 
 msgid "Free Package purchase auto approve"
-msgstr ""
+msgstr "Tự động phê duyệt mua gói miễn phí"
 
 msgid "Submission Type"
-msgstr ""
+msgstr "Loại nộp"
 
 msgid "No of Days untill Job expire (per-listing)"
-msgstr ""
+msgstr "Số ngày cho đến khi công việc hết hạn (mỗi danh sách)"
 
 msgid "Job Expiry Days (per-listing)"
-msgstr ""
+msgstr "Ngày hết hạn công việc (mỗi danh sách)"
 
 msgid "No of Days untill Feature Company expire (per-listing)"
-msgstr ""
+msgstr "Số ngày cho đến khi công ty nổi bật hết hạn (mỗi danh sách)"
 
 msgid "Company Expiry Days (per-listing)"
-msgstr ""
+msgstr "Ngày hết hạn công ty (mỗi danh sách)"
 
 msgid "No of Days untill Feature Company expire (Free)"
-msgstr ""
+msgstr "Số ngày cho đến khi công ty nổi bật hết hạn (miễn phí)"
 
 msgid "Company Expiry Days (Free)"
-msgstr ""
+msgstr "Ngày hết hạn công ty (miễn phí)"
 
 msgid "No of Days untill Featured Job expire (per-listing)"
-msgstr ""
+msgstr "Số ngày cho đến khi công việc nổi bật hết hạn (mỗi danh sách)"
 
 msgid "No Of Days until Featured Job  Expire (Free)"
-msgstr ""
+msgstr "Số ngày cho đến khi công việc nổi bật hết hạn (miễn phí)"
 
 msgid "Featured Job Expiry Days (Free)"
-msgstr ""
+msgstr "Ngày hết hạn công việc nổi bật (miễn phí)"
 
 msgid "No Of Days until Featured Resume  Expire (Free)"
-msgstr ""
+msgstr "Số ngày cho đến khi hồ sơ nổi bật hết hạn (miễn phí)"
 
 msgid "Featured Resume Expiry Days (Free)"
-msgstr ""
+msgstr "Ngày hết hạn hồ sơ nổi bật (miễn phí)"
 
 msgid "No Of Days until Featured Resume  Expire (per-listing)"
-msgstr ""
+msgstr "Số ngày cho đến khi hồ sơ nổi bật hết hạn (mỗi danh sách)"
 
 msgid "Featured Resume Expiry Days (per-listing)"
-msgstr ""
+msgstr "Ngày hết hạn hồ sơ nổi bật (mỗi danh sách)"
 
 msgid "No Of Days until Job  Expire (Free)"
-msgstr ""
+msgstr "Số ngày cho đến khi công việc hết hạn (miễn phí)"
 
 msgid "Job Expiry Days (Free)"
-msgstr ""
+msgstr "Ngày hết hạn công việc (miễn phí)"
 
 msgid "Facebook likes"
-msgstr ""
+msgstr "Lượt thích Facebook"
 
 msgid "Facebook share"
-msgstr ""
+msgstr "Chia sẻ Facebook"
 
 msgid "Facebook comments"
-msgstr ""
+msgstr "Bình luận Facebook"
 
 msgid "Google likes"
-msgstr ""
+msgstr "Lượt thích Google"
 
 msgid "Google share"
-msgstr ""
+msgstr "Chia sẻ Google"
 
 msgid "Blogger"
-msgstr ""
+msgstr "Blogger"
 
 msgid "Digg"
-msgstr ""
+msgstr "Digg"
 
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 msgid "Myspace"
-msgstr ""
+msgstr "Myspace"
 
 msgid "Yahoo"
-msgstr ""
+msgstr "Yahoo"
 
 msgid "Facebook user can login in WP JOB PORTAL"
-msgstr ""
+msgstr "Người dùng Facebook có thể đăng nhập vào WP JOB PORTAL"
 
 msgid "Job apply with facebook"
-msgstr ""
+msgstr "Ứng tuyển công việc bằng Facebook"
 
 msgid "Facebook user can apply to jobs"
-msgstr ""
+msgstr "Người dùng Facebook có thể ứng tuyển công việc"
 
 msgid "API key"
-msgstr ""
+msgstr "Khóa API"
 
 msgid "API key is required for facebook app"
-msgstr ""
+msgstr "Khóa API là bắt buộc cho ứng dụng Facebook"
 
 msgid "Secret"
-msgstr ""
+msgstr "Bí mật"
 
 msgid "Linkedin user can login in WP JOB PORTAL"
-msgstr ""
+msgstr "Người dùng LinkedIn có thể đăng nhập vào WP JOB PORTAL"
 
 msgid "Job apply with linkedin"
-msgstr ""
+msgstr "Ứng tuyển công việc bằng LinkedIn"
 
 msgid "Linkedin user can apply to jobs"
-msgstr ""
+msgstr "Người dùng LinkedIn có thể ứng tuyển công việc"
 
 msgid "API key is required for linkedin app"
-msgstr ""
+msgstr "Khóa API là bắt buộc cho ứng dụng LinkedIn"
 
 msgid "Xing user can login in WP JOB PORTAL"
-msgstr ""
+msgstr "Người dùng Xing có thể đăng nhập vào WP JOB PORTAL"
 
 msgid "Job apply with xing"
-msgstr ""
+msgstr "Ứng tuyển công việc bằng Xing"
 
 msgid "Xing user can apply to jobs"
-msgstr ""
+msgstr "Người dùng Xing có thể ứng tuyển công việc"
 
 msgid "API key is required for xing app"
-msgstr ""
+msgstr "Khóa API là bắt buộc cho ứng dụng Xing"
 
 msgid "Must provide title for job feed"
-msgstr ""
+msgstr "Phải cung cấp tiêu đề cho nguồn cấp dữ liệu công việc"
 
 msgid "Must provide description for job feed"
-msgstr ""
+msgstr "Phải cung cấp mô tả cho nguồn cấp dữ liệu công việc"
 
 msgid "Copyright"
-msgstr ""
+msgstr "Bản quyền"
 
 msgid "Leave blank to hide"
-msgstr ""
+msgstr "Để trống để ẩn"
 
 msgid "Editor"
-msgstr ""
+msgstr "Biên tập viên"
 
 msgid "Leave blank to hide editor used for feed content issue"
-msgstr ""
+msgstr "Để trống để ẩn biên tập viên dùng cho vấn đề nội dung nguồn cấp dữ liệu"
 
 msgid "Time to live"
-msgstr ""
+msgstr "Thời gian tồn tại"
 
 msgid "Time to live for job feed"
-msgstr ""
+msgstr "Thời gian tồn tại cho nguồn cấp dữ liệu công việc"
 
 msgid "Webmaster"
-msgstr ""
+msgstr "Quản trị web"
 
 msgid "Leave blank to hide webmaster used for technical issue"
-msgstr ""
+msgstr "Để trống để ẩn quản trị web dùng cho vấn đề kỹ thuật"
 
 msgid "Job block"
-msgstr ""
+msgstr "Khối công việc"
 
 msgid "Show with categories"
-msgstr ""
+msgstr "Hiển thị cùng danh mục"
 
 msgid "Use rss categories with our job categories"
-msgstr ""
+msgstr "Sử dụng danh mục RSS với danh mục công việc của chúng tôi"
 
 msgid "Company image"
-msgstr ""
+msgstr "Hình ảnh công ty"
 
 msgid "Show company logo with job feeds"
-msgstr ""
+msgstr "Hiển thị logo công ty với nguồn cấp dữ liệu công việc"
 
 msgid "Must provide title for resume feed"
-msgstr ""
+msgstr "Phải cung cấp tiêu đề cho nguồn cấp dữ liệu hồ sơ"
 
 msgid "Must provide description for resume feed"
-msgstr ""
+msgstr "Phải cung cấp mô tả cho nguồn cấp dữ liệu hồ sơ"
 
 msgid "Time to live for resume feed"
-msgstr ""
+msgstr "Thời gian tồn tại cho nguồn cấp dữ liệu hồ sơ"
 
 msgid "Resume block"
-msgstr ""
+msgstr "Khối hồ sơ"
 
 msgid "Use rss categories with our resume categories"
-msgstr ""
+msgstr "Sử dụng danh mục RSS với danh mục hồ sơ của chúng tôi"
 
 msgid "Show resume file"
-msgstr ""
+msgstr "Hiển thị tệp hồ sơ"
 
 msgid "Show resume files to downloadable from feed"
-msgstr ""
+msgstr "Hiển thị tệp hồ sơ để có thể tải xuống từ nguồn cấp dữ liệu"
 
 msgid "Show login/logout button on employer control panel"
-msgstr ""
+msgstr "Hiển thị nút đăng nhập/đăng xuất trên bảng điều khiển nhà tuyển dụng"
 
 msgid "Show login logout button in job seeker control panel"
-msgstr ""
+msgstr "Hiển thị nút đăng nhập/đăng xuất trên bảng điều khiển người tìm việc"
 
 msgid "Only section that have value"
-msgstr ""
+msgstr "Chỉ phần có giá trị"
 
 msgid "All sections"
-msgstr ""
+msgstr "Tất cả các phần"
 
 msgid "Select Option"
-msgstr ""
+msgstr "Chọn tùy chọn"
 
 msgid "All Fields"
-msgstr ""
+msgstr "Tất cả các trường"
 
 msgid "Only filled fields"
-msgstr ""
+msgstr "Chỉ các trường đã điền"
 
 msgid "Employer Configurations"
-msgstr ""
+msgstr "Cấu hình nhà tuyển dụng"
 
 msgid "Enable Employer Area"
-msgstr ""
+msgstr "Bật khu vực nhà tuyển dụng"
 
 msgid "If no then front end employer area is not accessable"
-msgstr ""
+msgstr "Nếu không thì khu vực nhà tuyển dụng ở giao diện người dùng không thể truy cập"
 
 msgid "Allow user to register as employer"
-msgstr ""
+msgstr "Cho phép người dùng đăng ký làm nhà tuyển dụng"
 
 msgid "effects on user registration"
-msgstr ""
+msgstr "ảnh hưởng đến việc đăng ký người dùng"
 
 msgid "Employer can view job seeker area"
-msgstr ""
+msgstr "Nhà tuyển dụng có thể xem khu vực người tìm việc"
 
 msgid "Enable"
-msgstr ""
+msgstr "Bật"
 
 msgid "Featured companies are allowed in plugin"
-msgstr ""
+msgstr "Công ty nổi bật được phép trong plugin"
 
 msgid "Featured jobs are allowed in plugin"
-msgstr ""
+msgstr "Công việc nổi bật được phép trong plugin"
 
 msgid "Company logo maximum size"
-msgstr ""
+msgstr "Kích thước tối đa logo công ty"
 
 msgid "Show resume contact detail"
-msgstr ""
+msgstr "Hiển thị chi tiết liên hệ hồ sơ"
 
 msgid "effect on credits system"
-msgstr ""
+msgstr "ảnh hưởng đến hệ thống tín dụng"
 
 msgid "If no then credits will be taken to view contact detail"
-msgstr ""
+msgstr "Nếu không thì sẽ cần tín dụng để xem chi tiết liên hệ"
 
 msgid "Show count in resume categories"
-msgstr ""
+msgstr "Hiển thị số lượng trong danh mục hồ sơ"
 
 msgid "Allow save search"
-msgstr ""
+msgstr "Cho phép lưu tìm kiếm"
 
 msgid "User can save search criteria"
-msgstr ""
+msgstr "Người dùng có thể lưu tiêu chí tìm kiếm"
 
 msgid "Email Alert To Employer On Resume Apply"
-msgstr ""
+msgstr "Cảnh báo email cho nhà tuyển dụng khi có hồ sơ ứng tuyển"
 
 msgid "What to include in email"
-msgstr ""
+msgstr "Nội dung bao gồm trong email"
 
 msgid "All fields are included in employer email content or only filled fields"
-msgstr ""
+msgstr "Tất cả các trường được bao gồm trong nội dung email nhà tuyển dụng hoặc chỉ các trường đã điền"
 
 msgid "auto approve"
-msgstr ""
+msgstr "tự động phê duyệt"
 
 msgid "Company Settings"
-msgstr ""
+msgstr "Cài đặt công ty"
 
 msgid "Effects on jobs listing and view company page"
-msgstr ""
+msgstr "Ảnh hưởng đến danh sách công việc và trang xem công ty"
 
 msgid "Effects on view company page"
-msgstr ""
+msgstr "Ảnh hưởng đến trang xem công ty"
 
 msgid "Effects on company listing and view company page"
-msgstr ""
+msgstr "Ảnh hưởng đến danh sách công ty và trang xem công ty"
 
 msgid "View Company Jobs"
-msgstr ""
+msgstr "Xem công việc của công ty"
 
 msgid "Company URL"
-msgstr ""
+msgstr "URL công ty"
 
 msgid "User Messages"
-msgstr ""
+msgstr "Tin nhắn người dùng"
 
 msgid "Disable"
-msgstr ""
+msgstr "Tắt"
 
 msgid "Jobseeker Configurations"
-msgstr ""
+msgstr "Cấu hình người tìm việc"
 
 msgid "Email Alert"
-msgstr ""
+msgstr "Cảnh báo email"
 
 msgid "Enable featured resume"
-msgstr ""
+msgstr "Bật hồ sơ nổi bật"
 
 msgid "Featured resume are allowed in plugin"
-msgstr ""
+msgstr "Hồ sơ nổi bật được phép trong plugin"
 
 msgid "Show company contact detail"
-msgstr ""
+msgstr "Hiển thị chi tiết liên hệ công ty"
 
 msgid "Show apply button"
-msgstr ""
+msgstr "Hiển thị nút ứng tuyển"
 
 msgid "Controls the visibility of apply now button in plugin"
-msgstr ""
+msgstr "Kiểm soát khả năng hiển thị của nút ứng tuyển ngay trong plugin"
 
 msgid "Show applied resume status"
-msgstr ""
+msgstr "Hiển thị trạng thái hồ sơ đã ứng tuyển"
 
 msgid "Show count in jobs by categories page"
-msgstr ""
+msgstr "Hiển thị số lượng trên trang công việc theo danh mục"
 
 msgid "Show count in jobs by types page"
-msgstr ""
+msgstr "Hiển thị số lượng trên trang công việc theo loại"
 
 msgid "Job alert for visitor"
-msgstr ""
+msgstr "Cảnh báo công việc cho khách"
 
 msgid "Job short list"
-msgstr ""
+msgstr "Danh sách công việc ngắn"
 
 msgid "Job short list setting effects on jobs listing page"
-msgstr ""
+msgstr "Cài đặt danh sách công việc ngắn ảnh hưởng đến trang danh sách công việc"
 
 msgid "Tell a friend setting effects on jobs listing page"
-msgstr ""
+msgstr "Cài đặt giới thiệu bạn bè ảnh hưởng đến trang danh sách công việc"
 
 msgid "Document file extensions"
-msgstr ""
+msgstr "Phần mở rộng tệp tài liệu"
 
 msgid "Document file extensions allowed"
-msgstr ""
+msgstr "Phần mở rộng tệp tài liệu được phép"
 
 msgid "Resume file maximum size"
-msgstr ""
+msgstr "Kích thước tối đa tệp hồ sơ"
 
 msgid "System will not upload if resume file size exceeds than given size"
-msgstr ""
+msgstr "Hệ thống sẽ không tải lên nếu kích thước tệp hồ sơ vượt quá kích thước cho phép"
 
 msgid "Number of files for resume"
-msgstr ""
+msgstr "Số lượng tệp cho hồ sơ"
 
 msgid "Maximum number of files that job seeker can upload in resume"
-msgstr ""
+msgstr "Số lượng tệp tối đa mà người tìm việc có thể tải lên trong hồ sơ"
 
 msgid "Resume photo maximum size "
-msgstr ""
+msgstr "Kích thước tối đa ảnh hồ sơ"
 
 msgid "Number of employers allowed"
-msgstr ""
+msgstr "Số lượng nhà tuyển dụng được phép"
 
 msgid "Maximum number of employers allowed in resume"
-msgstr ""
+msgstr "Số lượng nhà tuyển dụng tối đa được phép trong hồ sơ"
 
 msgid "Number of institutes allowed"
-msgstr ""
+msgstr "Số lượng học viện được phép"
 
 msgid "Maximum number of institutes allowed in resume"
-msgstr ""
+msgstr "Số lượng học viện tối đa được phép trong hồ sơ"
 
 msgid "Number of languages allowed"
-msgstr ""
+msgstr "Số lượng ngôn ngữ được phép"
 
 msgid "Maximum number of languages allowed in resume"
-msgstr ""
+msgstr "Số lượng ngôn ngữ tối đa được phép trong hồ sơ"
 
 msgid "Number of addresses allowed"
-msgstr ""
+msgstr "Số lượng địa chỉ được phép"
 
 msgid "Maximum number of addresses allowed in resume"
-msgstr ""
+msgstr "Số lượng địa chỉ tối đa được phép trong hồ sơ"
 
 msgid "Credits Log"
-msgstr ""
+msgstr "Nhật ký tín dụng"
 
 msgid "Listing Style"
-msgstr ""
+msgstr "Kiểu danh sách"
 
 msgid "Search icon position"
-msgstr ""
+msgstr "Vị trí biểu tượng tìm kiếm"
 
 msgid "Postion for search icon on jobs listing page."
-msgstr ""
+msgstr "Vị trí biểu tượng tìm kiếm trên trang danh sách công việc."
 
 msgid "Show featured jobs"
-msgstr ""
+msgstr "Hiển thị công việc nổi bật"
 
 msgid "Show featured jobs in jobs lising page"
-msgstr ""
+msgstr "Hiển thị công việc nổi bật trên trang danh sách công việc"
 
 msgid "Show Total Number Of jobs"
-msgstr ""
+msgstr "Hiển thị tổng số công việc"
 
 msgid "Show total number of jobs in jobs lising page"
-msgstr ""
+msgstr "Hiển thị tổng số công việc trên trang danh sách công việc"
 
 msgid "Number of featured jobs"
-msgstr ""
+msgstr "Số lượng công việc nổi bật"
 
 msgid "Number of featured job show per scroll"
-msgstr ""
+msgstr "Số lượng công việc nổi bật hiển thị mỗi lần cuộn"
 
 msgid "Show labels in jobs listing"
-msgstr ""
+msgstr "Hiển thị nhãn trong danh sách công việc"
 
 msgid "Show labels in jobs listings, my jobs etc"
-msgstr ""
+msgstr "Hiển thị nhãn trong danh sách công việc, công việc của tôi, v.v."
 
 msgid "Indeed Jobs"
-msgstr ""
+msgstr "Công việc Indeed"
 
 msgid "Show Indeed jobs on jobs listings"
-msgstr ""
+msgstr "Hiển thị công việc Indeed trên danh sách công việc"
 
 msgid "Number of jobs before showing indeed jobs"
-msgstr ""
+msgstr "Số lượng công việc trước khi hiển thị công việc Indeed"
 
 msgid "How many plugin jobs show before indeed jobs"
-msgstr ""
+msgstr "Hiển thị bao nhiêu công việc plugin trước công việc Indeed"
 
 msgid "Number of Indeed jobs per page"
-msgstr ""
+msgstr "Số lượng công việc Indeed trên mỗi trang"
 
 msgid "Number of Indeed Jobs per scroll"
-msgstr ""
+msgstr "Số lượng công việc Indeed mỗi lần cuộn"
 
 msgid "Comma separated list of categories i.e Accounting, Management etc"
-msgstr ""
+msgstr "Danh sách các danh mục phân cách bằng dấu phẩy, ví dụ: Kế toán, Quản lý, v.v."
 
 msgid "Location format must be country, state, city"
-msgstr ""
+msgstr "Định dạng vị trí phải là quốc gia, bang, thành phố"
 
 msgid "Job types"
-msgstr ""
+msgstr "Loại công việc"
 
 msgid "Comma separated list of job types i.e full time, part time etc"
-msgstr ""
+msgstr "Danh sách các loại công việc phân cách bằng dấu phẩy, ví dụ: toàn thời gian, bán thời gian, v.v."
 
 msgid "Career Builder"
-msgstr ""
+msgstr "Career Builder"
 
 msgid "Show Career Builder jobs in job listings"
-msgstr ""
+msgstr "Hiển thị công việc Career Builder trong danh sách công việc"
 
 msgid "Number of jobs before showing Career Builder jobs"
-msgstr ""
+msgstr "Số lượng công việc trước khi hiển thị công việc Career Builder"
 
 msgid "How many plugin jobs show before career builder jobs"
-msgstr ""
+msgstr "Hiển thị bao nhiêu công việc plugin trước công việc Career Builder"
 
 msgid "Number of Career Builder jobs per page"
-msgstr ""
+msgstr "Số lượng công việc Career Builder trên mỗi trang"
 
 msgid "Number of Career Builder jobs per scroll"
-msgstr ""
+msgstr "Số lượng công việc Career Builder mỗi lần cuộn"
 
 msgid "Country Code"
-msgstr ""
+msgstr "Mã quốc gia"
 
 msgid "Comma separated list of country codes"
-msgstr ""
+msgstr "Danh sách mã quốc gia phân cách bằng dấu phẩy"
 
 msgid "Comma separated list of job types i.e JTFT, JTPT, JTFP, JTCT, JTIN "
-msgstr ""
+msgstr "Danh sách các loại công việc phân cách bằng dấu phẩy, ví dụ: JTFT, JTPT, JTFP, JTCT, JTIN"
 
 msgid "Full-time"
-msgstr ""
+msgstr "Toàn thời gian"
 
 msgid "Part-time"
-msgstr ""
+msgstr "Bán thời gian"
 
 msgid "Full-time/part-time"
-msgstr ""
+msgstr "Toàn thời gian/bán thời gian"
 
 msgid "Contractant"
-msgstr ""
+msgstr "Hợp đồng"
 
 msgid "Stagiair"
-msgstr ""
+msgstr "Thực tập sinh"
 
 msgid "states"
-msgstr ""
+msgstr "bang"
 
 msgid "cities"
-msgstr ""
+msgstr "thành phố"
 
 msgid "Has states"
-msgstr ""
+msgstr "Có bang"
 
 msgid "Has cities"
-msgstr ""
+msgstr "Có thành phố"
 
 msgid "Currency Code"
-msgstr ""
+msgstr "Mã tiền tệ"
 
 msgid "Code"
-msgstr ""
+msgstr "Mã"
 
 msgid "Currency Symbol"
-msgstr ""
+msgstr "Ký hiệu tiền tệ"
 
 msgid "Parent Field"
-msgstr ""
+msgstr "Trường cha"
 
 msgid "Add User Field"
-msgstr ""
+msgstr "Thêm trường người dùng"
 
 msgid "Radio Button"
-msgstr ""
+msgstr "Nút radio"
 
 msgid "Field Type"
-msgstr ""
+msgstr "Loại trường"
 
 msgid "Field Title"
-msgstr ""
+msgstr "Tiêu đề trường"
 
 msgid "Show on listing"
-msgstr ""
+msgstr "Hiển thị trên danh sách"
 
 msgid "Section cannot be changeable in edit case"
-msgstr ""
+msgstr "Phần không thể thay đổi trong trường hợp chỉnh sửa"
 
 msgid "Required"
-msgstr ""
+msgstr "Bắt buộc"
 
 msgid "Place Holder"
-msgstr ""
+msgstr "Trình giữ chỗ"
 
 msgid "Use enter key to separate options"
-msgstr ""
+msgstr "Sử dụng phím enter để phân tách các tùy chọn"
 
 msgid "User Field"
-msgstr ""
+msgstr "Trường người dùng"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Đã tắt"
 
 msgid "User Search"
-msgstr ""
+msgstr "Tìm kiếm người dùng"
 
 msgid "Visitor Search"
-msgstr ""
+msgstr "Tìm kiếm khách"
 
 msgid "Go"
-msgstr ""
+msgstr "Đi"
 
 msgid "unpublished"
-msgstr ""
+msgstr "chưa xuất bản"
 
 msgid "User Fields"
-msgstr ""
+msgstr "Trường người dùng"
 
 msgid "Field Name"
-msgstr ""
+msgstr "Tên trường"
 
 msgid "Read Only"
-msgstr ""
+msgstr "Chỉ đọc"
 
 msgid "Pending Due to Payment"
-msgstr ""
+msgstr "Chờ xử lý do thanh toán"
 
 msgid "Company Detail"
-msgstr ""
+msgstr "Chi tiết công ty"
 
 msgid "rejected for featured"
-msgstr ""
+msgstr "bị từ chối để nổi bật"
 
 msgid "approved for featured"
-msgstr ""
+msgstr "được phê duyệt để nổi bật"
 
 msgid "removed for featured"
-msgstr ""
+msgstr "đã bị xóa khỏi nổi bật"
 
 msgid "pending for featured"
-msgstr ""
+msgstr "đang chờ để nổi bật"
 
 msgid "Removed"
-msgstr ""
+msgstr "Đã xóa"
 
 msgid "Due to rejection of job you do not have permission to see job detail"
-msgstr ""
+msgstr "Do công việc bị từ chối, bạn không có quyền xem chi tiết công việc"
 
 msgid "click here to edit job"
-msgstr ""
+msgstr "nhấp vào đây để chỉnh sửa công việc"
 
 msgid " Admin"
-msgstr ""
+msgstr " Quản trị viên"
 
 msgid "Admin"
-msgstr ""
+msgstr "Quản trị viên"
 
 msgid "Body"
-msgstr ""
+msgstr "Nội dung"
 
 msgid "Parameters"
-msgstr ""
+msgstr "Tham số"
 
 msgid "Employer name"
-msgstr ""
+msgstr "Tên nhà tuyển dụng"
 
 msgid "Company status for approve,reject,pending"
-msgstr ""
+msgstr "Trạng thái công ty để phê duyệt, từ chối, đang chờ"
 
 msgid "Company approve or reject"
-msgstr ""
+msgstr "Phê duyệt hoặc từ chối công ty"
 
 msgid "Gold"
-msgstr ""
+msgstr "Vàng"
 
 msgid "Company Owner Name"
-msgstr ""
+msgstr "Tên chủ sở hữu công ty"
 
 msgid "Job seeker name"
-msgstr ""
+msgstr "Tên người tìm việc"
 
 msgid "Job link"
-msgstr ""
+msgstr "Liên kết công việc"
 
 msgid "Job  approve or reject"
-msgstr ""
+msgstr "Phê duyệt hoặc từ chối công việc"
 
 msgid "Role for employer"
-msgstr ""
+msgstr "Vai trò cho nhà tuyển dụng"
 
 msgid "Employer control panel link"
-msgstr ""
+msgstr "Liên kết bảng điều khiển nhà tuyển dụng"
 
 msgid "Role for job seeker"
-msgstr ""
+msgstr "Vai trò cho người tìm việc"
 
 msgid "Job seeker control panel link"
-msgstr ""
+msgstr "Liên kết bảng điều khiển người tìm việc"
 
 msgid "Resume data"
-msgstr ""
+msgstr "Dữ liệu hồ sơ"
 
 msgid "Resume curent status"
-msgstr ""
+msgstr "Trạng thái hiện tại của hồ sơ"
 
 msgid "Cover letter title"
-msgstr ""
+msgstr "Tiêu đề thư xin việc"
 
 msgid "Cover letter description"
-msgstr ""
+msgstr "Mô tả thư xin việc"
 
 msgid "Resume link"
-msgstr ""
+msgstr "Liên kết hồ sơ"
 
 msgid "Resume  approve or reject"
-msgstr ""
+msgstr "Phê duyệt hoặc từ chối hồ sơ"
 
 msgid "Applied resume status"
-msgstr ""
+msgstr "Trạng thái hồ sơ đã ứng tuyển"
 
 msgid "Agency name"
-msgstr ""
+msgstr "Tên đại lý"
 
 msgid "Package title"
-msgstr ""
+msgstr "Tiêu đề gói"
 
 msgid "Package price"
-msgstr ""
+msgstr "Giá gói"
 
 msgid "View package"
-msgstr ""
+msgstr "Xem gói"
 
 msgid "Publish status"
-msgstr ""
+msgstr "Trạng thái xuất bản"
 
 msgid "new"
-msgstr ""
+msgstr "mới"
 
 msgid "status"
-msgstr ""
+msgstr "trạng thái"
 
 msgid "buy credits pack"
-msgstr ""
+msgstr "mua gói tín dụng"
 
 msgid "expire package"
-msgstr ""
+msgstr "gói hết hạn"
 
 msgid "job apply"
-msgstr ""
+msgstr "ứng tuyển công việc"
 
 msgid "New"
-msgstr ""
+msgstr "Mới"
 
 msgid "resume "
-msgstr ""
+msgstr "hồ sơ"
 
 msgid "by visitor"
-msgstr ""
+msgstr "bởi khách"
 
 msgid "Applied resume status change"
-msgstr ""
+msgstr "Thay đổi trạng thái hồ sơ đã ứng tuyển"
 
 msgid "Package Purchase Admin"
-msgstr ""
+msgstr "Quản trị mua gói"
 
 msgid "Package Status"
-msgstr ""
+msgstr "Trạng thái gói"
 
 msgid "Package Purchase"
-msgstr ""
+msgstr "Mua gói"
 
 msgid "Job Seeker Visitor"
-msgstr ""
+msgstr "Khách tìm việc"
 
 msgid "Employer Visitor"
-msgstr ""
+msgstr "Khách nhà tuyển dụng"
 
 msgid "send email"
-msgstr ""
+msgstr "gửi email"
 
 msgid "dont send email"
-msgstr ""
+msgstr "không gửi email"
 
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Linh tinh"
 
 msgid "Send email"
-msgstr ""
+msgstr "Gửi email"
 
 msgid "Dont send email"
-msgstr ""
+msgstr "Không gửi email"
 
 msgid "Go Back To Home"
-msgstr ""
+msgstr "Quay lại trang chủ"
 
 msgid "Edit profile"
-msgstr ""
+msgstr "Chỉnh sửa hồ sơ"
 
 msgid "Short Links"
-msgstr ""
+msgstr "Liên kết ngắn"
 
 msgid "posted jobs"
-msgstr ""
+msgstr "công việc đã đăng"
 
 msgid "Posted Jobs"
-msgstr ""
+msgstr "Công việc đã đăng"
 
 msgid "View Detail"
-msgstr ""
+msgstr "Xem chi tiết"
 
 msgid "applied resume"
-msgstr ""
+msgstr "hồ sơ đã ứng tuyển"
 
 msgid "my company"
-msgstr ""
+msgstr "công ty của tôi"
 
 msgid "My Company"
-msgstr ""
+msgstr "Công ty của tôi"
 
 msgid "Recent Application's"
-msgstr ""
+msgstr "Ứng dụng gần đây"
 
 msgid "User image"
-msgstr ""
+msgstr "Hình ảnh người dùng"
 
 msgid "My jobs"
-msgstr ""
+msgstr "Công việc của tôi"
 
 msgid "Add job"
-msgstr ""
+msgstr "Thêm công việc"
 
 msgid "Resume by categories"
-msgstr ""
+msgstr "Hồ sơ theo danh mục"
 
 msgid "Resumes by categories"
-msgstr ""
+msgstr "Hồ sơ theo danh mục"
 
 msgid "Resumes By Categories"
-msgstr ""
+msgstr "Hồ sơ theo danh mục"
 
 msgid "add user fields"
-msgstr ""
+msgstr "thêm trường người dùng"
 
 msgid "required"
-msgstr ""
+msgstr "bắt buộc"
 
 msgid "not required"
-msgstr ""
+msgstr "không bắt buộc"
 
 msgid "Select status"
-msgstr ""
+msgstr "Chọn trạng thái"
 
 msgid "References"
-msgstr ""
+msgstr "Tham khảo"
 
 msgid "Add New Education"
-msgstr ""
+msgstr "Thêm học vấn mới"
 
 msgid "Educations"
-msgstr ""
+msgstr "Học vấn"
 
 msgid "JS multi city"
-msgstr ""
+msgstr "JS nhiều thành phố"
 
 msgid "JS search all"
-msgstr ""
+msgstr "JS tìm kiếm tất cả"
 
 msgid "JS_SEARCH_ALL"
-msgstr ""
+msgstr "JS_TÌM_KIẾM_TẤT_CẢ"
 
 msgid "JS From"
-msgstr ""
+msgstr "JS Từ"
 
 msgid "JS To"
-msgstr ""
+msgstr "JS Đến"
 
 msgid "You do not have any Job Apply remaining"
-msgstr ""
+msgstr "Bạn không còn lượt ứng tuyển công việc nào"
 
 msgid "Job Information"
-msgstr ""
+msgstr "Thông tin công việc"
 
 msgid "Overview"
-msgstr ""
+msgstr "Tổng quan"
 
 msgid "Full Detail"
-msgstr ""
+msgstr "Chi tiết đầy đủ"
 
 msgid "Something got wrong 1"
-msgstr ""
+msgstr "Có lỗi xảy ra 1"
 
 msgid "Job Approval Queue"
-msgstr ""
+msgstr "Hàng chờ phê duyệt công việc"
 
 msgid "Job Copied Successfully"
-msgstr ""
+msgstr "Công việc đã được sao chép thành công"
 
 msgid "If Any Other Experience"
-msgstr ""
+msgstr "Nếu có kinh nghiệm khác"
 
 msgid "Select some options"
-msgstr ""
+msgstr "Chọn một số tùy chọn"
 
 msgid "Type in city name"
-msgstr ""
+msgstr "Nhập tên thành phố"
 
 msgid "Job Has Been Feature SuccessFully"
-msgstr ""
+msgstr "Công việc đã được đánh dấu nổi bật thành công"
 
 msgid "Salary"
-msgstr ""
+msgstr "Lương"
 
 msgid "Fixed"
-msgstr ""
+msgstr "Cố định"
 
 msgid "Range"
-msgstr ""
+msgstr "Khoảng"
 
 msgid "Salary Type"
-msgstr ""
+msgstr "Loại lương"
 
 msgid "Not publish"
-msgstr ""
+msgstr "Không xuất bản"
 
 msgid "Edit Job"
-msgstr ""
+msgstr "Chỉnh sửa công việc"
 
 msgid "Delete Job"
-msgstr ""
+msgstr "Xóa công việc"
 
 msgid "wjportal-filter-search-input-field"
-msgstr ""
+msgstr "wjportal-filter-search-input-field"
 
 msgid "ago"
-msgstr ""
+msgstr "trước"
 
 msgid "Degree Title"
-msgstr ""
+msgstr "Tiêu đề bằng cấp"
 
 msgid "Apply Before"
-msgstr ""
+msgstr "Ứng tuyển trước"
 
 msgid "category"
-msgstr ""
+msgstr "danh mục"
 
 msgid "created"
-msgstr ""
+msgstr "đã tạo"
 
 msgid "end date"
-msgstr ""
+msgstr "ngày kết thúc"
 
 msgid "Closes"
-msgstr ""
+msgstr "Đóng"
 
 msgid "You Already Applied to this job "
-msgstr ""
+msgstr "Bạn đã ứng tuyển vào công việc này"
 
 msgid "Total Jobs"
-msgstr ""
+msgstr "Tổng số công việc"
 
 msgid "Remaining Job"
-msgstr ""
+msgstr "Công việc còn lại"
 
 msgid "Current Salary"
-msgstr ""
+msgstr "Lương hiện tại"
 
 msgid "Applied Info"
-msgstr ""
+msgstr "Thông tin đã ứng tuyển"
 
 msgid "No Record Found"
-msgstr ""
+msgstr "Không tìm thấy bản ghi"
 
 msgid "Something wrong pleas try later"
-msgstr ""
+msgstr "Có lỗi xảy ra, vui lòng thử lại sau"
 
 msgid "Apply With Resume"
-msgstr ""
+msgstr "Ứng tuyển với hồ sơ"
 
 msgid "You do not have any resume!"
-msgstr ""
+msgstr "Bạn không có hồ sơ nào!"
 
 msgid "You are employer, you can not apply to job"
-msgstr ""
+msgstr "Bạn là nhà tuyển dụng, bạn không thể ứng tuyển công việc"
 
 msgid "You do not have any role"
-msgstr ""
+msgstr "Bạn không có vai trò nào"
 
 msgid "Apply as visitor"
-msgstr ""
+msgstr "Ứng tuyển với tư cách khách"
 
 msgid "please select a resume first"
-msgstr ""
+msgstr "vui lòng chọn một hồ sơ trước"
 
 msgid "You have already applied this job"
-msgstr ""
+msgstr "Bạn đã ứng tuyển công việc này"
 
 msgid "Job has been Pending Due to Payment"
-msgstr ""
+msgstr "Công việc đang chờ xử lý do thanh toán"
 
 msgid "Sender Email"
-msgstr ""
+msgstr "Email người gửi"
 
 msgid "Cell"
-msgstr ""
+msgstr "Di động"
 
 msgid "Work preference"
-msgstr ""
+msgstr "Ưu tiên công việc"
 
 msgid "Institution Name"
-msgstr ""
+msgstr "Tên tổ chức"
 
 msgid "Cert/deg/oth"
-msgstr ""
+msgstr "Chứng chỉ/bằng cấp/khác"
 
 msgid "Position"
-msgstr ""
+msgstr "Vị trí"
 
 msgid "From Date"
-msgstr ""
+msgstr "Từ ngày"
 
 msgid "To Date"
-msgstr ""
+msgstr "Đến ngày"
 
 msgid "Language Name"
-msgstr ""
+msgstr "Tên ngôn ngữ"
 
 msgid "Email has been send"
-msgstr ""
+msgstr "Email đã được gửi"
 
 msgid "Email has not been send"
-msgstr ""
+msgstr "Email chưa được gửi"
 
 msgid "Please fill the subject"
-msgstr ""
+msgstr "Vui lòng điền chủ đề"
 
 msgid "Message sent"
-msgstr ""
+msgstr "Tin nhắn đã gửi"
 
 msgid "Message not sent"
-msgstr ""
+msgstr "Tin nhắn chưa gửi"
 
 msgid "JS invalid email"
-msgstr ""
+msgstr "JS email không hợp lệ"
 
 msgid "JS your email is required"
-msgstr ""
+msgstr "JS email của bạn là bắt buộc"
 
 msgid "Note have been saved successfully"
-msgstr ""
+msgstr "Ghi chú đã được lưu thành công"
 
 msgid "Failed while performing action"
-msgstr ""
+msgstr "Thất bại khi thực hiện hành động"
 
 msgid "Error sending email"
-msgstr ""
+msgstr "Lỗi khi gửi email"
 
 msgid "Failed While Performing Action"
-msgstr ""
+msgstr "Thất bại khi thực hiện hành động"
 
 msgid "Resume Applied On Job"
-msgstr ""
+msgstr "Hồ sơ đã ứng tuyển vào công việc"
 
 msgid "view profile"
-msgstr ""
+msgstr "xem hồ sơ"
 
 msgid "View Profile"
-msgstr ""
+msgstr "Xem hồ sơ"
 
 msgid "Desired Salary"
-msgstr ""
+msgstr "Lương mong muốn"
 
 msgid "Job View"
-msgstr ""
+msgstr "Xem công việc"
 
 msgid "Applied"
-msgstr ""
+msgstr "Đã ứng tuyển"
 
 msgid "Number of jobs in last six months"
-msgstr ""
+msgstr "Số lượng công việc trong sáu tháng qua"
 
 msgid "my resume"
-msgstr ""
+msgstr "hồ sơ của tôi"
 
 msgid "applied job"
-msgstr ""
+msgstr "công việc đã ứng tuyển"
 
 msgid "newest jobs"
-msgstr ""
+msgstr "công việc mới nhất"
 
 msgid "Newest Job"
-msgstr ""
+msgstr "Công việc mới nhất"
 
 msgid "view detail"
-msgstr ""
+msgstr "xem chi tiết"
 
 msgid "Jobs Applied Recently"
-msgstr ""
+msgstr "Công việc đã ứng tuyển gần đây"
 
 msgid "view all"
-msgstr ""
+msgstr "xem tất cả"
 
 msgid "Total resume"
-msgstr ""
+msgstr "Tổng số hồ sơ"
 
 msgid "register"
-msgstr ""
+msgstr "đăng ký"
 
 msgid "my applied jobs"
-msgstr ""
+msgstr "công việc đã ứng tuyển của tôi"
 
 msgid "search job"
-msgstr ""
+msgstr "tìm kiếm công việc"
 
 msgid "jobs by categories"
-msgstr ""
+msgstr "công việc theo danh mục"
 
 msgid "jobs by types"
-msgstr ""
+msgstr "công việc theo loại"
 
 msgid "edit resume"
-msgstr ""
+msgstr "chỉnh sửa hồ sơ"
 
 msgid "add resume"
-msgstr ""
+msgstr "thêm hồ sơ"
 
 msgid "logout"
-msgstr ""
+msgstr "đăng xuất"
 
 msgid "Profile image"
-msgstr ""
+msgstr "Hình ảnh hồ sơ"
 
 msgid "Color"
-msgstr ""
+msgstr "Màu sắc"
 
 msgid "no default"
-msgstr ""
+msgstr "không mặc định"
 
 msgid "Jobs data has been successfully imported"
-msgstr ""
+msgstr "Dữ liệu công việc đã được nhập thành công"
 
 msgid "Select the demo data to import"
-msgstr ""
+msgstr "Chọn dữ liệu demo để nhập"
 
 msgid "Select demo"
-msgstr ""
+msgstr "Chọn demo"
 
 msgid "What to do with previous demo data"
-msgstr ""
+msgstr "Làm gì với dữ liệu demo trước đó"
 
 msgid "All the content of previus demo data will be deleted."
-msgstr ""
+msgstr "Tất cả nội dung của dữ liệu demo trước đó sẽ bị xóa."
 
 msgid "Import Sample Data"
-msgstr ""
+msgstr "Nhập dữ liệu mẫu"
 
 msgid "General"
-msgstr ""
+msgstr "Chung"
 
 msgid "Sample Data"
-msgstr ""
+msgstr "Dữ liệu mẫu"
 
 msgid "Insert Sample Data"
-msgstr ""
+msgstr "Chèn dữ liệu mẫu"
 
 msgid "jobseeker"
-msgstr ""
+msgstr "người tìm việc"
 
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 msgid "Job Seeker Menu"
-msgstr ""
+msgstr "Menu người tìm việc"
 
 msgid "Employer Menu"
-msgstr ""
+msgstr "Menu nhà tuyển dụng"
 
 msgid "Job Hub Sample Data"
-msgstr ""
+msgstr "Dữ liệu mẫu Job Hub"
 
 msgid "back"
-msgstr ""
+msgstr "quay lại"
 
 msgid "Back"
-msgstr ""
+msgstr "Quay lại"
 
 msgid "finish"
-msgstr ""
+msgstr "hoàn thành"
 
 msgid "Finish"
-msgstr ""
+msgstr "Hoàn thành"
 
 msgid "DD MM YYYY"
-msgstr ""
+msgstr "NGÀY THÁNG NĂM"
 
 msgid "MM DD YYYY"
-msgstr ""
+msgstr "THÁNG NGÀY NĂM"
 
 msgid "YYYY MM DD"
-msgstr ""
+msgstr "NĂM THÁNG NGÀY"
 
 msgid "General Configurations"
-msgstr ""
+msgstr "Cấu hình chung"
 
 msgid "System email address"
-msgstr ""
+msgstr "Địa chỉ email hệ thống"
 
 msgid "Email from name"
-msgstr ""
+msgstr "Tên từ email"
 
 msgid "Default date format"
-msgstr ""
+msgstr "Định dạng ngày mặc định"
 
 msgid "next"
-msgstr ""
+msgstr "tiếp theo"
 
 msgid "Position for search icon on jobs listing page"
-msgstr ""
+msgstr "Vị trí biểu tượng tìm kiếm trên trang danh sách công việc"
 
 msgid "Resume auto approve"
-msgstr ""
+msgstr "Tự động phê duyệt hồ sơ"
 
 msgid "Allow user register as employer"
-msgstr ""
+msgstr "Cho phép người dùng đăng ký làm nhà tuyển dụng"
 
 msgid "Effects on user registration"
-msgstr ""
+msgstr "Ảnh hưởng đến việc đăng ký người dùng"
 
 msgid "Company auto approve"
-msgstr ""
+msgstr "Tự động phê duyệt công ty"
 
 msgid "Job auto approve"
-msgstr ""
+msgstr "Tự động phê duyệt công việc"
 
 msgid "Demo data has been successfully imported"
-msgstr ""
+msgstr "Dữ liệu demo đã được nhập thành công"
 
 msgid "Please select the right demo data to import"
-msgstr ""
+msgstr "Vui lòng chọn đúng dữ liệu demo để nhập"
 
 msgid "Free Version"
-msgstr ""
+msgstr "Phiên bản miễn phí"
 
 msgid "Import Data"
-msgstr ""
+msgstr "Nhập dữ liệu"
 
 msgid "Pro Version"
-msgstr ""
+msgstr "Phiên bản Pro"
 
 msgid "Free To Pro Updated"
-msgstr ""
+msgstr "Cập nhật từ miễn phí lên Pro"
 
 msgid "Click Here To Go Control Panel"
-msgstr ""
+msgstr "Nhấp vào đây để đi đến bảng điều khiển"
 
 msgid "Click Here To Go Template Options"
-msgstr ""
+msgstr "Nhấp vào đây để đi đến tùy chọn mẫu"
 
 msgid "Please insert activation key to proceed"
-msgstr ""
+msgstr "Vui lòng nhập khóa kích hoạt để tiếp tục"
 
 msgid "Addon Installation Failed"
-msgstr ""
+msgstr "Cài đặt bổ sung thất bại"
 
 msgid "Addon installation failed, Directory permission error"
-msgstr ""
+msgstr "Cài đặt bổ sung thất bại, lỗi quyền thư mục"
 
 msgid "Addon Installation Failed, File download error"
-msgstr ""
+msgstr "Cài đặt bổ sung thất bại, lỗi tải xuống tệp"
 
 msgid "Addon's List and Features"
-msgstr ""
+msgstr "Danh sách và tính năng bổ sung"
 
 msgid "Add-On’s For Job Portal"
-msgstr ""
+msgstr "Bổ sung cho Cổng việc làm"
 
 msgid "buy now"
-msgstr ""
+msgstr "mua ngay"
 
 msgid "Advance Resume Builder"
-msgstr ""
+msgstr "Trình tạo hồ sơ nâng cao"
 
 msgid "Featured Company"
-msgstr ""
+msgstr "Công ty nổi bật"
 
 msgid "Featured Job"
-msgstr ""
+msgstr "Công việc nổi bật"
 
 msgid "Resume Action"
-msgstr ""
+msgstr "Hành động hồ sơ"
 
 msgid "Multi Company"
-msgstr ""
+msgstr "Nhiều công ty"
 
 msgid "Front-end Widgets"
-msgstr ""
+msgstr "Tiện ích giao diện người dùng"
 
 msgid "Multi Resume"
-msgstr ""
+msgstr "Nhiều hồ sơ"
 
 msgid "Report's"
-msgstr ""
+msgstr "Báo cáo"
 
 msgid "Rss Feed"
-msgstr ""
+msgstr "Nguồn cấp RSS"
 
 msgid "Shortlist"
-msgstr ""
+msgstr "Danh sách ngắn"
 
 msgid "Tell Friend"
-msgstr ""
+msgstr "Giới thiệu bạn bè"
 
 msgid "Themes"
-msgstr ""
+msgstr "Chủ đề"
 
 msgid "Visitor Apply Job"
-msgstr ""
+msgstr "Khách ứng tuyển công việc"
 
 msgid "Visitor Add Job"
-msgstr ""
+msgstr "Khách thêm công việc"
 
 msgid "Plugin Color"
-msgstr ""
+msgstr "Màu plugin"
 
 msgid "Premium Addons"
-msgstr ""
+msgstr "Bổ sung cao cấp"
 
 msgid "addon in no longer active"
-msgstr ""
+msgstr "bổ sung không còn hoạt động"
 
 msgid "WP Job Portal Addon Installer"
-msgstr ""
+msgstr "Trình cài đặt bổ sung WP Job Portal"
 
 msgid "Wordpress Plugin"
-msgstr ""
+msgstr "Plugin Wordpress"
 
 msgid "Add on list"
-msgstr ""
+msgstr "Danh sách bổ sung"
 
 msgid "Please Insert Your Activation key"
-msgstr ""
+msgstr "Vui lòng nhập khóa kích hoạt của bạn"
 
 msgid "Activation key"
-msgstr ""
+msgstr "Khóa kích hoạt"
 
 msgid "Select Addons for download"
-msgstr ""
+msgstr "Chọn bổ sung để tải xuống"
 
 msgid "All allowed add-ons are already installed"
-msgstr ""
+msgstr "Tất cả các bổ sung được phép đã được cài đặt"
 
 msgid "You are not allowed to install any add on"
-msgstr ""
+msgstr "Bạn không được phép cài đặt bất kỳ bổ sung nào"
 
 msgid "Select All Addons"
-msgstr ""
+msgstr "Chọn tất cả bổ sung"
 
 msgid "Add ons installed and activated successfully"
-msgstr ""
+msgstr "Bổ sung đã được cài đặt và kích hoạt thành công"
 
 msgid "Total Companies"
-msgstr ""
+msgstr "Tổng số công ty"
 
 msgid "Report By Job Categories"
-msgstr ""
+msgstr "Báo cáo theo danh mục công việc"
 
 msgid "Report By Resume Categories"
-msgstr ""
+msgstr "Báo cáo theo danh mục hồ sơ"
 
 msgid "Report By Job Cities"
-msgstr ""
+msgstr "Báo cáo theo thành phố công việc"
 
 msgid "Report By Company Cities"
-msgstr ""
+msgstr "Báo cáo theo thành phố công ty"
 
 msgid "Report By Resume Cities"
-msgstr ""
+msgstr "Báo cáo theo thành phố hồ sơ"
 
 msgid "Report By Job Types"
-msgstr ""
+msgstr "Báo cáo theo loại công việc"
 
 msgid "Report By Resume Types"
-msgstr ""
+msgstr "Báo cáo theo loại hồ sơ"
 
 msgid "Over All"
-msgstr ""
+msgstr "Tổng thể"
 
 msgid "select.genericList"
-msgstr ""
+msgstr "chọn.danh_sách_chung"
 
 msgid "Section has been deleted"
-msgstr ""
+msgstr "Phần đã được xóa"
 
 msgid "Error deleting section"
-msgstr ""
+msgstr "Lỗi khi xóa phần"
 
 msgid "You do not have any View Resume Contact remaining"
-msgstr ""
+msgstr "Bạn không còn lượt xem chi tiết liên hệ hồ sơ nào"
 
 msgid "View Contact Resume"
-msgstr ""
+msgstr "Xem chi tiết liên hệ hồ sơ"
 
 msgid "Resume Queue"
-msgstr ""
+msgstr "Hàng chờ hồ sơ"
 
 msgid "Are you sure to force delete"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn xóa bắt buộc không"
 
 msgid "Resume Approve"
-msgstr ""
+msgstr "Phê duyệt hồ sơ"
 
 msgid "All Approve"
-msgstr ""
+msgstr "Phê duyệt tất cả"
 
 msgid "Resume Reject"
-msgstr ""
+msgstr "Từ chối hồ sơ"
 
 msgid "All Reject"
-msgstr ""
+msgstr "Từ chối tất cả"
 
 msgid "Modified Date"
-msgstr ""
+msgstr "Ngày sửa đổi"
 
 msgid "Your Profile Status"
-msgstr ""
+msgstr "Trạng thái hồ sơ của bạn"
 
 msgid " Profile Status"
-msgstr ""
+msgstr " Trạng thái hồ sơ"
 
 msgid "Home Slug"
-msgstr ""
+msgstr "Đường dẫn trang chủ"
 
 msgid "This prefix will be added to slug incase of homepage links"
-msgstr ""
+msgstr "Tiền tố này sẽ được thêm vào đường dẫn trong trường hợp liên kết trang chủ"
 
 msgid "This prefix will be added to slug incase of conflict"
-msgstr ""
+msgstr "Tiền tố này sẽ được thêm vào đường dẫn trong trường hợp xung đột"
 
 msgid "Search By Slug"
-msgstr ""
+msgstr "Tìm kiếm theo đường dẫn"
 
 msgid "Slug List"
-msgstr ""
+msgstr "Danh sách đường dẫn"
 
 msgid "This button will only save slugs on current page"
-msgstr ""
+msgstr "Nút này chỉ lưu các đường dẫn trên trang hiện tại"
 
 msgid "Add New State"
-msgstr ""
+msgstr "Thêm bang mới"
 
 msgid "Error Log"
-msgstr ""
+msgstr "Nhật ký lỗi"
 
 msgid "add job"
-msgstr ""
+msgstr "thêm công việc"
 
 msgid "popup cross"
-msgstr ""
+msgstr "đóng popup"
 
 msgid "Role"
-msgstr ""
+msgstr "Vai trò"
 
 msgid "Assign role"
-msgstr ""
+msgstr "Gán vai trò"
 
 msgid "Change Role"
-msgstr ""
+msgstr "Thay đổi vai trò"
 
 msgid "User Details"
-msgstr ""
+msgstr "Chi tiết người dùng"
 
 msgid "User Stats Companies"
-msgstr ""
+msgstr "Thống kê công ty người dùng"
 
 msgid "Job Approved"
-msgstr ""
+msgstr "Công việc đã phê duyệt"
 
 msgid "Job Rejected"
-msgstr ""
+msgstr "Công việc bị từ chối"
 
 msgid "User Stats Jobs"
-msgstr ""
+msgstr "Thống kê công việc người dùng"
 
 msgid "User Stats Resume"
-msgstr ""
+msgstr "Thống kê hồ sơ người dùng"
 
 msgid "User Stats"
-msgstr ""
+msgstr "Thống kê người dùng"
 
 msgid "Word Press user login"
-msgstr ""
+msgstr "Đăng nhập người dùng WordPress"
 
 msgid "Start publishing"
-msgstr ""
+msgstr "Bắt đầu xuất bản"
 
 msgid "Stop publishing"
-msgstr ""
+msgstr "Dừng xuất bản"
 
 msgid "Update"
-msgstr ""
+msgstr "Cập nhật"
 
 msgid "change role"
-msgstr ""
+msgstr "thay đổi vai trò"
 
 msgid "Group"
-msgstr ""
+msgstr "Nhóm"
 
 msgid "Job Applies"
-msgstr ""
+msgstr "Ứng tuyển công việc"
 
 msgid "user name"
 msgstr ""
@@ -6830,709 +6830,709 @@ msgid "Lahore, Pakistan"
 msgstr ""
 
 msgid "Resume (10)"
-msgstr ""
+msgstr "Hồ sơ (10)"
 
 msgid "Database Administrator"
-msgstr ""
+msgstr "Quản trị viên cơ sở dữ liệu"
 
 msgid "Islamabad, Pakistan"
-msgstr ""
+msgstr "Islamabad, Pakistan"
 
 msgid "Preset Theme"
-msgstr ""
+msgstr "Chủ đề cài sẵn"
 
 msgid "Mint"
-msgstr ""
+msgstr "Bạc hà"
 
 msgid "Red"
-msgstr ""
+msgstr "Đỏ"
 
 msgid "Aqua"
-msgstr ""
+msgstr "Xanh nước biển"
 
 msgid "Blue Jeans"
-msgstr ""
+msgstr "Xanh jeans"
 
 msgid "Grass"
-msgstr ""
+msgstr "Cỏ"
 
 msgid "Grape fruit"
-msgstr ""
+msgstr "Bưởi"
 
 msgid "Lavender"
-msgstr ""
+msgstr "Oải hương"
 
 msgid "Black"
-msgstr ""
+msgstr "Đen"
 
 msgid "Help icon"
-msgstr ""
+msgstr "Biểu tượng trợ giúp"
 
 msgid "We Are Here to Help You"
-msgstr ""
+msgstr "Chúng tôi ở đây để giúp bạn"
 
 msgid "View all videos"
-msgstr ""
+msgstr "Xem tất cả video"
 
 msgid "Video icon"
-msgstr ""
+msgstr "Biểu tượng video"
 
 msgid "View All Videos"
-msgstr ""
+msgstr "Xem tất cả video"
 
 msgid "WP JOB PORTAL icon"
-msgstr ""
+msgstr "Biểu tượng WP JOB PORTAL"
 
 msgid "WP Job Portal Support"
-msgstr ""
+msgstr "Hỗ trợ WP Job Portal"
 
 msgid "Submit ticket"
-msgstr ""
+msgstr "Gửi phiếu hỗ trợ"
 
 msgid "Submit Ticket"
-msgstr ""
+msgstr "Gửi phiếu hỗ trợ"
 
 msgid "Job Portal"
-msgstr ""
+msgstr "Cổng việc làm"
 
 msgid "Shortlist Jobs"
-msgstr ""
+msgstr "Danh sách công việc ngắn"
 
 msgid "Visitor Create a Job"
-msgstr ""
+msgstr "Khách tạo công việc"
 
 msgid "Apply as a Visitor"
-msgstr ""
+msgstr "Ứng tuyển với tư cách khách"
 
 msgid "Advance Resume"
-msgstr ""
+msgstr "Hồ sơ nâng cao"
 
 msgid "Resume Actions"
-msgstr ""
+msgstr "Hành động hồ sơ"
 
 msgid "Create Company"
-msgstr ""
+msgstr "Tạo công ty"
 
 msgid "Misc"
-msgstr ""
+msgstr "Linh tinh"
 
 msgid "Widget Settings"
-msgstr ""
+msgstr "Cài đặt tiện ích"
 
 msgid "Credit Pack"
-msgstr ""
+msgstr "Gói tín dụng"
 
 msgid "Color Manager"
-msgstr ""
+msgstr "Quản lý màu sắc"
 
 msgid "State id greater and cities have no ids also state id and country id is your responsibility"
-msgstr ""
+msgstr "ID bang lớn hơn và các thành phố không có ID, ID bang và ID quốc gia là trách nhiệm của bạn"
 
 msgid "Consider old countries and states were not edit otherwise problem may occur"
-msgstr ""
+msgstr "Xem xét các quốc gia và bang cũ không được chỉnh sửa nếu không có thể xảy ra vấn đề"
 
 msgid "Configure your credit system. How much credits required for action. if you don't enter any credit. it will be free"
-msgstr ""
+msgstr "Cấu hình hệ thống tín dụng của bạn. Cần bao nhiêu tín dụng cho hành động. Nếu bạn không nhập tín dụng, nó sẽ miễn phí"
 
 msgid "By agreeing to recurring payment you will be charged with package price at the end of billing cycle and package will be renewed"
-msgstr ""
+msgstr "Bằng cách đồng ý với thanh toán định kỳ, bạn sẽ bị tính phí giá gói vào cuối chu kỳ thanh toán và gói sẽ được gia hạn"
 
 msgid "Contact administrator to delete agreement from his paypal account. Your agreement id is"
-msgstr ""
+msgstr "Liên hệ quản trị viên để xóa thỏa thuận từ tài khoản PayPal của anh ấy. ID thỏa thuận của bạn là"
 
 msgid "You must cancel agreement from your paypal account. Your agreement id is"
-msgstr ""
+msgstr "Bạn phải hủy thỏa thuận từ tài khoản PayPal của bạn. ID thỏa thuận của bạn là"
 
 msgid "If You Have A Very Big Site Which Takes More Than 5 Minutes To Back Itself Up"
-msgstr ""
+msgstr "Nếu bạn có một trang web rất lớn mất hơn 5 phút để tự sao lưu"
 
 msgid "You Might Consider Using Akeeba Backup Professional And The Native Cli Cron Job Instead"
-msgstr ""
+msgstr "Bạn có thể xem xét sử dụng Akeeba Backup Professional và tác vụ Cron CLI gốc thay thế"
 
 msgid "We Recommend Choosing An Alert Method Here And Not Checking The only On Error So That You Always Get A Notification When The Backup Cron Job Runs"
-msgstr ""
+msgstr "Chúng tôi khuyên bạn nên chọn một phương thức cảnh báo tại đây và không chỉ kiểm tra Khi Có Lỗi để bạn luôn nhận được thông báo khi tác vụ Cron sao lưu chạy"
 
 msgid "Job applied notification will be emailed to you with resume of the applicant"
-msgstr ""
+msgstr "Thông báo ứng tuyển công việc sẽ được gửi email cho bạn kèm theo hồ sơ của ứng viên"
 
 msgid "Job applied notification will be emailed to you with resume and attachments of the applicant"
-msgstr ""
+msgstr "Thông báo ứng tuyển công việc sẽ được gửi email cho bạn kèm theo hồ sơ và tệp đính kèm của ứng viên"
 
 msgid "No notification will be emailed to you regarding job applications you can also check your workspace for new applicant"
-msgstr ""
+msgstr "Không có thông báo nào được gửi email cho bạn liên quan đến các ứng tuyển công việc, bạn cũng có thể kiểm tra không gian làm việc của mình để xem ứng viên mới"
 
 msgid "The Total number of applicants for each day will be e-mailed to you on a daily basis.you can also check your workspace for new applicant."
-msgstr ""
+msgstr "Tổng số ứng viên mỗi ngày sẽ được gửi email cho bạn hàng ngày. Bạn cũng có thể kiểm tra không gian làm việc của mình để xem ứng viên mới."
 
 msgid "Each applicants cv will be emailed directily to you as they apply.you can also check your workspace for new applicant"
-msgstr ""
+msgstr "CV của mỗi ứng viên sẽ được gửi trực tiếp qua email cho bạn khi họ ứng tuyển. Bạn cũng có thể kiểm tra không gian làm việc của mình để xem ứng viên mới"
 
 msgid "Get trusted WordPress add on’s. Guaranteed to work fast, safe to use, beautifully coded, packed with features and easy to use."
-msgstr ""
+msgstr "Nhận các bổ sung WordPress đáng tin cậy. Đảm bảo hoạt động nhanh, an toàn để sử dụng, được mã hóa đẹp mắt, đầy đủ tính năng và dễ sử dụng."
 
 msgid "WP Job Portal offers a feature for users to see address data for states, cities or both. Admin will upload that file."
-msgstr ""
+msgstr "WP Job Portal cung cấp tính năng cho người dùng xem dữ liệu địa chỉ cho các bang, thành phố hoặc cả hai. Quản trị viên sẽ tải lên tệp đó."
 
 msgid "WP Job Portal offers an outstanding feature for employers to featured their companies. Employers will be able to featured their desired companies."
-msgstr ""
+msgstr "WP Job Portal cung cấp một tính năng nổi bật cho nhà tuyển dụng để làm nổi bật công ty của họ. Nhà tuyển dụng sẽ có thể làm nổi bật các công ty mong muốn."
 
 msgid "WP Job Portal helps employers to make the resume as Featured Resume. Employers can featured their desired resume from the resume list."
-msgstr ""
+msgstr "WP Job Portal giúp nhà tuyển dụng làm nổi bật hồ sơ thành Hồ sơ nổi bật. Nhà tuyển dụng có thể làm nổi bật hồ sơ mong muốn từ danh sách hồ sơ."
 
 msgid "WP Job Portal offers a feature for employers to perform some actions on resumes. Employes have some rights to reject or accept the jobseeker resume."
-msgstr ""
+msgstr "WP Job Portal cung cấp tính năng cho nhà tuyển dụng thực hiện một số hành động trên hồ sơ. Nhà tuyển dụng có một số quyền để từ chối hoặc chấp nhận hồ sơ của người tìm việc."
 
 msgid "WP Job Portal offers a  message feature for Employers and Job Seekers. All the Employers and Job Seekers can message each other."
-msgstr ""
+msgstr "WP Job Portal cung cấp tính năng tin nhắn cho Nhà tuyển dụng và Người tìm việc. Tất cả Nhà tuyển dụng và Người tìm việc có thể nhắn tin cho nhau."
 
 msgid "WP job Portal offers a feature for employers to add multi companies. Employers will add their desired multi-companies."
-msgstr ""
+msgstr "WP Job Portal cung cấp tính năng cho nhà tuyển dụng thêm nhiều công ty. Nhà tuyển dụng sẽ thêm các công ty đa dạng mong muốn của họ."
 
 msgid "Widgets in WordPress allows you to add content and features in the widgetized areas of your theme which is mostly the sidebar."
-msgstr ""
+msgstr "Tiện ích trong WordPress cho phép bạn thêm nội dung và tính năng vào các khu vực tiện ích của chủ đề, thường là thanh bên."
 
 msgid "WP Job Portal offers a feature for the jobseeker to add their multi-resume. Jobseeker will be able to create a multiple resume for applying any job."
-msgstr ""
+msgstr "WP Job Portal cung cấp tính năng cho người tìm việc thêm nhiều hồ sơ. Người tìm việc sẽ có thể tạo nhiều hồ sơ để ứng tuyển bất kỳ công việc nào."
 
 msgid "WP Job Portal offers a feature for Employes to add multi-departments related to jobs. Jobseeker can apply to jobs related to the desired department."
-msgstr ""
+msgstr "WP Job Portal cung cấp tính năng cho nhà tuyển dụng thêm nhiều phòng ban liên quan đến công việc. Người tìm việc có thể ứng tuyển vào các công việc liên quan đến phòng ban mong muốn."
 
 msgid "WP Job Portal offers Real Simple Syndication (RSS) to set feeds for the jobs. Admin manipulates RSS settings. Employers and Job Seekers can see the Jobs RSS."
-msgstr ""
+msgstr "WP Job Portal cung cấp Real Simple Syndication (RSS) để thiết lập nguồn cấp dữ liệu cho công việc. Quản trị viên điều chỉnh cài đặt RSS. Nhà tuyển dụng và Người tìm việc có thể xem RSS Công việc."
 
 msgid "WP Job Portal will help employers and jobseekers to shortlist their desired jobs. They can see their shortlisted jobs on the list."
-msgstr ""
+msgstr "WP Job Portal sẽ giúp nhà tuyển dụng và người tìm việc lập danh sách ngắn các công việc mong muốn. Họ có thể xem các công việc đã chọn trong danh sách."
 
 msgid "WP Job Portal allows registration from social logins. Employer and Job Seekers can create a new account for login or they can use their social media Logins."
-msgstr ""
+msgstr "WP Job Portal cho phép đăng ký từ đăng nhập xã hội. Nhà tuyển dụng và Người tìm việc có thể tạo tài khoản mới để đăng nhập hoặc sử dụng đăng nhập mạng xã hội của họ."
 
 msgid "Get multiple themes with beautiful color scheme to make your site more beautiful and eye-catchy by just one click."
-msgstr ""
+msgstr "Nhận nhiều chủ đề với bảng màu đẹp mắt để làm cho trang web của bạn đẹp hơn và thu hút chỉ bằng một cú nhấp chuột."
 
 msgid "WP Job Portal offers a feature for visitors. A visitor can apply to any company posted jobs. The visitor will apply for the jobs by their resume."
-msgstr ""
+msgstr "WP Job Portal cung cấp tính năng cho khách. Khách có thể ứng tuyển vào bất kỳ công việc nào do công ty đăng. Khách sẽ ứng tuyển công việc bằng hồ sơ của họ."
 
 msgid "WP Job Portal is a simple yet powerful job board plugin with a step-by-step YouTube guide to ensure ease of use."
-msgstr ""
+msgstr "WP Job Portal là một plugin bảng việc làm đơn giản nhưng mạnh mẽ với hướng dẫn từng bước trên YouTube để đảm bảo dễ sử dụng."
 
 msgid "WP Job Portal offers timely customer support. If you have any queries, we're here to help you every step of the way."
-msgstr ""
+msgstr "WP Job Portal cung cấp hỗ trợ khách hàng kịp thời. Nếu bạn có bất kỳ câu hỏi nào, chúng tôi ở đây để giúp bạn từng bước."
 
 msgid "Unable to open file!"
-msgstr ""
+msgstr "Không thể mở tệp!"
 
 msgid "Effect On Credits System"
-msgstr ""
+msgstr "Ảnh hưởng đến hệ thống tín dụng"
 
 msgid "Are You Sure You Want To Feature this Company?"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn làm nổi bật công ty này không?"
 
 msgid "Meta Keywords"
-msgstr ""
+msgstr "Từ khóa meta"
 
 msgid "Enter Data"
-msgstr ""
+msgstr "Nhập dữ liệu"
 
 msgid "Email Setting"
-msgstr ""
+msgstr "Cài đặt email"
 
 msgid "Meta Description"
-msgstr ""
+msgstr "Mô tả meta"
 
 msgid "Are You Sure You Want To Feature this Job?"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn làm nổi bật công việc này không?"
 
 msgid "Are You Sure You Want To Feature this Resume?"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn làm nổi bật hồ sơ này không?"
 
 msgid "Record per page"
-msgstr ""
+msgstr "Bản ghi trên mỗi trang"
 
 msgid "slug for new in wp job portal page"
-msgstr ""
+msgstr "đường dẫn cho trang mới trong WP Job Portal"
 
 msgid "slug for jobseeker control panel"
-msgstr ""
+msgstr "đường dẫn cho bảng điều khiển người tìm việc"
 
 msgid "slug for employer control panel"
-msgstr ""
+msgstr "đường dẫn cho bảng điều khiển nhà tuyển dụng"
 
 msgid "slug for job seeker my stats page"
-msgstr ""
+msgstr "đường dẫn cho trang thống kê của tôi của người tìm việc"
 
 msgid "slug for employer my stats page"
-msgstr ""
+msgstr "đường dẫn cho trang thống kê của tôi của nhà tuyển dụng"
 
 msgid "slug for resume main listing page"
-msgstr ""
+msgstr "đường dẫn cho trang danh sách chính của hồ sơ"
 
 msgid "slug for job main listing page"
-msgstr ""
+msgstr "đường dẫn cho trang danh sách chính của công việc"
 
 msgid "slug for my companies page"
-msgstr ""
+msgstr "đường dẫn cho trang công ty của tôi"
 
 msgid "slug for add company page"
-msgstr ""
+msgstr "đường dẫn cho trang thêm công ty"
 
 msgid "slug for my jobs page"
-msgstr ""
+msgstr "đường dẫn cho trang công việc của tôi"
 
 msgid "slug for add job page"
-msgstr ""
+msgstr "đường dẫn cho trang thêm công việc"
 
 msgid "slug for my departments page"
-msgstr ""
+msgstr "đường dẫn cho trang phòng ban của tôi"
 
 msgid "slug for add department page"
-msgstr ""
+msgstr "đường dẫn cho trang thêm phòng ban"
 
 msgid "slug for view department page"
-msgstr ""
+msgstr "đường dẫn cho trang xem phòng ban"
 
 msgid "slug for view company page"
-msgstr ""
+msgstr "đường dẫn cho trang xem công ty"
 
 msgid "slug for view resume page"
-msgstr ""
+msgstr "đường dẫn cho trang xem hồ sơ"
 
 msgid "slug for view job page"
-msgstr ""
+msgstr "đường dẫn cho trang xem công việc"
 
 msgid "slug for my folders page"
-msgstr ""
+msgstr "đường dẫn cho trang thư mục của tôi"
 
 msgid "slug for add folder page"
-msgstr ""
+msgstr "đường dẫn cho trang thêm thư mục"
 
 msgid "slug for view folder page"
-msgstr ""
+msgstr "đường dẫn cho trang xem thư mục"
 
 msgid "slug for folder resume page"
-msgstr ""
+msgstr "đường dẫn cho trang hồ sơ trong thư mục"
 
 msgid "slug for job seeker messages page"
-msgstr ""
+msgstr "đường dẫn cho trang tin nhắn của người tìm việc"
 
 msgid "slug for employer messages page"
-msgstr ""
+msgstr "đường dẫn cho trang tin nhắn của nhà tuyển dụng"
 
 msgid "slug for send message page"
-msgstr ""
+msgstr "đường dẫn cho trang gửi tin nhắn"
 
 msgid "slug for job messages page"
-msgstr ""
+msgstr "đường dẫn cho trang tin nhắn công việc"
 
 msgid "slug for jobs by types page"
-msgstr ""
+msgstr "đường dẫn cho trang công việc theo loại"
 
 msgid "slug for messages page"
-msgstr ""
+msgstr "đường dẫn cho trang tin nhắn"
 
 msgid "slug for resume search page"
-msgstr ""
+msgstr "đường dẫn cho trang tìm kiếm hồ sơ"
 
 msgid "slug for resume save search page"
-msgstr ""
+msgstr "đường dẫn cho trang lưu tìm kiếm hồ sơ"
 
 msgid "slug for resume by category page"
-msgstr ""
+msgstr "đường dẫn cho trang hồ sơ theo danh mục"
 
 msgid "slug for resume rss page"
-msgstr ""
+msgstr "đường dẫn cho trang RSS hồ sơ"
 
 msgid "slug for employer credits page"
-msgstr ""
+msgstr "đường dẫn cho trang tín dụng của nhà tuyển dụng"
 
 msgid "slug for job seeker credits page"
-msgstr ""
+msgstr "đường dẫn cho trang tín dụng của người tìm việc"
 
 msgid "slug for employer purchase history page"
-msgstr ""
+msgstr "đường dẫn cho trang lịch sử mua hàng của nhà tuyển dụng"
 
 msgid "employer my stats page"
-msgstr ""
+msgstr "trang thống kê của tôi của nhà tuyển dụng"
 
 msgid "slug for job seeker stats page"
-msgstr ""
+msgstr "đường dẫn cho trang thống kê của người tìm việc"
 
 msgid "slug for register as employer page"
-msgstr ""
+msgstr "đường dẫn cho trang đăng ký làm nhà tuyển dụng"
 
 msgid "reg job seeker page"
-msgstr ""
+msgstr "trang đăng ký người tìm việc"
 
 msgid "slug for user register page"
-msgstr ""
+msgstr "đường dẫn cho trang đăng ký người dùng"
 
 msgid "slug for add resume page"
-msgstr ""
+msgstr "đường dẫn cho trang thêm hồ sơ"
 
 msgid "slug for my resumes page"
-msgstr ""
+msgstr "đường dẫn cho trang hồ sơ của tôi"
 
 msgid "slug for companies page"
-msgstr ""
+msgstr "đường dẫn cho trang công ty"
 
 msgid "slug for my applied jobs page"
-msgstr ""
+msgstr "đường dẫn cho trang công việc đã ứng tuyển của tôi"
 
 msgid "slug for job applied resume page"
-msgstr ""
+msgstr "đường dẫn cho trang hồ sơ đã ứng tuyển công việc"
 
 msgid "slug for job search page"
-msgstr ""
+msgstr "đường dẫn cho trang tìm kiếm công việc"
 
 msgid "slug for job save search page"
-msgstr ""
+msgstr "đường dẫn cho trang lưu tìm kiếm công việc"
 
 msgid "slug for job alert page"
-msgstr ""
+msgstr "đường dẫn cho trang cảnh báo công việc"
 
 msgid "slug for job rss page"
-msgstr ""
+msgstr "đường dẫn cho trang RSS công việc"
 
 msgid "slug for shortlisted jobs page"
-msgstr ""
+msgstr "đường dẫn cho trang công việc đã chọn"
 
 msgid "slug for job seeker purchase history page"
-msgstr ""
+msgstr "đường dẫn cho trang lịch sử mua hàng của người tìm việc"
 
 msgid "slug for rate list job seeker page"
-msgstr ""
+msgstr "đường dẫn cho trang danh sách tỷ lệ của người tìm việc"
 
 msgid "slug for rate list employer page"
-msgstr ""
+msgstr "đường dẫn cho trang danh sách tỷ lệ của nhà tuyển dụng"
 
 msgid "slug for job seeker credits log page"
-msgstr ""
+msgstr "đường dẫn cho trang nhật ký tín dụng của người tìm việc"
 
 msgid "slug for employer credits log page"
-msgstr ""
+msgstr "đường dẫn cho trang nhật ký tín dụng của nhà tuyển dụng"
 
 msgid "slug for jobs by categories page"
-msgstr ""
+msgstr "đường dẫn cho trang công việc theo danh mục"
 
 msgid "slug for newest jobs page"
-msgstr ""
+msgstr "đường dẫn cho trang công việc mới nhất"
 
 msgid "slug for jobs by cities page"
-msgstr ""
+msgstr "đường dẫn cho trang công việc theo thành phố"
 
 msgid "slug for employer resume pdf"
-msgstr ""
+msgstr "đường dẫn cho PDF hồ sơ của nhà tuyển dụng"
 
 msgid "Slug for edit Profile"
-msgstr ""
+msgstr "Đường dẫn cho chỉnh sửa hồ sơ"
 
 msgid "Accounting/Finance"
-msgstr ""
+msgstr "Kế toán/Tài chính"
 
 msgid "Administrative"
-msgstr ""
+msgstr "Hành chính"
 
 msgid "Advertising"
-msgstr ""
+msgstr "Quảng cáo"
 
 msgid "Airlines/Avionics/Aerospace"
-msgstr ""
+msgstr "Hàng không/Điện tử hàng không/Hàng không vũ trụ"
 
 msgid "Architectural"
-msgstr ""
+msgstr "Kiến trúc"
 
 msgid "Automotive"
-msgstr ""
+msgstr "Ô tô"
 
 msgid "Banking/Finance"
-msgstr ""
+msgstr "Ngân hàng/Tài chính"
 
 msgid "Biotechnology"
-msgstr ""
+msgstr "Công nghệ sinh học"
 
 msgid "Civil/Construction"
-msgstr ""
+msgstr "Xây dựng dân dụng"
 
 msgid "Engineering"
-msgstr ""
+msgstr "Kỹ thuật"
 
 msgid "Cleared Jobs"
-msgstr ""
+msgstr "Công việc đã xóa"
 
 msgid "Communications"
-msgstr ""
+msgstr "Truyền thông"
 
 msgid "Construction"
-msgstr ""
+msgstr "Xây dựng"
 
 msgid "Consultant/Contractual"
-msgstr ""
+msgstr "Tư vấn/Hợp đồng"
 
 msgid "Customer Service"
-msgstr ""
+msgstr "Dịch vụ khách hàng"
 
 msgid "Defense"
-msgstr ""
+msgstr "Quốc phòng"
 
 msgid "Design"
-msgstr ""
+msgstr "Thiết kế"
 
 msgid "Electrical Engineering"
-msgstr ""
+msgstr "Kỹ thuật điện"
 
 msgid "Electronics Engineering"
-msgstr ""
+msgstr "Kỹ thuật điện tử"
 
 msgid "Energy"
-msgstr ""
+msgstr "Năng lượng"
 
 msgid "Environmental/Safety"
-msgstr ""
+msgstr "Môi trường/An toàn"
 
 msgid "Fundraising"
-msgstr ""
+msgstr "Gây quỹ"
 
 msgid "Health/Medicine"
-msgstr ""
+msgstr "Y tế/Thuốc"
 
 msgid "Homeland Security"
-msgstr ""
+msgstr "An ninh nội địa"
 
 msgid "Human Resources"
-msgstr ""
+msgstr "Nhân sự"
 
 msgid "Insurance"
-msgstr ""
+msgstr "Bảo hiểm"
 
 msgid "Intelligence Jobs"
-msgstr ""
+msgstr "Công việc tình báo"
 
 msgid "Internships/Trainees"
-msgstr ""
+msgstr "Thực tập sinh"
 
 msgid "Legal"
-msgstr ""
+msgstr "Pháp lý"
 
 msgid "Logistics/Transportation"
-msgstr ""
+msgstr "Hậu cần/Vận tải"
 
 msgid "Maintenance"
-msgstr ""
+msgstr "Bảo trì"
 
 msgid "Management"
-msgstr ""
+msgstr "Quản lý"
 
 msgid "Manufacturing/Warehouse"
-msgstr ""
+msgstr "Sản xuất/Kho hàng"
 
 msgid "Marketing"
-msgstr ""
+msgstr "Tiếp thị"
 
 msgid "Materials Management"
-msgstr ""
+msgstr "Quản lý vật liệu"
 
 msgid "Mechanical Engineering"
-msgstr ""
+msgstr "Kỹ thuật cơ khí"
 
 msgid "Mortgage/Real Estate"
-msgstr ""
+msgstr "Thế chấp/Bất động sản"
 
 msgid "National Security"
-msgstr ""
+msgstr "An ninh quốc gia"
 
 msgid "Part-time/Freelance"
-msgstr ""
+msgstr "Bán thời gian/Tự do"
 
 msgid "Printing"
-msgstr ""
+msgstr "In ấn"
 
 msgid "Product Design"
-msgstr ""
+msgstr "Thiết kế sản phẩm"
 
 msgid "Public Relations"
-msgstr ""
+msgstr "Quan hệ công chúng"
 
 msgid "Public Safety"
-msgstr ""
+msgstr "An toàn công cộng"
 
 msgid "Research"
-msgstr ""
+msgstr "Nghiên cứu"
 
 msgid "Retail"
-msgstr ""
+msgstr "Bán lẻ"
 
 msgid "Sales"
-msgstr ""
+msgstr "Bán hàng"
 
 msgid "Scientific"
-msgstr ""
+msgstr "Khoa học"
 
 msgid "Shipping/Distribution"
-msgstr ""
+msgstr "Vận chuyển/Phân phối"
 
 msgid "Technicians"
-msgstr ""
+msgstr "Kỹ thuật viên"
 
 msgid "Trades"
-msgstr ""
+msgstr "Thương mại"
 
 msgid "Transportation"
-msgstr ""
+msgstr "Vận tải"
 
 msgid "Transportation Engineering"
-msgstr ""
+msgstr "Kỹ thuật vận tải"
 
 msgid "Web Site Development"
-msgstr ""
+msgstr "Phát triển trang web"
 
 msgid "Cast Accounting"
-msgstr ""
+msgstr "Kế toán đúc"
 
 msgid "Controllership & Accounting Managment"
-msgstr ""
+msgstr "Kiểm soát & Quản lý kế toán"
 
 msgid "Payroll"
-msgstr ""
+msgstr "Bảng lương"
 
 msgid "Corporate Finance"
-msgstr ""
+msgstr "Tài chính doanh nghiệp"
 
 msgid "Administrative Division"
-msgstr ""
+msgstr "Bộ phận hành chính"
 
 msgid "Autonomous Territories"
-msgstr ""
+msgstr "Lãnh thổ tự trị"
 
 msgid "Administrative County"
-msgstr ""
+msgstr "Hạt hành chính"
 
 msgid "Administrative Communes"
-msgstr ""
+msgstr "Xã hành chính"
 
 msgid "Finance Advertising"
-msgstr ""
+msgstr "Quảng cáo tài chính"
 
 msgid "Advertising-Tourism"
-msgstr ""
+msgstr "Quảng cáo-Du lịch"
 
 msgid "Advertising Social Net"
-msgstr ""
+msgstr "Quảng cáo mạng xã hội"
 
 msgid "Distributor Marketing"
-msgstr ""
+msgstr "Tiếp thị phân phối"
 
 msgid "Facebook Advertising"
-msgstr ""
+msgstr "Quảng cáo Facebook"
 
 msgid "Quality Engineer"
-msgstr ""
+msgstr "Kỹ sư chất lượng"
 
 msgid "Office Assistant"
-msgstr ""
+msgstr "Trợ lý văn phòng"
 
 msgid "Air Host/hostess"
-msgstr ""
+msgstr "Tiếp viên hàng không"
 
 msgid "Ticketing/reservation"
-msgstr ""
+msgstr "Đặt vé/đặt chỗ"
 
 msgid "Architectural Drafting"
-msgstr ""
+msgstr "Bản vẽ kiến trúc"
 
 msgid "Enterprize Architecture"
-msgstr ""
+msgstr "Kiến trúc doanh nghiệp"
 
 msgid "Architecture Frameworks"
-msgstr ""
+msgstr "Khung kiến trúc"
 
 msgid "Automotive Design"
-msgstr ""
+msgstr "Thiết kế ô tô"
 
 msgid "Autmotive Paints"
-msgstr ""
+msgstr "Sơn ô tô"
 
 msgid "Automotive Equipment/Parts"
-msgstr ""
+msgstr "Thiết bị/Phụ tùng ô tô"
 
 msgid "Automotive Search Engine"
-msgstr ""
+msgstr "Công cụ tìm kiếm ô tô"
 
 msgid "Private Banking"
-msgstr ""
+msgstr "Ngân hàng tư nhân"
 
 msgid "Stock Brocker"
-msgstr ""
+msgstr "Môi giới chứng khoán"
 
 msgid "Fractional-reserve Banking"
-msgstr ""
+msgstr "Ngân hàng dự trữ phân đoạn"
 
 msgid "Mobile Banking"
-msgstr ""
+msgstr "Ngân hàng di động"
 
 msgid "Plant Biotechnology"
-msgstr ""
+msgstr "Công nghệ sinh học thực vật"
 
 msgid "Animal Biotechnology"
-msgstr ""
+msgstr "Công nghệ sinh học động vật"
 
 msgid "Biotechnology & Medicine"
-msgstr ""
+msgstr "Công nghệ sinh học & Y học"
 
 msgid "Biotechnology & Society"
-msgstr ""
+msgstr "Công nghệ sinh học & Xã hội"
 
 msgid "Industrail & Microbial Biotechnonogy"
-msgstr ""
+msgstr "Công nghệ sinh học công nghiệp & Vi sinh"
 
 msgid "Construction (Design & Managment)"
-msgstr ""
+msgstr "Xây dựng (Thiết kế & Quản lý)"
 
 msgid "Construction Engineering"
-msgstr ""
+msgstr "Kỹ thuật xây dựng"
 
 msgid "Composite Construction"
-msgstr ""
+msgstr "Xây dựng tổng hợp"
 
 msgid "Civil Engineering"
-msgstr ""
+msgstr "Kỹ thuật dân dụng"
 
 msgid "Software Engineering"
-msgstr ""
+msgstr "Kỹ thuật phần mềm"
 
 msgid "Nuclear Engineering"
-msgstr ""
+msgstr "Kỹ thuật hạt nhân"
 
 msgid "Ocean Engingeering"
-msgstr ""
+msgstr "Kỹ thuật đại dương"
 
 msgid "Transpotation Engineering"
-msgstr ""
+msgstr "Kỹ thuật vận tải"
 
 msgid "Security Cleared Jobs"
-msgstr ""
+msgstr "Công việc đã được kiểm tra an ninh"
 
 msgid "Security Cleared IT Jobs"
-msgstr ""
+msgstr "Công việc IT đã được kiểm tra an ninh"
 
 msgid "Confidential & Secret Security Clearance Job"
-msgstr ""
+msgstr "Công việc kiểm tra an ninh bí mật & tối mật"
 
 msgid "Verbal"
-msgstr ""
+msgstr "Miệng"
 
 msgid "E-mail"
-msgstr ""
+msgstr "Email"
 
 msgid "Non-verbal"
-msgstr ""
+msgstr "Phi ngôn ngữ"
 
 msgid "Computer Consulting Services"
-msgstr ""
+msgstr "Dịch vụ tư vấn máy tính"
 
 msgid "Computer Installations Services"
-msgstr ""
+msgstr "Dịch vụ cài đặt máy tính"
 
 msgid "Software Vendors"
-msgstr ""
+msgstr "Nhà cung cấp phần mềm"
 
 msgid "Renovaiton"
 msgstr ""
