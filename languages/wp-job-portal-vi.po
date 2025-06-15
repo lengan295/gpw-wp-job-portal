@@ -3524,7 +3524,7 @@ msgid "My Company"
 msgstr "Công ty của tôi"
 
 msgid "Recent Application's"
-msgstr "Ứng dụng gần đây"
+msgstr "Ứng cử viên gần đây"
 
 msgid "User image"
 msgstr "Hình ảnh người dùng"
