@@ -163,44 +163,45 @@ function wpjobportal_registration_save($user_id) {
 
 // ------------------- wpjobportal registrationFrom request handler--------
 // register a new user
-function wpjobportal_add_new_member() {
-    $wpjobportal_user_login  = WPJOBPORTALrequest::getVar('wpjobportal_user_login','post','');
-    $wpjobportal_jobs_register_nonce  = WPJOBPORTALrequest::getVar('wpjobportal_jobs_register_nonce','post','');
+function wpjobportal_add_new_member()
+{
+    $wpjobportal_user_login = WPJOBPORTALrequest::getVar('wpjobportal_user_login', 'post', '');
+    $wpjobportal_jobs_register_nonce = WPJOBPORTALrequest::getVar('wpjobportal_jobs_register_nonce', 'post', '');
     if ($wpjobportal_user_login != '' && $wpjobportal_jobs_register_nonce != '' && wp_verify_nonce($wpjobportal_jobs_register_nonce, 'wpjobportal-jobs-register-nonce')) {
         $user_login = sanitize_user(WPJOBPORTALrequest::getVar("wpjobportal_user_login"));
         $user_email = sanitize_email(WPJOBPORTALrequest::getVar('wpjobportal_user_email'));
         $user_first = sanitize_text_field(WPJOBPORTALrequest::getVar("wpjobportal_user_first"));
         $user_last = sanitize_text_field(WPJOBPORTALrequest::getVar("wpjobportal_user_last"));
-        $user_pass = wpjobportal::wpjobportal_sanitizeData(WPJOBPORTALrequest::getVar("wpjobportal_user_pass") );
+        $user_pass = wpjobportal::wpjobportal_sanitizeData(WPJOBPORTALrequest::getVar("wpjobportal_user_pass"));
         $photo = sanitize_file_name($_FILES['photo']['name']);
-        $pass_confirm = wpjobportal::wpjobportal_sanitizeData(WPJOBPORTALrequest::getVar("wpjobportal_user_pass_confirm") );
+        $pass_confirm = wpjobportal::wpjobportal_sanitizeData(WPJOBPORTALrequest::getVar("wpjobportal_user_pass_confirm"));
 
         // this is required for username checks
 
         $fieldslist = wpjobportal::$_wpjpfieldordering->getFieldsOrderingforForm(4);
         if ($user_login == '' && $fieldslist['wpjobportal_user_login']->required == 1) {
             // empty username
-            wpjobportal_errors()->add('username_empty', esc_html(wpjobportal::wpjobportal_getVariableValue('Please enter a '.$fieldslist['wpjobportal_user_login']->fieldtitle)));
+            wpjobportal_errors()->add('username_empty', esc_html(wpjobportal::wpjobportal_getVariableValue('Please enter a ' . $fieldslist['wpjobportal_user_login']->fieldtitle)));
         } elseif ($user_login == '' && $fieldslist['wpjobportal_user_login']->required == 0) {
             $user_login = $user_email;
         }
         if (username_exists($user_login)) {
             // Username already registered
-            wpjobportal_errors()->add('username_unavailable', wpjobportal::wpjobportal_getVariableValue($fieldslist['wpjobportal_user_login']->fieldtitle).' already taken');
+            wpjobportal_errors()->add('username_unavailable', wpjobportal::wpjobportal_getVariableValue($fieldslist['wpjobportal_user_login']->fieldtitle) . ' already taken');
         }
         if (!validate_username($user_login)) {
             // invalid username
-            wpjobportal_errors()->add('username_invalid', esc_html(wpjobportal::wpjobportal_getVariableValue('Invalid '.$fieldslist['wpjobportal_user_login']->fieldtitle)));
+            wpjobportal_errors()->add('username_invalid', esc_html(wpjobportal::wpjobportal_getVariableValue('Invalid ' . $fieldslist['wpjobportal_user_login']->fieldtitle)));
         }
 
-        if ($user_first == ''  && $fieldslist['wpjobportal_user_first']->required == 1) {
+        if ($user_first == '' && $fieldslist['wpjobportal_user_first']->required == 1) {
             // empty first name
-            wpjobportal_errors()->add('firstname_empty', esc_html(wpjobportal::wpjobportal_getVariableValue('Please enter a '.$fieldslist['wpjobportal_user_first']->fieldtitle)));
+            wpjobportal_errors()->add('firstname_empty', esc_html(wpjobportal::wpjobportal_getVariableValue('Please enter a ' . $fieldslist['wpjobportal_user_first']->fieldtitle)));
         }
 
-        if ($user_last == ''  && $fieldslist['wpjobportal_user_last']->required == 1) {
+        if ($user_last == '' && $fieldslist['wpjobportal_user_last']->required == 1) {
             // empty last name
-            wpjobportal_errors()->add('lastname_empty', esc_html(wpjobportal::wpjobportal_getVariableValue('Please enter a '.$fieldslist['wpjobportal_user_last']->fieldtitle)));
+            wpjobportal_errors()->add('lastname_empty', esc_html(wpjobportal::wpjobportal_getVariableValue('Please enter a ' . $fieldslist['wpjobportal_user_last']->fieldtitle)));
         }
         // should not be required
         // if ($photo == ''  && isset($fieldslist['photo']) && $fieldslist['photo']->required == 1) {
@@ -209,11 +210,11 @@ function wpjobportal_add_new_member() {
         // }
         if (!is_email($user_email)) {
             //invalid email
-            wpjobportal_errors()->add('email_invalid', esc_html(wpjobportal::wpjobportal_getVariableValue('Invalid '.$fieldslist['wpjobportal_user_email']->fieldtitle)));
+            wpjobportal_errors()->add('email_invalid', esc_html(wpjobportal::wpjobportal_getVariableValue('Invalid ' . $fieldslist['wpjobportal_user_email']->fieldtitle)));
         }
         if (email_exists($user_email)) {
             //Email address already registered
-            wpjobportal_errors()->add('email_used', wpjobportal::wpjobportal_getVariableValue($fieldslist['wpjobportal_user_email']->fieldtitle.' already registered'));
+            wpjobportal_errors()->add('email_used', wpjobportal::wpjobportal_getVariableValue($fieldslist['wpjobportal_user_email']->fieldtitle . ' already registered'));
         }
         if ($user_pass == '') {
             // passwords do not match
@@ -224,14 +225,14 @@ function wpjobportal_add_new_member() {
             wpjobportal_errors()->add('password_mismatch', esc_html(__('Passwords do not match', 'wp-job-portal')));
         }
 
-        foreach ($fieldslist AS $field) {
-            if($field->isuserfield == 1 && $field->required == 1) {
-                $field_value = WPJOBPORTALrequest::getVar($field->field,'post','');
+        foreach ($fieldslist as $field) {
+            if ($field->isuserfield == 1 && $field->required == 1) {
+                $field_value = WPJOBPORTALrequest::getVar($field->field, 'post', '');
                 if ($field_value != '') {
                     $cf_data = $field_value;
                 }
                 if (empty($cf_data)) {
-                    wpjobportal_errors()->add($field->fieldtitle.'_empty', esc_html(wpjobportal::wpjobportal_getVariableValue('Please enter a '.$field->fieldtitle)));
+                    wpjobportal_errors()->add($field->fieldtitle . '_empty', esc_html(wpjobportal::wpjobportal_getVariableValue('Please enter a ' . $field->fieldtitle)));
                 }
             }
         }
@@ -240,9 +241,9 @@ function wpjobportal_add_new_member() {
         if ($config_array['cap_on_reg_form'] == 1) {
             if ($config_array['captcha_selection'] == 1) { // Google recaptcha
 
-                $gresponse = wpjobportal::wpjobportal_sanitizeData(WPJOBPORTALrequest::getVar('g-recaptcha-response','post'));
-                $resp = googleRecaptchaHTTPPost($config_array['recaptcha_privatekey'] , $gresponse);
-                if (! $resp) {
+                $gresponse = wpjobportal::wpjobportal_sanitizeData(WPJOBPORTALrequest::getVar('g-recaptcha-response', 'post'));
+                $resp = googleRecaptchaHTTPPost($config_array['recaptcha_privatekey'], $gresponse);
+                if (!$resp) {
                     wpjobportal_errors()->add('invalid_captcha', esc_html(__('Invalid captcha', 'wp-job-portal')));
                 }
             } else { // own captcha
@@ -259,24 +260,24 @@ function wpjobportal_add_new_member() {
         // only create the user in if there are no errors
         if (empty($errors)) {
 
-            $wperrors = register_new_user(  $user_login,  $user_email );
+            $wperrors = register_new_user($user_login, $user_email);
             $new_user_id = "";
             if (!is_wp_error($wperrors)) {
                 $new_user_id = $wperrors;
-                if ( $user_first && $user_last ) {
-                    $display_name = wpjobportal::wpjobportal_getVariableValue( $user_first.' '.$user_last);
-                } elseif ( $user_first ) {
+                if ($user_first && $user_last) {
+                    $display_name = wpjobportal::wpjobportal_getVariableValue($user_first . ' ' . $user_last);
+                } elseif ($user_first) {
                     $display_name = $user_first;
-                } elseif ( $user_last ) {
+                } elseif ($user_last) {
                     $display_name = $user_last;
                 } else {
                     $display_name = $user_login;
                 }
                 //update_user_option( $new_user_id, 'default_password_nag', false, true );
-                wp_set_password( $user_pass, $new_user_id );
-                update_user_option( $new_user_id, 'first_name', $user_first, true );
-                update_user_option( $new_user_id, 'last_name', $user_last, true );
-                wp_update_user( array ('ID' => $new_user_id,  'display_name' => $display_name) ) ;
+                wp_set_password($user_pass, $new_user_id);
+                update_user_option($new_user_id, 'first_name', $user_first, true);
+                update_user_option($new_user_id, 'last_name', $user_last, true);
+                wp_update_user(array('ID' => $new_user_id, 'display_name' => $display_name));
             } else {
                 wpjobportal_errors()->add('email_invalid', $wperrors->get_error_message());
             }
@@ -288,7 +289,7 @@ function wpjobportal_add_new_member() {
                 wp_set_auth_cookie($new_user_id);
                 //do_action('wp_login', $user_login);
 
-                $role = wpjobportal::wpjobportal_sanitizeData(WPJOBPORTALrequest::getVar('jobs_role') );
+                $role = wpjobportal::wpjobportal_sanitizeData(WPJOBPORTALrequest::getVar('jobs_role'));
 
                 if (is_numeric($role)) {
                     if ($role == 1) {
@@ -308,77 +309,77 @@ function wpjobportal_add_new_member() {
                 $msguserrole = $userrole;
                 if ($userrole == 'employer') {
                     $userrole = 1;
-                    $url = wpjobportal::wpjobportal_makeUrl(array('wpjobportalme'=>'employer', 'wpjobportallt'=>'controlpanel',"wpjobportalpageid"=>wpjobportal::wpjobportal_getPageid()));
+                    $url = wpjobportal::wpjobportal_makeUrl(array('wpjobportalme' => 'employer', 'wpjobportallt' => 'controlpanel', "wpjobportalpageid" => wpjobportal::wpjobportal_getPageid()));
 
                 } elseif ($userrole == 'jobseeker') {
                     $userrole = 2;
-                    $url = wpjobportal::wpjobportal_makeUrl(array('wpjobportalme'=>'jobseeker', 'wpjobportallt'=>'controlpanel',"wpjobportalpageid"=>wpjobportal::wpjobportal_getPageid()));
+                    $url = wpjobportal::wpjobportal_makeUrl(array('wpjobportalme' => 'jobseeker', 'wpjobportallt' => 'controlpanel', "wpjobportalpageid" => wpjobportal::wpjobportal_getPageid()));
                 }
-                    $row = WPJOBPORTALincluder::getJSTable('users');
-                    $data['uid'] = $new_user_id;
-                    $data['roleid'] = $userrole;
-                    $data['first_name'] = $user_first;
-                    $data['last_name'] = $user_last;
-                    $data['emailaddress'] = $user_email;
-                    $data['photo'] = $photo;
-                    $data['status'] = 1;
-                    $data['created'] = date_i18n('Y-m-d H:i:s');
-                    $data = wpjobportal::wpjobportal_sanitizeData($data);
-                    $key = WPJOBPORTALincluder::getJSModel($msguserrole)->getMessagekey();
-                    if (!$row->bind($data)) {
-                        WPJOBPORTALMessages::setLayoutMessage(esc_html(__('Error Updating User', 'wp-job-portal')), 'error',$key);
-                    }
-                    if (!$row->store()) {
-                        WPJOBPORTALMessages::setLayoutMessage(esc_html(__('Error Updating User', 'wp-job-portal')), 'error',$key);
-                    }else{
-                        $data = WPJOBPORTALrequest::get('post');
-                        WPJOBPORTALincluder::getObjectClass('customfields')->storeCustomFields(4,$row->id,$data);
-                    }
-                    ////Store Image In Folder Of jobeeseker
-                    if (isset($_FILES['photo']['size']) && $_FILES['photo']['size'] > 0) {
-                        $objectid = $row->uid;
-                        uploadPhoto($objectid);
-                    }
-                    //Auto Assign User Package's
-                    do_action('wpjobportal_addons_credit_auto_asign_pkg',$row);
+                $row = WPJOBPORTALincluder::getJSTable('users');
+                $data['uid'] = $new_user_id;
+                $data['roleid'] = $userrole;
+                $data['first_name'] = $user_first;
+                $data['last_name'] = $user_last;
+                $data['emailaddress'] = $user_email;
+                $data['photo'] = $photo;
+                $data['status'] = 1;
+                $data['created'] = date_i18n('Y-m-d H:i:s');
+                $data = wpjobportal::wpjobportal_sanitizeData($data);
+                $key = WPJOBPORTALincluder::getJSModel($msguserrole)->getMessagekey();
+                if (!$row->bind($data)) {
+                    WPJOBPORTALMessages::setLayoutMessage(esc_html(__('Error Updating User', 'wp-job-portal')), 'error', $key);
+                }
+                if (!$row->store()) {
+                    WPJOBPORTALMessages::setLayoutMessage(esc_html(__('Error Updating User', 'wp-job-portal')), 'error', $key);
+                } else {
+                    $data = WPJOBPORTALrequest::get('post');
+                    WPJOBPORTALincluder::getObjectClass('customfields')->storeCustomFields(4, $row->id, $data);
+                }
+                ////Store Image In Folder Of jobeeseker
+                if (isset($_FILES['photo']['size']) && $_FILES['photo']['size'] > 0) {
+                    $objectid = $row->uid;
+                    uploadPhoto($objectid);
+                }
+                //Auto Assign User Package's
+                do_action('wpjobportal_addons_credit_auto_asign_pkg', $row);
 
-                    WPJOBPORTALincluder::getJSModel('emailtemplate')->sendMail(6,$userrole,$row->id); // 6 for regesitration $role for role jobseeker and employer
-                    $nickname = $user_first . ' ' . $user_last;
+                WPJOBPORTALincluder::getJSModel('emailtemplate')->sendMail(6, $userrole, $row->id); // 6 for regesitration $role for role jobseeker and employer
+                $nickname = $user_first . ' ' . $user_last;
 
+                $pageid = wpjobportal::$_config->getConfigurationByConfigName('register_jobseeker_redirect_page');
+
+                if ($userrole == 1) {
+                    $pageid = wpjobportal::$_config->getConfigurationByConfigName('register_employer_redirect_page');
+                } elseif ($userrole == 2) {
                     $pageid = wpjobportal::$_config->getConfigurationByConfigName('register_jobseeker_redirect_page');
-
-                    if($userrole == 1){
-                        $pageid = wpjobportal::$_config->getConfigurationByConfigName('register_employer_redirect_page');
-                    }elseif($userrole == 2){
-                        $pageid = wpjobportal::$_config->getConfigurationByConfigName('register_jobseeker_redirect_page');
+                }
+                WPJOBPORTALMessages::setLayoutMessage(esc_html(__('User has been successfully created', 'wp-job-portal')), 'updated', $key);
+                // $url = home_url();
+                if (is_numeric($pageid) && $pageid > 0) {
+                    if (get_post_status($pageid) == 'publish') {
+                        if ($userrole == 1) {
+                            $setRegisterLinkEmploye = wpjobportal::$_config->getConfigurationByConfigName('employe_set_register_link');
+                            $customeRegisterLinkForEmploye = wpjobportal::$_config->getConfigurationByConfigName('employe_register_link');
+                            if ($setRegisterLinkEmploye == 2) {
+                                wp_redirect(esc_url($customeRegisterLinkForEmploye));// to handle the case of invalid url showing error,
+                                exit;
+                            } else {
+                                $url = get_the_permalink($pageid);
+                            }
+                        } elseif ($userrole == 2) {
+                            $setRegisterLinkJobSeeker = wpjobportal::$_config->getConfigurationByConfigName('jobseeker_set_register_link');
+                            $customeRegisterLinkForJobSeeker = wpjobportal::$_config->getConfigurationByConfigName('jobseeker_register_link');
+                            if ($setRegisterLinkJobSeeker == 2) {
+                                wp_redirect(esc_url($customeRegisterLinkForJobSeeker));// to handle the case of invalid url showing error,
+                                exit;
+                            } else {
+                                $url = get_the_permalink($pageid);
+                            }
+                        }
                     }
-                    WPJOBPORTALMessages::setLayoutMessage(esc_html(__('User has been successfully created', 'wp-job-portal')), 'updated',$key);
-                    // $url = home_url();
-                    if(is_numeric($pageid) && $pageid > 0){
-                           if(get_post_status($pageid) == 'publish'){
-                               if($userrole == 1){
-								   $setRegisterLinkEmploye= wpjobportal::$_config->getConfigurationByConfigName('employe_set_register_link');
-								   $customeRegisterLinkForEmploye= wpjobportal::$_config->getConfigurationByConfigName('employe_register_link');
-								   if($setRegisterLinkEmploye == 2){
-									   wp_redirect(esc_url($customeRegisterLinkForEmploye));// to handle the case of invalid url showing error,
-									   exit;
-								   }else{
-									$url = get_the_permalink($pageid);
-								   }
-							   }elseif($userrole == 2){
-								   $setRegisterLinkJobSeeker= wpjobportal::$_config->getConfigurationByConfigName('jobseeker_set_register_link');
-								   $customeRegisterLinkForJobSeeker= wpjobportal::$_config->getConfigurationByConfigName('jobseeker_register_link');
-								   if($setRegisterLinkJobSeeker == 2){
-									  wp_redirect(esc_url($customeRegisterLinkForJobSeeker));// to handle the case of invalid url showing error,
-									  exit;
-								   }else{
-									$url = get_the_permalink($pageid);
-								   }
-							   }
-                         }
-                     }
-                    wp_redirect($url);
-                    exit;
+                }
+                wp_redirect($url);
+                exit;
 
 
             }
