@@ -324,6 +324,7 @@ function wpjobportal_add_new_member()
                 } else {
                     $data = WPJOBPORTALrequest::get('post');
                     WPJOBPORTALincluder::getObjectClass('customfields')->storeCustomFields(4, $row->id, $data);
+                    do_action('wpjobportal_user_register', $row);
                 }
                 ////Store Image In Folder Of jobeeseker
                 if (isset($_FILES['photo']['size']) && $_FILES['photo']['size'] > 0) {
