@@ -414,7 +414,7 @@ class WPJOBPORTALCompanyModel {
 
         //making sure uid is not changed
         // admin can edit other employers companies
-        if(!wpjobportal::$_common->wpjp_isadmin()){
+        if(!wpjobportal::$_common->wpjp_isadmin() && empty($data['employer_registration'])){
             $data['uid'] = $cuser->uid();
         }
 
@@ -423,7 +423,9 @@ class WPJOBPORTALCompanyModel {
                 $data['created'] = current_time('mysql');
                 $submissionType = wpjobportal::$_config->getConfigValue('submission_type');
                 if(!wpjobportal::$_common->wpjp_isadmin()){
-                    $data['uid'] = $cuser->uid();
+                    if (empty($data['employer_registration'])) {
+                        $data['uid'] = $cuser->uid();
+                    }
                     if(in_array('credits', wpjobportal::$_active_addons)){
                         # prepare data + credits
                         if($submissionType == 1){
@@ -527,7 +529,7 @@ class WPJOBPORTALCompanyModel {
             if($isnew && $submissionType == 3){
                 $trans = WPJOBPORTALincluder::getJSTable('transactionlog');
                 $arr = array();
-                if (!wpjobportal::$_common->wpjp_isadmin()) {
+                if (!wpjobportal::$_common->wpjp_isadmin() && empty($data['employer_registration'])) {
                     $arr['uid'] = $cuser->uid();
                 }elseif (wpjobportal::$_common->wpjp_isadmin()) {
                     $arr['uid'] = $data['uid'];

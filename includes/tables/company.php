@@ -17,6 +17,9 @@ class WPJOBPORTALCompanyTable extends WPJOBPORTALtable {
     public $smalllogoisfile = '';
     public $smalllogo = '';
     public $contactemail = '';
+    public $contact_name = '';
+    public $contact_phone = '';
+    public $tax_code = '';
     public $description = '';
     public $city = '';
     public $address1 = '';

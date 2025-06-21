@@ -157,6 +157,7 @@ class WPJOBPORTALactivation {
                 `id` int(11) NOT NULL AUTO_INCREMENT,
                 `uid` int(11) DEFAULT NULL,
                 `name` varchar(255) NOT NULL DEFAULT '',
+                `tax_code` varchar(50) DEFAULT NULL,
                 `alias` varchar(255) NOT NULL,
                 `url` varchar(255) DEFAULT NULL,
                 `logofilename` varchar(255) DEFAULT NULL,
@@ -167,6 +168,8 @@ class WPJOBPORTALactivation {
                 `smalllogo` tinyblob,
                 `tagline` varchar(255) NOT NULL DEFAULT '',
                 `contactemail` varchar(255) NOT NULL DEFAULT '',
+                `contact_name` varchar(255) DEFAULT NULL,
+                `contact_phone` varchar(50) DEFAULT NULL,
                 `description` text,
                 `city` varchar(255) DEFAULT NULL,
                 `address1` varchar(255) DEFAULT NULL,
@@ -196,7 +199,8 @@ class WPJOBPORTALactivation {
                 PRIMARY KEY (`id`),
                 KEY `companies_uid` (`uid`)
               ) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;";
-            wpjobportal::$_db->query($query);
+            require_once(ABSPATH . 'wp-admin/includes/upgrade.php');
+            dbDelta($query);
 
 
             $query = "CREATE TABLE IF NOT EXISTS `" . wpjobportal::$_db->prefix . "wj_portal_companycities` (
