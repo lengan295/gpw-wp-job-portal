@@ -47,6 +47,15 @@ foreach($fields AS $field){
         case 'url':
             $content = WPJOBPORTALformfield::text($inputprefix.$startNod.'url'.$endnote, isset($company->url) ? $company->url : '',array('data-validation' => $field->validation,'placeholder' => wpjobportal::wpjobportal_getVariableValue($field->placeholder),'class' => 'inputbox wjportal-form-input-field'));
         break;
+        case 'tax_code':
+            $content = WPJOBPORTALformfield::text($inputprefix.$startNod.'tax_code'.$endnote, isset($company->tax_code) ? $company->tax_code : '',array('data-validation' => $field->validation,'placeholder' => wpjobportal::wpjobportal_getVariableValue($field->placeholder),'class' => 'inputbox wjportal-form-input-field'));
+        break;
+        case 'contact_name':
+            $content = WPJOBPORTALformfield::text($inputprefix.$startNod.'contact_name'.$endnote, isset($company->contact_name) ? $company->contact_name : '',array('data-validation' => $field->validation,'placeholder' => wpjobportal::wpjobportal_getVariableValue($field->placeholder),'class' => 'inputbox wjportal-form-input-field'));
+        break;
+        case 'contact_phone':
+            $content = WPJOBPORTALformfield::text($inputprefix.$startNod.'contact_phone'.$endnote, isset($company->contact_phone) ? $company->contact_phone : '',array('data-validation' => $field->validation,'placeholder' => wpjobportal::wpjobportal_getVariableValue($field->placeholder),'class' => 'inputbox wjportal-form-input-field'));
+        break;
         case 'description':
         	$content = WPJOBPORTALformfield::editor($inputprefix.$sys.'description', isset($company->description) ? $company->description : '',array('class' => 'wjportal-form-textarea-field'));
         break;
