@@ -1827,10 +1827,600 @@ class WPJOBPORTALwpjobportalwidgetsModel {
             wp_add_inline_script( 'wpjobportal-inline-handle', $inline_js_script );
         return $html;
     }
+
     function getMessagekey(){
         $key = 'wpjobportalwidgets';if(wpjobportal::$_common->wpjp_isadmin()){$key = 'admin_'.$key;}return $key;
     }
 
+    function wpjobportalRenderJobsTemplate($jobs, $layout = 'list', $num_of_columns = 1, $show_title = true, $show_company = true, $show_location = true, $show_jobtype = true, $show_salary = true, $show_stoppublishing = true, $show_careerlevel = true, $show_posted = true, $show_category = true, $show_logo = true, $logo_width = 80, $logo_height = 80, $labels_for_values = 1, $field_order = array(), $elemntor_call = 0) {
+
+        $html = '';
+
+            if(empty($num_of_columns) || $num_of_columns == 0){
+                $num_of_columns = 1;
+            }
+            $layout_class = 'wpjobportal-layout-' . esc_attr($layout);
+            $column_class = 'wpjobportal-cols-' . intval($num_of_columns);
+
+            $html .= '<div class="wpjobportal-job-widget-multi-style-wrapper ' . esc_attr($layout_class . ' ' . $column_class) . '">';
+
+        $wpdir = wp_upload_dir();
+        $data_directory = wpjobportal::$_config->getConfigurationByConfigName('data_directory');
+        $i = 0;
+
+        $pageid = wpjobportal::wpjobportal_getPageidForWidgets();
+
+        foreach ($jobs as $job) {
+            $job_id = isset($job->jobaliasid) ? $job->jobaliasid : 0;
+            $company_id = isset($job->companyid) ? $job->companyid : 0;
+            $company_url = wpjobportal::wpjobportal_makeUrl(array('wpjobportalme' => 'company', 'wpjobportallt' => 'viewcompany', 'wpjobportalid' => isset($job->companyaliasid) ? $job->companyaliasid : 0, 'wpjobportalpageid' => $pageid));
+            $job_url = wpjobportal::wpjobportal_makeUrl(array('wpjobportalme' => 'job', 'wpjobportallt' => 'viewjob', 'wpjobportalid' => $job_id, 'wpjobportalpageid' => $pageid));
+
+            $logo = WPJOBPORTALincluder::getJSModel('common')->getDefaultImage('employer');
+            if (!empty($job->logofilename)) {
+                $logo = $wpdir['baseurl'] . '/' . $data_directory . '/data/employer/comp_' . $company_id . '/logo/' . $job->logofilename;
+            }
+
+            if ($i % $num_of_columns === 0) {
+                if ($i !== 0) $html .= '</div>';
+                $html .= '<div class="wpjobportal-job-row">';
+            }
+            $i++;
+
+            $html .= $this->wpjobportalRenderSingleJob($job, $layout, $show_title, $show_company, $show_location, $show_jobtype, $show_salary, $show_stoppublishing, $show_careerlevel, $show_posted, $show_category, $show_logo, $logo_width, $logo_height, $labels_for_values, $field_order, $company_url, $job_url, $logo,$elemntor_call);
+        }
+
+        if ($i != 0) {
+            $html .= '</div>';
+        }
+        //if($elemntor_call == 0){
+            $html .= '</div>';
+        //}
+
+        return $html;
+    }
+
+    function wpjobportalRenderSingleJob($job, $layout, $show_title, $show_company, $show_location, $show_jobtype, $show_salary, $show_stoppublishing, $show_careerlevel, $show_posted, $show_category, $show_logo, $logo_width, $logo_height, $labels_for_values, $field_order, $company_url, $job_url, $logo,$elemntor_call) {
+        $html = '<div class="wpjobportal-job-box wpjobportal-floatbox">';
+
+        // Company Logo
+        if ($show_logo) {
+            $html .= '<div class="wpjobportal-job-logo">';
+            $html .= '<a href="' . esc_url($company_url) . '">';
+            $html .= '<img src="' . esc_url($logo) . '" alt="' . esc_attr(isset($job->companyname) ? $job->companyname : '') . '" width="' . esc_attr($logo_width) . '" height="' . esc_attr($logo_height) . '">';
+            $html .= '</a></div>';
+        }
+
+        // Job Details
+        $html .= '<div class="wpjobportal-job-details">';
+
+        if ($show_title && !empty($job->title)) {
+            $html .= '<div class="wpjobportal-job-title">';
+            $html .= '<a href="' . esc_url($job_url) . '">' . esc_html($job->title) . '</a>';
+            $html .= '</div>';
+        }
+
+        if ($show_company && !empty($job->companyname)) {
+            $html .= '<div class="wpjobportal-job-company">';
+            $html .= '<a href="' . esc_url($company_url) . '">' . esc_html($job->companyname) . '</a>';
+            $html .= '</div>';
+        }
+
+        // Meta Info Grouped
+        $meta_class = ($layout === 'list') ? 'wpjobportal-job-meta-row' : 'wpjobportal-job-meta-col';
+        $html .= '<div class="' . esc_attr($meta_class) . '">';
+
+        // Render fields in specified order
+
+        if($elemntor_call == 0){
+            $field_order = array();
+            $field_order[] = 'salary';
+            $field_order[] = 'location';
+            $field_order[] = 'jobtype';
+            $field_order[] = 'job_category';
+            $field_order[] = 'careerlevel';
+            $field_order[] = 'posted';
+            $field_order[] = 'apply_before';
+        }
+
+        foreach ($field_order as $field_key) {
+            $html .= $this->wpjobportalRenderJobField($job, $field_key, $labels_for_values, $show_location, $show_jobtype, $show_salary, $show_stoppublishing, $show_careerlevel, $show_posted, $show_category);
+        }
+
+        $html .= '</div>'; // .wpjobportal-job-meta-*
+        $html .= '</div>'; // .wpjobportal-job-details
+        $html .= '</div>'; // .wpjobportal-job-box
+
+        return $html;
+    }
+
+    function wpjobportalRenderJobField($job, $field_key, $labels_for_values, $show_location, $show_jobtype, $show_salary, $show_stoppublishing, $show_careerlevel, $show_posted, $show_category) {
+        $field_value = '';
+
+        switch ($field_key) {
+            case 'salary':
+                if ($show_salary && !empty($job->salarytype)) {
+                    $salary = wpjobportal::$_common->getSalaryRangeView($job->salarytype, $job->salarymin, $job->salarymax, isset($job->currency) ? $job->currency : '');
+                    if (isset($job->salarytype) && ($job->salarytype == 3 || $job->salarytype == 2)) {
+                        $salary .= ' / ' . esc_html(wpjobportal::wpjobportal_getVariableValue ($job->srangetypetitle));
+                    }
+                    $field_value = $salary;
+                }
+                break;
+
+            case 'location':
+                if ($show_location && !empty($job->location)) {
+                    $field_value = $job->location;
+                }
+                break;
+
+            case 'jobtype':
+                if ($show_jobtype && !empty($job->jobtypetitle)) {
+                    $field_value = $job->jobtypetitle;
+                }
+                break;
+
+            case 'job_category':
+                if ($show_category && !empty($job->cat_title)) {
+                    $field_value = $job->cat_title;
+                }
+                break;
+
+            case 'careerlevel':
+                if ($show_careerlevel && !empty($job->careerleveltitle)) {
+                    $field_value = $job->careerleveltitle;
+                }
+                break;
+
+            case 'posted':
+                if ($show_posted && !empty($job->created)) {
+                    $field_value = human_time_diff(strtotime($job->created), strtotime(date_i18n("Y-m-d H:i:s"))) . ' ' . esc_html(__("Ago", 'wp-job-portal'));
+                }
+                break;
+
+            case 'apply_before':
+                if ($show_stoppublishing && !empty($job->stoppublishing)) {
+                    $dateformat = wpjobportal::$_configuration['date_format'];
+                    $field_value = date_i18n($dateformat, strtotime($job->stoppublishing));
+                }
+                break;
+        }
+
+        if (empty($field_value)) {
+            return '';
+        }
+
+        $html = '<div class="wpjobportal-job-widget-detail-field-data wpjobportal-job-' . esc_attr($field_key) . '">' .
+            $this->wpjobportalRenderFieldLabel($field_key, $labels_for_values) .
+            esc_html($field_value) . '</div>';
+
+        return $html;
+    }
+
+    function wpjobportalRenderFieldLabel($field_key, $labels_for_values) {
+        $icons = array(
+            'salary' => 'fa-money',
+            'location' => 'fa-globe',
+            'jobtype' => 'fa-briefcase',
+            'job_category' => 'fa-folder',
+            'posted' => 'fa-clock-o',
+            'careerlevel' => 'fa-level-up',
+            'stoppublishing' => 'fa-calendar',
+            'apply_before' => 'fa-calendar',
+        );
+
+        if($labels_for_values == 1){ // use text
+            $label = ucfirst(str_replace('_', ' ', $field_key));
+            return esc_html($label) . ': ';
+        }
+        if($labels_for_values == 2){ // use icons
+            if (isset($icons[$field_key])) {
+                return '<i class="fa ' . esc_attr($icons[$field_key]) . '"></i> ';
+            }
+        }
+
+        return '';
+    }
+
+    function wpjobportalRenderResumesWidgets($resumes, $layout = 'list', $num_of_columns = 1, $show_title = true, $show_photo = true, $show_name = true, $show_category = true, $show_jobtype = true, $show_experience = true, $show_available = true, $show_gender = true, $show_nationality = true, $show_location = true, $show_posted = true, $photo_width = 80, $photo_height = 80, $labels_for_values = 1, $field_order = array(), $elemntor_call = 0) {
+        $html = '';
+
+        if(empty($num_of_columns) || $num_of_columns == 0){
+            $num_of_columns = 1;
+        }
+
+        $layout_class = 'wpjobportal-layout-' . esc_attr($layout);
+        $column_class = 'wpjobportal-cols-' . intval($num_of_columns);
+
+        $html .= '<div class="wpjobportal-resume-widget-multi-style-wrapper ' . esc_attr($layout_class . ' ' . $column_class) . '">';
+
+        $wpdir = wp_upload_dir();
+        $data_directory = wpjobportal::$_config->getConfigurationByConfigName('data_directory');
+        $i = 0;
+
+        $pageid = wpjobportal::wpjobportal_getPageidForWidgets();
+
+        foreach ($resumes as $resume) {
+            $resume_id = isset($resume->resumealiasid) ? $resume->resumealiasid : 0;
+            $resume_url = wpjobportal::wpjobportal_makeUrl(array('wpjobportalme' => 'resume', 'wpjobportallt' => 'viewresume', 'wpjobportalid' => $resume_id, 'wpjobportalpageid' => $pageid));
+
+            $photo = WPJOBPORTALincluder::getJSModel('common')->getDefaultImage('jobseeker');
+            if (!empty($resume->photo)) {
+                $photo = $wpdir['baseurl'] . '/' . $data_directory . '/data/jobseeker/resume_' . $resume->resumeid . '/photo/' . $resume->photo;
+            }
+
+            if ($i % $num_of_columns === 0) {
+                if ($i !== 0) $html .= '</div>';
+                $html .= '<div class="wpjobportal-resume-row">';
+            }
+            $i++;
+
+            $html .= $this->wpjobportalRenderSingleResume($resume, $layout, $show_title, $show_photo, $show_name, $show_category, $show_jobtype, $show_experience, $show_available, $show_gender, $show_nationality, $show_location, $show_posted, $photo_width, $photo_height, $labels_for_values, $field_order, $resume_url, $photo, $elemntor_call);
+        }
+
+        if ($i != 0) {
+            $html .= '</div>';
+        }
+
+        $html .= '</div>';
+
+        return $html;
+    }
+
+    function wpjobportalRenderSingleResume($resume, $layout, $show_title, $show_photo, $show_name, $show_category, $show_jobtype, $show_experience, $show_available, $show_gender, $show_nationality, $show_location, $show_posted, $photo_width, $photo_height, $labels_for_values, $field_order, $resume_url, $photo, $elemntor_call) {
+        $html = '<div class="wpjobportal-resume-box wpjobportal-floatbox">';
+
+        // Resume Photo
+        if ($show_photo) {
+            $html .= '<div class="wpjobportal-resume-photo">';
+            $html .= '<a href="' . esc_url($resume_url) . '">';
+            $html .= '<img src="' . esc_url($photo) . '" alt="' . esc_attr(isset($resume->name) ? $resume->name : '') . '" width="' . esc_attr($photo_width) . '" height="' . esc_attr($photo_height) . '">';
+            $html .= '</a></div>';
+        }
+
+        // Resume Details
+        $html .= '<div class="wpjobportal-resume-details">';
+
+        if ($show_name && !empty($resume->name)) {
+            $html .= '<div class="wpjobportal-resume-name">';
+            $html .= '<a href="' . esc_url($resume_url) . '">' . esc_html($resume->name) . '</a>';
+            $html .= '</div>';
+        }
+
+        if ($show_title && !empty($resume->applicationtitle)) {
+            $html .= '<div class="wpjobportal-resume-title">';
+            $html .= '<a href="' . esc_url($resume_url) . '">' . esc_html($resume->applicationtitle) . '</a>';
+            $html .= '</div>';
+        }
+
+        // Meta Info Grouped
+        $meta_class = ($layout === 'list') ? 'wpjobportal-resume-meta-row' : 'wpjobportal-resume-meta-col';
+        $html .= '<div class="' . esc_attr($meta_class) . '">';
+
+        // Render fields in specified order
+        if($elemntor_call == 0){
+            $field_order = array();
+            $field_order[] = 'category';
+            $field_order[] = 'jobtype';
+            $field_order[] = 'experience';
+            $field_order[] = 'location';
+            $field_order[] = 'nationality';
+            $field_order[] = 'gender';
+            $field_order[] = 'available';
+            $field_order[] = 'posted';
+        }
+
+        foreach ($field_order as $field_key) {
+            $html .= $this->wpjobportalRenderResumeFieldsData($resume, $field_key, $labels_for_values, $show_category, $show_jobtype, $show_experience, $show_available, $show_gender, $show_nationality, $show_location, $show_posted);
+        }
+
+        $html .= '</div>'; // .wpjobportal-resume-meta-*
+        $html .= '</div>'; // .wpjobportal-resume-details
+        $html .= '</div>'; // .wpjobportal-resume-box
+
+        return $html;
+    }
+
+    function wpjobportalRenderResumeFieldsData($resume, $field_key, $labels_for_values, $show_category, $show_jobtype, $show_experience, $show_available, $show_gender, $show_nationality, $show_location, $show_posted) {
+        $field_value = '';
+
+        switch ($field_key) {
+            case 'category':
+                if ($show_category && !empty($resume->cat_title)) {
+                    $field_value = $resume->cat_title;
+                }
+                break;
+
+            case 'jobtype':
+                if ($show_jobtype && !empty($resume->jobtypetitle)) {
+                    $field_value = $resume->jobtypetitle;
+                }
+                break;
+
+            // case 'experience':
+            //     if ($show_experience && !empty($resume->experiencetitle)) {
+            //         $field_value = $resume->experiencetitle;
+            //     }
+            //     break;
+
+            case 'location':
+                if ($show_location && !empty($resume->location)) {
+                    $field_value = $resume->location;
+                }
+                break;
+
+            case 'nationality':
+                if ($show_nationality && !empty($resume->nationalityname)) {
+                    $field_value = $resume->nationalityname;
+                }
+                break;
+
+            // case 'gender':
+            //     if ($show_gender && isset($resume->gender)) {
+            //         $field_value = ($resume->gender == 1) ? esc_html(__('Male', 'wp-job-portal')) : esc_html(__('Female', 'wp-job-portal'));
+            //     }
+            //     break;
+
+            // case 'available':
+            //     if ($show_available && isset($resume->available)) {
+            //         $field_value = ($resume->available == 1) ? esc_html(__('Yes', 'wp-job-portal')) : esc_html(__('No', 'wp-job-portal'));
+            //     }
+            //     break;
+
+            case 'posted':
+                if ($show_posted && !empty($resume->created)) {
+                    $field_value = human_time_diff(strtotime($resume->created), strtotime(date_i18n("Y-m-d H:i:s"))) . ' ' . esc_html(__("Ago", 'wp-job-portal'));
+                }
+                break;
+        }
+
+        if (empty($field_value)) {
+            return '';
+        }
+
+        $html = '<div class="wpjobportal-resume-widget-detail-field-data wpjobportal-resume-' . esc_attr($field_key) . '">' .
+            $this->wpjobportalRenderResumeFieldLabel($field_key, $labels_for_values) .
+            esc_html($field_value) . '</div>';
+
+        return $html;
+    }
+
+    function wpjobportalRenderResumeFieldLabel($field_key, $labels_for_values) {
+        $icons = array(
+            'category' => 'fa-folder',
+            'jobtype' => 'fa-briefcase',
+            'experience' => 'fa-line-chart',
+            'location' => 'fa-globe',
+            'nationality' => 'fa-globe',
+            'gender' => 'fa-venus-mars',
+            'available' => 'fa-check-circle',
+            'posted' => 'fa-clock-o'
+        );
+
+        if($labels_for_values == 1){ // use text
+            $label = ucfirst(str_replace('_', ' ', $field_key));
+            return esc_html($label) . ': ';
+        }
+        if($labels_for_values == 2){ // use icons
+            if (isset($icons[$field_key])) {
+                return '<i class="fa ' . esc_attr($icons[$field_key]) . '"></i> ';
+            }
+        }
+
+        return '';
+    }
+
+    // companies widget
+    function wpjobportalRenderCompaniesTemplate($companies, $layout = 'list', $num_of_columns = 1, $show_comapny_name = true, $show_category = true, $show_location = true, $show_posted = true, $show_logo = true, $logo_width = 80, $logo_height = 80, $labels_for_values = 1, $field_order = array()) {
+        $html = '';
+
+        // Set default field order if not provided
+        if(empty($field_order)) {
+            $field_order = array('category', 'location', 'posted');
+        }
+
+        // Module wrapper and title
+        $html .= '<div class="wpjobportal-companies-widget-wrapper">';
+
+        // if($show_module_title && !empty($module_title)) {
+        //     $html .= '<div class="wjportal-mod-heading">'.esc_html($module_title).'</div>';
+        // }
+
+        // List layout
+        if($layout == 'list') {
+            $html .= $this->widgetRenderCompanyList($companies, $show_comapny_name, $show_category, $show_location, $show_posted, $show_logo, $logo_width, $logo_height, $labels_for_values, $field_order);
+        }
+        // Grid/Box layout
+        else {
+            $html .= $this->widgetRenderCompanyGrid($companies, $num_of_columns, $show_comapny_name, $show_category, $show_location, $show_posted, $show_logo, $logo_width, $logo_height, $labels_for_values, $field_order);
+        }
+
+        $html .= '</div>'; // End wrapper
+
+        return $html;
+    }
+
+    function widgetRenderCompanyList($companies, $show_comapny_name, $show_category, $show_location, $show_posted, $show_logo, $logo_width, $logo_height, $labels_for_values, $field_order) {
+        $html = '';
+        $wpdir = wp_upload_dir();
+        $data_directory = wpjobportal::$_config->getConfigurationByConfigName('data_directory');
+        $dateformat = wpjobportal::$_configuration['date_format'];
+
+        $pageid = wpjobportal::wpjobportal_getPageidForWidgets();
+
+        // Company rows
+        foreach($companies as $company) {
+            $company_url = wpjobportal::wpjobportal_makeUrl(array('wpjobportalme' => 'company','wpjobportallt' => 'viewcompany','wpjobportalid' => isset($company->companyaliasid) ? $company->companyaliasid : 0,'wpjobportalpageid' => $pageid ));
+
+            $logo = WPJOBPORTALincluder::getJSModel('common')->getDefaultImage('employer');
+            if (!empty($company->logofilename)) {
+                $logo = $wpdir['baseurl'] . '/' . $data_directory . '/data/employer/comp_' . $company->id . '/logo/' . $company->logofilename;
+            }
+
+            $html .= '<div class="wpjobportal-companies-list-row">';
+
+            // Logo
+            if($show_logo) {
+                $html .= '<div class="wpjobportal-companies-list-col-logo">';
+                $html .= '<a href="'.esc_url($company_url).'">';
+                $html .= '<img src="'.esc_url($logo).'" alt="'.esc_attr($company->name).'" width="'.esc_attr($logo_width).'" height="'.esc_attr($logo_height).'">';
+                $html .= '</a></div>';
+            }
+
+            // company name
+            if($show_comapny_name) {
+                $html .= '<div class="wpjobportal-companies-list-col-title">';
+                $html .= '<a href="'.esc_url($company_url).'">'.esc_html($company->name).'</a>';
+                $html .= '</div>';
+            }
+
+            // Fields
+            foreach($field_order as $field) {
+                $field_value = '';
+                $field_class = '';
+                $field_label = '';
+
+                switch($field) {
+                    case 'category':
+                        // if($show_category && !empty($company->cat_title)) {
+                        //     $field_value = $company->cat_title;
+                        //     $field_class = 'category';
+                        //     $field_label = __('Category', 'wp-job-portal');
+                        // }
+                        break;
+                    case 'location':
+                        if($show_location && !empty($company->location)) {
+                            $field_value = $company->location;
+                            $field_class = 'location';
+                            $field_label = __('Location', 'wp-job-portal');
+                        }
+                        break;
+                    case 'posted':
+                        if($show_posted && !empty($company->created)) {
+                            $field_value = date_i18n($dateformat, strtotime($company->created));
+                            $field_class = 'posted';
+                            $field_label = __('Posted', 'wp-job-portal');
+                        }
+                        break;
+                }
+
+                if(!empty($field_value)) {
+                   // $html .= '<div class="wpjobportal-companies-list-col-'.esc_attr($field_class).'">'.esc_html($field_value).'</div>';
+                    $html .= $this->widgetRenderCompanyField($field_value, $field_label, $labels_for_values, $field);
+                }
+            }
+
+            $html .= '</div>'; // End row
+        }
+
+        return $html;
+    }
+
+    function widgetRenderCompanyGrid($companies, $num_of_columns, $show_company_name, $show_category, $show_location, $show_posted, $show_logo, $logo_width, $logo_height, $labels_for_values, $field_order) {
+        $html = '';
+        $wpdir = wp_upload_dir();
+        $data_directory = wpjobportal::$_config->getConfigurationByConfigName('data_directory');
+        $dateformat = wpjobportal::$_configuration['date_format'];
+
+        $column_class = 'wpjobportal-cols-'.intval($num_of_columns);
+        $html .= '<div class="wpjobportal-companies-grid-wrapper '.esc_attr($column_class).'">';
+        $count_company_wrp = 0;
+
+        $pageid = wpjobportal::wpjobportal_getPageidForWidgets();
+
+        foreach($companies as $company) {
+            $company_url = wpjobportal::wpjobportal_makeUrl(array('wpjobportalme' => 'company','wpjobportallt' => 'viewcompany','wpjobportalid' => isset($company->companyaliasid) ? $company->companyaliasid : 0,'wpjobportalpageid' => $pageid));
+            $logo = WPJOBPORTALincluder::getJSModel('common')->getDefaultImage('employer');
+            if (!empty($company->logofilename)) {
+                $logo = $wpdir['baseurl'] . '/' . $data_directory . '/data/employer/comp_' . $company->id . '/logo/' . $company->logofilename;
+            }
+
+            if ($count_company_wrp % $num_of_columns === 0) {
+                if ($count_company_wrp !== 0) $html .= '</div>';
+                $html .= '<div class="wpjobportal-companies-widget-company-row">';
+            }
+            $count_company_wrp++;
+
+            $html .= '<div class="wpjobportal-company-box">';
+
+            // Logo
+            if($show_logo) {
+                $html .= '<div class="wpjobportal-company-logo">';
+                $html .= '<a href="'.esc_url($company_url).'">';
+                $html .= '<img src="'.esc_url($logo).'" alt="'.esc_attr($company->name).'" width="'.esc_attr($logo_width).'" height="'.esc_attr($logo_height).'">';
+                $html .= '</a></div>';
+            }
+
+            // Title
+            if($show_company_name) {
+                $html .= '<div class="wpjobportal-company-title">';
+                $html .= '<a href="'.esc_url($company_url).'">'.esc_html($company->name).'</a>';
+                $html .= '</div>';
+            }
+
+            // Fields
+            $html .= '<div class="wpjobportal-company-details">';
+            foreach($field_order as $field) {
+                $field_value = '';
+                $field_label = '';
+
+                switch($field) {
+                    case 'category':
+                        if($show_category && !empty($company->cat_title)) {
+                            $field_value = $company->cat_title;
+                            $field_label = __('Category', 'wp-job-portal');
+                        }
+                        break;
+                    case 'location':
+                        if($show_location && !empty($company->location)) {
+                            $field_value = $company->location;
+                            $field_label = __('Location', 'wp-job-portal');
+                        }
+                        break;
+                    case 'posted':
+                        if($show_posted && !empty($company->created)) {
+                            $field_value = date_i18n($dateformat, strtotime($company->created));
+                            $field_label = __('Posted', 'wp-job-portal');
+                        }
+                        break;
+                }
+
+                if(!empty($field_value)) {
+                    $html .= $this->widgetRenderCompanyField($field_value, $field_label, $labels_for_values, $field);
+                }
+            }
+            $html .= '</div>';
+
+            $html .= '</div>'; // End company box
+        }
+        // close row wrapper
+        if ($count_company_wrp !== 0) $html .= '</div>';
+
+        $html .= '</div>'; // End grid wrapper
+
+        return $html;
+    }
+
+    function widgetRenderCompanyField($value, $label, $labels_for_values, $field_key) {
+        $icons = array(
+            'category' => 'fa-folder',
+            'location' => 'fa-globe',
+            'posted' => 'fa-calendar'
+        );
+
+        $html = '<div class="wpjobportal-company-field wpjobportal-company-'.esc_attr($field_key).'">';
+
+        if($labels_for_values == 1) { // Text labels
+            $html .= '<span class="wpjobportal-company-field-label">'.esc_html($label).':</span> ';
+        } elseif($labels_for_values == 2 && isset($icons[$field_key])) { // Icons
+            $html .= '<i class="fa '.esc_attr($icons[$field_key]).'"></i> ';
+        }
+
+        $html .= '<span class="wpjobportal-company-field-value">'.esc_html($value).'</span>';
+        $html .= '</div>';
+
+        return $html;
+    }
 
 }
 ?>

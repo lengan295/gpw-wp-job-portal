@@ -185,13 +185,15 @@ div.wpjobportal-packages-list div.wpjobportal-pkg-list-item div.wpjobportal-pkg-
 
 /* post installation */
 div.wpjobportal-post-installation-wrp div#wpjobportal-head {padding-left: 25px;}
-div.wpjobportal-post-installation div.wpjobportal-post-menu {margin-top: 0;width: 100%;}
-div.wpjobportal-post-installation div.wpjobportal-post-data {width: 100%;margin: 0;}
-div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-action-btn {text-align: center;}
-div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-tit {width: 100%;padding-left: 0;padding-right: 0;}
+div.wpjobportal-post-installation div.wpjobportal-post-menu {margin-top: 0;width: 100%;min-height: unset;background-image: unset;padding: 20px 10px;}
+div.wpjobportal-post-installation div.wpjobportal-post-data {width: 100%;margin: 0;padding: 20px 10px;}
+div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-action-btn {text-align: center;padding: 30px 0 40px;}
+div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row{padding-bottom: 15px;}
+div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-tit {width: 100%;padding-left: 0;padding-right: 0;text-align: start;}
 div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-val {width: 100%;}
 div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-val.wpjobportal-post-val-user-list {width: 100%;margin-bottom: 15px;}
 div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-text {padding-left: 0;padding-right: 0;}
+.wpjobportal-post-employer-mode-single{width: 100%;}
 
 /* addon list */
 div.wpjobportaladmin-add-on-page-wrp div.add-on-page-cnt div.add-on-msg a.add-on-msg-btn {float: left;margin: 7px 0;}
@@ -240,3 +242,23 @@ div.wpjobportal-ai-search-data-synchronize-section .wpjobportal-ai-search-data-s
 div.wpjobportal-ai-search-data-synchronize-section.wpjobportal-ai-search-data-synchronize-available-section .wpjobportal-ai-search-data-synchronize-imgwrp{width: 100%;}
 div.wpjobportal-ai-search-data-synchronize-section.wpjobportal-ai-search-data-synchronize-available-section .wpjobportal-ai-search-data-synchronize-content-wrp{width: 100%;}
 div.wpjobportal-ai-search-data-synchronize-section.wpjobportal-ai-search-data-synchronize-available-section .wpjobportal-ai-search-data-synchronize-button-wrp{width: 100%;margin-top: 15px;}
+/* installer */
+div#wpjobportal-admin-wrapper.wpjobportal-admin-installer-wrapper.step1{padding: 80px 20px 100px;}
+div.wpjobportal-addon-installer-wrapper div.wpjobportal-addon-installer-right-section-wrap div.wpjobportal-addon-installer-right-key-section div.wpjobportal-addon-installer-right-key-field input.wpjobportal_key_field{width: 95%;}
+div.wpjobportal-addon-installer-right-section-wrap div.wpjobportal-addon-installer-right-key-section div.wpjobportal-addon-installer-right-key-button button{width: 95%;}
+div.wpjobportal-addon-installer-wrapper div.wpjobportal-addon-installer-right-section-wrap .wpjobportal-addon-installer-right-section-heading-wrp{align-items: flex-start;}
+div.wpjobportal-addon-installer-wrapper div.wpjobportal-addon-installer-right-section-wrap div.wpjobportal-addon-installer-right-addon-wrapper div.wpjobportal-addon-installer-right-addon-single{width:100%}
+div.wpjobportal-addon-installer-wrapper div.wpjobportal-addon-installer-right-section-wrap.step2 .wpjobportal-addon-installer-right-section-heading-wrp{flex-wrap: wrap;}
+div.wpjobportal-addon-installer-wrapper div.wpjobportal-addon-installer-right-section-wrap.step2 .wpjobportal-addon-installer-right-section-heading-wrp .wpjobportal-addon-installer-right-section-heading{width: 100%;}
+/* overview page */
+div#wpjobportal-admin-wrapper .wpjobportal-overview-addonupdate-card .wpjobportal-overview-addonupdate-card-rghtsec{width: 100%;justify-content: center;flex-wrap: wrap;}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-addonupdate-card .wpjobportal-overview-addonupdate-card-textsec{width: 100%;justify-content: center;text-align: center;}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-addonupdate-card .wpjobportal-overview-addonupdate-card-textsec .wpjobportal-overview-addonupdate-card-lftsec{align-items: center;text-align: center;}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-addonupdate-card{flex-wrap: wrap;}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-addonupdate-card-logo{display: flex;align-items: center;justify-content: center;width: 100%;}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-configuration-vidoeswrp .wpjobportal-overview-vidoe-card{padding:0px;}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-configuration-cards-wrp .wpjobportal-overview-configuration-card{min-width: 100%;}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-config-detail-secwrp .wpjobportal-overview-config-detail-leftclm{min-width: 100%;}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-config-detail-secwrp .wpjobportal-overview-config-detail-leftclm .wpjobportal-overview-config-detail-innerwrp .wpjobportal-overview-config-tpsect .wpjobportal-overview-config-tpsect-lftclm.wpjobportal-overview-config-lftclm-btmwrp{flex-direction: column-reverse;}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-config-detail-secwrp .wpjobportal-overview-config-detail-leftclm .wpjobportal-overview-config-detail-innerwrp .wpjobportal-overview-config-tpsect.wpjobportal-overview-config-tp-allowsect .wpjobportal-overview-config-tpsect-lftclm.wpjobportal-overview-config-lftclm-btmwrp{align-items:flex-start;}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-config-detail-secwrp .wpjobportal-overview-config-detail-leftclm .wpjobportal-overview-config-detail-innerwrp .wpjobportal-overview-config-tpsect .wpjobportal-overview-config-tpsect-lftclm .wpjobportal-overview-config-tpsect-rightsect-btnwrp{align-items: flex-start;text-align: start;}

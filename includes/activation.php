@@ -22,6 +22,21 @@ class WPJOBPORTALactivation {
         $role = get_role( 'administrator' );
         $role->add_cap( 'wpjobportal' );
         $role->add_cap( 'wpjobportal_jobs' );
+
+        // hide (AI) database update required banner for new installs
+        update_option( 'wpjobportal_ai_search_data_sync_needed', 0,);
+
+        // upadte email config to remove dummy values from configuration
+
+        // admin email address
+        $admin_email = get_option( 'admin_email' );
+        $query = "UPDATE `" . wpjobportal::$_db->prefix . "wj_portal_config` SET `configvalue` = '".esc_sql($admin_email)."' WHERE `configname`= 'adminemailaddress'";
+        wpjobportaldb::query($query);
+
+        // send by email address
+        $send_by_email = 'wordpress@' . str_replace( 'www.', '', parse_url( home_url(), PHP_URL_HOST ) );
+        $query = "UPDATE `" . wpjobportal::$_db->prefix . "wj_portal_config` SET `configvalue` = '".esc_sql($send_by_email)."' WHERE `configname`= 'mailfromaddress'";
+        wpjobportaldb::query($query);
       }
 
     static private function insertMenu() {
@@ -453,7 +468,7 @@ class WPJOBPORTALactivation {
               ('searchjobtag', '4', 'job', 'tag'),
               ('categories_colsperrow', '3', 'category', NULL),
               ('productcode', 'wpjobportal', 'default', NULL),
-              ('versioncode', '2.3.4', 'default', NULL),
+              ('versioncode', '2.3.5', 'default', NULL),
               ('producttype', 'free', 'default', NULL),
               ('vis_jscredits', '0', 'jscontrolpanel', 'credits'),
               ('vis_emcredits', '1', 'emcontrolpanel', NULL),

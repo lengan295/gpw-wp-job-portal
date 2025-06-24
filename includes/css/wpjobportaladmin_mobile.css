@@ -147,10 +147,11 @@ div#js_jobapply_main_wrapper.theme_popup{width: 80%;left: 10% !important;}
 
 /* post installation */
 div.wpjobportal-post-installation-wrp div#wpjobportal-head {padding-left: 25px;}
-div.wpjobportal-post-installation div.wpjobportal-post-menu {margin-top: 0;width: 100%;}
+div.wpjobportal-post-installation div.wpjobportal-post-menu {margin-top: 0;width: 100%;min-height: unset;background-image: unset;}
 div.wpjobportal-post-installation div.wpjobportal-post-data {width: 100%;margin: 0;}
 div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-action-btn {text-align: center;}
-div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-tit {width: 100%;padding-left: 0;padding-right: 0;}
+div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-tit {width: 100%;padding-left: 0;padding-right: 0;text-align: start;}
+div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row{padding-bottom: 15px;}
 div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-val {width: 100%;}
 div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-val.wpjobportal-post-val-user-list {width: 100%;margin-bottom: 15px;}
 div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-text {padding-left: 0;padding-right: 0;}
@@ -191,3 +192,12 @@ div.wpjpadmin-addons-list-wrp div.wpjp-admin-addon-status div.wpjp-admin-addon-s
 div.wpjpadmin-addons-list-wrp div.wpjp-admin-addon-status div.wpjp-admin-addon-status-addonstatus-wrp{width:100%;float: right;line-height: 40px;}
 div.wpjpadmin-addons-list-wrp div.wpjp-admin-addon-status div.wpjp-admin-addon-status-addonsversion-wrp{width:100%;float: right;}
 div.wpjpadmin-addons-list-wrp div.wpjp-admin-addon-status div.wpjp-admin-addon-status-addonstatusbtn-wrp{width:100%;float: right;text-align: left;display: flex;justify-content: center;}
+/* installer */
+div#wpjobportal-admin-wrapper.wpjobportal-admin-installer-wrapper.step1{padding: 80px 20px 100px;}
+div.wpjobportal-addon-installer-wrapper div.wpjobportal-addon-installer-right-section-wrap div.wpjobportal-addon-installer-right-addon-wrapper div.wpjobportal-addon-installer-right-addon-single{width:100%}
+div.wpjobportal-addon-installer-wrapper div.wpjobportal-addon-installer-right-section-wrap.step2 .wpjobportal-addon-installer-right-section-heading-wrp{flex-wrap: wrap;}
+div.wpjobportal-addon-installer-wrapper div.wpjobportal-addon-installer-right-section-wrap.step2 .wpjobportal-addon-installer-right-section-heading-wrp .wpjobportal-addon-installer-right-section-heading{width: 100%;}
+.wpjobportal-addon-go-back-messsage-wrap{padding-top: 0;}
+/* overview page */
+div#wpjobportal-admin-wrapper .wpjobportal-overview-addonupdate-card .wpjobportal-overview-addonupdate-card-rghtsec{width: 100%;justify-content: flex-start;flex-wrap: wrap;}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-configuration-vidoeswrp .wpjobportal-overview-vidoe-card{padding: 0;}

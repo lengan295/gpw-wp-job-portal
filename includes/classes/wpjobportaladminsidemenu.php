@@ -217,17 +217,22 @@ wp_add_inline_script( 'wpjobportal-menu-handle', $menu_js_script );
             </li>
         </ul>
     </li>
-    <li class="treeview <?php if($c == 'wpjobportal_premiumplugin') echo 'active'; ?>">
+    <li class="treeview <?php if($c == 'wpjobportal_premiumplugin' || ($c == 'wpjobportal' && $layout == 'addonstatus')) echo 'active'; ?>">
         <a href="admin.php?page=wpjobportal_premiumplugin" title="<?php echo esc_html(__('ad ons' , 'wp-job-portal')); ?>">
             <img class="wpjobportaladmin-menu-icon" alt="<?php echo esc_html(__('ad ons' , 'wp-job-portal')); ?>" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL).'includes/images/control_panel/dashboard/admin-left-menu/ad-ons.png'; ?>" />
             <span class="wpjobportaladmin-text">
-                <?php echo esc_html(__('Install Addons' , 'wp-job-portal')); ?>
+                <?php echo esc_html(__('Addons' , 'wp-job-portal')); ?>
             </span>
         </a>
         <ul class="wpjobportaladmin-sidebar-submenu treeview-menu">
             <li class="<?php if($c == 'wpjobportal_premiumplugin' && ($layout == '' || $layout == 'step1' || $layout == 'step2' || $layout == 'step3')) echo 'active'; ?>">
                 <a href="admin.php?page=wpjobportal_premiumplugin" title="<?php echo esc_html(__('install addons','wp-job-portal')); ?>">
                     <?php echo esc_html(__('Install Addons','wp-job-portal')); ?>
+                </a>
+            </li>
+            <li class="<?php if($c == 'wpjobportal' && $layout == 'addonstatus') echo 'active'; ?>">
+                <a href="admin.php?page=wpjobportal&wpjobportallt=addonstatus" title="<?php echo esc_html(__('Addons Status','wp-job-portal')); ?>">
+                    <?php echo esc_html(__('Addons Status','wp-job-portal')); ?>
                 </a>
             </li>
             <li class="<?php if($c == 'wpjobportal_premiumplugin' && ($layout == 'addonfeatures')) echo 'active'; ?>">
@@ -237,21 +242,6 @@ wp_add_inline_script( 'wpjobportal-menu-handle', $menu_js_script );
             </li>
         </ul>
     </li>
-    </li>
-    <li class="treeview <?php if($c == 'wpjobportal' && $layout == 'addonstatus') echo 'active'; ?>">
-        <a href="admin.php?page=wpjobportal&wpjobportallt=addonstatus" title="<?php echo esc_html(__('addons status' , 'wp-job-portal')); ?>">
-            <img class="wpjobportaladmin-menu-icon" alt="<?php echo esc_html(__('addons status' , 'wp-job-portal')); ?>" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL).'includes/images/control_panel/dashboard/admin-left-menu/addon-status.png'; ?>" />
-            <span class="wpjobportaladmin-text">
-                <?php echo esc_html(__('Addons Status' , 'wp-job-portal')); ?>
-            </span>
-        </a>
-        <ul class="wpjobportaladmin-sidebar-submenu treeview-menu">
-            <li class="<?php if($c == 'wpjobportal' && $layout == 'addonstatus') echo 'active'; ?>">
-                <a href="admin.php?page=wpjobportal&wpjobportallt=addonstatus" title="<?php echo esc_html(__('Addons Status','wp-job-portal')); ?>">
-                    <?php echo esc_html(__('Addons Status','wp-job-portal')); ?>
-                </a>
-            </li>
-        </ul>
     </li>
     <li class="treeview <?php if($c == 'wpjobportal' && $layout == 'shortcodes' ) echo 'active'; ?>">
         <a href="admin.php?page=wpjobportal&wpjobportallt=shortcodes" title="<?php echo esc_html(__('short codes' , 'wp-job-portal')); ?>">
