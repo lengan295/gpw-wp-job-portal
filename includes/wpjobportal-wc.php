@@ -61,6 +61,7 @@ function wpjobportal_packages_add_custom_settings() {
     // get all packages packs
     $query = "SELECT id,title,price FROM `" . wpjobportal::$_db->prefix . "wj_portal_packages` WHERE status = 1";
     $result = wpjobportal::$_db->get_results($query);
+	$wpjobportal_packagepack_fieldvalue = get_post_meta($post->ID, 'wpjobportal_packagepack_field', true);
 
     //parse the packages packs
     if ($result && is_array($result)) {
@@ -78,6 +79,9 @@ function wpjobportal_packages_add_custom_settings() {
     }
 
     // Create a number field, for example for UPC
+	$value = "";
+	if($wpjobportal_packagepack_fieldvalue)
+		$value = $wpjobportal_packagepack_fieldvalue;
     woocommerce_wp_select(
             array(
                 'id' => 'wpjobportal_packagepack_field',
@@ -87,6 +91,7 @@ function wpjobportal_packages_add_custom_settings() {
                 'description' => esc_html(__('Select packages pack so that user can purchase them.', 'woocommerce')),
                 'type' => 'number',
                 'options' => $options,
+                'value' => $value,
                 'custom_attributes' => array('fielddata' => $fielddata)
     ));
 
@@ -527,7 +532,7 @@ add_action('woocommerce_product_options_general_product_data', 'wpjobportalsubsc
             <p class="form-field show_if_subscription hidden">
                 <label><?php echo esc_html(__("WP Job Portal Packages",'wp-job-portal')); ?></label>
                 <span class="wrap">
-                    <select id="wpjobportal_packagepack_field" name="wpjobportal_packagepack_field" class="select short"> <?php echo $options; ?>"</select>
+                    <select id="wpjobportal_packagepack_field_subscription" name="wpjobportal_packagepack_field_subscription" class="select short"> <?php echo $options; ?>"</select>
                     <span class="woocommerce-help-tip" data-tip="<?php echo esc_attr(__("Select packages pack so that user can purchase them",'wp-job-portal')); ?>"></span>
                 </span>
             </p>
@@ -540,7 +545,7 @@ add_action('woocommerce_product_options_general_product_data', 'wpjobportalsubsc
 add_action( 'woocommerce_process_product_meta_subscription', 'save_wpjobportalsubscription_option_fields'  );
     function save_wpjobportalsubscription_option_fields( $post_id ) {
         $is_wpjobportalsubscription = isset( $_POST['_wpjobportalsubscription'] ) ? 'yes' : 'no';
-        $wpjobportal_packagepack_field = $_POST['wpjobportal_packagepack_field'];
+        $wpjobportal_packagepack_field = $_POST['wpjobportal_packagepack_field_subscription'];
         update_post_meta( $post_id, '_wpjobportalsubscription', $is_wpjobportalsubscription );
         update_post_meta( $post_id, 'is_wpjobportalsubscription', $is_wpjobportalsubscription );
         update_post_meta( $post_id, 'wpjobportal_packagepack_field', $wpjobportal_packagepack_field );

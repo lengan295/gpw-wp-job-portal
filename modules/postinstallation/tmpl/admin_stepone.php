@@ -7,68 +7,96 @@ $yesno = array((object) array('id' => 1, 'text' => esc_html(__('Yes', 'wp-job-po
                 , (object) array('id' => 0, 'text' => esc_html(__('No', 'wp-job-portal'))));
 if (!defined('ABSPATH')) die('Restricted Access'); ?>
 <div id="wpjobportaladmin-wrapper" class="wpjobportal-post-installation-wrp">
-    <!-- top bar -->
-    <div id="wpjobportal-wrapper-top">
-        <div id="wpjobportal-wrapper-top-left">
-            <a href="admin.php?page=wpjobportal" class="wpjobportaladmin-anchor">
-                <img src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL).'includes/images/control_panel/dashboard/logo.png'; ?>"/>
-            </a>
-        </div>
-        <div id="wpjobportal-wrapper-top-right">
-            <div id="wpjobportal-vers-txt">
-                <?php echo esc_html(__('Version','wp-job-portal')).': '; ?>
-                <span class="wpjobportal-ver"><?php echo esc_html(WPJOBPORTALincluder::getJSModel('configuration')->getConfigValue('versioncode')); ?></span>
-            </div>
-        </div>
-    </div>
-    <!-- top head -->
-    <div id="wpjobportal-head">
-        <h1 class="wpjobportal-head-text">
-            <?php echo esc_html(__('General Configurations', 'wp-job-portal')); ?>
-        </h1>
-    </div>
     <!-- content -->
     <div class="wpjobportal-post-installation">
         <div class="wpjobportal-post-menu">
+            <div class="wpjobportal-post-installation-logowrp">
+                <img src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/quickstrt_logo.png" />
+            </div>
             <ul class="step-1">
                 <li class="zero-part">
                     <a href="<?php echo esc_url_raw(admin_url("admin.php?page=wpjobportal_postinstallation&wpjobportallt=quickstart")); ?>" class="tab_icon">
-                        <img src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/quick-start.png" />
-                        <?php echo esc_html(__('Quick Start','wp-job-portal')); ?>
+                        <span class="wpjobportal-post-installation-lftimages-wrp">
+                            <img class="wpjobportal-post-installation-lfticon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/quick-start.png" />
+                            <img class="wpjobportal-post-installation-white-icon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/quick-strt-w.png" />
+                            <?php echo esc_html(__('Quick Configuration','wp-job-portal')); ?>
+                        </span>
+                        <img class="wpjobportal-post-installation-white-arrowicon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/arrow.png" />
                     </a>
                 </li>
                 <li class="active">
                     <a href="<?php echo esc_url_raw(admin_url("admin.php?page=wpjobportal_postinstallation&wpjobportallt=stepone")); ?>" class="tab_icon">
-                        <img src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/general-settings.png" />
-                        <?php echo esc_html(__('General','wp-job-portal')); ?>
+                        <span class="wpjobportal-post-installation-lftimages-wrp">
+                            <img class="wpjobportal-post-installation-lfticon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/general-settings.png" />
+                            <img class="wpjobportal-post-installation-white-icon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/general-settings-white.png" />
+                            <?php echo esc_html(__('General Settings','wp-job-portal')); ?>
+                        </span>
+                        <img class="wpjobportal-post-installation-white-arrowicon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/arrow.png" />
                     </a>
                 </li>
                 <?php $wpjobportal_multiple_employers =  get_option( "wpjobportal_multiple_employers", 1 );
                 if($wpjobportal_multiple_employers == 1){ ?>
-                    <li class="second-part">
-                        <a href="<?php echo esc_url_raw(admin_url("admin.php?page=wpjobportal_postinstallation&wpjobportallt=steptwo")); ?>" class="tab_icon">
-                            <img src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/employers.png" />
-                            <?php echo esc_html(__('Employer','wp-job-portal')); ?>
-                        </a>
-                    </li>
+                <li class="second-part">
+                    <a href="<?php echo esc_url_raw(admin_url("admin.php?page=wpjobportal_postinstallation&wpjobportallt=steptwo")); ?>" class="tab_icon">
+                        <span class="wpjobportal-post-installation-lftimages-wrp">
+                            <img class="wpjobportal-post-installation-lfticon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/employers.png" />
+                            <img class="wpjobportal-post-installation-white-icon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/general-settings-white.png" />
+                            <?php echo esc_html(__('Employer Settings','wp-job-portal')); ?>
+                        </span>
+                        <img class="wpjobportal-post-installation-white-arrowicon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/arrow.png" />
+                    </a>
+                </li>
                 <?php }?>
                 <li class="third-part">
                     <a href="<?php echo esc_url_raw(admin_url("admin.php?page=wpjobportal_postinstallation&wpjobportallt=stepthree")); ?>" class="tab_icon">
-                        <img src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/jobseeker.png" />
-                        <?php echo esc_html(__('Job Seeker','wp-job-portal')); ?>
+                        <span class="wpjobportal-post-installation-lftimages-wrp">
+                            <img class="wpjobportal-post-installation-lfticon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/jobseeker.png" />
+                            <img class="wpjobportal-post-installation-white-icon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/jobseeker-w.png" />
+                            <?php echo esc_html(__('Job Seeker Settings','wp-job-portal')); ?>
+                        </span>
+                        <img class="wpjobportal-post-installation-white-arrowicon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/arrow.png" />
                     </a>
                 </li>
                 <li class="fourth-part">
                     <a href="<?php echo esc_url_raw(admin_url("admin.php?page=wpjobportal_postinstallation&wpjobportallt=stepfour")); ?>" class="tab_icon">
-                        <img src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/sample-data.png" />
-                        <?php echo esc_html(__('Sample Data','wp-job-portal')); ?>
+                        <span class="wpjobportal-post-installation-lftimages-wrp">
+                            <img class="wpjobportal-post-installation-lfticon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/sample-data.png" />
+                            <img class="wpjobportal-post-installation-white-icon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/sample-data-w.png" />
+                            <?php echo esc_html(__('Sample Data','wp-job-portal')); ?>
+                        </span>
+                    </a>
+                </li>
+                <li class="setup-complete">
+                    <a href="<?php echo esc_url_raw(admin_url("admin.php?page=wpjobportal_postinstallation&wpjobportallt=setupcomplete")); ?>" class="tab_icon">
+                        <span class="wpjobportal-post-installation-lftimages-wrp">
+                            <img class="wpjobportal-post-installation-lfticon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/finshed.png" />
+                            <img class="wpjobportal-post-installation-white-icon" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/finshed-w.png" />
+                            <?php echo esc_html(__('Setup Complete','wp-job-portal')); ?>
+                        </span>
                     </a>
                 </li>
             </ul>
         </div>
         <div class="wpjobportal-post-data">
-            <div class="wpjobportal-post-heading">
-                <?php echo esc_html(__('General Settings','wp-job-portal'));?>
+            <div class="wpjobportal-post-heading-wrp">
+                <div class="wpjobportal-post-heading">
+                    <?php echo esc_html(__('General Settings','wp-job-portal'));?>
+                </div>
+                <div class="wpjobportal-post-head-rightbtns-wrp">
+                    <span class="wpjobportal-post-head-pagestep">
+                        <?php
+                        $wpjobportal_multiple_employers =  get_option( "wpjobportal_multiple_employers", 1 );
+                        if($wpjobportal_multiple_employers == 1){
+                            echo esc_html(__('Step 2 of 5','wp-job-portal'));
+                        }else{
+                            echo esc_html(__('Step 2 of 4','wp-job-portal'));
+                        }
+                        ?>
+                    </span>
+                    <a class="wpjobportal-post-head-closebtn" href="admin.php?page=wpjobportal"title="<?php echo esc_html(__('Close','wp-job-portal'));?>">
+                        <img src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/close.png" />
+                    </a>
+                </div>
             </div>
             <form id="wpjobportal-form-ins" class="wpjobportal-form" method="post" action="<?php echo esc_url_raw(admin_url("admin.php?page=wpjobportal_postinstallation&task=save&action=wpjobportaltask")); ?>">
                 <div class="wpjobportal-post-data-row">
@@ -77,6 +105,9 @@ if (!defined('ABSPATH')) die('Restricted Access'); ?>
                     </div>
                     <div class="wpjobportal-post-val">
                         <?php echo wp_kses(WPJOBPORTALformfield::text('title',wpjobportal::$_data[0]['title'], array('class' => 'inputbox')),WPJOBPORTAL_ALLOWED_TAGS); ?>
+                        <div class="wpjobportal-post-help-text">
+                            <?php echo esc_html(__('Enter the Site Title','wp-job-portal'));?>
+                        </div>
                     </div>
                 </div>
                 <?php /*<div class="wpjobportal-post-data-row">
@@ -86,7 +117,7 @@ if (!defined('ABSPATH')) die('Restricted Access'); ?>
                     <div class="wpjobportal-post-val">
                         <?php echo wp_kses(WPJOBPORTALformfield::text('system_slug',wpjobportal::$_data[0]['system_slug'], array('class' => 'inputbox')),WPJOBPORTAL_ALLOWED_TAGS); ?>
                     </div>
-                </div> */?>
+                </div>
                 <div class="wpjobportal-post-data-row">
                     <div class="wpjobportal-post-tit">
                         <?php echo esc_html(__('Default page','wp-job-portal')); ?>
@@ -101,6 +132,7 @@ if (!defined('ABSPATH')) die('Restricted Access'); ?>
                         </div>
                     </div>
                 </div>
+                */?>
                 <div class="wpjobportal-post-data-row">
                     <div class="wpjobportal-post-tit">
                         <?php echo esc_html(__('Data directory','wp-job-portal')); ?>
@@ -170,10 +202,22 @@ if (!defined('ABSPATH')) die('Restricted Access'); ?>
                         </div>
                     </div>
                 </div>
+
+                <div class="wpjobportal-post-data-row">
+                    <div class="wpjobportal-post-tit">
+                        <?php echo esc_html(__('Default address display style', 'wp-job-portal')); ?>
+                    </div>
+                    <div class="wpjobportal-post-val">
+                        <?php
+                        $defaultaddressdisplaytype = array((object) array('id' => 'csc', 'text' => esc_html(__('City','wp-job-portal')).', ' .esc_html(__('State','wp-job-portal')).', ' .esc_html(__('Country', 'wp-job-portal'))), (object) array('id' => 'cs', 'text' => esc_html(__('City','wp-job-portal')).', ' .esc_html(__('State', 'wp-job-portal'))), (object) array('id' => 'cc', 'text' => esc_html(__('City','wp-job-portal')).', ' .esc_html(__('Country', 'wp-job-portal'))), (object) array('id' => 'c', 'text' => esc_html(__('City', 'wp-job-portal'))));
+                        echo wp_kses(WPJOBPORTALformfield::select('defaultaddressdisplaytype', $defaultaddressdisplaytype, wpjobportal::$_data[0]['defaultaddressdisplaytype']),WPJOBPORTAL_ALLOWED_TAGS); ?>
+                        <div class="wpjobportal-post-help-text">
+                            <?php echo esc_html(__('Address display style for plugin','wp-job-portal'));?>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="wpjobportal-post-action-btn">
-                    <a class="back-step wpjobportal-post-act-btn" href="<?php echo esc_url_raw(admin_url("admin.php?page=wpjobportal_postinstallation&wpjobportallt=quickstart")); ?>" title="<?php echo esc_html(__('back','wp-job-portal')); ?>">
-                        <?php echo esc_html(__('Back','wp-job-portal')); ?>
-                    </a>
                     <a class="next-step wpjobportal-post-act-btn" href="javascript:void();" onclick="document.getElementById('wpjobportal-form-ins').submit();"  title="<?php echo esc_html(__('next','wp-job-portal')); ?>">
                         <?php echo esc_html(__('Next','wp-job-portal')); ?>
                     </a>
@@ -187,3 +231,25 @@ if (!defined('ABSPATH')) die('Restricted Access'); ?>
     </div>
 
 </div>
+<?php
+    wp_register_script( 'wpjobportal-inline-handle', '' );
+    wp_enqueue_script( 'wpjobportal-inline-handle' );
+
+    $inline_js_script = "
+    jQuery(document).ready(function () {
+        jQuery('.inputbox').on('focus', function () {
+        jQuery(this)
+            .closest('.wpjobportal-post-val')
+            .prev('.wpjobportal-post-tit')
+            .css('color', '#1572e8');
+        });
+        jQuery('.inputbox').on('blur', function () {
+        jQuery(this)
+            .closest('.wpjobportal-post-val')
+            .prev('.wpjobportal-post-tit')
+            .css('color', '');
+        });
+    });
+    ";
+    wp_add_inline_script( 'wpjobportal-inline-handle', $inline_js_script );
+?>

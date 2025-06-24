@@ -78,6 +78,7 @@ class WPJOBPORTALConfigurationController {
         wp_redirect($url);
         die();
     }
+
     // function to handle auto update configuration
     function saveautoupdateconfiguration() {
         $nonce = WPJOBPORTALrequest::getVar('_wpnonce');

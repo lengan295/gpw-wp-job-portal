@@ -4,7 +4,7 @@ Donate link: https://wpjobportal.com/pricing/
 Tags: job board, job listing, careers, job manager, jobs, recruiting
 Requires at least: 5.5 
 Tested up to: 6.8.1
-Stable tag: 2.3.4
+Stable tag: 2.3.5
 Requires PHP: 7.4
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -238,6 +238,13 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 
 
 == Changelog ==
+
+= 2.3.5 =
+* Imporoved Quick Start Interface
+* Imporoved Addon Installation
+* Added Custom Elementor Widgets for WP Job Portal
+* Imporoved WP Job Portal Widgets
+
 
 = 2.3.4 =
 * Addon AI Job Search Added

@@ -35,10 +35,7 @@
             </div>
         </div>
         <!-- top head -->
-        <div id="wpjobportal-head">
-            <h1 class="wpjobportal-head-text"><?php echo esc_html(__('Install Addons','wp-job-portal')); ?></h1>
-        </div>
-        <div id="wpjobportal-admin-wrapper" class="p0 bg-n bs-n">
+        <div id="wpjobportal-admin-wrapper" class="wpjobportal-admin-installer-wrapper">
             <div id="wpjobportal-content">
                 <div id="black_wrapper_translation"></div>
                 <div id="jstran_loading">
@@ -47,16 +44,16 @@
                 <div id="wpjobportal-lower-wrapper">
                     <div class="wpjobportal-addon-installer-wrapper step3" >
                         <div class="wpjobportal-addon-installer-left-image-wrap" >
-                            <img class="wpjobportal-addon-installer-left-image" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/addon-images/addon-installer-logo.png" />
+                            <img class="wpjobportal-addon-installer-left-image" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/quickstrt_logo.png" />
                         </div>
                         <div class="wpjobportal-addon-installer-left-heading" >
-                            <?php echo esc_html(__("Add ons installed and activated successfully",'wp-job-portal')); ?>
+                            <?php echo esc_html(__("All selected add-ons are now active.",'wp-job-portal')); ?>
                         </div>
                         <div class="wpjobportal-addon-installer-left-description" >
-                            <?php echo esc_html(__("Add ons for WP Job Portal have been installed and activated successfully. ",'wp-job-portal')); ?>
+                            <?php echo esc_html(__("Add-ons for WP Job Portal have been installed and activated successfully. ",'wp-job-portal')); ?>
                         </div>
                         <div class="wpjobportal-addon-installer-right-button" >
-                            <a class="wpjobportal_btn" href="?page=wpjobportal" ><?php echo esc_html(__("Control Panel",'wp-job-portal')); ?></a>
+                            <a class="wpjobportal_btn" href="?page=wpjobportal" ><?php echo esc_html(__("Dashboard",'wp-job-portal')); ?></a>
                         </div>
                     </div>
                 </div>

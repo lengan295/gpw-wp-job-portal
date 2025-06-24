@@ -32,6 +32,7 @@ class WPJOBPORTALpostinstallationController {
                 break;
                 case 'admin_quickstart':
                 case 'admin_stepfour':
+                case 'admin_setupcomplete':
                 break;
 
                 default:
@@ -102,7 +103,7 @@ class WPJOBPORTALpostinstallationController {
         $temp_data = 0;
         $jsmenu = 0;
         $empmenu = 0;
-	$job_listing_menu=0;
+	   $job_listing_menu=0;
         if(isset($data['temp_data'])){
             $temp_data = 1;
         }
@@ -121,7 +122,8 @@ class WPJOBPORTALpostinstallationController {
             update_option( 'wpjobportal_jobs_sample_data', 1 ); // flag to messge that jobs data has been inserted.
             $url = esc_url_raw(admin_url("admin.php?page=wpjobportal_postinstallation&wpjobportallt=demoimporter"));
         }else{
-            $url = esc_url_raw(admin_url("admin.php?page=wpjobportal"));
+            //$url = esc_url_raw(admin_url("admin.php?page=wpjobportal"));
+            $url = esc_url_raw(admin_url("admin.php?page=wpjobportal_postinstallation&wpjobportallt=setupcomplete"));
         }
         $result = WPJOBPORTALincluder::getJSModel('postinstallation')->installSampleData($sampledata,$jsmenu,$empmenu,$temp_data, $job_listing_menu);
         wp_redirect($url);

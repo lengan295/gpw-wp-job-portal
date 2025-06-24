@@ -1591,12 +1591,16 @@ class WPJOBPORTALResumeModel {
         if ((!is_numeric($resumetype)) || ( !is_numeric($noofresumes)))
             return false;
 
+
         if ($resumetype == 1) { //newest
             $inquery = ' ORDER BY resume.created DESC ';
         } elseif ($resumetype == 2) { //top
             $inquery = ' ORDER BY resume.hits DESC ';
+        } elseif ($resumetype == 4) { //featurerd
+            $inquery = ' AND resume.isfeaturedresume = 1 AND DATE(resume.endfeatureddate) >= CURDATE() ';
+            $inquery .= ' ORDER BY resume.created DESC ';
         } else {
-            return '';
+            return []; // '' was casuing issues
         }
 
         $id = "resume.id AS id";

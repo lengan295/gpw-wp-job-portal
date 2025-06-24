@@ -6,15 +6,17 @@ if (!defined('ABSPATH'))
  * Description: Elementor intergration for WP Job Portal.
  */
 
+// shortcodes widget
 function register_jp_shortcodes_widget( $widgets_manager ) {
 
-	//require_once( __DIR__ . '/widgets/jp-shortcodes-widget.php' );
-    include_once 'classes/jp-shortcodes-widget.php';
+	include_once 'classes/jp-shortcodes-widget.php';
 
 	$widgets_manager->register( new \JP_Shortcodes_Wigdet() );
 }
-
 add_action( 'elementor/widgets/register', 'register_jp_shortcodes_widget' );
+
+
+
 
 add_action('save_post','jp_save_post_job_portal_shortcode_element' , 10, 1);
 
@@ -47,8 +49,6 @@ function jp_save_post_job_portal_shortcode_element($post_id) {
             return false;
         }
     }
-
-
 
     // 'jp_shortcodes_wigdet' widget name to find
     $widget_settings = find_elementor_widget($elements, 'jp_shortcodes_wigdet');

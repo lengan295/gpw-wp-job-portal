@@ -81,7 +81,7 @@ div.wpjobportaladmin-add-on-page-wrp div.add-on-page-cnt div.add-on-list div.add
 div.wpjobportaladmin-add-on-page-wrp div.add-on-page-cnt div.add-on-bundle-pack-list div.add-on-bundle-pack-item {width: calc(100% / 2 - 20px);margin-top: 0;}
 
 /* installation */
-div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-val.wpjobportal-post-val-user-list {width: 70%;margin-bottom: 15px;}
+div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-val.wpjobportal-post-val-user-list {width: 60%;margin-bottom: 15px;}
 
 /*themes*/
 div#theme_heading div.color_portion {width: calc(100% - 30px) !important;}

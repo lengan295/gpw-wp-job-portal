@@ -582,6 +582,53 @@ class WPJOBPORTALconfigurationModel {
         $html .= '</ul>';
         return $html;
     }
+
+    // update single configuration from overview page
+    function storeConfigurationSingle() {
+        // nonce check
+        $nonce = WPJOBPORTALrequest::getVar('_wpnonce');
+        if (!wp_verify_nonce($nonce, 'wpjobportal_configuration_nonce')) {
+            die('Security check Failed');
+        }
+
+        // onlyy admin can use this fucntion
+        if (!current_user_can('manage_options')) {
+            return false;
+        }
+
+        $config_name = WPJOBPORTALrequest::getVar('config_name', '', '');
+        $config_value = WPJOBPORTALrequest::getVar('config_value', '', '');
+
+        if($config_name == ''){
+            return false;
+        }
+
+        // not sure about this if code
+        // if($config_value == ''){
+        //     return false;
+        // }
+
+
+        // List of allowed configurations to avoud issues
+        $allowed_configs = array(
+            'companyautoapprove',
+        );
+
+        if (!in_array($config_name, $allowed_configs)) {
+            return false;
+        }
+
+        $error = false;
+        $query = "UPDATE `" . wpjobportal::$_db->prefix . "wj_portal_config`
+                  SET `configvalue` = '".esc_sql($config_value)."'
+                  WHERE `configname` = '".esc_sql($config_name)."'";
+                  echo var_dump(wpjobportaldb::query($query));
+                  exit;
+        if (wpjobportaldb::query($query)) {
+            $error = true;
+        }
+        return $error;
+    }
 }
 
 ?>

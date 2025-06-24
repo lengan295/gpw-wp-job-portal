@@ -5,12 +5,22 @@ if (!defined('ABSPATH'))
 
 class WPJOBPORTALCompanyModel {
 
-    function getCompanies_Widget($companytype, $noofcompanies) {
+    function getCompanies_Widget($companytype, $noofcompanies,$custom_company_ids_list = []) {
         if ((!is_numeric($companytype)) || ( !is_numeric($noofcompanies)))
             return false;
 
-        if ($companytype == 2) {
+        if ($companytype == 1) { // latest companies
+            $inquery = '  ';
+        } elseif ($companytype == 2) { // featured companeis
             $inquery = ' AND company.isfeaturedcompany = 1 AND DATE(company.endfeatureddate) >= CURDATE() ';
+        } elseif ($companytype == 3) { // custom selection of companies
+            // make sure the selection is not empty
+            if (!empty($custom_company_ids_list) && is_array($custom_company_ids_list)) {
+                $escaped_ids = array_map('intval', $custom_company_ids_list); // Sanitize Ids to int check
+                $inquery = ' AND company.id IN (' . implode(',', $escaped_ids) . ') ';
+            } else {
+                return []; // No companies selected
+            }
         } else {
             return '';
         }

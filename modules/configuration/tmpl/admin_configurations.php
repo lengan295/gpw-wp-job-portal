@@ -515,7 +515,7 @@ WPJOBPORTALMessages::getLayoutMessage($msgkey); ?>
                                             <div class="wpjobportal-config-value">
                                                 <?php echo wp_kses(WPJOBPORTALformfield::select('show_wpjobportal_page_title', $yesno, wpjobportal::$_data[0]['show_wpjobportal_page_title']),WPJOBPORTAL_ALLOWED_TAGS); ?>
                                                 <div class="wpjobportal-config-description">
-                                                    <?php echo esc_html(__('Show page title above wpjobportal breadcrumbs', 'wp-job-portal')) ." '".esc_html(__('job by type', 'wp-job-portal')) ."' ". esc_html(__('page', 'wp-job-portal')) .'.'; ?>
+                                                    <?php echo esc_html(__('Show page title above wpjobportal breadcrumbs', 'wp-job-portal')) ; ?>
                                                 </div>
                                             </div>
                                         </div>

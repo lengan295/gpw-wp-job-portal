@@ -44,10 +44,7 @@ foreach ($allPlugins as $key => $value) {
                 </div>
             </div>
             <!-- top head -->
-            <div id="wpjobportal-head">
-                <h1 class="wpjobportal-head-text"><?php echo esc_html(__('Install Addons','wp-job-portal')); ?></h1>
-            </div>
-            <div id="wpjobportal-admin-wrapper" class="p0 bg-n bs-n">
+            <div id="wpjobportal-admin-wrapper" class="wpjobportal-admin-installer-wrapper">
                 <div id="wpjobportal-content">
                     <div id="black_wrapper_translation"></div>
                     <div id="jstran_loading">
@@ -56,23 +53,14 @@ foreach ($allPlugins as $key => $value) {
                     <div id="wpjobportal-lower-wrapper">
                         <div class="wpjobportal-addon-installer-wrapper" >
                             <form id="wpjobportalfrom" action="<?php echo esc_url(wp_nonce_url(admin_url('admin.php?page=wpjobportal_premiumplugin&task=downloadandinstalladdons&action=wpjobportaltask'),'wpjobportal_premiumplugin_nonce')); ?>" method="post">
-                                <div class="wpjobportal-addon-installer-left-section-wrap" >
-                                    <div class="wpjobportal-addon-installer-left-image-wrap" >
-                                        <img class="wpjobportal-addon-installer-left-image" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/addon-images/addon-installer-logo.png" />
-                                    </div>
-                                    <div class="wpjobportal-addon-installer-left-heading" >
-                                        <?php echo esc_html(__("WP Job Portal",'wp-job-portal')); ?>
-                                    </div>
-                                    <div class="wpjobportal-addon-installer-left-title" >
-                                        <?php echo esc_html(__("Wordpress Plugin",'wp-job-portal')); ?>
-                                    </div>
-                                    <div class="wpjobportal-addon-installer-left-description" >
-                                        <?php echo esc_html(__("WP Job Portal is an open-source job board plugin for WordPress that provides advanced features to help you create a successful job board. In addition, we offer trusted WP Job Portal add-ons that can further enhance your job board's functionality in a fast, safe, and easy manner. Our add-ons have been designed to integrate seamlessly with our job board plugin, ensuring you can expand your job board's capabilities without any complications.",'wp-job-portal')); ?>
-                                    </div>
-                                </div>
                                 <div class="wpjobportal-addon-installer-right-section-wrap step2" >
-                                    <div class="wpjobportal-addon-installer-right-heading" >
-                                        <?php echo esc_html(__("WP Job Portal Addon Installer",'wp-job-portal')); ?>
+                                    <div class="wpjobportal-addon-installer-right-section-heading-wrp">
+                                        <div class="wpjobportal-addon-installer-right-section-heading">
+                                            <?php echo esc_html(__('Welcome to WP Job Portal Addon Installer','wp-job-portal'));?>
+                                        </div>
+                                        <div class="wpjobportal-addon-installer-right-section-btn-wrp">
+                                            <label class="wpjobportal-addon-installer-right-addon-bottom" for="wpjobportal-addon-installer-right-addon-checkall-checkbox"><input type="checkbox" class="wpjobportal-addon-installer-right-addon-checkall-checkbox" id="wpjobportal-addon-installer-right-addon-checkall-checkbox"><?php echo esc_html(__("Select All Addons",'wp-job-portal')); ?></label>
+                                        </div>
                                     </div>
                                     <?php /*
                                     <div class="wpjobportal-addon-installer-right-description" >
@@ -88,9 +76,6 @@ foreach ($allPlugins as $key => $value) {
                                         if($wpjobportal_addon_install_data){
                                             $result = $wpjobportal_addon_install_data;
                                             if(isset($result['status']) && $result['status'] == 1){ ?>
-                                                <div class="wpjobportal-addon-installer-right-addon-title">
-                                                    <?php echo esc_html(__("Select Addons for download",'wp-job-portal')); ?>
-                                                </div>
                                                 <div class="wpjobportal-addon-installer-right-addon-section" >
                                                     <?php
                                                     if(!empty($result['data'])){
@@ -108,9 +93,11 @@ foreach ($allPlugins as $key => $value) {
                                                                     <div class="wpjobportal-addon-installer-right-addon-single" >
                                                                         <img class="wpjobportal-addon-installer-right-addon-image" data-addon-name="<?php echo esc_attr($key); ?>" src="<?php echo esc_url($addon_img_path.$addon_image_name.'.png');?>" />
                                                                         <div class="wpjobportal-addon-installer-right-addon-name" >
-                                                                            <?php echo esc_html($value['title']) ;?>
+                                                                            <label>
+                                                                                <input type="checkbox" class="wpjobportal-addon-installer-right-addon-single-checkbox" id="addon-<?php echo esc_attr($key); ?>" name="<?php echo esc_attr($key); ?>" value="1">
+                                                                                <?php echo esc_html($value['title']) ;?>
+                                                                            </label>
                                                                         </div>
-                                                                        <input type="checkbox" class="wpjobportal-addon-installer-right-addon-single-checkbox" id="addon-<?php echo esc_attr($key); ?>" name="<?php echo esc_attr($key); ?>" value="1">
                                                                     </div>
                                                                     <?php
                                                                 }
@@ -137,11 +124,7 @@ foreach ($allPlugins as $key => $value) {
                                                     }
                                                      ?>
                                                 </div>
-                                                <?php if($error_message == ''){ ?>
-                                                    <div class="wpjobportal-addon-installer-right-addon-bottom" >
-                                                        <label for="wpjobportal-addon-installer-right-addon-checkall-checkbox"><input type="checkbox" class="wpjobportal-addon-installer-right-addon-checkall-checkbox" id="wpjobportal-addon-installer-right-addon-checkall-checkbox"><?php echo esc_html(__("Select All Addons",'wp-job-portal')); ?></label>
-                                                    </div>
-                                                <?php
+                                                <?php if($error_message == ''){
                                                 }
                                             }
                                         }else{
@@ -163,7 +146,7 @@ foreach ($allPlugins as $key => $value) {
                                     </div>
                                     <?php if($error_message == ''){ ?>
                                         <div class="wpjobportal-addon-installer-right-button" >
-                                            <button type="submit" class="wpjobportal_btn" role="submit" onclick="jsShowLoading();"><?php echo esc_html(__("Proceed",'wp-job-portal')); ?></button>
+                                            <button type="submit" class="wpjobportal_btn" role="submit" onclick="jsShowLoading();"><?php echo esc_html(__("Install Addons",'wp-job-portal')); ?></button>
                                         </div>
                                     <?php } ?>
                                 </div>
@@ -204,8 +187,6 @@ foreach ($allPlugins as $key => $value) {
         jQuery('#wpjobportal-addon-installer-right-addon-checkall-checkbox').change(function() {
            jQuery('.wpjobportal-addon-installer-right-addon-single-checkbox').prop('checked', this.checked);
        });
-
-
     });
 
     function jsShowLoading(){

@@ -1,5 +1,5 @@
-<?php if (!defined('ABSPATH')) die('Restricted Access'); ?>
-<?php
+<?php if (!defined('ABSPATH')) die('Restricted Access');
+
 delete_option( 'wpjobportal_addon_install_data' );
 ?>
     <div id="wpjobportaladmin-wrapper">
@@ -38,10 +38,7 @@ delete_option( 'wpjobportal_addon_install_data' );
                 </div>
             </div>
             <!-- top head -->
-            <div id="wpjobportal-head">
-                <h1 class="wpjobportal-head-text"><?php echo esc_html(__('WP Job Portal Addon Installer','wp-job-portal')); ?></h1>
-            </div>
-            <div id="wpjobportal-admin-wrapper" class="p0 bg-n bs-n">
+            <div id="wpjobportal-admin-wrapper" class="wpjobportal-admin-installer-wrapper step1">
                 <div id="wpjobportal-content">
                     <div id="black_wrapper_translation"></div>
                     <div id="jstran_loading">
@@ -52,32 +49,25 @@ delete_option( 'wpjobportal_addon_install_data' );
                             <form id="wpjobportalfrom" action="<?php echo esc_url(wp_nonce_url(admin_url('admin.php?page=wpjobportal_premiumplugin&task=verifytransactionkey&action=wpjobportaltask'),'wpjobportal_premiumplugin_nonce')); ?>" method="post">
                                 <div class="wpjobportal-addon-installer-left-section-wrap" >
                                     <div class="wpjobportal-addon-installer-left-image-wrap" >
-                                        <img class="wpjobportal-addon-installer-left-image" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/addon-images/addon-installer-logo.png" />
-                                    </div>
-                                    <div class="wpjobportal-addon-installer-left-heading" >
-                                        <?php echo esc_html(__("WP Job Portal",'wp-job-portal')); ?>
-                                    </div>
-                                    <div class="wpjobportal-addon-installer-left-title" >
-                                        <?php echo esc_html(__("Wordpress Plugin",'wp-job-portal')); ?>
-                                    </div>
-                                    <div class="wpjobportal-addon-installer-left-description" >
-                                        <?php echo esc_html(__("WP Job Portal is an open-source job board plugin for WordPress that provides advanced features to help you create a successful job board. In addition, we offer trusted WP Job Portal add-ons that can further enhance your job board's functionality in a fast, safe, and easy manner. Our add-ons have been designed to integrate seamlessly with our job board plugin, ensuring you can expand your job board's capabilities without any complications.",'wp-job-portal')); ?>
+                                        <img class="wpjobportal-addon-installer-left-image" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/quickstrt_logo.png" />
+                                        <span class="wpjobportal-addon-installer-left-title"><?php echo esc_html(__("Addon Installer",'wp-job-portal')); ?></span>
                                     </div>
                                 </div>
                                 <div class="wpjobportal-addon-installer-right-section-wrap" >
-                                    <div class="wpjobportal-addon-installer-right-heading" >
-                                        <?php echo esc_html(__("WP Job Portal Addon Installer",'wp-job-portal')); ?>
+                                    <div class="wpjobportal-addon-installer-right-section-heading-wrp">
+                                        <div class="wpjobportal-addon-installer-right-section-heading">
+                                            <?php echo esc_html(__('Welcome to WP Job Portal Addon Installer','wp-job-portal'));?>
+                                        </div>
+                                        <div class="wpjobportal-addon-installer-right-section-btn-wrp">
+                                            <a class="wpjobportal-addon-installer-right-section-head-closebtn" href="admin.php?page=wpjobportal"title="<?php echo esc_html(__('Close','wp-job-portal'));?>">
+                                                <img src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/postinstallation/close.png" />
+                                            </a>
+                                        </div>
                                     </div>
-                                    <div class="wpjobportal-addon-installer-right-description" >
-                                        >> <a class="wpjobportal-addon-installer-install-btn" href="?page=wpjobportal_premiumplugin&wpjobportallt=addonfeatures" class="wpjobportal-addon-installer-addon-list-link" >
-                                            <?php echo esc_html(__("Add on list",'wp-job-portal')); ?>
-                                        </a> <<
+                                    <div class="wpjobportal-addon-installer-right-heading" >
+                                        <?php echo esc_html(__("Please Insert Your Activation Key",'wp-job-portal')); ?>
                                     </div>
                                     <div class="wpjobportal-addon-installer-right-key-section" >
-                                        <div class="wpjobportal-addon-installer-right-key-label" >
-                                            <?php echo esc_html(__("Please Insert Your Activation key",'wp-job-portal')); ?>.
-                                        </div>
-
                                         <?php
                                         $error_message = '';
                                         $transactionkey = '';
@@ -92,7 +82,7 @@ delete_option( 'wpjobportal_addon_install_data' );
 
                                         ?>
                                         <div class="wpjobportal-addon-installer-right-key-field" >
-                                            <input type="text" name="transactionkey" id="transactionkey" class="wpjobportal_key_field" value="<?php echo esc_attr($transactionkey);?>" placeholder="<?php echo esc_html(__('Activation key','wp-job-portal')); ?>"/>
+                                            <input type="text" name="transactionkey" id="transactionkey" class="wpjobportal_key_field" value="<?php echo esc_attr($transactionkey);?>"/>
                                             <?php if($error_message != '' ){ ?>
                                                 <div class="wpjobportal-addon-installer-right-key-field-message" > <img alt="image" src="<?php echo esc_url(WPJOBPORTAL_PLUGIN_URL); ?>includes/images/icon.png" /> <?php echo esc_html($error_message) ;?></div>
                                             <?php } ?>
@@ -100,6 +90,11 @@ delete_option( 'wpjobportal_addon_install_data' );
                                         <div class="wpjobportal-addon-installer-right-key-button" >
                                             <button type="submit" class="wpjobportal_btn" role="submit" onclick="jsShowLoading();"><?php echo esc_html(__("Proceed",'wp-job-portal')); ?></button>
                                         </div>
+                                    </div>
+                                    <div class="wpjobportal-addon-installer-right-description" >
+                                        <a class="wpjobportal-addon-installer-install-btn" href="?page=wpjobportal_premiumplugin&wpjobportallt=addonfeatures" class="wpjobportal-addon-installer-addon-list-link" target="_blank" >
+                                            <?php echo esc_html(__("Add on list",'wp-job-portal')); ?>
+                                        </a>
                                     </div>
                                 </div>
                             </form>
@@ -128,4 +123,3 @@ delete_option( 'wpjobportal_addon_install_data' );
     ";
     wp_add_inline_script( 'wpjobportal-inline-handle', $inline_js_script );
 ?>
-

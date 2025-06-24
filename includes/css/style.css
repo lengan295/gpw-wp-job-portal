@@ -1016,7 +1016,7 @@ div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-fo
 div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-val .wpjobportal-input-list-wpjobportal li.wpjobportal-input-token-wpjobportal span {margin-left: 10px;}
 div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-val .wpjobportal-input-list-wpjobportal li input[type="text"] {height: auto;margin: 0;}
 div.wjportal-search-mod form.wjportal-form div.wjportal-form-btn-row {float: left;width: 100%;}
-div.wjportal-search-mod form.wjportal-form div.wjportal-form-btn-row .wjportal-form-btn {float: left;padding: 10px;text-align: center;width: calc(50% - 3px);}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-btn-row .wjportal-form-btn {float: left;padding: 7px;text-align: center;width: calc(50% - 3px);}
 div.wjportal-search-mod form.wjportal-form div.wjportal-form-btn-row .wjportal-form-srch-btn {margin-right: 3px;}
 div.wjportal-search-mod form.wjportal-form div.wjportal-form-btn-row .wjportal-form-adv-srch-btn {margin-left: 3px;}
 
@@ -1255,3 +1255,497 @@ div.wjportal-form-wrp div.wjportal-form-row .wjportal-form-value.wjportal-job-ap
 
 div.wjportal-resume-list div.wjportal-resume-list-btm-wrp div.wjportal-resume-action-wrp .wjportal-resume-act-btn.wjportal-resume-act-btn-ai-suggested-jobs{float: right;text-decoration: none;}
 div.wjportal-jobs-list div.wjportal-jobs-list-btm-wrp div.wjportal-jobs-action-wrp a.wjportal-jobs-act-btn.wjportal-jobs-act-btn-ai-suggested-resumes{float: right;text-decoration: none;}
+
+/* job widget css  */
+.wjportal-form-horizontal .wjportal-form-row {
+    display: inline-block;
+    vertical-align: top;
+}
+.wjportal-form-responsive {
+    display: flex;
+    flex-wrap: wrap;
+}
+.wjportal-form-btn-row {
+    text-align: center;
+}
+.wjportal-form-btn i {
+    font-size: 16px;
+}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-btn-row button {float: left;padding: 7px;text-align: center;width: calc(50% - 3px);}
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-row div.wjportal-form-val{
+	padding-right: 5px;
+}
+
+
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-btn-row .wjportal-form-tit{
+	margin-bottom: 7px;
+}
+
+/* new job listing widget  */
+.wpjobportal-job-widget-multi-style-wrapper {
+    display: inline-block;
+    width: 100%;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper.wpjobportal-cols-1 .wpjobportal-job-box { width: 100%; }
+.wpjobportal-job-widget-multi-style-wrapper.wpjobportal-cols-2 .wpjobportal-job-box { width: calc(50% - 20px); margin: 10px;padding: 15px 0;}
+.wpjobportal-job-widget-multi-style-wrapper.wpjobportal-cols-3 .wpjobportal-job-box { width: calc(33.3% - 20px); margin: 10px;padding: 15px 0;}
+.wpjobportal-job-widget-multi-style-wrapper.wpjobportal-cols-4 .wpjobportal-job-box { width: calc(25% - 20px); margin: 10pxpadding: 10px 0}
+
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-row {
+    float: left;
+    width: 100%;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-box {
+    float: left;
+    margin-bottom: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper.wpjobportal-layout-card .wpjobportal-job-box {
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.wpjobportal-job-widget-multi-style-wrapper.wpjobportal-layout-list .wpjobportal-job-box {
+    width: 100%;
+    border-left: 4px solid;
+    
+}
+
+.wpjobportal-job-widget-multi-style-wrapper.wpjobportal-layout-grid .wpjobportal-job-box {
+    background: #f9f9f9;
+}
+
+
+.wpjobportal-job-widget-multi-style-wrapper.wpjobportal-layout-grid .wpjobportal-job-details{
+	width: 100%;
+	text-align: center;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper.wpjobportal-layout-grid .wpjobportal-job-details .wpjobportal-job-meta-col{
+	font-size: 14px;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper.wpjobportal-layout-grid .wpjobportal-job-logo{
+	width: 100%;
+	text-align: center;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper.wpjobportal-layout-grid .wpjobportal-job-logo a,
+.wpjobportal-job-widget-multi-style-wrapper.wpjobportal-layout-grid .wpjobportal-job-logo a img{
+	display: inline-block;
+}
+
+
+
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-logo {
+    float: left;
+    margin-right: 15px;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-logo img {
+    display: block;
+    border-radius: 4px;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-details {
+    overflow: hidden;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-company,
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-location,
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-jobtype,
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-job_category,
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-salary,
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-careerlevel,
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-stoppublishing,
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-posted {
+    margin-top: 4px;
+}
+
+
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 6px;
+    font-size: 14px;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-meta-col > div {
+    margin-top: 4px;
+    font-size: 14px;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-meta-row > div {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-meta-row i,
+.wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-meta-col i {
+    min-width: 16px;
+}
+
+
+
+
+/* resume widget wordpress  */
+.wpjobportal-resume-widget-multi-style-wrapper {
+    display: inline-block;
+    width: 100%;
+}
+
+.wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-row {
+    float: left;
+    width: 100%;
+}
+
+.wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-box {
+    float: left;
+    margin-bottom: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* Layout variations */
+.wpjobportal-resume-widget-multi-style-wrapper.wpjobportal-layout-card .wpjobportal-resume-box {
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.wpjobportal-resume-widget-multi-style-wrapper.wpjobportal-layout-list .wpjobportal-resume-box {
+    width: 100%;
+    border-left: 4px solid;
+}
+
+.wpjobportal-resume-widget-multi-style-wrapper.wpjobportal-layout-grid .wpjobportal-resume-box {
+    background: #f9f9f9;
+}
+
+/* Column widths */
+.wpjobportal-resume-widget-multi-style-wrapper.wpjobportal-cols-1 .wpjobportal-resume-box { width: 100%; }
+.wpjobportal-resume-widget-multi-style-wrapper.wpjobportal-cols-2 .wpjobportal-resume-box { width: calc(50% - 20px); margin: 10px ;padding: 15px 0;}
+.wpjobportal-resume-widget-multi-style-wrapper.wpjobportal-cols-3 .wpjobportal-resume-box { width: calc(33.3% - 20px); margin: 10px; padding: 15px 0;}
+.wpjobportal-resume-widget-multi-style-wrapper.wpjobportal-cols-4 .wpjobportal-resume-box { width: calc(25% - 20px); margin: 10px;padding: 15px 0;}
+
+/* Photo */
+.wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-photo {
+    float: left;
+    margin-right: 15px;
+    text-align: center;
+    width: auto;
+}
+
+.wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-photo img {
+    display: block;
+    border-radius: 4px;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Grid adjustments */
+.wpjobportal-resume-widget-multi-style-wrapper.wpjobportal-layout-grid .wpjobportal-resume-details,
+.wpjobportal-resume-widget-multi-style-wrapper.wpjobportal-layout-grid .wpjobportal-resume-photo {
+    width: 100%;
+    text-align: center;
+    float: none;
+}
+
+.wpjobportal-resume-widget-multi-style-wrapper.wpjobportal-layout-grid .wpjobportal-resume-photo a,
+.wpjobportal-resume-widget-multi-style-wrapper.wpjobportal-layout-grid .wpjobportal-resume-photo a img {
+    display: inline-block;
+}
+
+/* Details */
+.wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-details {
+    overflow: hidden;
+}
+
+.wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-name {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-title {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+/* Meta */
+.wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 6px;
+    font-size: 14px;
+}
+
+.wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-meta-col > div {
+    margin-top: 4px;
+}
+
+.wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-meta-row > div {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-meta-row i,
+.wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-meta-col i {
+    
+    min-width: 16px;
+}
+
+
+/* company widget  */
+/* Main wrapper */
+.wpjobportal-companies-widget-wrapper {
+    display: inline-block;
+    width: 100%	;
+}
+
+/* Module heading */
+.wpjobportal-companies-widget-wrapper .wjportal-mod-heading {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #0073aa;
+}
+
+/* Grid layout columns */
+.wpjobportal-companies-grid-wrapper.wpjobportal-cols-1 .wpjobportal-company-box { width: 100%; }
+.wpjobportal-companies-grid-wrapper.wpjobportal-cols-2 .wpjobportal-company-box { width: calc(50% - 20px); margin: 10px ;padding: 15px 0;}
+.wpjobportal-companies-grid-wrapper.wpjobportal-cols-3 .wpjobportal-company-box { width: calc(33.3% - 20px); margin: 10px;padding: 15px 0;}
+.wpjobportal-companies-grid-wrapper.wpjobportal-cols-4 .wpjobportal-company-box { width: calc(25% - 20px); margin: 10px;padding: 15px 0;}
+
+/* Company box - shared styles */
+.wpjobportal-companies-grid-wrapper .wpjobportal-company-box,
+.wpjobportal-companies-list-row {
+    float: left;
+    background: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    transition: all 0.3s ease;
+}
+
+/* Grid layout specific styles */
+.wpjobportal-companies-grid-wrapper .wpjobportal-company-box {
+    text-align: center;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.wpjobportal-companies-grid-wrapper .wpjobportal-company-logo {
+    margin-bottom: 10px;
+}
+
+.wpjobportal-companies-grid-wrapper .wpjobportal-company-logo img {
+    display: inline-block;
+    border-radius: 4px;
+    max-width: 100%;
+    height: auto;
+}
+
+.wpjobportal-companies-grid-wrapper .wpjobportal-company-title {
+    margin-bottom: 10px;
+}
+
+.wpjobportal-companies-grid-wrapper .wpjobportal-company-title a {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.wpjobportal-companies-grid-wrapper .wpjobportal-company-details {
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+/* List layout specific styles */
+
+
+.wpjobportal-companies-list-row {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 15px;
+  flex-wrap:wrap;
+}
+
+.wpjobportal-companies-list-col-logo {
+    flex: 0 0 auto;
+    padding-right: 15px;
+}
+
+.wpjobportal-companies-list-col-logo img {
+    display: block;
+    border-radius: 4px;
+    max-width: 100%;
+    height: auto;
+}
+
+.wpjobportal-companies-list-col-title {
+    flex: 2 0 0;
+    padding-right: 15px;
+}
+
+.wpjobportal-companies-list-col-title a {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.wpjobportal-companies-list-col-category,
+.wpjobportal-companies-list-col-location,
+.wpjobportal-companies-list-col-posted {
+    flex: 1 0 0;
+    padding-right: 15px;
+    font-size: 14px;
+}
+
+/* Field styles - shared between layouts */
+
+.wpjobportal-companies-list-row .wpjobportal-company-field{
+	margin-left: 15px;
+	font-size: 14px;
+}
+
+.wpjobportal-company-field {
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+
+/* Icons */
+.wpjobportal-company-field i {
+    min-width: 16px;
+}
+
+
+/* Hover effects */
+.wpjobportal-companies-grid-wrapper .wpjobportal-company-box:hover,
+.wpjobportal-companies-list-row:hover {
+    border-color: #0073aa;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
+}
+.wpjobportal-companies-widget-company-row{
+	display: inline-block;
+	width: 100%;
+}
+
+div.wjportal-search-mod form.wjportal-form div.wjportal-form-btn-row.wpjobportal-search-btn-full-width button {width: 100%;}
+
+#wpjobportal-input-city{
+	background: none !important;
+	border: none !important;
+}
+
+/* widget carosel  */
+.wpjobportal-slick-nav-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+    position: relative; /* Add this */
+}
+
+.wpjobportal-slick-nav-wrapper .slick-prev,
+.wpjobportal-slick-nav-wrapper .slick-next {
+    position: static;
+    transform: none; /* Remove any transforms */
+    width: auto; /* Allow buttons to size naturally */
+    height: auto; /* Allow buttons to size naturally */
+}
+
+.wpjobportal-slick-nav-wrapper .slick-dots {
+    display: flex !important;
+    align-items: center; /* Vertically center dots */
+    gap: 10px; /* Replace margin with gap for consistent spacing */
+    padding: 0;
+    margin: 0; /* Remove default margins */
+    list-style: none;
+    height: 100%; /* Take full height of wrapper */
+}
+
+.wpjobportal-slick-nav-wrapper .slick-dots li {
+    margin: 0; /* Remove individual margins */
+    display: flex;
+    align-items: center;
+}
+
+.wpjobportal-slick-nav-wrapper .slick-dots button {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #ccc;
+    border: none;
+    cursor: pointer;
+    text-indent: -9999px; /* Hide text */
+    overflow: hidden;
+    padding: 0; /* Remove padding */
+}
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+    .wpjobportal-companies-grid-wrapper .wpjobportal-company-box,
+    .wpjobportal-companies-list-header,
+    .wpjobportal-companies-list-row {
+        width: 100% !important;
+        margin: 10px 0 !important;
+    }
+
+    .wpjobportal-companies-list-header {
+        display: none;
+    }
+
+    .wpjobportal-companies-list-row {
+        flex-wrap: wrap;
+        padding: 15px;
+    }
+
+    .wpjobportal-companies-list-col-logo {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+        padding-right: 0;
+    }
+
+    .wpjobportal-companies-list-col-title,
+    .wpjobportal-companies-list-col-category,
+    .wpjobportal-companies-list-col-location,
+    .wpjobportal-companies-list-col-posted {
+        flex: 1 0 100%;
+        padding: 5px 0;
+    }
+
+    .wpjobportal-resume-widget-multi-style-wrapper .wpjobportal-resume-box {
+        width: 100% !important;
+        margin: 10px 0;
+    }
+
+    .wpjobportal-job-widget-multi-style-wrapper .wpjobportal-job-box {
+        width: 100% !important;
+        margin: 10px 0;
+    }
+}
+

@@ -160,6 +160,18 @@ class WPJOBPORTALPostinstallationModel {
             if($config->configname == 'default_pageid'){
                 $config_array['default_pageid']=$config->configvalue;
             }
+            if($config->configname == 'allow_search_resume'){
+                $config_array['allow_search_resume']=$config->configvalue;
+            }
+            if($config->configname == 'defaultaddressdisplaytype'){
+                $config_array['defaultaddressdisplaytype']=$config->configvalue;
+            }
+            if($config->configname == 'quick_apply_for_user'){
+                $config_array['quick_apply_for_user']=$config->configvalue;
+            }
+            if($config->configname == 'quick_apply_for_visitor'){
+                $config_array['quick_apply_for_visitor']=$config->configvalue;
+            }
         }
         wpjobportal::$_data[0] = $config_array;
 
@@ -2057,13 +2069,13 @@ class WPJOBPORTALPostinstallationModel {
 
     function addMissingUsers(){
         // wpuid column does not esist in the table. it was showing a query error in log
-        $missingUser = 0;
-        $query = "SELECT id FROM `" . wpjobportal::$_db->prefix . "users`";
+        $missingUser2 = 0;
+        $query = "SELECT ID FROM `" . wpjobportal::$_db->prefix . "users`";
         $users = wpjobportal::$_db->get_results($query);
         $wpUsers = array();
         $jsstUsers = array();
         foreach ($users as $key => $user) {
-            $wpUsers[] = $user->id;
+            $wpUsers[] = $user->ID;
         }
         $query = " SELECT uid AS wpuid FROM `" . wpjobportal::$_db->prefix . "wj_portal_users`";
         $users = wpjobportal::$_db->get_results($query);
@@ -2090,11 +2102,11 @@ class WPJOBPORTALPostinstallationModel {
                     $data = wpjobportal::wpjobportal_sanitizeData($data);
                     $row->bind($data);
                     $row->store();
-                    $missingUser = 1;
+                    $missingUser2 = 1;
                 }
             }
         }
-        if ($missingUser == 1) {
+        if ($missingUser2 == 1) {
             //JSSTmessage::setMessage(esc_html(__('Missing user(s) added successfully!', 'wp-job-portal')), 'updated');
         } else {
             //JSSTmessage::setMessage(esc_html(__('No missing user found!', 'wp-job-portal')), 'error');

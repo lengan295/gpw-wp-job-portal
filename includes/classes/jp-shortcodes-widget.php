@@ -17,7 +17,7 @@ class JP_Shortcodes_Wigdet extends \Elementor\Widget_Base {
 	}
 
 	public function get_categories(){
-		 return ['job-portal-category']; // Moves the widget to the "General" category
+		 return ['job-portal-category']; // Moves the widget to the "Job Portal" category
 	}
 
 	// search results triggers

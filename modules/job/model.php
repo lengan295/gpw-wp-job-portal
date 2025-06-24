@@ -225,25 +225,26 @@ class WPJOBPORTALjobModel {
             return '';
         $col = '';
         if ($typeofjobs == 1) { // newest jobs
-            $inquery = " WHERE job.status = 1 AND DATE(job.startpublishing) <= CURDATE() AND DATE(job.stoppublishing) >= CURDATE() ORDER BY job.created DESC LIMIT " . esc_sql($noofjobs);
+            $inquery = " WHERE job.status = 1  AND DATE(job.stoppublishing) >= CURDATE() ORDER BY job.created DESC LIMIT " . esc_sql($noofjobs);
         } elseif ($typeofjobs == 2) { //top jobs
-            $inquery = " WHERE job.status = 1 AND DATE(job.startpublishing) <= CURDATE() AND DATE(job.stoppublishing) >= CURDATE() ORDER BY job.hits DESC LIMIT " . esc_sql($noofjobs);
+            $inquery = " WHERE job.status = 1  AND DATE(job.stoppublishing) >= CURDATE() ORDER BY job.hits DESC LIMIT " . esc_sql($noofjobs);
         } elseif ($typeofjobs == 3) { // hot jobs
             $col = ' COUNT(ja.jobid) as totalapply , ';
-            $inquery = " JOIN `" . wpjobportal::$_db->prefix . "wj_portal_jobapply` AS ja ON ja.jobid = job.id WHERE job.status = 1 AND job.startpublishing <= CURDATE() AND job.stoppublishing >= CURDATE() GROUP BY ja.jobid ORDER BY totalapply DESC LIMIT " . esc_sql($noofjobs);
+            $inquery = " JOIN `" . wpjobportal::$_db->prefix . "wj_portal_jobapply` AS ja ON ja.jobid = job.id WHERE job.status = 1 AND job.stoppublishing >= CURDATE() GROUP BY ja.jobid ORDER BY totalapply DESC LIMIT " . esc_sql($noofjobs);
         }  elseif ($typeofjobs == 5) { // featured jobs
-            $inquery = " WHERE job.status = 1 AND DATE(job.endfeatureddate) > CURDATE() AND job.isfeaturedjob = 1 AND job.startpublishing <= CURDATE() AND job.stoppublishing >= CURDATE() ORDER BY job.created DESC LIMIT " . esc_sql($noofjobs);
+            $inquery = " WHERE job.status = 1 AND DATE(job.endfeatureddate) >= CURDATE() AND job.isfeaturedjob = 1 AND job.stoppublishing >= CURDATE() ORDER BY job.created DESC LIMIT " . esc_sql($noofjobs);
         } else {
             return '';
         }
-        $query = "SELECT $col job.id AS jobid,job.title,job.created,job.city,CONCAT(job.alias,'-',job.id) AS jobaliasid,job.currency,
+        $query = "SELECT $col job.id AS jobid,job.title,job.created,job.city,CONCAT(job.alias,'-',job.id) AS jobaliasid,job.currency, job.stoppublishing,
                  cat.cat_title,company.id AS companyid,company.name AS companyname,company.logofilename, CONCAT(company.alias,'-',company.id) AS companyaliasid,
-                 jobtype.title AS jobtypetitle,job.salarymax,job.salarymin,job.salarytype,salarytype.title AS srangetypetitle
+                 jobtype.color AS jobtypecolor, jobtype.title AS jobtypetitle,job.salarymax,job.salarymin,job.salarytype,salarytype.title AS srangetypetitle, careerlevel.title AS careerleveltitle
                  FROM `" . wpjobportal::$_db->prefix . "wj_portal_jobs` AS job
                  ".wpjobportal::$_company_job_table_join." JOIN `" . wpjobportal::$_db->prefix . "wj_portal_companies` AS company ON company.id = job.companyid
                  LEFT JOIN `" . wpjobportal::$_db->prefix . "wj_portal_salaryrangetypes` AS salarytype ON salarytype.id = job.salaryduration
                  LEFT JOIN `" . wpjobportal::$_db->prefix . "wj_portal_categories` AS cat ON cat.id = job.jobcategory
-                 LEFT JOIN `" . wpjobportal::$_db->prefix . "wj_portal_jobtypes` AS jobtype ON jobtype.id = job.jobtype";
+                 LEFT JOIN `" . wpjobportal::$_db->prefix . "wj_portal_jobtypes` AS jobtype ON jobtype.id = job.jobtype
+                 LEFT JOIN `" . wpjobportal::$_db->prefix . "wj_portal_careerlevels` AS careerlevel ON careerlevel.id = job.careerlevel ";
         $query .= $inquery;
         $results = wpjobportaldb::get_results($query);
         foreach ($results AS $d) {

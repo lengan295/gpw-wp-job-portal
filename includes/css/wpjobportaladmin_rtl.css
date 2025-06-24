@@ -271,9 +271,14 @@ div.wpjobportal-email-menu {float: right;}
 div.wpjobportal-post-installation div.wpjobportal-post-menu {float: right;}
 div.wpjobportal-post-installation div.wpjobportal-post-menu ul li a img {margin-right: 0;margin-left: 10px;}
 div.wpjobportal-post-installation-wrp div#wpjobportal-head {padding-left: 25px;padding-right: 26.5%;}
-div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-tit {float: right;}
+div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-tit {float: right;text-align: left;padding: 10px 10px 10px 40px;}
 div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-val select {background-position: calc(100% - 98.5%);}
 div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-action-btn {text-align: left;}
+div.wpjobportal-post-installation div.wpjobportal-post-menu ul li.active a .wpjobportal-post-installation-white-arrowicon{transform: scaleX(-1);}
+div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-val input[type="text"], div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-val input[type="password"]{float: right;}
+div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-val select{float: right;}
+div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-val .wpjobportal-post-smpledata-infowrp{float: right;}
+div.wpjobportal-post-installation div.wpjobportal-post-data form div.wpjobportal-post-data-row div.wpjobportal-post-val .wpjobportal-post-smpledata-infowrp img{margin-right: 0;margin-left: 10px;}
 
 /* job applied resume */
 form.wpjobportal-adv-srch-filter-form input.wpjobportal-form-input-field {float: right;}
@@ -318,6 +323,16 @@ div.wpjobportal-update-alert-wrp a.wpjobportal-update-alert-btn {float: left;}
 div.wpjobportal-ai-search-data-synchronize-section .wpjobportal-ai-search-data-synchronize-button-wrp a{float: left;}
 div.wpjobportal-ai-search-data-synchronize-section .wpjobportal-ai-search-data-synchronize-button-wrp a img{margin-right: 0;margin-left: 5px;}
 
+/* installer */
+div.wpjobportal-addon-installer-wrapper div.wpjobportal-addon-installer-right-section-wrap .wpjobportal-addon-installer-right-addon-bottom .wpjobportal-addon-installer-right-addon-checkall-checkbox{margin-right: 0;margin-left: 10px;}
+div.wpjobportal-addon-installer-wrapper div.wpjobportal-addon-installer-right-section-wrap div.wpjobportal-addon-installer-right-addon-wrapper div.wpjobportal-addon-installer-right-addon-single .wpjobportal-addon-installer-right-addon-single-checkbox{margin-right: 0;margin-left: 10px;}
+
+/* overview */
+div#wpjobportal-admin-wrapper .wpjobportal-overview-configuration-card .wpjobportal-overview-configuration-cardbtn-wrp a.wpjobportal-overview-configuration-crdvideobtn img{padding-right: 0;padding-left: 10px;}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-addonupdate-card .wpjobportal-overview-addonupdate-card-rghtsec a img{transform: scaleX(-1);}
+div#wpjobportal-admin-wrapper .wpjobportal-overview-config-detail-secwrp .wpjobportal-overview-config-detail-leftclm .wpjobportal-overview-config-detail-innerwrp .wpjobportal-overview-config-tpsect .wpjobportal-overview-config-tpsect-btnwrp a.wpjobportal-overview-config-tpsect-videobtn img{padding-right: 0;padding-left: 10px;}
+div#wpjobportal-admin-wrapper .wp-jobportal-config-slider .wp-jobportal-switch-text.wpjobportal-congin-disabled{justify-content: flex-start;}
+div#wpjobportal-admin-wrapper .wp-jobportal-config-slider .wp-jobportal-switch-text.wpjobportal-congin-enabled{text-align: left;width: 100%;}
 
 /* responsive */
 @media (max-width: 782px) {
