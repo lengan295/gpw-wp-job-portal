@@ -8177,7 +8177,7 @@ msgid "Please Accept Terms And Conditions So You Can Proceed"
 msgstr "Vui lòng chấp nhận Điều khoản và Điều kiện để bạn có thể tiếp tục"
 
 msgid "Lost your password"
-msgstr "Quên mật khẩu của bạn"
+msgstr "Quên mật khẩu"
 
 msgid "Activated"
 msgstr "Đã kích hoạt"
